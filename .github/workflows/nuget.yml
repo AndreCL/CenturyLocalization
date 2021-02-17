@@ -13,7 +13,7 @@ jobs:
       with:
         dotnet-version: 5.0.100
     - name: dotnet pack
-      run: dotnet pack ./CenturyLocalization --configuration Release /p:Version=${{ github.event.release.tag_name }} /p:PackageReleaseNotes="See https://github.com/AndreCL/CenturyLocalization/releases/tag/${{ github.event.release.tag_name }}"   
+      run: dotnet pack CenturyLocalization/CenturyLocalization/CenturyLocalization.csproj --configuration Release /p:Version=${{ github.event.release.tag_name }} /p:PackageReleaseNotes="See https://github.com/AndreCL/CenturyLocalization/releases/tag/${{ github.event.release.tag_name }}"   
     - name: archive nuget
       uses: actions/upload-artifact@v1
       with:
