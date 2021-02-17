@@ -1,4 +1,4 @@
-name: Nuget
+name: Unit tests
 
 on:
   push:
@@ -29,7 +29,3 @@ jobs:
       run: dotnet build --no-restore
     - name: Test
       run: dotnet test --no-build --verbosity normal
-    - name: Build with dotnet
-      run: dotnet pack ./CenturyLocalization --output Packages
-    - name: Push to Nuget
-      run: dotnet nuget push Packages/ -s nuget.org -k ${{ secrets.NUGET_API_KEY }}
