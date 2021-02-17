@@ -1,0 +1,23 @@
+name: Nuget
+
+on:
+  release:
+    types: [published]
+jobs:
+  deployment:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: setup dotnet
+      uses: actions/setup-dotnet@v1
+      with:
+        dotnet-version: 5.0.100
+    - name: dotnet pack
+      run: dotnet pack ./CenturyLocalization --configuration Release /p:Version=${{ github.event.release.tag_name }} /p:PackageReleaseNotes="See https://github.com/AndreCL/CenturyLocalization/releases/tag/${{ github.event.release.tag_name }}"   
+    - name: archive nuget
+      uses: actions/upload-artifact@v1
+      with:
+        name: CenturyLocalization
+        path: CenturyLocalization/bin/Release/CenturyLocalization.${{ github.event.release.tag_name }}.nupkg
+    - name: publish nuget
+      run: dotnet nuget push **/*.nupkg --api-key ${{ secrets.NUGET_API_KEY }} --source https://api.nuget.org/v3/index.json --no-symbols true
