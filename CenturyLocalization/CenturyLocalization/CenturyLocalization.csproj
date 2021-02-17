@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <Authors>AndreCL</Authors>
+    <Company>Luanca</Company>
+    <Description>Localization library for use in Century and other projects.</Description>
+    <PackageProjectUrl></PackageProjectUrl>
+    <RepositoryUrl>https://github.com/AndreCL/CenturyLocalization</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
