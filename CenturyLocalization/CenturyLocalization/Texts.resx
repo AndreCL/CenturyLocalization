@@ -129,4 +129,8 @@
     <value>Ok</value>
     <comment>Used for unit tests</comment>
   </data>
+  <data name="gameName" xml:space="preserve">
+    <value>Century</value>
+    <comment>Name of the game</comment>
+  </data>
 </root>

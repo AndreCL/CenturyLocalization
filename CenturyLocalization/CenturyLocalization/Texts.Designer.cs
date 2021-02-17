@@ -70,6 +70,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Century.
+        /// </summary>
+        internal static string gameName {
+            get {
+                return ResourceManager.GetString("gameName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Ok.
         /// </summary>
         internal static string unittest_both {
