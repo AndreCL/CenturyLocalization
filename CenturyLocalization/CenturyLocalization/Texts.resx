@@ -123,6 +123,7 @@
   </data>
   <data name="unittest_both" xml:space="preserve">
     <value>Ok</value>
+    <comment>Used for unit tests</comment>
   </data>
   <data name="unittest_onlyen" xml:space="preserve">
     <value>Ok</value>

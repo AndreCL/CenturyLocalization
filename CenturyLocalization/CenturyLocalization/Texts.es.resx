@@ -123,9 +123,10 @@
   </data>
   <data name="unittest_both" xml:space="preserve">
     <value>Ok_spa</value>
+    <comment>Used for unit tests</comment>
   </data>
   <data name="unittest_onlyen" xml:space="preserve">
-    <value>Ok_spa</value>
+    <value />
     <comment>Used for unit tests</comment>
   </data>
 </root>
