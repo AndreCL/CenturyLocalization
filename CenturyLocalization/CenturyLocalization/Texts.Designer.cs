@@ -59,5 +59,32 @@ namespace CenturyLocalization {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to String not found.
+        /// </summary>
+        internal static string error_string_not_found {
+            get {
+                return ResourceManager.GetString("error_string_not_found", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ok.
+        /// </summary>
+        internal static string unittest_both {
+            get {
+                return ResourceManager.GetString("unittest_both", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ok.
+        /// </summary>
+        internal static string unittest_onlyen {
+            get {
+                return ResourceManager.GetString("unittest_onlyen", resourceCulture);
+            }
+        }
     }
 }

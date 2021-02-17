@@ -118,14 +118,14 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="error_string_not_found" xml:space="preserve">
-    <value>String not found</value>
+    <value>Frase no encontrada</value>
     <comment>Used when a string is not found</comment>
   </data>
   <data name="unittest_both" xml:space="preserve">
-    <value>Ok</value>
+    <value>Ok_spa</value>
   </data>
   <data name="unittest_onlyen" xml:space="preserve">
-    <value>Ok</value>
+    <value>Ok_spa</value>
     <comment>Used for unit tests</comment>
   </data>
 </root>
