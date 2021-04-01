@@ -365,4 +365,34 @@
   <data name="third" xml:space="preserve">
     <value>3ro:</value>
   </data>
+  <data name="attackers" xml:space="preserve">
+    <value>Atacantes:</value>
+  </data>
+  <data name="defenders" xml:space="preserve">
+    <value>Defensores:</value>
+  </data>
+  <data name="attacker" xml:space="preserve">
+    <value>Atacante:</value>
+  </data>
+  <data name="defender" xml:space="preserve">
+    <value>Defensor:</value>
+  </data>
+  <data name="attacker_victory" xml:space="preserve">
+    <value>Atacante victorioso</value>
+  </data>
+  <data name="tie" xml:space="preserve">
+    <value>Empate</value>
+  </data>
+  <data name="defender_victory" xml:space="preserve">
+    <value>Defensor victorioso</value>
+  </data>
+  <data name="military_loses" xml:space="preserve">
+    <value>Perdidas militares:</value>
+  </data>
+  <data name="civilian_loses" xml:space="preserve">
+    <value>Perdidas civiles:</value>
+  </data>
+  <data name="equipment_loses" xml:space="preserve">
+    <value>Perdidas de equipos:</value>
+  </data>
 </root>

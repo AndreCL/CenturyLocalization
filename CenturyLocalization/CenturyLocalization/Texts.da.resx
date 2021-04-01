@@ -361,4 +361,34 @@
   <data name="close" xml:space="preserve">
     <value>Luk</value>
   </data>
+  <data name="attackers" xml:space="preserve">
+    <value>Angribere:</value>
+  </data>
+  <data name="defenders" xml:space="preserve">
+    <value>Forsvarere:</value>
+  </data>
+  <data name="attacker" xml:space="preserve">
+    <value>Angriber:</value>
+  </data>
+  <data name="defender" xml:space="preserve">
+    <value>Forsvarer:</value>
+  </data>
+  <data name="attacker_victory" xml:space="preserve">
+    <value>Angriber sejr</value>
+  </data>
+  <data name="tie" xml:space="preserve">
+    <value>Uafgjort</value>
+  </data>
+  <data name="defender_victory" xml:space="preserve">
+    <value>Forsvarer sejr</value>
+  </data>
+  <data name="military_loses" xml:space="preserve">
+    <value>Militær tab:</value>
+  </data>
+  <data name="civilian_loses" xml:space="preserve">
+    <value>Civile tab:</value>
+  </data>
+  <data name="equipment_loses" xml:space="preserve">
+    <value>Udstyr tab:</value>
+  </data>
 </root>

@@ -142,6 +142,33 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Attacker:.
+        /// </summary>
+        internal static string attacker {
+            get {
+                return ResourceManager.GetString("attacker", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Attacker victory.
+        /// </summary>
+        internal static string attacker_victory {
+            get {
+                return ResourceManager.GetString("attacker_victory", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Attackers:.
+        /// </summary>
+        internal static string attackers {
+            get {
+                return ResourceManager.GetString("attackers", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Bombers:.
         /// </summary>
         internal static string bombers {
@@ -156,6 +183,15 @@ namespace CenturyLocalization {
         internal static string changelog {
             get {
                 return ResourceManager.GetString("changelog", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Civilian loses:.
+        /// </summary>
+        internal static string civilian_loses {
+            get {
+                return ResourceManager.GetString("civilian_loses", resourceCulture);
             }
         }
         
@@ -210,6 +246,33 @@ namespace CenturyLocalization {
         internal static string declarewar {
             get {
                 return ResourceManager.GetString("declarewar", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Defender:.
+        /// </summary>
+        internal static string defender {
+            get {
+                return ResourceManager.GetString("defender", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Defender victory.
+        /// </summary>
+        internal static string defender_victory {
+            get {
+                return ResourceManager.GetString("defender_victory", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Defenders:.
+        /// </summary>
+        internal static string defenders {
+            get {
+                return ResourceManager.GetString("defenders", resourceCulture);
             }
         }
         
@@ -291,6 +354,15 @@ namespace CenturyLocalization {
         internal static string endgametitle {
             get {
                 return ResourceManager.GetString("endgametitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Equipment loses:.
+        /// </summary>
+        internal static string equipment_loses {
+            get {
+                return ResourceManager.GetString("equipment_loses", resourceCulture);
             }
         }
         
@@ -457,6 +529,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string infrastructure_decrease {
+            get {
+                return ResourceManager.GetString("infrastructure_decrease", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Select a country.
         /// </summary>
         internal static string Instructions1 {
@@ -529,6 +610,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Military loses:.
+        /// </summary>
+        internal static string military_loses {
+            get {
+                return ResourceManager.GetString("military_loses", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Money:.
         /// </summary>
         internal static string money {
@@ -579,6 +669,15 @@ namespace CenturyLocalization {
         internal static string no {
             get {
                 return ResourceManager.GetString("no", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string no_longer_exists {
+            get {
+                return ResourceManager.GetString("no_longer_exists", resourceCulture);
             }
         }
         
@@ -741,6 +840,15 @@ namespace CenturyLocalization {
         internal static string third {
             get {
                 return ResourceManager.GetString("third", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Tie.
+        /// </summary>
+        internal static string tie {
+            get {
+                return ResourceManager.GetString("tie", resourceCulture);
             }
         }
         

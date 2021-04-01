@@ -370,4 +370,44 @@
   <data name="third" xml:space="preserve">
     <value>3rd:</value>
   </data>
+  <data name="attackers" xml:space="preserve">
+    <value>Attackers:</value>
+    <comment>Plural</comment>
+  </data>
+  <data name="defenders" xml:space="preserve">
+    <value>Defenders:</value>
+    <comment>Plural</comment>
+  </data>
+  <data name="attacker" xml:space="preserve">
+    <value>Attacker:</value>
+    <comment>Singular</comment>
+  </data>
+  <data name="defender" xml:space="preserve">
+    <value>Defender:</value>
+    <comment>Singular</comment>
+  </data>
+  <data name="attacker_victory" xml:space="preserve">
+    <value>Attacker victory</value>
+  </data>
+  <data name="tie" xml:space="preserve">
+    <value>Tie</value>
+  </data>
+  <data name="defender_victory" xml:space="preserve">
+    <value>Defender victory</value>
+  </data>
+  <data name="no_longer_exists" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="military_loses" xml:space="preserve">
+    <value>Military loses:</value>
+  </data>
+  <data name="civilian_loses" xml:space="preserve">
+    <value>Civilian loses:</value>
+  </data>
+  <data name="equipment_loses" xml:space="preserve">
+    <value>Equipment loses:</value>
+  </data>
+  <data name="infrastructure_decrease" xml:space="preserve">
+    <value></value>
+  </data>
 </root>
