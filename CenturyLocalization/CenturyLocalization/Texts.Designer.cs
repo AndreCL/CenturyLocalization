@@ -547,7 +547,7 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to Invest.
         /// </summary>
         internal static string invest {
             get {

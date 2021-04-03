@@ -395,4 +395,7 @@
   <data name="equipment_loses" xml:space="preserve">
     <value>Perdidas de equipos:</value>
   </data>
+  <data name="invest" xml:space="preserve">
+    <value>Invertir</value>
+  </data>
 </root>

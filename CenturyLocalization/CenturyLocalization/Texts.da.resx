@@ -391,4 +391,7 @@
   <data name="equipment_loses" xml:space="preserve">
     <value>Udstyr tab:</value>
   </data>
+  <data name="invest" xml:space="preserve">
+    <value>Investere</value>
+  </data>
 </root>
