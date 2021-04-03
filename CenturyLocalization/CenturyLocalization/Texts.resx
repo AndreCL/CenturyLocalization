@@ -410,4 +410,7 @@
   <data name="infrastructure_decrease" xml:space="preserve">
     <value></value>
   </data>
+  <data name="invest" xml:space="preserve">
+    <value></value>
+  </data>
 </root>

@@ -547,6 +547,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string invest {
+            get {
+                return ResourceManager.GetString("invest", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Large ships:.
         /// </summary>
         internal static string largeships {
