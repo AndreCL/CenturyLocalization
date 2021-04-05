@@ -403,6 +403,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Join Facebook group.
+        /// </summary>
+        internal static string facebookjoin {
+            get {
+                return ResourceManager.GetString("facebookjoin", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to factories.
         /// </summary>
         internal static string factories {

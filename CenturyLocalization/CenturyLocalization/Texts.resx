@@ -413,4 +413,7 @@
   <data name="invest" xml:space="preserve">
     <value>Invest</value>
   </data>
+  <data name="facebookjoin" xml:space="preserve">
+    <value>Join Facebook group</value>
+  </data>
 </root>

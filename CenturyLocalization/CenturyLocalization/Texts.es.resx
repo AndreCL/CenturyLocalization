@@ -398,4 +398,7 @@
   <data name="invest" xml:space="preserve">
     <value>Invertir</value>
   </data>
+  <data name="facebookjoin" xml:space="preserve">
+    <value>Abrir grupo de facebook</value>
+  </data>
 </root>
