@@ -401,4 +401,10 @@
   <data name="facebookjoin" xml:space="preserve">
     <value>Abrir grupo de facebook</value>
   </data>
+  <data name="no_longer_exists" xml:space="preserve">
+    <value>País seleccionado y ano existe</value>
+  </data>
+  <data name="infrastructure_decrease" xml:space="preserve">
+    <value>Perdida de infraestructura:</value>
+  </data>
 </root>

@@ -396,7 +396,7 @@
     <value>Defender victory</value>
   </data>
   <data name="no_longer_exists" xml:space="preserve">
-    <value></value>
+    <value>Selected country no longer exists</value>
   </data>
   <data name="military_loses" xml:space="preserve">
     <value>Military loses:</value>
@@ -408,7 +408,7 @@
     <value>Equipment loses:</value>
   </data>
   <data name="infrastructure_decrease" xml:space="preserve">
-    <value></value>
+    <value>Infrastructure loss:</value>
   </data>
   <data name="invest" xml:space="preserve">
     <value>Invest</value>
