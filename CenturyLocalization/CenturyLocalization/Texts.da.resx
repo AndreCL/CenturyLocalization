@@ -397,4 +397,10 @@
   <data name="facebookjoin" xml:space="preserve">
     <value>Åbn facebook gruppe</value>
   </data>
+  <data name="no_longer_exists" xml:space="preserve">
+    <value>Valgt land findes ikke længere</value>
+  </data>
+  <data name="infrastructure_decrease" xml:space="preserve">
+    <value>Infrastruktur tab:</value>
+  </data>
 </root>

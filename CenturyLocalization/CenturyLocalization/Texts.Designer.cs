@@ -538,7 +538,7 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to Infrastructure loss:.
         /// </summary>
         internal static string infrastructure_decrease {
             get {
@@ -691,7 +691,7 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to Selected country no longer exists.
         /// </summary>
         internal static string no_longer_exists {
             get {

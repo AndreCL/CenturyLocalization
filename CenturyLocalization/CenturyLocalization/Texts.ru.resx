@@ -150,7 +150,7 @@
     <value>Журнал изминений</value>
   </data>
   <data name="feedback" xml:space="preserve">
-    <value>Отправьте ваш отзыв</value>
+    <value>Написать отзыв</value>
   </data>
   <data name="discord" xml:space="preserve">
     <value>Discord</value>
@@ -162,7 +162,7 @@
     <value>Присоединиться к Дискорд серверу</value>
   </data>
   <data name="getversion" xml:space="preserve">
-    <value>Получение версии</value>
+    <value>Посмотреть версию</value>
   </data>
   <data name="delete" xml:space="preserve">
     <value>Удалить</value>
@@ -309,13 +309,13 @@
     <value>Счёт</value>
   </data>
   <data name="men_to_equipment" xml:space="preserve">
-    <value>Соотношение людей к оснащению: </value>
+    <value>Соотношение солдат к оснащению: </value>
   </data>
   <data name="extra_equipment" xml:space="preserve">
     <value>У вас есть свободное оснащение</value>
   </data>
   <data name="extra_men" xml:space="preserve">
-    <value>У вас есть неоснащённые люди</value>
+    <value>У вас есть неоснащённые солдаты</value>
   </data>
   <data name="army_school" xml:space="preserve">
     <value>Армейская школа</value>
