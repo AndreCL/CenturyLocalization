@@ -364,22 +364,31 @@
   </data>
   <data name="close" xml:space="preserve">
     <value>Закрыть</value>
+  </data>
   <data name="attackers" xml:space="preserve">
     <value>Атакующие</value>
+  </data>
   <data name="defenders" xml:space="preserve">
     <value>Защищающиеся</value>
+  </data>
   <data name="attacker" xml:space="preserve">
     <value>Атакующий</value>
+  </data>
   <data name="defender" xml:space="preserve">
     <value>Защищающийся</value>
+  </data>
   <data name="attacker_victory" xml:space="preserve">
     <value>Победа атакующих</value>
+  </data>
   <data name="tie" xml:space="preserve">
     <value>Ничья</value>
+  </data>
   <data name="defender_victory" xml:space="preserve">
     <value>Победа защищающихся</value>
+  </data>
   <data name="no_longer_exists" xml:space="preserve">
     <value>Выбраной страны больше не существует</value>
+  </data>
   <data name="military_loses" xml:space="preserve">
     <value>Военные потери:</value>
   </data>
