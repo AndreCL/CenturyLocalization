@@ -58,6 +58,10 @@
     value   : The object must be serialized into a byte array 
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
+
+    Last edit: 17.05.21 George
+    
+    Для других переводчиков: просьба писать дату последнего изминения и имя(или ник) переводчика.      
     -->
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -360,5 +364,47 @@
   </data>
   <data name="close" xml:space="preserve">
     <value>Закрыть</value>
+  </data>
+  <data name="attackers" xml:space="preserve">
+    <value>Атакующие</value>
+  </data>
+  <data name="defenders" xml:space="preserve">
+    <value>Защищающиеся</value>
+  </data>
+  <data name="attacker" xml:space="preserve">
+    <value>Атакующий</value>
+  </data>
+  <data name="defender" xml:space="preserve">
+    <value>Защищающийся</value>
+  </data>
+  <data name="attacker_victory" xml:space="preserve">
+    <value>Победа атакующих</value>
+  </data>
+  <data name="tie" xml:space="preserve">
+    <value>Ничья</value>
+  </data>
+  <data name="defender_victory" xml:space="preserve">
+    <value>Победа защищающихся</value>
+  </data>
+  <data name="no_longer_exists" xml:space="preserve">
+    <value>Выбраной страны больше не существует</value>
+  </data>
+  <data name="military_loses" xml:space="preserve">
+    <value>Военные потери:</value>
+  </data>
+  <data name="civilian_loses" xml:space="preserve">
+    <value>Гражданские потреи:</value>
+  </data>
+  <data name="equipment_loses" xml:space="preserve">
+    <value>Потери оснащения:</value>
+  </data>
+  <data name="infrastructure_decrease" xml:space="preserve">
+    <value>Уничтожено инфраструктуры</value>
+  </data>
+  <data name="invest" xml:space="preserve">
+    <value>Инвестировать</value>
+  </data>
+  <data name="facebookjoin" xml:space="preserve">
+    <value>Присоединиться к группе в Фейсбук</value>
   </data>
 </root>
