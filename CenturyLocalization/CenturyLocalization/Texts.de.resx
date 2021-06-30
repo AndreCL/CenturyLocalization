@@ -117,43 +117,38 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="error_string_not_found" xml:space="preserve">
-    <value>Frase no encontrada</value>
-    
-  </data>
   <data name="unittest_both" xml:space="preserve">
-    <value>Ok_es</value>
-    
+    <value>Ok_de</value>
   </data>
   <data name="ApplicationName" xml:space="preserve">
     <value>Century</value>
   </data>
   <data name="yes" xml:space="preserve">
-    <value>Si</value>
+    <value>Ja</value>
   </data>
   <data name="no" xml:space="preserve">
-    <value>No</value>
+    <value>Nein</value>
   </data>
   <data name="close" xml:space="preserve">
-    <value>Cerrar</value>
+    <value>Schließen</value>
   </data>
   <data name="Newgame" xml:space="preserve">
-    <value>Nuevo juego</value>
+    <value>Neues Spiel</value>
   </data>
   <data name="Continuegame" xml:space="preserve">
-    <value>Continuar juego</value>
+    <value>Spiel fortsetzen</value>
   </data>
   <data name="loading" xml:space="preserve">
-    <value>Cargando juego...</value>
+    <value>Läd Gespeichertes...</value>
   </data>
   <data name="sendemail" xml:space="preserve">
-    <value>Mandar correo electrónico</value>
+    <value>E-mail schicken</value>
   </data>
   <data name="changelog" xml:space="preserve">
-    <value>Cambios</value>
+    <value>Changelog</value>
   </data>
   <data name="feedback" xml:space="preserve">
-    <value>Enviar comentario</value>
+    <value>Feedback abgeben</value>
   </data>
   <data name="discord" xml:space="preserve">
     <value>Discord</value>
@@ -162,249 +157,249 @@
     <value>Facebook</value>
   </data>
   <data name="discordjoin" xml:space="preserve">
-    <value>Ingresar a servidor de Discord</value>
+    <value>Discord Server beitreten</value>
   </data>
   <data name="getversion" xml:space="preserve">
-    <value>Cargando versión</value>
+    <value>Version abrufen</value>
   </data>
   <data name="delete" xml:space="preserve">
-    <value>Eliminar</value>
+    <value>Löschen</value>
   </data>
   <data name="warning" xml:space="preserve">
-    <value>Advertencia</value>
+    <value>Warnung</value>
   </data>
   <data name="message_delete_save" xml:space="preserve">
-    <value>¿Seguro que deseas eliminar esta partida?</value>
+    <value>Bist du dir sicher dieses gespeicherte Spiel zu löschen?</value>
   </data>
   <data name="Instructions1" xml:space="preserve">
-    <value>Seleccionar nación</value>
+    <value>Wähle ein Land</value>
   </data>
   <data name="startdate" xml:space="preserve">
-    <value>Fecha de inicio:</value>
+    <value>Start Datum:</value>
   </data>
   <data name="enddate" xml:space="preserve">
-    <value>Fecha de fin:</value>
+    <value>End Datum:</value>
   </data>
   <data name="country" xml:space="preserve">
-    <value>País</value>
+    <value>Land</value>
   </data>
   <data name="rank" xml:space="preserve">
-    <value>Rango</value>
+    <value>Rang</value>
   </data>
   <data name="illiteracy" xml:space="preserve">
-    <value>Analfabetismo:</value>
+    <value>Analphabetismus:</value>
   </data>
   <data name="largestreligion" xml:space="preserve">
-    <value>Religión:</value>
+    <value>Größte Religion:</value>
   </data>
   <data name="largestculture" xml:space="preserve">
-    <value>Cultura:</value>
+    <value>Größte Kultur:</value>
   </data>
   <data name="army" xml:space="preserve">
-    <value>Ejército</value>
+    <value>Armee</value>
   </data>
   <data name="soldiers" xml:space="preserve">
-    <value>Soldados:</value>
+    <value>Soldaten:</value>
   </data>
   <data name="rifles" xml:space="preserve">
-    <value>Rifles:</value>
+    <value>Gewehre:</value>
   </data>
   <data name="tanks" xml:space="preserve">
-    <value>Tanques:</value>
+    <value>Panzer:</value>
   </data>
   <data name="navy" xml:space="preserve">
-    <value>Marina</value>
+    <value>Flotte</value>
   </data>
   <data name="sailors" xml:space="preserve">
-    <value>Marineros:</value>
+    <value>Matrosen:</value>
   </data>
   <data name="smallships" xml:space="preserve">
-    <value>Barcos pequeños:</value>
+    <value>Kleine Schiffe:</value>
   </data>
   <data name="mediumships" xml:space="preserve">
-    <value>Barcos medianos:</value>
+    <value>Mittel große Schiffe:</value>
   </data>
   <data name="largeships" xml:space="preserve">
-    <value>Barcos grandes:</value>
+    <value>Große Schiffe:</value>
   </data>
   <data name="airforce" xml:space="preserve">
-    <value>Fuerza aérea</value>
+    <value>Luftwaffe</value>
   </data>
   <data name="pilots" xml:space="preserve">
-    <value>Pilotos:</value>
+    <value>Piloten:</value>
   </data>
   <data name="fighters" xml:space="preserve">
-    <value>Cazas:</value>
+    <value>Jagdflugzeuge:</value>
   </data>
   <data name="bombers" xml:space="preserve">
-    <value>Bombarderos:</value>
+    <value>Bomber:</value>
   </data>
   <data name="start" xml:space="preserve">
-    <value>Iniciar</value>
+    <value>Start</value>
   </data>
   <data name="declarewar" xml:space="preserve">
-    <value>Declarar guerra</value>
+    <value>Krieg erklären</value>
   </data>
   <data name="poverty" xml:space="preserve">
-    <value>Pobreza:</value>
+    <value>Armut:</value>
   </data>
   <data name="healthcare" xml:space="preserve">
-    <value>Cobertura sanitaria:</value>
+    <value>Gesundheitswesen:</value>
   </data>
   <data name="money" xml:space="preserve">
-    <value>Dinero:</value>
+    <value>Geld:</value>
   </data>
   <data name="population" xml:space="preserve">
-    <value>Población:</value>
+    <value>Bevölkerung:</value>
   </data>
   <data name="area" xml:space="preserve">
-    <value>Area:</value>
+    <value>Gebiet:</value>
   </data>
   <data name="infrastructure" xml:space="preserve">
-    <value>Infraestructura:</value>
+    <value>Infrastruktur:</value>
   </data>
   <data name="infamy" xml:space="preserve">
-    <value>Infamia:</value>
+    <value>Schande:</value>
   </data>
   <data name="independentsince" xml:space="preserve">
-    <value>Fecha de independencia:</value>
+    <value>Unabhängig seit:</value>
   </data>
   <data name="war_level" xml:space="preserve">
-    <value>Nivel de guerra:</value>
+    <value>Kriegsniveau:</value>
   </data>
   <data name="employment" xml:space="preserve">
-    <value>Empleo</value>
+    <value>Eingestellte</value>
   </data>
   <data name="social_class" xml:space="preserve">
-    <value>Clase social</value>
+    <value>Soziale Klasse</value>
   </data>
   <data name="age_groups" xml:space="preserve">
-    <value>Edad</value>
+    <value>Alters Gruppen</value>
   </data>
   <data name="gender" xml:space="preserve">
-    <value>Género</value>
+    <value>Geschlecht</value>
   </data>
   <data name="religion" xml:space="preserve">
-    <value>Religión</value>
+    <value>Religion</value>
   </data>
   <data name="culture" xml:space="preserve">
-    <value>Cultura</value>
+    <value>Kultur</value>
   </data>
   <data name="education" xml:space="preserve">
-    <value>Educación</value>
+    <value>Unterricht</value>
   </data>
   <data name="daily_investment" xml:space="preserve">
-    <value>Inversión diaria:</value>
+    <value>Tägliche Investitionen:</value>
   </data>
   <data name="one_time_investment" xml:space="preserve">
-    <value>Inversión única:</value>
+    <value>Einmalige Investition:</value>
   </data>
   <data name="in_millions_hint" xml:space="preserve">
-    <value>en millones de $</value>
+    <value>in Millionen von $</value>
   </data>
   <data name="filter_wars" xml:space="preserve">
-    <value>Filtrar guerras</value>
+    <value>Kriege filtern</value>
   </data>
   <data name="war" xml:space="preserve">
-    <value>Guerra</value>
+    <value>Krieg</value>
   </data>
   <data name="score" xml:space="preserve">
-    <value>Puntuación</value>
+    <value>Punktzahl</value>
   </data>
   <data name="men_to_equipment" xml:space="preserve">
-    <value>Relación hombres a equipo: </value>
+    <value>Auszurüstende Männer: </value>
   </data>
   <data name="extra_equipment" xml:space="preserve">
-    <value>Tienes equipo extra</value>
+    <value>Du hast überschüssige Ausstattung</value>
   </data>
   <data name="extra_men" xml:space="preserve">
-    <value>Tienes hombres sin equipo</value>
+    <value>Du hast unausgerüstete Männer</value>
   </data>
   <data name="army_school" xml:space="preserve">
-    <value>escuela del ejército</value>
+    <value>Militärschule</value>
   </data>
   <data name="army_schools" xml:space="preserve">
-    <value>escuelas del ejército</value>
+    <value>Militärschulen</value>
   </data>
   <data name="navy_school" xml:space="preserve">
-    <value>escuela naval</value>
+    <value>Marineschule</value>
   </data>
   <data name="navy_schools" xml:space="preserve">
-    <value>escuelas navales</value>
+    <value>Marineschulen</value>
   </data>
   <data name="air_school" xml:space="preserve">
-    <value>escuela de la fuerza aérea</value>
+    <value>Pilotenschule</value>
   </data>
   <data name="air_schools" xml:space="preserve">
-    <value>escuelas de la fuerza aérea</value>
+    <value>Pilotenschulen</value>
   </data>
   <data name="factory" xml:space="preserve">
-    <value>fábrica</value>
+    <value>Fabrik</value>
   </data>
   <data name="factories" xml:space="preserve">
-    <value>fábricas</value>
+    <value>Fabriken</value>
   </data>
   <data name="dock" xml:space="preserve">
-    <value>muelle</value>
+    <value>Hafen</value>
   </data>
   <data name="docks" xml:space="preserve">
-    <value>muelles</value>
+    <value>Häfen</value>
   </data>
   <data name="gameover" xml:space="preserve">
-    <value>Juego terminado</value>
+    <value>Spiel vorbei</value>
   </data>
   <data name="endgametitle" xml:space="preserve">
-    <value>¡Felicidades! Guiaste a tu nación a través de 100 años tumultuosos</value>
+    <value>Glückwunsch! Du hast deine Nation durch harte 100 Jahre geführt</value>
   </data>
   <data name="winner" xml:space="preserve">
-    <value>Ganador:</value>
+    <value>Sieger:</value>
   </data>
   <data name="second" xml:space="preserve">
-    <value>2do:</value>
+    <value>2er:</value>
   </data>
   <data name="third" xml:space="preserve">
-    <value>3ro:</value>
+    <value>3er:</value>
   </data>
   <data name="attackers" xml:space="preserve">
-    <value>Atacantes:</value>
+    <value>Angreifer:</value>
   </data>
   <data name="defenders" xml:space="preserve">
-    <value>Defensores:</value>
+    <value>Verteidiger:</value>
   </data>
   <data name="attacker" xml:space="preserve">
-    <value>Atacante:</value>
+    <value>Angreifer:</value>
   </data>
   <data name="defender" xml:space="preserve">
-    <value>Defensor:</value>
+    <value>Verteidiger:</value>
   </data>
   <data name="attacker_victory" xml:space="preserve">
-    <value>Atacante victorioso</value>
+    <value>Sieg der Angreifer</value>
   </data>
   <data name="tie" xml:space="preserve">
-    <value>Empate</value>
+    <value>Unentschieden</value>
   </data>
   <data name="defender_victory" xml:space="preserve">
-    <value>Defensor victorioso</value>
-  </data>
-  <data name="military_loses" xml:space="preserve">
-    <value>Perdidas militares:</value>
-  </data>
-  <data name="civilian_loses" xml:space="preserve">
-    <value>Perdidas civiles:</value>
-  </data>
-  <data name="equipment_loses" xml:space="preserve">
-    <value>Perdidas de equipos:</value>
-  </data>
-  <data name="invest" xml:space="preserve">
-    <value>Invertir</value>
-  </data>
-  <data name="facebookjoin" xml:space="preserve">
-    <value>Abrir grupo de facebook</value>
+    <value>Sieg der Verteidiger</value>
   </data>
   <data name="no_longer_exists" xml:space="preserve">
-    <value>País seleccionado y ano existe</value>
+    <value>Die ausgewählte Nation existiert nicht mehr</value>
+  </data>
+  <data name="military_loses" xml:space="preserve">
+    <value>Militärische Verluste:</value>
+  </data>
+  <data name="civilian_loses" xml:space="preserve">
+    <value>Zivile Verluste:</value>
+  </data>
+  <data name="equipment_loses" xml:space="preserve">
+    <value>Austrüstungs Verluste:</value>
   </data>
   <data name="infrastructure_decrease" xml:space="preserve">
-    <value>Perdida de infraestructura:</value>
+    <value>Vernichtete Infrastruktur:</value>
+  </data>
+  <data name="invest" xml:space="preserve">
+    <value>Investieren</value>
+  </data>
+  <data name="facebookjoin" xml:space="preserve">
+    <value>Trete der Facebookgruppe bei</value>
   </data>
 </root>
