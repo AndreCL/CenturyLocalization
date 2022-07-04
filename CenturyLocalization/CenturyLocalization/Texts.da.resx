@@ -403,4 +403,7 @@
   <data name="infrastructure_decrease" xml:space="preserve">
     <value>Infrastruktur tab:</value>
   </data>
+  <data name="world_tension" xml:space="preserve">
+    <value>Verdensspænding</value>
+  </data>
 </root>

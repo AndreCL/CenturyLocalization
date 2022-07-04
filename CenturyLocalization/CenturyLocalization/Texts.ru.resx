@@ -407,4 +407,7 @@
   <data name="facebookjoin" xml:space="preserve">
     <value>Присоединиться к группе в Фейсбук</value>
   </data>
+  <data name="world_tension" xml:space="preserve">
+    <value>Мировое напряжение</value>
+  </data>
 </root>

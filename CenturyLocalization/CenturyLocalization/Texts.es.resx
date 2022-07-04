@@ -407,4 +407,7 @@
   <data name="infrastructure_decrease" xml:space="preserve">
     <value>Perdida de infraestructura:</value>
   </data>
+  <data name="world_tension" xml:space="preserve">
+    <value>Tensión mundial</value>
+  </data>
 </root>

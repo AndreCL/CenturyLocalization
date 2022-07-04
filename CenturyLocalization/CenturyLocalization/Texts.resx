@@ -416,4 +416,7 @@
   <data name="facebookjoin" xml:space="preserve">
     <value>Join Facebook group</value>
   </data>
+  <data name="world_tension" xml:space="preserve">
+    <value>World Tension</value>
+  </data>
 </root>

@@ -402,4 +402,7 @@
   <data name="facebookjoin" xml:space="preserve">
     <value>Trete der Facebookgruppe bei</value>
   </data>
+  <data name="world_tension" xml:space="preserve">
+    <value>Weltspannung</value>
+  </data>
 </root>
