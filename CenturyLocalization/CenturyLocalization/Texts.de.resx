@@ -259,13 +259,13 @@
     <value>Infrastruktur:</value>
   </data>
   <data name="infamy" xml:space="preserve">
-    <value>Schande:</value>
+    <value>gesellschaftliche Verrohung:</value>
   </data>
   <data name="independentsince" xml:space="preserve">
     <value>Unabhängig seit:</value>
   </data>
   <data name="war_level" xml:space="preserve">
-    <value>Kriegsniveau:</value>
+    <value>Bürgerkriegsrisiko:</value>
   </data>
   <data name="employment" xml:space="preserve">
     <value>Eingestellte</value>
@@ -403,6 +403,6 @@
     <value>Trete der Facebookgruppe bei</value>
   </data>
   <data name="world_tension" xml:space="preserve">
-    <value>Weltspannung</value>
+    <value>Weltanspannung</value>
   </data>
 </root>
