@@ -49,7 +49,7 @@ namespace LocalizationTests
 
 			var result = local.GetText("unittest_DOESNTEXIST");
 
-			Assert.Equal("String not found", result);
+			Assert.Equal("Text not found", result);
 		}
 
 		[Fact]
