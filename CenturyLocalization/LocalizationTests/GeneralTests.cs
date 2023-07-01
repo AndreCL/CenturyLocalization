@@ -61,7 +61,7 @@ namespace LocalizationTests
 
 			var result = local.GetText("unittest_both");
 
-			Assert.Equal("Ok_spa", result);
+			Assert.Equal("Ok_es", result);
 		}
 
 		[Fact]
@@ -73,7 +73,7 @@ namespace LocalizationTests
 
 			var result = local.GetText("unittest_both");
 
-			Assert.Equal("Ok_spa", result);
+			Assert.Equal("Ok_es", result);
 		}
 
 

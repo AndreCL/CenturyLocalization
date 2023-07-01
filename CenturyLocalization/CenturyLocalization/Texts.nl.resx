@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,48 +117,38 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="error_string_not_found" xml:space="preserve">
-    <value>Text not found</value>
-    <comment>Used when a string is not found</comment>
-  </data>
   <data name="unittest_both" xml:space="preserve">
-    <value>Ok</value>
-    <comment>IGNORE Used for unit tests</comment>
-  </data>
-  <data name="unittest_onlyen" xml:space="preserve">
-    <value>Ok</value>
-    <comment>IGNORE Used for unit tests</comment>
+    <value>Ok_nl</value>
   </data>
   <data name="ApplicationName" xml:space="preserve">
     <value>Century</value>
-    <comment>Name of the game</comment>
   </data>
   <data name="yes" xml:space="preserve">
-    <value>Yes</value>
+    <value>Ja</value>
   </data>
   <data name="no" xml:space="preserve">
-    <value>No</value>
+    <value>Nee</value>
   </data>
   <data name="close" xml:space="preserve">
-    <value>Close</value>
+    <value>Sluit/sluiten</value>
   </data>
   <data name="Newgame" xml:space="preserve">
-    <value>New game</value>
+    <value>Nieuw spel</value>
   </data>
   <data name="Continuegame" xml:space="preserve">
-    <value>Continue game</value>
+    <value>Verder spelen</value>
   </data>
   <data name="loading" xml:space="preserve">
-    <value>Loading saves...</value>
+    <value>Opgeslagen spel laden</value>
   </data>
   <data name="sendemail" xml:space="preserve">
-    <value>Send e-mail</value>
+    <value>Stuur e-mail</value>
   </data>
   <data name="changelog" xml:space="preserve">
     <value>Changelog</value>
   </data>
   <data name="feedback" xml:space="preserve">
-    <value>Submit your feedback</value>
+    <value>Feedback geven</value>
   </data>
   <data name="discord" xml:space="preserve">
     <value>Discord</value>
@@ -167,79 +157,79 @@
     <value>Facebook</value>
   </data>
   <data name="discordjoin" xml:space="preserve">
-    <value>Join Discord server</value>
+    <value>Doe mee op Discord</value>
   </data>
   <data name="getversion" xml:space="preserve">
-    <value>Retrieving version</value>
+    <value>Versie ophalen</value>
   </data>
   <data name="delete" xml:space="preserve">
-    <value>Delete</value>
+    <value>Verwijder</value>
   </data>
   <data name="warning" xml:space="preserve">
-    <value>Warning</value>
+    <value>Waarschuwing</value>
   </data>
   <data name="message_delete_save" xml:space="preserve">
-    <value>Are you sure you want to delete this saved game?</value>
+    <value>Ben je zeker dat je dit opgeslagen spel wilt verwijderen?</value>
   </data>
   <data name="Instructions1" xml:space="preserve">
-    <value>Select a country</value>
+    <value>Kies een land</value>
   </data>
   <data name="startdate" xml:space="preserve">
-    <value>Start Date:</value>
+    <value>Begin Datum:</value>
   </data>
   <data name="enddate" xml:space="preserve">
-    <value>End Date:</value>
+    <value>Eind Datum:</value>
   </data>
   <data name="country" xml:space="preserve">
-    <value>Country</value>
+    <value>Land</value>
   </data>
   <data name="rank" xml:space="preserve">
-    <value>Rank</value>
+    <value>Rang</value>
   </data>
   <data name="illiteracy" xml:space="preserve">
-    <value>Illiteracy:</value>
+    <value>Analfabetisme:</value>
   </data>
   <data name="largestreligion" xml:space="preserve">
-    <value>Largest religion:</value>
+    <value>Grootste religie:</value>
   </data>
   <data name="largestculture" xml:space="preserve">
-    <value>Largest culture:</value>
+    <value>Grootste cultuur:</value>
   </data>
   <data name="army" xml:space="preserve">
-    <value>Army</value>
+    <value>Leger</value>
   </data>
   <data name="soldiers" xml:space="preserve">
-    <value>Soldiers:</value>
+    <value>Soldaten:</value>
   </data>
   <data name="rifles" xml:space="preserve">
-    <value>Rifles:</value>
+    <value>Geweren:</value>
   </data>
   <data name="tanks" xml:space="preserve">
     <value>Tanks:</value>
   </data>
   <data name="navy" xml:space="preserve">
-    <value>Navy</value>
+    <value>Marine</value>
   </data>
   <data name="sailors" xml:space="preserve">
-    <value>Sailors:</value>
+    <value>Matroos:</value>
   </data>
   <data name="smallships" xml:space="preserve">
-    <value>Small ships:</value>
+    <value>Kleine schepen:</value>
   </data>
   <data name="mediumships" xml:space="preserve">
-    <value>Medium ships:</value>
+    <value>Gewone schepen:</value>
   </data>
   <data name="largeships" xml:space="preserve">
-    <value>Large ships:</value>
+    <value>Grote schepen:</value>
   </data>
   <data name="airforce" xml:space="preserve">
-    <value>Air force</value>
+    <value>Luchtmacht</value>
   </data>
   <data name="pilots" xml:space="preserve">
-    <value>Pilots:</value>
+    <value>Piloten:</value>
   </data>
   <data name="fighters" xml:space="preserve">
-    <value>Fighters:</value>
+    <value>Jachtvliegtuigen:</value>
   </data>
   <data name="bombers" xml:space="preserve">
     <value>Bombers:</value>
@@ -248,175 +238,171 @@
     <value>Start</value>
   </data>
   <data name="declarewar" xml:space="preserve">
-    <value>Declare war</value>
+    <value>Verklaar oorlog</value>
   </data>
   <data name="poverty" xml:space="preserve">
-    <value>Poverty:</value>
+    <value>Armoede:</value>
   </data>
   <data name="healthcare" xml:space="preserve">
-    <value>Healthcare coverage:</value>
+    <value>Gezondheidszorg:</value>
   </data>
   <data name="money" xml:space="preserve">
-    <value>Money:</value>
+    <value>Geld:</value>
   </data>
   <data name="population" xml:space="preserve">
-    <value>Population:</value>
+    <value>Bevolking:</value>
   </data>
   <data name="area" xml:space="preserve">
-    <value>Area:</value>
+    <value>Oppervlakte:</value>
   </data>
   <data name="infrastructure" xml:space="preserve">
-    <value>Infrastructure:</value>
+    <value>Infrastructuur:</value>
   </data>
   <data name="infamy" xml:space="preserve">
-    <value>Infamy:</value>
+    <value>Schande/Beruchtheid:</value>
   </data>
   <data name="independentsince" xml:space="preserve">
-    <value>Independent since:</value>
+    <value>Onafhankelijk sinds:</value>
   </data>
   <data name="war_level" xml:space="preserve">
-    <value>War level:</value>
+    <value>Oorlogsniveau:</value>
   </data>
   <data name="employment" xml:space="preserve">
-    <value>Employment</value>
+    <value>Werkgelegenheid</value>
   </data>
   <data name="social_class" xml:space="preserve">
-    <value>Social class</value>
+    <value>Sociale klassen</value>
   </data>
   <data name="age_groups" xml:space="preserve">
-    <value>Age Groups</value>
+    <value>Leeftijdsgroepen</value>
   </data>
   <data name="gender" xml:space="preserve">
-    <value>Gender</value>
+    <value>Geslacht:</value>
   </data>
   <data name="religion" xml:space="preserve">
-    <value>Religion</value>
+    <value>Religie:</value>
   </data>
   <data name="culture" xml:space="preserve">
-    <value>Culture</value>
+    <value>Cultuur:</value>
   </data>
   <data name="education" xml:space="preserve">
-    <value>Education</value>
+    <value>Educatie:</value>
   </data>
   <data name="daily_investment" xml:space="preserve">
-    <value>Daily investment:</value>
+    <value>Dagelijkse investering:</value>
   </data>
   <data name="one_time_investment" xml:space="preserve">
-    <value>One time investment:</value>
+    <value>Eenmalige investering:</value>
   </data>
   <data name="in_millions_hint" xml:space="preserve">
-    <value>in Millions of $</value>
+    <value>in miljoenen $</value>
   </data>
   <data name="filter_wars" xml:space="preserve">
-    <value>Filter wars</value>
+    <value>Filter Oorlogen</value>
   </data>
   <data name="war" xml:space="preserve">
-    <value>War</value>
+    <value>Oorlog</value>
   </data>
   <data name="score" xml:space="preserve">
     <value>Score</value>
   </data>
   <data name="men_to_equipment" xml:space="preserve">
-    <value>Men to Equipment ratio: </value>
+    <value>Verhouding Man tot Uitrusting:</value>
   </data>
   <data name="extra_equipment" xml:space="preserve">
-    <value>You have extra equipment</value>
+    <value>Je hebt meer Uitrusting</value>
   </data>
   <data name="extra_men" xml:space="preserve">
-    <value>You have unequipped men</value>
+    <value>Je hebt ongewapende mannen</value>
   </data>
   <data name="army_school" xml:space="preserve">
-    <value>army school</value>
+    <value>Leger school</value>
   </data>
   <data name="army_schools" xml:space="preserve">
-    <value>army schools</value>
+    <value>Leger scholen</value>
   </data>
   <data name="navy_school" xml:space="preserve">
-    <value>navy school</value>
+    <value>Marine school</value>
   </data>
   <data name="navy_schools" xml:space="preserve">
-    <value>navy schools</value>
+    <value>Marine scholen</value>
   </data>
   <data name="air_school" xml:space="preserve">
-    <value>air force school</value>
+    <value>Luchtmacht school</value>
   </data>
   <data name="air_schools" xml:space="preserve">
-    <value>air force schools</value>
+    <value>Luchtmacht scholen</value>
   </data>
   <data name="factory" xml:space="preserve">
-    <value>factory</value>
+    <value>Fabriek</value>
   </data>
   <data name="factories" xml:space="preserve">
-    <value>factories</value>
+    <value>Fabrieken</value>
   </data>
   <data name="dock" xml:space="preserve">
-    <value>dock</value>
+    <value>dok</value>
   </data>
   <data name="docks" xml:space="preserve">
-    <value>docks</value>
+    <value>Dokken</value>
   </data>
   <data name="gameover" xml:space="preserve">
-    <value>Game Over</value>
+    <value>Spel Gedaan</value>
   </data>
   <data name="endgametitle" xml:space="preserve">
-    <value>Congratulations! You led your nation through 100 tumultuous years</value>
+    <value>Gefeliciteerd! Je hebt je land door 100 woeste jaren geregeert </value>
   </data>
   <data name="winner" xml:space="preserve">
-    <value>Winner:</value>
+    <value>Winnaar:</value>
   </data>
   <data name="second" xml:space="preserve">
-    <value>2nd:</value>
+    <value>2de:</value>
   </data>
   <data name="third" xml:space="preserve">
-    <value>3rd:</value>
+    <value>3de:</value>
   </data>
   <data name="attackers" xml:space="preserve">
-    <value>Attackers:</value>
-    <comment>Plural</comment>
+    <value>Aanvallers:</value>
   </data>
   <data name="defenders" xml:space="preserve">
-    <value>Defenders:</value>
-    <comment>Plural</comment>
+    <value>Verdedigers:</value>
   </data>
   <data name="attacker" xml:space="preserve">
-    <value>Attacker:</value>
-    <comment>Singular</comment>
+    <value>Aanvaller:</value>
   </data>
   <data name="defender" xml:space="preserve">
-    <value>Defender:</value>
-    <comment>Singular</comment>
+    <value>Verdediger:</value>
   </data>
   <data name="attacker_victory" xml:space="preserve">
-    <value>Attacker victory</value>
+    <value>Aanvaller won:</value>
   </data>
   <data name="tie" xml:space="preserve">
-    <value>Tie</value>
+    <value>Gelijke stand:</value>
   </data>
   <data name="defender_victory" xml:space="preserve">
-    <value>Defender victory</value>
+    <value>Verdediger won:</value>
   </data>
   <data name="no_longer_exists" xml:space="preserve">
-    <value>Selected country no longer exists</value>
+    <value>Gekozen land bestaat niet meer</value>
   </data>
   <data name="military_loses" xml:space="preserve">
-    <value>Military loses:</value>
+    <value>Leger verliezen:</value>
   </data>
   <data name="civilian_loses" xml:space="preserve">
-    <value>Civilian loses:</value>
+    <value>Burger verliezen:</value>
   </data>
   <data name="equipment_loses" xml:space="preserve">
-    <value>Equipment loses:</value>
+    <value>Uitrusting verloren:</value>
   </data>
   <data name="infrastructure_decrease" xml:space="preserve">
-    <value>Infrastructure loss:</value>
+    <value>Infrastructuur verlies:</value>
   </data>
   <data name="invest" xml:space="preserve">
-    <value>Invest</value>
+    <value>Investeer</value>
   </data>
   <data name="facebookjoin" xml:space="preserve">
-    <value>Join Facebook group</value>
+    <value>Doe mee op Facebook</value>
   </data>
   <data name="world_tension" xml:space="preserve">
-    <value>World Tension</value>
+    <value>Wereld spanning</value>
   </data>
 </root>

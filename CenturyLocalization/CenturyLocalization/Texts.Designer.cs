@@ -367,7 +367,7 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to String not found.
+        ///   Looks up a localized string similar to Text not found.
         /// </summary>
         internal static string error_string_not_found {
             get {

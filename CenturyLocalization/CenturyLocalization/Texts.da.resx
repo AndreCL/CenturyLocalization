@@ -406,4 +406,7 @@
   <data name="world_tension" xml:space="preserve">
     <value>Verdensspænding</value>
   </data>
+  <data name="error_string_not_found" xml:space="preserve">
+    <value>Tekst ikke fundet</value>
+  </data>
 </root>
