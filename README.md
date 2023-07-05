@@ -9,3 +9,14 @@ Open source implementation of localization for Century
 2. Install ResX Resource Manager add-on
 3. Contribute with translation
 4. Make a pull request
+
+## Languages:
+
+* English
+* Arabic
+* Danish
+* Dutch
+* German (Incomplete)
+* Indonesian
+* Russian (Incomplete)
+* Spanish

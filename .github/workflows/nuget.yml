@@ -11,7 +11,7 @@ jobs:
     - name: setup dotnet
       uses: actions/setup-dotnet@v1
       with:
-        dotnet-version: 3.1.x
+        dotnet-version: 5.0.x
     - name: dotnet pack
       run: dotnet pack CenturyLocalization/CenturyLocalization/CenturyLocalization.csproj --configuration Release /p:Version=${{ github.event.release.tag_name }} /p:PackageReleaseNotes="See https://github.com/AndreCL/CenturyLocalization/releases/tag/${{ github.event.release.tag_name }}"   
     - name: archive nuget
