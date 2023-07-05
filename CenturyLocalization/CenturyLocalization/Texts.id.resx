@@ -405,4 +405,7 @@
   <data name="world_tension" xml:space="preserve">
     <value>Ketegangan Dunia</value>
   </data>
+  <data name="error_string_not_found" xml:space="preserve">
+    <value>Teks tidak ditemukan</value>
+  </data>
 </root>

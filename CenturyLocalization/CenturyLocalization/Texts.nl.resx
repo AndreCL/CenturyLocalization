@@ -405,4 +405,7 @@
   <data name="world_tension" xml:space="preserve">
     <value>Wereld spanning</value>
   </data>
+  <data name="error_string_not_found" xml:space="preserve">
+    <value>Tekst niet gevonden</value>
+  </data>
 </root>
