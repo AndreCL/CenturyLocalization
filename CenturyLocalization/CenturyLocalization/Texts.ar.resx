@@ -120,4 +120,289 @@
   <data name="unittest_both" xml:space="preserve">
     <value>Ok_ar</value>
   </data>
+  <data name="error_string_not_found" xml:space="preserve">
+    <value>النص غير موجود</value>
+  </data>
+  <data name="ApplicationName" xml:space="preserve">
+    <value>قرن</value>
+  </data>
+  <data name="yes" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="no" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="close" xml:space="preserve">
+    <value>اغلاق</value>
+  </data>
+  <data name="Newgame" xml:space="preserve">
+    <value>ابدا لعبة جديدة</value>
+  </data>
+  <data name="Continuegame" xml:space="preserve">
+    <value>استمر فى العب</value>
+  </data>
+  <data name="loading" xml:space="preserve">
+    <value>تحميل المحفوظات</value>
+  </data>
+  <data name="sendemail" xml:space="preserve">
+    <value>إرسال e mail</value>
+  </data>
+  <data name="changelog" xml:space="preserve">
+    <value>تغيير</value>
+  </data>
+  <data name="feedback" xml:space="preserve">
+    <value>ارسل ملاحظاتك</value>
+  </data>
+  <data name="discord" xml:space="preserve">
+    <value>ديسكورد</value>
+  </data>
+  <data name="facebook" xml:space="preserve">
+    <value>فيسبوك</value>
+  </data>
+  <data name="discordjoin" xml:space="preserve">
+    <value>انضم إلى دسكورد</value>
+  </data>
+  <data name="getversion" xml:space="preserve">
+    <value>نسخة مستعادة</value>
+  </data>
+  <data name="delete" xml:space="preserve">
+    <value>حذف</value>
+  </data>
+  <data name="warning" xml:space="preserve">
+    <value>تحذير</value>
+  </data>
+  <data name="message_delete_save" xml:space="preserve">
+    <value>هل انت متأكد انك تريد حذف العية</value>
+  </data>
+  <data name="Instructions1" xml:space="preserve">
+    <value>اختر الدولة</value>
+  </data>
+  <data name="startdate" xml:space="preserve">
+    <value>تاريخ البدأ </value>
+  </data>
+  <data name="enddate" xml:space="preserve">
+    <value>تاريخ الانتهاء</value>
+  </data>
+  <data name="country" xml:space="preserve">
+    <value>دولة</value>
+  </data>
+  <data name="rank" xml:space="preserve">
+    <value>الترتيب</value>
+  </data>
+  <data name="illiteracy" xml:space="preserve">
+    <value>الأمية </value>
+  </data>
+  <data name="largestreligion" xml:space="preserve">
+    <value>الدين الأكبر </value>
+  </data>
+  <data name="largestculture" xml:space="preserve">
+    <value>الحضارة الكبرى</value>
+  </data>
+  <data name="army" xml:space="preserve">
+    <value>العسكرية</value>
+  </data>
+  <data name="soldiers" xml:space="preserve">
+    <value>الجنود</value>
+  </data>
+  <data name="rifles" xml:space="preserve">
+    <value>البنادق</value>
+  </data>
+  <data name="tanks" xml:space="preserve">
+    <value>دبابات </value>
+  </data>
+  <data name="navy" xml:space="preserve">
+    <value>البحرية</value>
+  </data>
+  <data name="sailors" xml:space="preserve">
+    <value>جنود البحرية</value>
+  </data>
+  <data name="smallships" xml:space="preserve">
+    <value>سفن صغيرة</value>
+  </data>
+  <data name="mediumships" xml:space="preserve">
+    <value>سفن متوسطة </value>
+  </data>
+  <data name="largeships" xml:space="preserve">
+    <value>سفن كبيرة</value>
+  </data>
+  <data name="airforce" xml:space="preserve">
+    <value>القوات الجوية</value>
+  </data>
+  <data name="pilots" xml:space="preserve">
+    <value>طيارين</value>
+  </data>
+  <data name="fighters" xml:space="preserve">
+    <value>مقاتلات</value>
+  </data>
+  <data name="bombers" xml:space="preserve">
+    <value>قاذفات القنابل</value>
+  </data>
+  <data name="start" xml:space="preserve">
+    <value>ابدا</value>
+  </data>
+  <data name="declarewar" xml:space="preserve">
+    <value>أعلن الحرب</value>
+  </data>
+  <data name="poverty" xml:space="preserve">
+    <value>فقر</value>
+  </data>
+  <data name="healthcare" xml:space="preserve">
+    <value>الرعاية الصحية</value>
+  </data>
+  <data name="money" xml:space="preserve">
+    <value>اموال</value>
+  </data>
+  <data name="population" xml:space="preserve">
+    <value>تعداد السكان</value>
+  </data>
+  <data name="area" xml:space="preserve">
+    <value>المساحة</value>
+  </data>
+  <data name="infrastructure" xml:space="preserve">
+    <value>بنية تحتية</value>
+  </data>
+  <data name="infamy" xml:space="preserve">
+    <value>العنف</value>
+  </data>
+  <data name="independentsince" xml:space="preserve">
+    <value>حصلت على استقلالها</value>
+  </data>
+  <data name="war_level" xml:space="preserve">
+    <value>مستوى الحرب</value>
+  </data>
+  <data name="employment" xml:space="preserve">
+    <value>توظيف</value>
+  </data>
+  <data name="social_class" xml:space="preserve">
+    <value>الطبقة الاجتماعة</value>
+  </data>
+  <data name="age_groups" xml:space="preserve">
+    <value>الفئة العمرية</value>
+  </data>
+  <data name="gender" xml:space="preserve">
+    <value>الجنس</value>
+  </data>
+  <data name="religion" xml:space="preserve">
+    <value>الدين</value>
+  </data>
+  <data name="culture" xml:space="preserve">
+    <value>الحضارة</value>
+  </data>
+  <data name="education" xml:space="preserve">
+    <value>التعليم</value>
+  </data>
+  <data name="daily_investment" xml:space="preserve">
+    <value>الاستثمار اليومي </value>
+  </data>
+  <data name="one_time_investment" xml:space="preserve">
+    <value>استثمار المرة الوحدة</value>
+  </data>
+  <data name="filter_wars" xml:space="preserve">
+    <value>تصفية الحروب</value>
+  </data>
+  <data name="war" xml:space="preserve">
+    <value>الحرب</value>
+  </data>
+  <data name="score" xml:space="preserve">
+    <value>نتيجة</value>
+  </data>
+  <data name="men_to_equipment" xml:space="preserve">
+    <value>نسبة الرجال إلى المعدات</value>
+  </data>
+  <data name="extra_equipment" xml:space="preserve">
+    <value>لديك معدات اضافية</value>
+  </data>
+  <data name="extra_men" xml:space="preserve">
+    <value>لديك رجال غير موظفين</value>
+  </data>
+  <data name="army_school" xml:space="preserve">
+    <value>المدرسة العسكرية</value>
+  </data>
+  <data name="army_schools" xml:space="preserve">
+    <value>المدارس العسكرية</value>
+  </data>
+  <data name="navy_school" xml:space="preserve">
+    <value>المدرسة البحرية</value>
+  </data>
+  <data name="navy_schools" xml:space="preserve">
+    <value>المدارس البحرية</value>
+  </data>
+  <data name="air_school" xml:space="preserve">
+    <value>مدرسة الجوية</value>
+  </data>
+  <data name="air_schools" xml:space="preserve">
+    <value>المدارس الجوية</value>
+  </data>
+  <data name="factory" xml:space="preserve">
+    <value>مصنع</value>
+  </data>
+  <data name="factories" xml:space="preserve">
+    <value>مصانع</value>
+  </data>
+  <data name="dock" xml:space="preserve">
+    <value>الرصيف</value>
+  </data>
+  <data name="docks" xml:space="preserve">
+    <value>الروصف</value>
+  </data>
+  <data name="gameover" xml:space="preserve">
+    <value>انتهت العبة</value>
+  </data>
+  <data name="endgametitle" xml:space="preserve">
+    <value>مبروك لقد قودت دولتك ١٠٠ سنة</value>
+  </data>
+  <data name="winner" xml:space="preserve">
+    <value>فائذ</value>
+  </data>
+  <data name="second" xml:space="preserve">
+    <value>المركز الثاني </value>
+  </data>
+  <data name="third" xml:space="preserve">
+    <value>المركز الثالث</value>
+  </data>
+  <data name="attackers" xml:space="preserve">
+    <value>مهاجمين</value>
+  </data>
+  <data name="defenders" xml:space="preserve">
+    <value>مدافين</value>
+  </data>
+  <data name="attacker" xml:space="preserve">
+    <value>مهاجم </value>
+  </data>
+  <data name="defender" xml:space="preserve">
+    <value>مدافع</value>
+  </data>
+  <data name="attacker_victory" xml:space="preserve">
+    <value>فاز المهاجمين </value>
+  </data>
+  <data name="tie" xml:space="preserve">
+    <value>رابطة</value>
+  </data>
+  <data name="defender_victory" xml:space="preserve">
+    <value>فاز المدافعين </value>
+  </data>
+  <data name="no_longer_exists" xml:space="preserve">
+    <value>لم تعد الدولة المختارة موجودة</value>
+  </data>
+  <data name="military_loses" xml:space="preserve">
+    <value>الخسائر العسكرية</value>
+  </data>
+  <data name="civilian_loses" xml:space="preserve">
+    <value>الخسائر المدنية</value>
+  </data>
+  <data name="equipment_loses" xml:space="preserve">
+    <value>خسائر المعدات</value>
+  </data>
+  <data name="infrastructure_decrease" xml:space="preserve">
+    <value>خسائر البنية التحتية</value>
+  </data>
+  <data name="invest" xml:space="preserve">
+    <value>مستثمر</value>
+  </data>
+  <data name="facebookjoin" xml:space="preserve">
+    <value>انضم إلى جروب فيسبوك</value>
+  </data>
+  <data name="world_tension" xml:space="preserve">
+    <value>التوتر العالمى</value>
+  </data>
 </root>
