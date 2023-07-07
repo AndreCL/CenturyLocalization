@@ -410,4 +410,7 @@
   <data name="world_tension" xml:space="preserve">
     <value>Мировое напряжение</value>
   </data>
+  <data name="error_string_not_found" xml:space="preserve">
+    <value>текст не найден</value>
+  </data>
 </root>

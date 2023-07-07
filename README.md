@@ -16,7 +16,7 @@ Open source implementation of localization for Century
 * Arabic
 * Danish
 * Dutch
-* German (Incomplete)
+* German 
 * Indonesian
-* Russian (Incomplete)
+* Russian 
 * Spanish
