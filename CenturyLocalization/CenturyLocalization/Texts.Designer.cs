@@ -169,6 +169,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Battles.
+        /// </summary>
+        internal static string battles {
+            get {
+                return ResourceManager.GetString("battles", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Bombers:.
         /// </summary>
         internal static string bombers {

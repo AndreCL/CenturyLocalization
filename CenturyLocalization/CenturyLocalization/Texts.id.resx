@@ -408,4 +408,7 @@
   <data name="error_string_not_found" xml:space="preserve">
     <value>Teks tidak ditemukan</value>
   </data>
+  <data name="battles" xml:space="preserve">
+    <value>Pertempuran</value>
+  </data>
 </root>

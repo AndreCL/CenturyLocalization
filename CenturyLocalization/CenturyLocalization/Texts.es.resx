@@ -410,4 +410,7 @@
   <data name="world_tension" xml:space="preserve">
     <value>Tensión mundial</value>
   </data>
+  <data name="battles" xml:space="preserve">
+    <value>Batallas</value>
+  </data>
 </root>

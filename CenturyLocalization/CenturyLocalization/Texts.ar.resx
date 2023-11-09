@@ -405,4 +405,7 @@
   <data name="world_tension" xml:space="preserve">
     <value>التوتر العالمى</value>
   </data>
+  <data name="battles" xml:space="preserve">
+    <value>المعارك</value>
+  </data>
 </root>
