@@ -422,4 +422,12 @@
   <data name="battles" xml:space="preserve">
     <value>Battles</value>
   </data>
+  <data name="world_war_title" xml:space="preserve">
+    <value>The World is at War!</value>
+    <comment>For the news paper event</comment>
+  </data>
+  <data name="world_war_message" xml:space="preserve">
+    <value>After months of high tensions, the great powers have gone to war. {war.Name} has started.</value>
+    <comment>For the news paper event</comment>
+  </data>
 </root>

@@ -408,4 +408,10 @@
   <data name="battles" xml:space="preserve">
     <value>المعارك</value>
   </data>
+  <data name="world_war_title" xml:space="preserve">
+    <value>العالم في حالة حرب!</value>
+  </data>
+  <data name="world_war_message" xml:space="preserve">
+    <value>بعد شهور من التوترات الشديدة، دخلت القوى العظمى في حرب. {war.Name} قد بدأ.</value>
+  </data>
 </root>

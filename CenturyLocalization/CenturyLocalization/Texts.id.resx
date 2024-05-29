@@ -411,4 +411,10 @@
   <data name="battles" xml:space="preserve">
     <value>Pertempuran</value>
   </data>
+  <data name="world_war_title" xml:space="preserve">
+    <value>Dunia sedang berperang!</value>
+  </data>
+  <data name="world_war_message" xml:space="preserve">
+    <value>Setelah berbulan-bulan ketegangan tinggi, kekuatan besar telah berperang. {war.Name} telah dimulai.</value>
+  </data>
 </root>

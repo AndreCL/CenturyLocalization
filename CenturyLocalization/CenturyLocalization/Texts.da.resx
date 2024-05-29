@@ -412,4 +412,10 @@
   <data name="battles" xml:space="preserve">
     <value>Kampe</value>
   </data>
+  <data name="world_war_title" xml:space="preserve">
+    <value>Verden er i krig!</value>
+  </data>
+  <data name="world_war_message" xml:space="preserve">
+    <value>Efter måneder med høje spændinger er stormagterne gået i krig. {war.Name} er begyndt.</value>
+  </data>
 </root>

@@ -411,4 +411,10 @@
   <data name="battles" xml:space="preserve">
     <value>Gevechten</value>
   </data>
+  <data name="world_war_title" xml:space="preserve">
+    <value>De wereld is in oorlog!</value>
+  </data>
+  <data name="world_war_message" xml:space="preserve">
+    <value>Na maanden van hoge spanningen zijn de grootmachten in oorlog gegaan. {war.Name} is begonnen.</value>
+  </data>
 </root>

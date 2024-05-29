@@ -943,6 +943,24 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to After months of high tensions, the great powers have gone to war. {war.Name} has started..
+        /// </summary>
+        internal static string world_war_message {
+            get {
+                return ResourceManager.GetString("world_war_message", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The World is at War!.
+        /// </summary>
+        internal static string world_war_title {
+            get {
+                return ResourceManager.GetString("world_war_title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Yes.
         /// </summary>
         internal static string yes {

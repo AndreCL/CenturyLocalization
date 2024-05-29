@@ -413,4 +413,10 @@
   <data name="battles" xml:space="preserve">
     <value>Batallas</value>
   </data>
+  <data name="world_war_title" xml:space="preserve">
+    <value>¡El mundo está en guerra!</value>
+  </data>
+  <data name="world_war_message" xml:space="preserve">
+    <value>Después de meses de altas tensiones, las grandes potencias han ido a la guerra. {war.Name} ha comenzado.</value>
+  </data>
 </root>
