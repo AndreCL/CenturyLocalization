@@ -7,17 +7,18 @@ jobs:
   deployment:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
-    - name: setup dotnet
+    - name: Check out the repository
+      uses: actions/checkout@v3
+    - name: Set up .NET
       uses: actions/setup-dotnet@v2
       with:
         dotnet-version: 6.0.x
-    - name: dotnet pack
+    - name: Pack the NuGet package
       run: dotnet pack CenturyLocalization/CenturyLocalization/CenturyLocalization.csproj --configuration Release /p:Version=${{ github.event.release.tag_name }} /p:PackageReleaseNotes="See https://github.com/AndreCL/CenturyLocalization/releases/tag/${{ github.event.release.tag_name }}"   
-    - name: archive nuget
-      uses: actions/upload-artifact@v1
+    - name: Archive the NuGet package
+      uses: actions/upload-artifact@v3
       with:
         name: CenturyLocalization
         path: CenturyLocalization/CenturyLocalization/bin/Release/CenturyLocalization.${{ github.event.release.tag_name }}.nupkg
-    - name: publish nuget
+    - name: Publish the NuGet package
       run: dotnet nuget push **/*.nupkg --api-key ${{ secrets.NUGET_API_KEY }} --source https://api.nuget.org/v3/index.json --no-symbols true
