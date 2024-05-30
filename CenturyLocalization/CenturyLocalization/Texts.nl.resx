@@ -417,4 +417,11 @@
   <data name="world_war_message" xml:space="preserve">
     <value>Na maanden van hoge spanningen zijn de grootmachten in oorlog gegaan. {war.Name} is begonnen.</value>
   </data>
+  <data name="new_century_title" xml:space="preserve">
+    <value>Gelukkig nieuw eeuw!</value>
+  </data>
+  <data name="new_century_message" xml:space="preserve">
+    <value>Beste lezers,
+Een nieuw eeuw is aangebroken. Wij wensen u een gelukkig nieuwjaar. Moge deze nieuwe tijd vredig zijn.</value>
+  </data>
 </root>

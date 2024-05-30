@@ -417,4 +417,11 @@
   <data name="world_war_message" xml:space="preserve">
     <value>Setelah berbulan-bulan ketegangan tinggi, kekuatan besar telah berperang. {war.Name} telah dimulai.</value>
   </data>
+  <data name="new_century_title" xml:space="preserve">
+    <value>Selamat Abad Baru!</value>
+  </data>
+  <data name="new_century_message" xml:space="preserve">
+    <value>Pembaca yang terhormat,
+Abad baru telah tiba. Kami mengucapkan selamat tahun baru. Semoga waktu baru ini damai.</value>
+  </data>
 </root>

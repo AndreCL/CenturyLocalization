@@ -422,4 +422,11 @@
   <data name="world_war_message" xml:space="preserve">
     <value>После месяцев высокого напряжения великие державы начали войну. {war.Name} началась.</value>
   </data>
+  <data name="new_century_title" xml:space="preserve">
+    <value>Счастливого нового века!</value>
+  </data>
+  <data name="new_century_message" xml:space="preserve">
+    <value>Дорогие читатели,
+Новое столетие наступает. Мы желаем вам счастливого нового года. Пусть это новое время будет мирным.</value>
+  </data>
 </root>

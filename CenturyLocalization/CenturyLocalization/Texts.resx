@@ -430,4 +430,12 @@
     <value>After months of high tensions, the great powers have gone to war. {war.Name} has started.</value>
     <comment>For the news paper event</comment>
   </data>
+  <data name="new_century_title" xml:space="preserve">
+    <value>Happy New Century!</value>
+    <comment>For the news paper event</comment>
+  </data>
+  <data name="new_century_message" xml:space="preserve">
+    <value>Dear readers, \n A new century is upon us. We wish you a happy new year. May this new time be peaceful.</value>
+    <comment>For the news paper event</comment>
+  </data>
 </root>

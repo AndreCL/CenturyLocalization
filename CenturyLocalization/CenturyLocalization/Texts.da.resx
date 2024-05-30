@@ -418,4 +418,11 @@
   <data name="world_war_message" xml:space="preserve">
     <value>Efter måneder med høje spændinger er stormagterne gået i krig. {war.Name} er begyndt.</value>
   </data>
+  <data name="new_century_title" xml:space="preserve">
+    <value>Godt nyt århundrede!</value>
+  </data>
+  <data name="new_century_message" xml:space="preserve">
+    <value>Kære læsere,
+Et nyt århundrede er over os. Vi ønsker jer et godt nytår. Må denne nye tid være fredelig.</value>
+  </data>
 </root>

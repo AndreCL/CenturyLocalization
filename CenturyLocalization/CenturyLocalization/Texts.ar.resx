@@ -414,4 +414,11 @@
   <data name="world_war_message" xml:space="preserve">
     <value>بعد شهور من التوترات الشديدة، دخلت القوى العظمى في حرب. {war.Name} قد بدأ.</value>
   </data>
+  <data name="new_century_title" xml:space="preserve">
+    <value>سنة قرن سعيد جديد!</value>
+  </data>
+  <data name="new_century_message" xml:space="preserve">
+    <value>أعزائي القراء،
+قرن جديد يطل علينا. نتمنى لكم سنة جديدة سعيدة. نتمنى أن يكون هذا الوقت الجديد مليئًا بالسلام.</value>
+  </data>
 </root>
