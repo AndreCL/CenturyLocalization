@@ -682,7 +682,8 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Dear readers, \n A new century is upon us. We wish you a happy new year. May this new time be peaceful..
+        ///   Looks up a localized string similar to Dear readers,
+        ///A new century is upon us. We wish you a happy new year. May this new time be peaceful..
         /// </summary>
         internal static string new_century_message {
             get {
@@ -700,7 +701,8 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Dear readers, \n A new year is upon us. We wish you a happy new year. May this new time be peaceful..
+        ///   Looks up a localized string similar to Dear readers,
+        ///A new year is upon us. We wish you a happy new year. May this new time be peaceful..
         /// </summary>
         internal static string new_year_message {
             get {
