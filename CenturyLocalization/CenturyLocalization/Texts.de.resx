@@ -424,4 +424,11 @@
     <value>Liebe Leser,
 Ein neues Jahrhundert steht bevor. Wir wünschen Ihnen ein frohes neues Jahr. Möge diese neue Zeit friedlich sein.</value>
   </data>
+  <data name="new_year_title" xml:space="preserve">
+    <value>Frohes neues Jahr!</value>
+  </data>
+  <data name="new_year_message" xml:space="preserve">
+    <value>Liebe Leser,
+Ein neues Jahr steht bevor. Wir wünschen Ihnen ein frohes neues Jahr. Möge diese neue Zeit friedlich sein.</value>
+  </data>
 </root>

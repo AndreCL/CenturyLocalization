@@ -421,4 +421,11 @@
     <value>أعزائي القراء،
 قرن جديد يطل علينا. نتمنى لكم سنة جديدة سعيدة. نتمنى أن يكون هذا الوقت الجديد مليئًا بالسلام.</value>
   </data>
+  <data name="new_year_title" xml:space="preserve">
+    <value>سنة جديدة سعيدة!</value>
+  </data>
+  <data name="new_year_message" xml:space="preserve">
+    <value>أعزائي القراء،
+عام جديد يطل علينا. نتمنى لكم سنة جديدة سعيدة. نتمنى أن يكون هذا الوقت الجديد مليئًا بالسلام.</value>
+  </data>
 </root>

@@ -700,6 +700,24 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Dear readers, \n A new year is upon us. We wish you a happy new year. May this new time be peaceful..
+        /// </summary>
+        internal static string new_year_message {
+            get {
+                return ResourceManager.GetString("new_year_message", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Happy New Year!.
+        /// </summary>
+        internal static string new_year_title {
+            get {
+                return ResourceManager.GetString("new_year_title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to New game.
         /// </summary>
         internal static string Newgame {

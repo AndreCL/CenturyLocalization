@@ -425,4 +425,11 @@
     <value>Kære læsere,
 Et nyt århundrede er over os. Vi ønsker jer et godt nytår. Må denne nye tid være fredelig.</value>
   </data>
+  <data name="new_year_title" xml:space="preserve">
+    <value>Godt nytår!</value>
+  </data>
+  <data name="new_year_message" xml:space="preserve">
+    <value>Kære læsere,
+Et nyt år er over os. Vi ønsker jer et godt nytår. Må denne nye tid være fredelig.</value>
+  </data>
 </root>

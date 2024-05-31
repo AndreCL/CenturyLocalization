@@ -424,4 +424,11 @@
     <value>Beste lezers,
 Een nieuw eeuw is aangebroken. Wij wensen u een gelukkig nieuwjaar. Moge deze nieuwe tijd vredig zijn.</value>
   </data>
+  <data name="new_year_title" xml:space="preserve">
+    <value>Gelukkig nieuwjaar!</value>
+  </data>
+  <data name="new_year_message" xml:space="preserve">
+    <value>Beste lezers,
+Een nieuw jaar is aangebroken. Wij wensen u een gelukkig nieuwjaar. Moge deze nieuwe tijd vredig zijn.</value>
+  </data>
 </root>

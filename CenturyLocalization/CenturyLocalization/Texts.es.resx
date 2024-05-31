@@ -426,4 +426,11 @@
     <value>Queridos lectores,
 Un nuevo siglo está sobre nosotros. Les deseamos un feliz año nuevo. Que este nuevo tiempo sea pacífico.</value>
   </data>
+  <data name="new_year_title" xml:space="preserve">
+    <value>¡Feliz Año Nuevo!</value>
+  </data>
+  <data name="new_year_message" xml:space="preserve">
+    <value>Queridos lectores,
+Un nuevo año está sobre nosotros. Les deseamos un feliz año nuevo. Que este nuevo tiempo sea pacífico.</value>
+  </data>
 </root>

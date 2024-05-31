@@ -438,4 +438,12 @@
     <value>Dear readers, \n A new century is upon us. We wish you a happy new year. May this new time be peaceful.</value>
     <comment>For the news paper event</comment>
   </data>
+  <data name="new_year_title" xml:space="preserve">
+    <value>Happy New Year!</value>
+    <comment>For the news paper event</comment>
+  </data>
+  <data name="new_year_message" xml:space="preserve">
+    <value>Dear readers, \n A new year is upon us. We wish you a happy new year. May this new time be peaceful.</value>
+    <comment>For the news paper event</comment>
+  </data>
 </root>

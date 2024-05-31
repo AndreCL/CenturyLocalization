@@ -424,4 +424,11 @@
     <value>Pembaca yang terhormat,
 Abad baru telah tiba. Kami mengucapkan selamat tahun baru. Semoga waktu baru ini damai.</value>
   </data>
+  <data name="new_year_title" xml:space="preserve">
+    <value>Selamat tahun baru!</value>
+  </data>
+  <data name="new_year_message" xml:space="preserve">
+    <value>Pembaca yang terhormat,
+Tahun baru telah tiba. Kami mengucapkan selamat tahun baru. Semoga waktu baru ini damai.</value>
+  </data>
 </root>
