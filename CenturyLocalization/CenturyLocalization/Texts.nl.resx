@@ -431,4 +431,22 @@ Een nieuw eeuw is aangebroken. Wij wensen u een gelukkig nieuwjaar. Moge deze ni
     <value>Beste lezers,
 Een nieuw jaar is aangebroken. Wij wensen u een gelukkig nieuwjaar. Moge deze nieuwe tijd vredig zijn.</value>
   </data>
+  <data name="annexed_title" xml:space="preserve">
+    <value>Annexatie!</value>
+  </data>
+  <data name="annexed_message" xml:space="preserve">
+    <value>{countryToDelete.Name} werd zo klein en onbeduidend dat {inherited.Name} het heeft geabsorbeerd.</value>
+  </data>
+  <data name="inconclusive_title" xml:space="preserve">
+    <value>{warToRemove.Name} eindigt zonder conclusie</value>
+  </data>
+  <data name="inconclusive_message" xml:space="preserve">
+    <value>Omdat een van de betrokken landen niet meer bestaat, eindigde {warToRemove.Name} zonder conclusie</value>
+  </data>
+  <data name="victoria_title" xml:space="preserve">
+    <value>Koningin Victoria overleden</value>
+  </data>
+  <data name="victoria_message" xml:space="preserve">
+    <value>Edward VII wordt koning van Engeland en India na de dood van koningin Victoria</value>
+  </data>
 </root>

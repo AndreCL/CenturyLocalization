@@ -433,4 +433,22 @@ Un nuevo siglo está sobre nosotros. Les deseamos un feliz año nuevo. Que este 
     <value>Queridos lectores,
 Un nuevo año está sobre nosotros. Les deseamos un feliz año nuevo. Que este nuevo tiempo sea pacífico.</value>
   </data>
+  <data name="annexed_title" xml:space="preserve">
+    <value>Anexión!</value>
+  </data>
+  <data name="annexed_message" xml:space="preserve">
+    <value>{countryToDelete.Name} se volvió tan pequeño e insignificante que {inherited.Name} lo ha absorbido.</value>
+  </data>
+  <data name="inconclusive_title" xml:space="preserve">
+    <value>{warToRemove.Name} termina inconclusa</value>
+  </data>
+  <data name="inconclusive_message" xml:space="preserve">
+    <value>Como uno de los países involucrados ya no existe, {warToRemove.Name} terminó inconclusa</value>
+  </data>
+  <data name="victoria_title" xml:space="preserve">
+    <value>Muere la Reina Victoria</value>
+  </data>
+  <data name="victoria_message" xml:space="preserve">
+    <value>Eduardo VII se convierte en rey de Inglaterra e India tras la muerte de la reina Victoria</value>
+  </data>
 </root>

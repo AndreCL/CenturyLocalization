@@ -448,4 +448,22 @@ A new century is upon us. We wish you a happy new year. May this new time be pea
 A new year is upon us. We wish you a happy new year. May this new time be peaceful.</value>
     <comment>For the news paper event</comment>
   </data>
+  <data name="annexed_title" xml:space="preserve">
+    <value>Annexation!</value>
+  </data>
+  <data name="annexed_message" xml:space="preserve">
+    <value>{countryToDelete.Name} became so small and insignificant that {inherited.Name} has absorbed it</value>
+  </data>
+  <data name="inconclusive_title" xml:space="preserve">
+    <value>{warToRemove.Name} ends inconclusively</value>
+  </data>
+  <data name="inconclusive_message" xml:space="preserve">
+    <value>As one of the countries involved no longer exists, {warToRemove.Name} ended inconclusively</value>
+  </data>
+  <data name="victoria_title" xml:space="preserve">
+    <value>Queen Victoria dead</value>
+  </data>
+  <data name="victoria_message" xml:space="preserve">
+    <value>Edward VII becomes King of England and India after Queen Victoria's death</value>
+  </data>
 </root>

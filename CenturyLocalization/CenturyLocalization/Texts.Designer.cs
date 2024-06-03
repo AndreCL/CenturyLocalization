@@ -97,6 +97,24 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to {countryToDelete.Name} became so small and insignificant that {inherited.Name} has absorbed it.
+        /// </summary>
+        internal static string annexed_message {
+            get {
+                return ResourceManager.GetString("annexed_message", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Annexation!.
+        /// </summary>
+        internal static string annexed_title {
+            get {
+                return ResourceManager.GetString("annexed_title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Century.
         /// </summary>
         internal static string ApplicationName {
@@ -520,6 +538,24 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to As one of the countries involved no longer exists, {warToRemove.Name} ended inconclusively.
+        /// </summary>
+        internal static string inconclusive_message {
+            get {
+                return ResourceManager.GetString("inconclusive_message", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {warToRemove.Name} ends inconclusively.
+        /// </summary>
+        internal static string inconclusive_title {
+            get {
+                return ResourceManager.GetString("inconclusive_title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Independent since:.
         /// </summary>
         internal static string independentsince {
@@ -932,6 +968,24 @@ namespace CenturyLocalization {
         internal static string unittest_onlyen {
             get {
                 return ResourceManager.GetString("unittest_onlyen", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Edward VII becomes King of England and India after Queen Victoria&apos;s death.
+        /// </summary>
+        internal static string victoria_message {
+            get {
+                return ResourceManager.GetString("victoria_message", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Queen Victoria dead.
+        /// </summary>
+        internal static string victoria_title {
+            get {
+                return ResourceManager.GetString("victoria_title", resourceCulture);
             }
         }
         

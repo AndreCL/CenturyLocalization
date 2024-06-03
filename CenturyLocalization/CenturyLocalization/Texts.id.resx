@@ -431,4 +431,22 @@ Abad baru telah tiba. Kami mengucapkan selamat tahun baru. Semoga waktu baru ini
     <value>Pembaca yang terhormat,
 Tahun baru telah tiba. Kami mengucapkan selamat tahun baru. Semoga waktu baru ini damai.</value>
   </data>
+  <data name="annexed_title" xml:space="preserve">
+    <value>Aneksasi!</value>
+  </data>
+  <data name="annexed_message" xml:space="preserve">
+    <value>{countryToDelete.Name} menjadi begitu kecil dan tidak berarti sehingga {inherited.Name} menyerapnya.</value>
+  </data>
+  <data name="inconclusive_title" xml:space="preserve">
+    <value>{warToRemove.Name} berakhir tanpa kesimpulan</value>
+  </data>
+  <data name="inconclusive_message" xml:space="preserve">
+    <value>Karena salah satu negara yang terlibat tidak lagi ada, {warToRemove.Name} berakhir tanpa kesimpulan</value>
+  </data>
+  <data name="victoria_title" xml:space="preserve">
+    <value>Ratu Victoria meninggal</value>
+  </data>
+  <data name="victoria_message" xml:space="preserve">
+    <value>Edward VII menjadi Raja Inggris dan India setelah kematian Ratu Victoria</value>
+  </data>
 </root>

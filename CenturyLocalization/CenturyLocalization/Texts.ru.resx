@@ -436,4 +436,22 @@
     <value>Дорогие читатели,
 Новый год наступает. Мы желаем вам счастливого нового года. Пусть это новое время будет мирным.</value>
   </data>
+  <data name="annexed_title" xml:space="preserve">
+    <value>Аннексия!</value>
+  </data>
+  <data name="annexed_message" xml:space="preserve">
+    <value>{countryToDelete.Name} стал настолько маленьким и незначительным, что {inherited.Name} поглотил его.</value>
+  </data>
+  <data name="inconclusive_title" xml:space="preserve">
+    <value>{warToRemove.Name} заканчивается безрезультатно</value>
+  </data>
+  <data name="inconclusive_message" xml:space="preserve">
+    <value>Поскольку одна из участвующих стран больше не существует, {warToRemove.Name} закончилась безрезультатно</value>
+  </data>
+  <data name="victoria_title" xml:space="preserve">
+    <value>Королева Виктория умерла</value>
+  </data>
+  <data name="victoria_message" xml:space="preserve">
+    <value> Эдуард VII становится королем Англии и Индии после смерти королевы Виктории</value>
+  </data>
 </root>

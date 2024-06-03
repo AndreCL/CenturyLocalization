@@ -432,4 +432,22 @@ Et nyt århundrede er over os. Vi ønsker jer et godt nytår. Må denne nye tid 
     <value>Kære læsere,
 Et nyt år er over os. Vi ønsker jer et godt nytår. Må denne nye tid være fredelig.</value>
   </data>
+  <data name="annexed_title" xml:space="preserve">
+    <value>Annektering!</value>
+  </data>
+  <data name="annexed_message" xml:space="preserve">
+    <value>{countryToDelete.Name} blev så lille og ubetydelig, at {inherited.Name} har opslugt det.</value>
+  </data>
+  <data name="inconclusive_title" xml:space="preserve">
+    <value>{warToRemove.Name} ender uden konklusion</value>
+  </data>
+  <data name="inconclusive_message" xml:space="preserve">
+    <value>Da et af de involverede lande ikke længere eksisterer, endte {warToRemove.Name} uden konklusion</value>
+  </data>
+  <data name="victoria_title" xml:space="preserve">
+    <value>Dronning Victoria død</value>
+  </data>
+  <data name="victoria_message" xml:space="preserve">
+    <value>Edward VII bliver konge af England og Indien efter dronning Victorias død</value>
+  </data>
 </root>

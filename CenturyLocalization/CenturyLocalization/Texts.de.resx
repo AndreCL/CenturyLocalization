@@ -431,4 +431,22 @@ Ein neues Jahrhundert steht bevor. Wir wünschen Ihnen ein frohes neues Jahr. M�
     <value>Liebe Leser,
 Ein neues Jahr steht bevor. Wir wünschen Ihnen ein frohes neues Jahr. Möge diese neue Zeit friedlich sein.</value>
   </data>
+  <data name="annexed_title" xml:space="preserve">
+    <value>Annexion!</value>
+  </data>
+  <data name="annexed_message" xml:space="preserve">
+    <value>{countryToDelete.Name} wurde so klein und unbedeutend, dass {inherited.Name} es absorbiert hat.</value>
+  </data>
+  <data name="inconclusive_title" xml:space="preserve">
+    <value>{warToRemove.Name} endet ergebnislos</value>
+  </data>
+  <data name="inconclusive_message" xml:space="preserve">
+    <value>Da eines der beteiligten Länder nicht mehr existiert, endete {warToRemove.Name} ergebnislos</value>
+  </data>
+  <data name="victoria_title" xml:space="preserve">
+    <value>Königin Victoria tot</value>
+  </data>
+  <data name="victoria_message" xml:space="preserve">
+    <value>Edward VII wird nach dem Tod von Königin Victoria König von England und Indien</value>
+  </data>
 </root>
