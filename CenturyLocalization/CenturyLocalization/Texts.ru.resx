@@ -454,4 +454,13 @@
   <data name="victoria_message" xml:space="preserve">
     <value> Эдуард VII становится королем Англии и Индии после смерти королевы Виктории</value>
   </data>
+  <data name="defaultwar_title" xml:space="preserve">
+    <value>Война!</value>
+  </data>
+  <data name="defaultwar_message" xml:space="preserve">
+    <value>{war.Name} началась между {war.Attackers[0].Name} и {war.Defenders[0].Name}.</value>
+  </data>
+  <data name="defaultwar_message_infamy" xml:space="preserve">
+    <value>После многочисленных агрессий со стороны {highInfamyCountry.Name}, {attacker1.Name} и {attacker2.Name} объявили войну печально известной {highInfamyCountry.Name}.</value>
+  </data>
 </root>

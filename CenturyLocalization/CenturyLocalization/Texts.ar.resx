@@ -446,4 +446,13 @@
   <data name="victoria_message" xml:space="preserve">
     <value>أصبح إدوارد السابع ملك إنجلترا والهند بعد وفاة الملكة فيكتوريا</value>
   </data>
+  <data name="defaultwar_title" xml:space="preserve">
+    <value>!حرب</value>
+  </data>
+  <data name="defaultwar_message" xml:space="preserve">
+    <value>{war.Name} قد بدأت بين {war.Attackers[0].Name} و {war.Defenders[0].Name}.</value>
+  </data>
+  <data name="defaultwar_message_infamy" xml:space="preserve">
+    <value>بعد عدة اعتداءات من {highInfamyCountry.Name}، أعلنت {attacker1.Name} و {attacker2.Name} الحرب على {highInfamyCountry.Name} الشهيرة.</value>
+  </data>
 </root>

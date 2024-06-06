@@ -451,4 +451,13 @@ Un nuevo año está sobre nosotros. Les deseamos un feliz año nuevo. Que este n
   <data name="victoria_message" xml:space="preserve">
     <value>Eduardo VII se convierte en rey de Inglaterra e India tras la muerte de la reina Victoria</value>
   </data>
+  <data name="defaultwar_title" xml:space="preserve">
+    <value>¡Guerra!</value>
+  </data>
+  <data name="defaultwar_message" xml:space="preserve">
+    <value>{war.Name} ha comenzado entre {war.Attackers[0].Name} y {war.Defenders[0].Name}.</value>
+  </data>
+  <data name="defaultwar_message_infamy" xml:space="preserve">
+    <value>Después de múltiples agresiones de {highInfamyCountry.Name}, {attacker1.Name} y {attacker2.Name} han declarado la guerra a la infame {highInfamyCountry.Name}.</value>
+  </data>
 </root>

@@ -449,4 +449,13 @@ Tahun baru telah tiba. Kami mengucapkan selamat tahun baru. Semoga waktu baru in
   <data name="victoria_message" xml:space="preserve">
     <value>Edward VII menjadi Raja Inggris dan India setelah kematian Ratu Victoria</value>
   </data>
+  <data name="defaultwar_title" xml:space="preserve">
+    <value>Perang!</value>
+  </data>
+  <data name="defaultwar_message" xml:space="preserve">
+    <value>{war.Name} telah dimulai antara {war.Attackers[0].Name} dan {war.Defenders[0].Name}.</value>
+  </data>
+  <data name="defaultwar_message_infamy" xml:space="preserve">
+    <value>Setelah beberapa serangan dari {highInfamyCountry.Name}, {attacker1.Name} dan {attacker2.Name} telah menyatakan perang terhadap {highInfamyCountry.Name} yang terkenal.</value>
+  </data>
 </root>

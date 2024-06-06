@@ -449,4 +449,13 @@ Een nieuw jaar is aangebroken. Wij wensen u een gelukkig nieuwjaar. Moge deze ni
   <data name="victoria_message" xml:space="preserve">
     <value>Edward VII wordt koning van Engeland en India na de dood van koningin Victoria</value>
   </data>
+  <data name="defaultwar_title" xml:space="preserve">
+    <value>Oorlog!</value>
+  </data>
+  <data name="defaultwar_message" xml:space="preserve">
+    <value>{war.Name} is begonnen tussen {war.Attackers[0].Name} en {war.Defenders[0].Name}.</value>
+  </data>
+  <data name="defaultwar_message_infamy" xml:space="preserve">
+    <value>Na meerdere agressies van {highInfamyCountry.Name} hebben {attacker1.Name} en {attacker2.Name} de oorlog verklaard aan de beruchte {highInfamyCountry.Name}.</value>
+  </data>
 </root>

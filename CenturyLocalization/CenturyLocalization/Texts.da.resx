@@ -450,4 +450,13 @@ Et nyt år er over os. Vi ønsker jer et godt nytår. Må denne nye tid være fr
   <data name="victoria_message" xml:space="preserve">
     <value>Edward VII bliver konge af England og Indien efter dronning Victorias død</value>
   </data>
+  <data name="defaultwar_title" xml:space="preserve">
+    <value>Krig!</value>
+  </data>
+  <data name="defaultwar_message" xml:space="preserve">
+    <value>{war.Name} er startet mellem {war.Attackers[0].Name} og {war.Defenders[0].Name}.</value>
+  </data>
+  <data name="defaultwar_message_infamy" xml:space="preserve">
+    <value>Efter flere aggressioner fra {highInfamyCountry.Name} har {attacker1.Name} og {attacker2.Name} erklæret krig mod den berygtede {highInfamyCountry.Name}.</value>
+  </data>
 </root>

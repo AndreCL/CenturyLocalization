@@ -277,6 +277,33 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to {war.Name} has started between {war.Attackers[0].Name} and {war.Defenders[0].Name}..
+        /// </summary>
+        internal static string defaultwar_message {
+            get {
+                return ResourceManager.GetString("defaultwar_message", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to After multiple aggressions from {highInfamyCountry.Name}, {attacker1.Name} and {attacker2.Name} have declared war upon the infamous {highInfamyCountry.Name}..
+        /// </summary>
+        internal static string defaultwar_message_infamy {
+            get {
+                return ResourceManager.GetString("defaultwar_message_infamy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to War!.
+        /// </summary>
+        internal static string defaultwar_title {
+            get {
+                return ResourceManager.GetString("defaultwar_title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Defender:.
         /// </summary>
         internal static string defender {

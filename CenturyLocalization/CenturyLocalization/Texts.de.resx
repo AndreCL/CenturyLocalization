@@ -449,4 +449,13 @@ Ein neues Jahr steht bevor. Wir wünschen Ihnen ein frohes neues Jahr. Möge die
   <data name="victoria_message" xml:space="preserve">
     <value>Edward VII wird nach dem Tod von Königin Victoria König von England und Indien</value>
   </data>
+  <data name="defaultwar_title" xml:space="preserve">
+    <value>Krieg!</value>
+  </data>
+  <data name="defaultwar_message" xml:space="preserve">
+    <value>{war.Name} hat begonnen zwischen {war.Attackers[0].Name} und {war.Defenders[0].Name}.</value>
+  </data>
+  <data name="defaultwar_message_infamy" xml:space="preserve">
+    <value>Nach mehreren Aggressionen von {highInfamyCountry.Name} haben {attacker1.Name} und {attacker2.Name} der berüchtigten {highInfamyCountry.Name} den Krieg erklärt.</value>
+  </data>
 </root>

@@ -466,4 +466,13 @@ A new year is upon us. We wish you a happy new year. May this new time be peacef
   <data name="victoria_message" xml:space="preserve">
     <value>Edward VII becomes King of England and India after Queen Victoria's death</value>
   </data>
+  <data name="defaultwar_title" xml:space="preserve">
+    <value>War!</value>
+  </data>
+  <data name="defaultwar_message" xml:space="preserve">
+    <value>{war.Name} has started between {war.Attackers[0].Name} and {war.Defenders[0].Name}.</value>
+  </data>
+  <data name="defaultwar_message_infamy" xml:space="preserve">
+    <value>After multiple aggressions from {highInfamyCountry.Name}, {attacker1.Name} and {attacker2.Name} have declared war upon the infamous {highInfamyCountry.Name}.</value>
+  </data>
 </root>
