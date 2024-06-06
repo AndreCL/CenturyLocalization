@@ -16,7 +16,7 @@ jobs:
     - name: Pack the NuGet package
       run: dotnet pack CenturyLocalization/CenturyLocalization/CenturyLocalization.csproj --configuration Release /p:Version=${{ github.event.release.tag_name }} /p:PackageReleaseNotes="See https://github.com/AndreCL/CenturyLocalization/releases/tag/${{ github.event.release.tag_name }}"   
     - name: Archive the NuGet package
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: CenturyLocalization
         path: CenturyLocalization/CenturyLocalization/bin/Release/CenturyLocalization.${{ github.event.release.tag_name }}.nupkg
