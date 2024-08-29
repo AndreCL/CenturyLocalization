@@ -1,14 +1,13 @@
 <Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <Authors>AndreCL</Authors>
     <Company>Luanca</Company>
     <Description>Localization library for use in Century and other projects.</Description>
-    <PackageProjectUrl></PackageProjectUrl>
+    <PackageProjectUrl>
+    </PackageProjectUrl>
     <RepositoryUrl>https://github.com/AndreCL/CenturyLocalization</RepositoryUrl>
   </PropertyGroup>
-
   <ItemGroup>
     <Compile Update="Texts.Designer.cs">
       <DesignTime>True</DesignTime>
@@ -16,7 +15,6 @@
       <DependentUpon>Texts.resx</DependentUpon>
     </Compile>
   </ItemGroup>
-
   <ItemGroup>
     <EmbeddedResource Update="Texts.da.resx">
       <SubType>Designer</SubType>
@@ -37,5 +35,4 @@
       <LastGenOutput>Texts.Designer.cs</LastGenOutput>
     </EmbeddedResource>
   </ItemGroup>
-
 </Project>
