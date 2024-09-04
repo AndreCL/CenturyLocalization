@@ -463,4 +463,16 @@
   <data name="defaultwar_message_infamy" xml:space="preserve">
     <value>После многочисленных агрессий со стороны {highInfamyCountry.Name}, {attacker1.Name} и {attacker2.Name} объявили войну печально известной {highInfamyCountry.Name}.</value>
   </data>
+  <data name="policies" xml:space="preserve">
+    <value>Политики</value>
+  </data>
+  <data name="foreignPolicy" xml:space="preserve">
+    <value>Внешняя политика</value>
+  </data>
+  <data name="interventionist" xml:space="preserve">
+    <value>Интервенционистский</value>
+  </data>
+  <data name="isolationist" xml:space="preserve">
+    <value>Изоляционистский</value>
+  </data>
 </root>

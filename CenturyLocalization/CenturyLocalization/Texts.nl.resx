@@ -458,4 +458,16 @@ Een nieuw jaar is aangebroken. Wij wensen u een gelukkig nieuwjaar. Moge deze ni
   <data name="defaultwar_message_infamy" xml:space="preserve">
     <value>Na meerdere agressies van {highInfamyCountry.Name} hebben {attacker1.Name} en {attacker2.Name} de oorlog verklaard aan de beruchte {highInfamyCountry.Name}.</value>
   </data>
+  <data name="policies" xml:space="preserve">
+    <value>Beleid</value>
+  </data>
+  <data name="foreignPolicy" xml:space="preserve">
+    <value>Buitenlands beleid</value>
+  </data>
+  <data name="interventionist" xml:space="preserve">
+    <value>Interventionistisch</value>
+  </data>
+  <data name="isolationist" xml:space="preserve">
+    <value>Isolationistisch</value>
+  </data>
 </root>

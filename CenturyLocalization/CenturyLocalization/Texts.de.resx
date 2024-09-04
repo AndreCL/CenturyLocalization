@@ -458,4 +458,16 @@ Ein neues Jahr steht bevor. Wir wünschen Ihnen ein frohes neues Jahr. Möge die
   <data name="defaultwar_message_infamy" xml:space="preserve">
     <value>Nach mehreren Aggressionen von {highInfamyCountry.Name} haben {attacker1.Name} und {attacker2.Name} der berüchtigten {highInfamyCountry.Name} den Krieg erklärt.</value>
   </data>
+  <data name="policies" xml:space="preserve">
+    <value>Richtlinien</value>
+  </data>
+  <data name="foreignPolicy" xml:space="preserve">
+    <value>Außenpolitik</value>
+  </data>
+  <data name="interventionist" xml:space="preserve">
+    <value>Interventionistisch</value>
+  </data>
+  <data name="isolationist" xml:space="preserve">
+    <value>Isolationistisch</value>
+  </data>
 </root>

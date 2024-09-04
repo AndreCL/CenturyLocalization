@@ -458,4 +458,16 @@ Tahun baru telah tiba. Kami mengucapkan selamat tahun baru. Semoga waktu baru in
   <data name="defaultwar_message_infamy" xml:space="preserve">
     <value>Setelah beberapa serangan dari {highInfamyCountry.Name}, {attacker1.Name} dan {attacker2.Name} telah menyatakan perang terhadap {highInfamyCountry.Name} yang terkenal.</value>
   </data>
+  <data name="policies" xml:space="preserve">
+    <value>Kebijakan</value>
+  </data>
+  <data name="foreignPolicy" xml:space="preserve">
+    <value>Kebijakan luar negeri</value>
+  </data>
+  <data name="interventionist" xml:space="preserve">
+    <value>Intervensi</value>
+  </data>
+  <data name="isolationist" xml:space="preserve">
+    <value>Isolationis</value>
+  </data>
 </root>

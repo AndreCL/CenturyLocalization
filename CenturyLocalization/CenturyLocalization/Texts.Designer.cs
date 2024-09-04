@@ -511,6 +511,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Foreign Policy.
+        /// </summary>
+        internal static string foreignPolicy {
+            get {
+                return ResourceManager.GetString("foreignPolicy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Game Over.
         /// </summary>
         internal static string gameover {
@@ -628,11 +637,29 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Interventionist.
+        /// </summary>
+        internal static string interventionist {
+            get {
+                return ResourceManager.GetString("interventionist", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Invest.
         /// </summary>
         internal static string invest {
             get {
                 return ResourceManager.GetString("invest", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Isolationist.
+        /// </summary>
+        internal static string isolationist {
+            get {
+                return ResourceManager.GetString("isolationist", resourceCulture);
             }
         }
         
@@ -824,6 +851,15 @@ namespace CenturyLocalization {
         internal static string pilots {
             get {
                 return ResourceManager.GetString("pilots", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Policies.
+        /// </summary>
+        internal static string policies {
+            get {
+                return ResourceManager.GetString("policies", resourceCulture);
             }
         }
         

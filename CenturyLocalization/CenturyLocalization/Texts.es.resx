@@ -460,4 +460,16 @@ Un nuevo año está sobre nosotros. Les deseamos un feliz año nuevo. Que este n
   <data name="defaultwar_message_infamy" xml:space="preserve">
     <value>Después de múltiples agresiones de {highInfamyCountry.Name}, {attacker1.Name} y {attacker2.Name} han declarado la guerra a la infame {highInfamyCountry.Name}.</value>
   </data>
+  <data name="policies" xml:space="preserve">
+    <value>Políticas</value>
+  </data>
+  <data name="foreignPolicy" xml:space="preserve">
+    <value>Política exterior</value>
+  </data>
+  <data name="interventionist" xml:space="preserve">
+    <value>Intervencionista</value>
+  </data>
+  <data name="isolationist" xml:space="preserve">
+    <value>Aislacionista</value>
+  </data>
 </root>

@@ -455,4 +455,16 @@
   <data name="defaultwar_message_infamy" xml:space="preserve">
     <value>بعد عدة اعتداءات من {highInfamyCountry.Name}، أعلنت {attacker1.Name} و {attacker2.Name} الحرب على {highInfamyCountry.Name} الشهيرة.</value>
   </data>
+  <data name="policies" xml:space="preserve">
+    <value>سياسات</value>
+  </data>
+  <data name="foreignPolicy" xml:space="preserve">
+    <value>السياسة الخارجية</value>
+  </data>
+  <data name="interventionist" xml:space="preserve">
+    <value>تدخلي</value>
+  </data>
+  <data name="isolationist" xml:space="preserve">
+    <value>انعزالي</value>
+  </data>
 </root>

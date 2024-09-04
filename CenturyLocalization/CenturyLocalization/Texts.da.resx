@@ -459,4 +459,16 @@ Et nyt år er over os. Vi ønsker jer et godt nytår. Må denne nye tid være fr
   <data name="defaultwar_message_infamy" xml:space="preserve">
     <value>Efter flere aggressioner fra {highInfamyCountry.Name} har {attacker1.Name} og {attacker2.Name} erklæret krig mod den berygtede {highInfamyCountry.Name}.</value>
   </data>
+  <data name="policies" xml:space="preserve">
+    <value>Politikker</value>
+  </data>
+  <data name="foreignPolicy" xml:space="preserve">
+    <value>Udenrigspolitik</value>
+  </data>
+  <data name="interventionist" xml:space="preserve">
+    <value>Interventionistisk</value>
+  </data>
+  <data name="isolationist" xml:space="preserve">
+    <value>Isolationistisk</value>
+  </data>
 </root>
