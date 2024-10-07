@@ -470,4 +470,7 @@ Een nieuw jaar is aangebroken. Wij wensen u een gelukkig nieuwjaar. Moge deze ni
   <data name="isolationist" xml:space="preserve">
     <value>Isolationistisch</value>
   </data>
+  <data name="losses" xml:space="preserve">
+    <value>Verliezen</value>
+  </data>
 </root>

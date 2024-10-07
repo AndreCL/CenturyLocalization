@@ -467,4 +467,7 @@
   <data name="isolationist" xml:space="preserve">
     <value>انعزالي</value>
   </data>
+  <data name="losses" xml:space="preserve">
+    <value>خسائر</value>
+  </data>
 </root>

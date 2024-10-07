@@ -470,4 +470,7 @@ Ein neues Jahr steht bevor. Wir wünschen Ihnen ein frohes neues Jahr. Möge die
   <data name="isolationist" xml:space="preserve">
     <value>Isolationistisch</value>
   </data>
+  <data name="losses" xml:space="preserve">
+    <value>Verluste</value>
+  </data>
 </root>

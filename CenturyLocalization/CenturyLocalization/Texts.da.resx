@@ -471,4 +471,7 @@ Et nyt år er over os. Vi ønsker jer et godt nytår. Må denne nye tid være fr
   <data name="isolationist" xml:space="preserve">
     <value>Isolationistisk</value>
   </data>
+  <data name="losses" xml:space="preserve">
+    <value>Tab</value>
+  </data>
 </root>

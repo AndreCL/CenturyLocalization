@@ -472,4 +472,7 @@ Un nuevo año está sobre nosotros. Les deseamos un feliz año nuevo. Que este n
   <data name="isolationist" xml:space="preserve">
     <value>Aislacionista</value>
   </data>
+  <data name="losses" xml:space="preserve">
+    <value>Pérdidas</value>
+  </data>
 </root>

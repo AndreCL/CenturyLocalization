@@ -475,4 +475,7 @@
   <data name="isolationist" xml:space="preserve">
     <value>Изоляционистский</value>
   </data>
+  <data name="losses" xml:space="preserve">
+    <value>потери</value>
+  </data>
 </root>

@@ -470,4 +470,7 @@ Tahun baru telah tiba. Kami mengucapkan selamat tahun baru. Semoga waktu baru in
   <data name="isolationist" xml:space="preserve">
     <value>Isolationis</value>
   </data>
+  <data name="losses" xml:space="preserve">
+    <value>Kerugian</value>
+  </data>
 </root>

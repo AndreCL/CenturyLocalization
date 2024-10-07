@@ -700,6 +700,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Losses.
+        /// </summary>
+        internal static string losses {
+            get {
+                return ResourceManager.GetString("losses", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Medium ships:.
         /// </summary>
         internal static string mediumships {
