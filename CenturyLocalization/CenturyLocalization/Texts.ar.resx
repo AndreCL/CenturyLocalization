@@ -349,7 +349,7 @@
     <value>انتهت العبة</value>
   </data>
   <data name="endgametitle" xml:space="preserve">
-    <value>مبروك لقد قودت دولتك ١٠٠ سنة</value>
+    <value>مبروك لقد قودت دولتك {0} سنة</value>
   </data>
   <data name="winner" xml:space="preserve">
     <value>فائذ</value>

@@ -347,7 +347,7 @@
     <value>Spil slut</value>
   </data>
   <data name="endgametitle" xml:space="preserve">
-    <value>Tillykke! Du har ledt dit land igennem 100 år</value>
+    <value>Tillykke! Du har ledt dit land igennem {0] år</value>
   </data>
   <data name="winner" xml:space="preserve">
     <value>Vinder:</value>

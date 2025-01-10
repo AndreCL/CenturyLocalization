@@ -349,7 +349,7 @@
     <value>Spel Gedaan</value>
   </data>
   <data name="endgametitle" xml:space="preserve">
-    <value>Gefeliciteerd! Je hebt je land door 100 woeste jaren geregeert </value>
+    <value>Gefeliciteerd! Je hebt je land door {0] woeste jaren geregeert </value>
   </data>
   <data name="winner" xml:space="preserve">
     <value>Winnaar:</value>

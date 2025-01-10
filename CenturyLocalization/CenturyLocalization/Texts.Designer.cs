@@ -403,7 +403,7 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Congratulations! You led your nation through 100 tumultuous years.
+        ///   Looks up a localized string similar to Congratulations! You led your nation through {0} tumultuous years.
         /// </summary>
         internal static string endgametitle {
             get {

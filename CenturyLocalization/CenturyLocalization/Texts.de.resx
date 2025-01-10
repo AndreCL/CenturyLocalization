@@ -349,7 +349,7 @@
     <value>Spiel vorbei</value>
   </data>
   <data name="endgametitle" xml:space="preserve">
-    <value>Glückwunsch! Du hast deine Nation durch harte 100 Jahre geführt</value>
+    <value>Glückwunsch! Du hast deine Nation durch harte {0] Jahre geführt</value>
   </data>
   <data name="winner" xml:space="preserve">
     <value>Sieger:</value>

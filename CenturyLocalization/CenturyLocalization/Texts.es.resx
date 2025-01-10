@@ -354,7 +354,7 @@
     <value>Juego terminado</value>
   </data>
   <data name="endgametitle" xml:space="preserve">
-    <value>¡Felicidades! Guiaste a tu nación a través de 100 años tumultuosos</value>
+    <value>¡Felicidades! Guiaste a tu nación a través de {0] años tumultuosos</value>
   </data>
   <data name="winner" xml:space="preserve">
     <value>Ganador:</value>

@@ -359,7 +359,7 @@
     <value>Game Over</value>
   </data>
   <data name="endgametitle" xml:space="preserve">
-    <value>Congratulations! You led your nation through 100 tumultuous years</value>
+    <value>Congratulations! You led your nation through {0} tumultuous years</value>
   </data>
   <data name="winner" xml:space="preserve">
     <value>Winner:</value>

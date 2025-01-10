@@ -349,7 +349,7 @@
     <value>Permainan Telah Berakhir</value>
   </data>
   <data name="endgametitle" xml:space="preserve">
-    <value>Selamat! Anda memimpin bangsa Anda melalui 100 tahun yang penuh gejolak</value>
+    <value>Selamat! Anda memimpin bangsa Anda melalui {0] tahun yang penuh gejolak</value>
   </data>
   <data name="winner" xml:space="preserve">
     <value>Pemenang:</value>
