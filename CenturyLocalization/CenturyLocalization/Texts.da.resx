@@ -474,4 +474,10 @@ Et nyt år er over os. Vi ønsker jer et godt nytår. Må denne nye tid være fr
   <data name="losses" xml:space="preserve">
     <value>Tab</value>
   </data>
+  <data name="military_expenses" xml:space="preserve">
+    <value>Militærudgifter</value>
+  </data>
+  <data name="other" xml:space="preserve">
+    <value>Andet</value>
+  </data>
 </root>

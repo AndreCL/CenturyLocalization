@@ -475,4 +475,10 @@ Un nuevo año está sobre nosotros. Les deseamos un feliz año nuevo. Que este n
   <data name="losses" xml:space="preserve">
     <value>Pérdidas</value>
   </data>
+  <data name="military_expenses" xml:space="preserve">
+    <value>Gastos militares</value>
+  </data>
+  <data name="other" xml:space="preserve">
+    <value>Otros</value>
+  </data>
 </root>

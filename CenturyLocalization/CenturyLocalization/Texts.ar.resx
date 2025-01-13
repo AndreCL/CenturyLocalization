@@ -470,4 +470,10 @@
   <data name="losses" xml:space="preserve">
     <value>خسائر</value>
   </data>
+  <data name="military_expenses" xml:space="preserve">
+    <value>النفقات العسكرية</value>
+  </data>
+  <data name="other" xml:space="preserve">
+    <value>آخر</value>
+  </data>
 </root>

@@ -478,4 +478,10 @@
   <data name="losses" xml:space="preserve">
     <value>потери</value>
   </data>
+  <data name="military_expenses" xml:space="preserve">
+    <value>Военные расходы</value>
+  </data>
+  <data name="other" xml:space="preserve">
+    <value>Другой</value>
+  </data>
 </root>

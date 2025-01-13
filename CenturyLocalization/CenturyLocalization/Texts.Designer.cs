@@ -736,6 +736,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Military expenses.
+        /// </summary>
+        internal static string military_expenses {
+            get {
+                return ResourceManager.GetString("military_expenses", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Military loses:.
         /// </summary>
         internal static string military_loses {
@@ -851,6 +860,15 @@ namespace CenturyLocalization {
         internal static string one_time_investment {
             get {
                 return ResourceManager.GetString("one_time_investment", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Other.
+        /// </summary>
+        internal static string other {
+            get {
+                return ResourceManager.GetString("other", resourceCulture);
             }
         }
         
