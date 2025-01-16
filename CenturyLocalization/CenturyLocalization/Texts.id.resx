@@ -479,4 +479,10 @@ Tahun baru telah tiba. Kami mengucapkan selamat tahun baru. Semoga waktu baru in
   <data name="other" xml:space="preserve">
     <value>Lain</value>
   </data>
+  <data name="expenses" xml:space="preserve">
+    <value>Pengeluaran</value>
+  </data>
+  <data name="income" xml:space="preserve">
+    <value>Pendapatan</value>
+  </data>
 </root>

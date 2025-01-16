@@ -496,4 +496,10 @@ A new year is upon us. We wish you a happy new year. May this new time be peacef
   <data name="other" xml:space="preserve">
     <value>Other</value>
   </data>
+  <data name="expenses" xml:space="preserve">
+    <value>Expenses</value>
+  </data>
+  <data name="income" xml:space="preserve">
+    <value>Income</value>
+  </data>
 </root>

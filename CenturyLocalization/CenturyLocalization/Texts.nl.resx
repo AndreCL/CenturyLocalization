@@ -479,4 +479,10 @@ Een nieuw jaar is aangebroken. Wij wensen u een gelukkig nieuwjaar. Moge deze ni
   <data name="other" xml:space="preserve">
     <value>Ander</value>
   </data>
+  <data name="expenses" xml:space="preserve">
+    <value>Uitgaven</value>
+  </data>
+  <data name="income" xml:space="preserve">
+    <value>Inkomen</value>
+  </data>
 </root>

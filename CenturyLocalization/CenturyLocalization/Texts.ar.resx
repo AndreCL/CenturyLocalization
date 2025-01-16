@@ -476,4 +476,10 @@
   <data name="other" xml:space="preserve">
     <value>آخر</value>
   </data>
+  <data name="expenses" xml:space="preserve">
+    <value>النفقات</value>
+  </data>
+  <data name="income" xml:space="preserve">
+    <value>الدخل</value>
+  </data>
 </root>

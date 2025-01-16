@@ -480,4 +480,10 @@ Et nyt år er over os. Vi ønsker jer et godt nytår. Må denne nye tid være fr
   <data name="other" xml:space="preserve">
     <value>Andet</value>
   </data>
+  <data name="expenses" xml:space="preserve">
+    <value>Udgifter</value>
+  </data>
+  <data name="income" xml:space="preserve">
+    <value>Indkomst</value>
+  </data>
 </root>

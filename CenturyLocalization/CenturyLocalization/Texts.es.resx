@@ -481,4 +481,10 @@ Un nuevo año está sobre nosotros. Les deseamos un feliz año nuevo. Que este n
   <data name="other" xml:space="preserve">
     <value>Otros</value>
   </data>
+  <data name="expenses" xml:space="preserve">
+    <value>Gastos</value>
+  </data>
+  <data name="income" xml:space="preserve">
+    <value>Ingresos</value>
+  </data>
 </root>

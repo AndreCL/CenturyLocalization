@@ -430,6 +430,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Expenses.
+        /// </summary>
+        internal static string expenses {
+            get {
+                return ResourceManager.GetString("expenses", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to You have extra equipment.
         /// </summary>
         internal static string extra_equipment {
@@ -570,6 +579,15 @@ namespace CenturyLocalization {
         internal static string in_millions_hint {
             get {
                 return ResourceManager.GetString("in_millions_hint", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Income.
+        /// </summary>
+        internal static string income {
+            get {
+                return ResourceManager.GetString("income", resourceCulture);
             }
         }
         

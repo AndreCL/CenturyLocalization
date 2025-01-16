@@ -484,4 +484,10 @@
   <data name="other" xml:space="preserve">
     <value>Другой</value>
   </data>
+  <data name="expenses" xml:space="preserve">
+    <value>Расходы</value>
+  </data>
+  <data name="income" xml:space="preserve">
+    <value>Доход</value>
+  </data>
 </root>

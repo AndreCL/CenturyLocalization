@@ -479,4 +479,10 @@ Ein neues Jahr steht bevor. Wir wünschen Ihnen ein frohes neues Jahr. Möge die
   <data name="other" xml:space="preserve">
     <value>Andere</value>
   </data>
+  <data name="expenses" xml:space="preserve">
+    <value>Ausgaben</value>
+  </data>
+  <data name="income" xml:space="preserve">
+    <value>Einkommen</value>
+  </data>
 </root>
