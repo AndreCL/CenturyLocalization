@@ -252,7 +252,7 @@
     <value>Деньги:</value>
   </data>
   <data name="population" xml:space="preserve">
-    <value>Население:</value>
+    <value>Население</value>
   </data>
   <data name="area" xml:space="preserve">
     <value>Площадь:</value>
@@ -489,5 +489,11 @@
   </data>
   <data name="income" xml:space="preserve">
     <value>Доход</value>
+  </data>
+  <data name="investments" xml:space="preserve">
+    <value>Инвестиции</value>
+  </data>
+  <data name="territory" xml:space="preserve">
+    <value>Территория</value>
   </data>
 </root>

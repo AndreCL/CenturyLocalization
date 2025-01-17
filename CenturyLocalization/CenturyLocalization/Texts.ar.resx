@@ -482,4 +482,10 @@
   <data name="income" xml:space="preserve">
     <value>الدخل</value>
   </data>
+  <data name="investments" xml:space="preserve">
+    <value>استثمارات</value>
+  </data>
+  <data name="territory" xml:space="preserve">
+    <value>إقليم</value>
+  </data>
 </root>

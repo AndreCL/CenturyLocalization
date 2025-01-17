@@ -250,7 +250,7 @@
     <value>Geld:</value>
   </data>
   <data name="population" xml:space="preserve">
-    <value>Bevolking:</value>
+    <value>Bevolking</value>
   </data>
   <data name="area" xml:space="preserve">
     <value>Oppervlakte:</value>
@@ -484,5 +484,11 @@ Een nieuw jaar is aangebroken. Wij wensen u een gelukkig nieuwjaar. Moge deze ni
   </data>
   <data name="income" xml:space="preserve">
     <value>Inkomen</value>
+  </data>
+  <data name="investments" xml:space="preserve">
+    <value>Investeringen</value>
+  </data>
+  <data name="territory" xml:space="preserve">
+    <value>Territorium</value>
   </data>
 </root>

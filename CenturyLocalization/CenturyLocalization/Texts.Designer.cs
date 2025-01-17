@@ -673,6 +673,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Investments.
+        /// </summary>
+        internal static string investments {
+            get {
+                return ResourceManager.GetString("investments", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Isolationist.
         /// </summary>
         internal static string isolationist {
@@ -909,7 +918,7 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Population:.
+        ///   Looks up a localized string similar to Population.
         /// </summary>
         internal static string population {
             get {
@@ -1040,6 +1049,15 @@ namespace CenturyLocalization {
         internal static string tanks {
             get {
                 return ResourceManager.GetString("tanks", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Territory.
+        /// </summary>
+        internal static string territory {
+            get {
+                return ResourceManager.GetString("territory", resourceCulture);
             }
         }
         

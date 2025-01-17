@@ -250,7 +250,7 @@
     <value>Uang:</value>
   </data>
   <data name="population" xml:space="preserve">
-    <value>Populasi:</value>
+    <value>Populasi</value>
   </data>
   <data name="area" xml:space="preserve">
     <value>Area:</value>
@@ -484,5 +484,11 @@ Tahun baru telah tiba. Kami mengucapkan selamat tahun baru. Semoga waktu baru in
   </data>
   <data name="income" xml:space="preserve">
     <value>Pendapatan</value>
+  </data>
+  <data name="investments" xml:space="preserve">
+    <value>Investasi</value>
+  </data>
+  <data name="territory" xml:space="preserve">
+    <value>Wilayah</value>
   </data>
 </root>
