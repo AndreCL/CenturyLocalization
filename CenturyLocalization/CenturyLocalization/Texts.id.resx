@@ -244,7 +244,7 @@
     <value>Kemiskinan:</value>
   </data>
   <data name="healthcare" xml:space="preserve">
-    <value>Cakupan Layanan Kesehatan:</value>
+    <value>Cakupan Layanan Kesehatan</value>
   </data>
   <data name="money" xml:space="preserve">
     <value>Uang:</value>
@@ -256,7 +256,7 @@
     <value>Area:</value>
   </data>
   <data name="infrastructure" xml:space="preserve">
-    <value>Infrastruktur:</value>
+    <value>Infrastruktur</value>
   </data>
   <data name="infamy" xml:space="preserve">
     <value>keburukan:</value>
@@ -490,5 +490,11 @@ Tahun baru telah tiba. Kami mengucapkan selamat tahun baru. Semoga waktu baru in
   </data>
   <data name="territory" xml:space="preserve">
     <value>Wilayah</value>
+  </data>
+  <data name="military" xml:space="preserve">
+    <value>Militer</value>
+  </data>
+  <data name="welfare" xml:space="preserve">
+    <value>Kesejahteraan</value>
   </data>
 </root>

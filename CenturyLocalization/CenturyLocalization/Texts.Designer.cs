@@ -556,7 +556,7 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Healthcare coverage:.
+        ///   Looks up a localized string similar to Healthcare coverage.
         /// </summary>
         internal static string healthcare {
             get {
@@ -628,7 +628,7 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Infrastructure:.
+        ///   Looks up a localized string similar to Infrastructure.
         /// </summary>
         internal static string infrastructure {
             get {
@@ -759,6 +759,15 @@ namespace CenturyLocalization {
         internal static string message_delete_save {
             get {
                 return ResourceManager.GetString("message_delete_save", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Military.
+        /// </summary>
+        internal static string military {
+            get {
+                return ResourceManager.GetString("military", resourceCulture);
             }
         }
         
@@ -1139,6 +1148,15 @@ namespace CenturyLocalization {
         internal static string warning {
             get {
                 return ResourceManager.GetString("warning", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Welfare.
+        /// </summary>
+        internal static string welfare {
+            get {
+                return ResourceManager.GetString("welfare", resourceCulture);
             }
         }
         

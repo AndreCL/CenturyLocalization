@@ -254,7 +254,7 @@
     <value>Poverty:</value>
   </data>
   <data name="healthcare" xml:space="preserve">
-    <value>Healthcare coverage:</value>
+    <value>Healthcare coverage</value>
   </data>
   <data name="money" xml:space="preserve">
     <value>Money:</value>
@@ -266,7 +266,7 @@
     <value>Area:</value>
   </data>
   <data name="infrastructure" xml:space="preserve">
-    <value>Infrastructure:</value>
+    <value>Infrastructure</value>
   </data>
   <data name="infamy" xml:space="preserve">
     <value>Infamy:</value>
@@ -507,5 +507,11 @@ A new year is upon us. We wish you a happy new year. May this new time be peacef
   </data>
   <data name="territory" xml:space="preserve">
     <value>Territory</value>
+  </data>
+  <data name="military" xml:space="preserve">
+    <value>Military</value>
+  </data>
+  <data name="welfare" xml:space="preserve">
+    <value>Welfare</value>
   </data>
 </root>

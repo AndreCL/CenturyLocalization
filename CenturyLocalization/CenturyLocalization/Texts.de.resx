@@ -244,7 +244,7 @@
     <value>Armut:</value>
   </data>
   <data name="healthcare" xml:space="preserve">
-    <value>Gesundheitswesen:</value>
+    <value>Gesundheitswesen</value>
   </data>
   <data name="money" xml:space="preserve">
     <value>Geld:</value>
@@ -256,7 +256,7 @@
     <value>Gebiet:</value>
   </data>
   <data name="infrastructure" xml:space="preserve">
-    <value>Infrastruktur:</value>
+    <value>Infrastruktur</value>
   </data>
   <data name="infamy" xml:space="preserve">
     <value>gesellschaftliche Verrohung:</value>
@@ -490,5 +490,11 @@ Ein neues Jahr steht bevor. Wir wünschen Ihnen ein frohes neues Jahr. Möge die
   </data>
   <data name="territory" xml:space="preserve">
     <value>Territorium</value>
+  </data>
+  <data name="military" xml:space="preserve">
+    <value>Militär</value>
+  </data>
+  <data name="welfare" xml:space="preserve">
+    <value>Wohlfahrt</value>
   </data>
 </root>

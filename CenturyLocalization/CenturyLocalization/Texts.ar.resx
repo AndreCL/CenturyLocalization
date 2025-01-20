@@ -488,4 +488,10 @@
   <data name="territory" xml:space="preserve">
     <value>إقليم</value>
   </data>
+  <data name="military" xml:space="preserve">
+    <value>عسكري</value>
+  </data>
+  <data name="welfare" xml:space="preserve">
+    <value>رفاهية</value>
+  </data>
 </root>

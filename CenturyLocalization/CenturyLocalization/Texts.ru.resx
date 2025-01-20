@@ -246,7 +246,7 @@
     <value>Бедность:</value>
   </data>
   <data name="healthcare" xml:space="preserve">
-    <value>Качество медицины:</value>
+    <value>Качество медицины</value>
   </data>
   <data name="money" xml:space="preserve">
     <value>Деньги:</value>
@@ -258,7 +258,7 @@
     <value>Площадь:</value>
   </data>
   <data name="infrastructure" xml:space="preserve">
-    <value>Инфраструктура:</value>
+    <value>Инфраструктура</value>
   </data>
   <data name="infamy" xml:space="preserve">
     <value>Бесчестье:</value>
@@ -495,5 +495,11 @@
   </data>
   <data name="territory" xml:space="preserve">
     <value>Территория</value>
+  </data>
+  <data name="military" xml:space="preserve">
+    <value>Военный</value>
+  </data>
+  <data name="welfare" xml:space="preserve">
+    <value>Благосостояние</value>
   </data>
 </root>

@@ -242,7 +242,7 @@
     <value>Fattigdom:</value>
   </data>
   <data name="healthcare" xml:space="preserve">
-    <value>Sundhedsdækning:</value>
+    <value>Sundhedsdækning</value>
   </data>
   <data name="money" xml:space="preserve">
     <value>Penge:</value>
@@ -254,7 +254,7 @@
     <value>Areal:</value>
   </data>
   <data name="infrastructure" xml:space="preserve">
-    <value>Infrastruktur:</value>
+    <value>Infrastruktur</value>
   </data>
   <data name="infamy" xml:space="preserve">
     <value>Skændsel:</value>
@@ -491,5 +491,11 @@ Et nyt år er over os. Vi ønsker jer et godt nytår. Må denne nye tid være fr
   </data>
   <data name="territory" xml:space="preserve">
     <value>Territorium</value>
+  </data>
+  <data name="military" xml:space="preserve">
+    <value>Militær</value>
+  </data>
+  <data name="welfare" xml:space="preserve">
+    <value>Velfærd</value>
   </data>
 </root>

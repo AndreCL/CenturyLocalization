@@ -244,7 +244,7 @@
     <value>Armoede:</value>
   </data>
   <data name="healthcare" xml:space="preserve">
-    <value>Gezondheidszorg:</value>
+    <value>Gezondheidszorg</value>
   </data>
   <data name="money" xml:space="preserve">
     <value>Geld:</value>
@@ -256,7 +256,7 @@
     <value>Oppervlakte:</value>
   </data>
   <data name="infrastructure" xml:space="preserve">
-    <value>Infrastructuur:</value>
+    <value>Infrastructuur</value>
   </data>
   <data name="infamy" xml:space="preserve">
     <value>Schande/Beruchtheid:</value>
@@ -286,7 +286,7 @@
     <value>Cultuur:</value>
   </data>
   <data name="education" xml:space="preserve">
-    <value>Educatie:</value>
+    <value>Educatie</value>
   </data>
   <data name="daily_investment" xml:space="preserve">
     <value>Dagelijkse investering:</value>
@@ -490,5 +490,11 @@ Een nieuw jaar is aangebroken. Wij wensen u een gelukkig nieuwjaar. Moge deze ni
   </data>
   <data name="territory" xml:space="preserve">
     <value>Territorium</value>
+  </data>
+  <data name="military" xml:space="preserve">
+    <value>Militair</value>
+  </data>
+  <data name="welfare" xml:space="preserve">
+    <value>Welzijn</value>
   </data>
 </root>
