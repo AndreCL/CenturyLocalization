@@ -514,4 +514,22 @@ A new year is upon us. We wish you a happy new year. May this new time be peacef
   <data name="welfare" xml:space="preserve">
     <value>Welfare</value>
   </data>
+  <data name="all_news" xml:space="preserve">
+    <value>All news</value>
+  </data>
+  <data name="my_news" xml:space="preserve">
+    <value>My news</value>
+  </data>
+  <data name="all_wars" xml:space="preserve">
+    <value>All wars</value>
+  </data>
+  <data name="my_wars" xml:space="preserve">
+    <value>My wars</value>
+  </data>
+  <data name="join_attackers" xml:space="preserve">
+    <value>Join attackers</value>
+  </data>
+  <data name="join_defenders" xml:space="preserve">
+    <value>Join defenders</value>
+  </data>
 </root>

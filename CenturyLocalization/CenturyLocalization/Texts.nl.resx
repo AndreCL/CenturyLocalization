@@ -497,4 +497,22 @@ Een nieuw jaar is aangebroken. Wij wensen u een gelukkig nieuwjaar. Moge deze ni
   <data name="welfare" xml:space="preserve">
     <value>Welzijn</value>
   </data>
+  <data name="all_news" xml:space="preserve">
+    <value>Al het nieuws</value>
+  </data>
+  <data name="my_news" xml:space="preserve">
+    <value>Mijn nieuws</value>
+  </data>
+  <data name="all_wars" xml:space="preserve">
+    <value>Alle oorlogen</value>
+  </data>
+  <data name="my_wars" xml:space="preserve">
+    <value>Mijn oorlogen</value>
+  </data>
+  <data name="join_attackers" xml:space="preserve">
+    <value>Sluit je aan bij de aanvallers</value>
+  </data>
+  <data name="join_defenders" xml:space="preserve">
+    <value>Sluit je aan bij de verdedigers</value>
+  </data>
 </root>

@@ -497,4 +497,22 @@ Ein neues Jahr steht bevor. Wir wünschen Ihnen ein frohes neues Jahr. Möge die
   <data name="welfare" xml:space="preserve">
     <value>Wohlfahrt</value>
   </data>
+  <data name="all_news" xml:space="preserve">
+    <value>Alle Nachrichten</value>
+  </data>
+  <data name="my_news" xml:space="preserve">
+    <value>Meine Nachrichten</value>
+  </data>
+  <data name="all_wars" xml:space="preserve">
+    <value>Alle Kriege</value>
+  </data>
+  <data name="my_wars" xml:space="preserve">
+    <value>Meine Kriege</value>
+  </data>
+  <data name="join_attackers" xml:space="preserve">
+    <value>Schließe dich den Angreifern an</value>
+  </data>
+  <data name="join_defenders" xml:space="preserve">
+    <value>Schließe dich den Verteidigern an</value>
+  </data>
 </root>

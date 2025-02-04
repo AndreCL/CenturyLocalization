@@ -494,4 +494,22 @@
   <data name="welfare" xml:space="preserve">
     <value>رفاهية</value>
   </data>
+  <data name="all_news" xml:space="preserve">
+    <value>جميع الأخبار</value>
+  </data>
+  <data name="my_news" xml:space="preserve">
+    <value>أخباري</value>
+  </data>
+  <data name="all_wars" xml:space="preserve">
+    <value>جميع الحروب</value>
+  </data>
+  <data name="my_wars" xml:space="preserve">
+    <value>حروبي</value>
+  </data>
+  <data name="join_attackers" xml:space="preserve">
+    <value>انضم إلى المهاجمين</value>
+  </data>
+  <data name="join_defenders" xml:space="preserve">
+    <value>انضم إلى المدافعين</value>
+  </data>
 </root>

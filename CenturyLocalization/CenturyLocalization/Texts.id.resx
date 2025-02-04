@@ -497,4 +497,22 @@ Tahun baru telah tiba. Kami mengucapkan selamat tahun baru. Semoga waktu baru in
   <data name="welfare" xml:space="preserve">
     <value>Kesejahteraan</value>
   </data>
+  <data name="all_news" xml:space="preserve">
+    <value>Semua berita</value>
+  </data>
+  <data name="my_news" xml:space="preserve">
+    <value>Berita saya</value>
+  </data>
+  <data name="all_wars" xml:space="preserve">
+    <value>Semua perang</value>
+  </data>
+  <data name="my_wars" xml:space="preserve">
+    <value>Perang saya</value>
+  </data>
+  <data name="join_attackers" xml:space="preserve">
+    <value>Bergabung dengan penyerang</value>
+  </data>
+  <data name="join_defenders" xml:space="preserve">
+    <value>Bergabung dengan para pembela</value>
+  </data>
 </root>

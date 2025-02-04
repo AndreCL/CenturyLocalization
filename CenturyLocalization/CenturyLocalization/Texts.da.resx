@@ -498,4 +498,22 @@ Et nyt år er over os. Vi ønsker jer et godt nytår. Må denne nye tid være fr
   <data name="welfare" xml:space="preserve">
     <value>Velfærd</value>
   </data>
+  <data name="all_news" xml:space="preserve">
+    <value>Alle nyheder</value>
+  </data>
+  <data name="my_news" xml:space="preserve">
+    <value>Mine nyheder</value>
+  </data>
+  <data name="all_wars" xml:space="preserve">
+    <value>Alle krige</value>
+  </data>
+  <data name="my_wars" xml:space="preserve">
+    <value>Mine krige</value>
+  </data>
+  <data name="join_attackers" xml:space="preserve">
+    <value>Deltag med angriberne</value>
+  </data>
+  <data name="join_defenders" xml:space="preserve">
+    <value>Deltag med forsvarerne</value>
+  </data>
 </root>

@@ -97,6 +97,24 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to All news.
+        /// </summary>
+        internal static string all_news {
+            get {
+                return ResourceManager.GetString("all_news", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to All wars.
+        /// </summary>
+        internal static string all_wars {
+            get {
+                return ResourceManager.GetString("all_wars", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to {countryToDelete.Name} became so small and insignificant that {inherited.Name} has absorbed it.
         /// </summary>
         internal static string annexed_message {
@@ -691,6 +709,24 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Join attackers.
+        /// </summary>
+        internal static string join_attackers {
+            get {
+                return ResourceManager.GetString("join_attackers", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Join defenders.
+        /// </summary>
+        internal static string join_defenders {
+            get {
+                return ResourceManager.GetString("join_defenders", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Large ships:.
         /// </summary>
         internal static string largeships {
@@ -795,6 +831,24 @@ namespace CenturyLocalization {
         internal static string money {
             get {
                 return ResourceManager.GetString("money", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to My news.
+        /// </summary>
+        internal static string my_news {
+            get {
+                return ResourceManager.GetString("my_news", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to My wars.
+        /// </summary>
+        internal static string my_wars {
+            get {
+                return ResourceManager.GetString("my_wars", resourceCulture);
             }
         }
         

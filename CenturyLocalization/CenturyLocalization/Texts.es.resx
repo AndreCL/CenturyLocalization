@@ -499,4 +499,22 @@ Un nuevo año está sobre nosotros. Les deseamos un feliz año nuevo. Que este n
   <data name="welfare" xml:space="preserve">
     <value>Bienestar</value>
   </data>
+  <data name="all_news" xml:space="preserve">
+    <value>Todas las noticias</value>
+  </data>
+  <data name="my_news" xml:space="preserve">
+    <value>Mis noticias</value>
+  </data>
+  <data name="all_wars" xml:space="preserve">
+    <value>Todas las guerras</value>
+  </data>
+  <data name="my_wars" xml:space="preserve">
+    <value>Mis guerras</value>
+  </data>
+  <data name="join_attackers" xml:space="preserve">
+    <value>Únete a los atacantes</value>
+  </data>
+  <data name="join_defenders" xml:space="preserve">
+    <value>Únete a los defensores</value>
+  </data>
 </root>

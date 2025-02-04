@@ -502,4 +502,22 @@
   <data name="welfare" xml:space="preserve">
     <value>Благосостояние</value>
   </data>
+  <data name="all_news" xml:space="preserve">
+    <value>Все новости</value>
+  </data>
+  <data name="my_news" xml:space="preserve">
+    <value>Мои новости</value>
+  </data>
+  <data name="all_wars" xml:space="preserve">
+    <value>Все войны</value>
+  </data>
+  <data name="my_wars" xml:space="preserve">
+    <value>Мои войны</value>
+  </data>
+  <data name="join_attackers" xml:space="preserve">
+    <value>Присоединиться к нападающим</value>
+  </data>
+  <data name="join_defenders" xml:space="preserve">
+    <value>Присоединиться к защитникам</value>
+  </data>
 </root>
