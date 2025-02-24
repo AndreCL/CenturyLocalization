@@ -253,19 +253,19 @@
     <value>Bevolking</value>
   </data>
   <data name="area" xml:space="preserve">
-    <value>Oppervlakte:</value>
+    <value>Oppervlakte</value>
   </data>
   <data name="infrastructure" xml:space="preserve">
     <value>Infrastructuur</value>
   </data>
   <data name="infamy" xml:space="preserve">
-    <value>Schande/Beruchtheid:</value>
+    <value>Schande/Beruchtheid</value>
   </data>
   <data name="independentsince" xml:space="preserve">
-    <value>Onafhankelijk sinds:</value>
+    <value>Onafhankelijk sinds</value>
   </data>
   <data name="war_level" xml:space="preserve">
-    <value>Oorlogsniveau:</value>
+    <value>Oorlogsniveau</value>
   </data>
   <data name="employment" xml:space="preserve">
     <value>Werkgelegenheid</value>
@@ -277,13 +277,13 @@
     <value>Leeftijdsgroepen</value>
   </data>
   <data name="gender" xml:space="preserve">
-    <value>Geslacht:</value>
+    <value>Geslacht</value>
   </data>
   <data name="religion" xml:space="preserve">
-    <value>Religie:</value>
+    <value>Religie</value>
   </data>
   <data name="culture" xml:space="preserve">
-    <value>Cultuur:</value>
+    <value>Cultuur</value>
   </data>
   <data name="education" xml:space="preserve">
     <value>Educatie</value>
@@ -373,13 +373,13 @@
     <value>Verdediger:</value>
   </data>
   <data name="attacker_victory" xml:space="preserve">
-    <value>Aanvaller won:</value>
+    <value>Aanvaller won</value>
   </data>
   <data name="tie" xml:space="preserve">
-    <value>Gelijke stand:</value>
+    <value>Gelijke stand</value>
   </data>
   <data name="defender_victory" xml:space="preserve">
-    <value>Verdediger won:</value>
+    <value>Verdediger won</value>
   </data>
   <data name="no_longer_exists" xml:space="preserve">
     <value>Gekozen land bestaat niet meer</value>
@@ -515,7 +515,7 @@ Een nieuw jaar is aangebroken. Wij wensen u een gelukkig nieuwjaar. Moge deze ni
   <data name="join_defenders" xml:space="preserve">
     <value>Sluit je aan bij de verdedigers</value>
   </data>
-  <data name="foreign_inverstment" xml:space="preserve">
+  <data name="foreign_investment" xml:space="preserve">
     <value>Zoek buitenlandse investeringen (Beloningsadvertentie)</value>
   </data>
   <data name="diplomatic_campaign" xml:space="preserve">

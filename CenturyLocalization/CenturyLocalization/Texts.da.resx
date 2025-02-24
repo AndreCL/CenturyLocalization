@@ -251,19 +251,19 @@
     <value>Befolkning</value>
   </data>
   <data name="area" xml:space="preserve">
-    <value>Areal:</value>
+    <value>Areal</value>
   </data>
   <data name="infrastructure" xml:space="preserve">
     <value>Infrastruktur</value>
   </data>
   <data name="infamy" xml:space="preserve">
-    <value>Skændsel:</value>
+    <value>Skændsel</value>
   </data>
   <data name="independentsince" xml:space="preserve">
-    <value>Uafhængighedsdato:</value>
+    <value>Uafhængighedsdato</value>
   </data>
   <data name="war_level" xml:space="preserve">
-    <value>Krigsniveau:</value>
+    <value>Krigsniveau</value>
   </data>
   <data name="employment" xml:space="preserve">
     <value>Beskæftigelse</value>
@@ -305,7 +305,7 @@
     <value>Skore</value>
   </data>
   <data name="men_to_equipment" xml:space="preserve">
-    <value>Mænd til udstyr forhold: </value>
+    <value>Mænd til udstyr forhold:</value>
   </data>
   <data name="extra_equipment" xml:space="preserve">
     <value>Du har extra udstyr</value>
@@ -516,7 +516,7 @@ Et nyt år er over os. Vi ønsker jer et godt nytår. Må denne nye tid være fr
   <data name="join_defenders" xml:space="preserve">
     <value>Deltag med forsvarerne</value>
   </data>
-  <data name="foreign_inverstment" xml:space="preserve">
+  <data name="foreign_investment" xml:space="preserve">
     <value>Søg udenlandske investeringer (Belønningsannonce)</value>
   </data>
   <data name="diplomatic_campaign" xml:space="preserve">

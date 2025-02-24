@@ -373,13 +373,13 @@
     <value>مدافع</value>
   </data>
   <data name="attacker_victory" xml:space="preserve">
-    <value>فاز المهاجمين </value>
+    <value>فاز المهاجمين</value>
   </data>
   <data name="tie" xml:space="preserve">
     <value>رابطة</value>
   </data>
   <data name="defender_victory" xml:space="preserve">
-    <value>فاز المدافعين </value>
+    <value>فاز المدافعين</value>
   </data>
   <data name="no_longer_exists" xml:space="preserve">
     <value>لم تعد الدولة المختارة موجودة</value>
@@ -512,7 +512,7 @@
   <data name="join_defenders" xml:space="preserve">
     <value>انضم إلى المدافعين</value>
   </data>
-  <data name="foreign_inverstment" xml:space="preserve">
+  <data name="foreign_investment" xml:space="preserve">
     <value>السعي للاستثمار الأجنبي (إعلان مكافأة)</value>
   </data>
   <data name="diplomatic_campaign" xml:space="preserve">

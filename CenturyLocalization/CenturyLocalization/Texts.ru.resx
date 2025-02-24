@@ -255,19 +255,19 @@
     <value>Население</value>
   </data>
   <data name="area" xml:space="preserve">
-    <value>Площадь:</value>
+    <value>Площадь</value>
   </data>
   <data name="infrastructure" xml:space="preserve">
     <value>Инфраструктура</value>
   </data>
   <data name="infamy" xml:space="preserve">
-    <value>Бесчестье:</value>
+    <value>Бесчестье</value>
   </data>
   <data name="independentsince" xml:space="preserve">
-    <value>Обретение независимости:</value>
+    <value>Обретение независимости</value>
   </data>
   <data name="war_level" xml:space="preserve">
-    <value>Усталость от войны:</value>
+    <value>Усталость от войны</value>
   </data>
   <data name="employment" xml:space="preserve">
     <value>Занятость</value>
@@ -309,7 +309,7 @@
     <value>Счёт</value>
   </data>
   <data name="men_to_equipment" xml:space="preserve">
-    <value>Соотношение солдат к оснащению: </value>
+    <value>Соотношение солдат к оснащению:</value>
   </data>
   <data name="extra_equipment" xml:space="preserve">
     <value>У вас есть свободное оснащение</value>
@@ -520,7 +520,7 @@
   <data name="join_defenders" xml:space="preserve">
     <value>Присоединиться к защитникам</value>
   </data>
-  <data name="foreign_inverstment" xml:space="preserve">
+  <data name="foreign_investment" xml:space="preserve">
     <value>Искать иностранные инвестиции (Рекламное объявление с наградой)</value>
   </data>
   <data name="diplomatic_campaign" xml:space="preserve">

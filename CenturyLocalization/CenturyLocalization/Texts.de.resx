@@ -253,19 +253,19 @@
     <value>Bevölkerung</value>
   </data>
   <data name="area" xml:space="preserve">
-    <value>Gebiet:</value>
+    <value>Gebiet</value>
   </data>
   <data name="infrastructure" xml:space="preserve">
     <value>Infrastruktur</value>
   </data>
   <data name="infamy" xml:space="preserve">
-    <value>gesellschaftliche Verrohung:</value>
+    <value>gesellschaftliche Verrohung</value>
   </data>
   <data name="independentsince" xml:space="preserve">
-    <value>Unabhängig seit:</value>
+    <value>Unabhängig seit</value>
   </data>
   <data name="war_level" xml:space="preserve">
-    <value>Bürgerkriegsrisiko:</value>
+    <value>Bürgerkriegsrisiko</value>
   </data>
   <data name="employment" xml:space="preserve">
     <value>Eingestellte</value>
@@ -307,7 +307,7 @@
     <value>Punktzahl</value>
   </data>
   <data name="men_to_equipment" xml:space="preserve">
-    <value>Auszurüstende Männer: </value>
+    <value>Auszurüstende Männer:</value>
   </data>
   <data name="extra_equipment" xml:space="preserve">
     <value>Du hast überschüssige Ausstattung</value>
@@ -515,7 +515,7 @@ Ein neues Jahr steht bevor. Wir wünschen Ihnen ein frohes neues Jahr. Möge die
   <data name="join_defenders" xml:space="preserve">
     <value>Schließe dich den Verteidigern an</value>
   </data>
-  <data name="foreign_inverstment" xml:space="preserve">
+  <data name="foreign_investment" xml:space="preserve">
     <value>Ausländische Investitionen suchen (Belohnungsanzeige)</value>
   </data>
   <data name="diplomatic_campaign" xml:space="preserve">

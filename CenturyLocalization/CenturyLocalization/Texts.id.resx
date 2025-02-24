@@ -253,19 +253,19 @@
     <value>Populasi</value>
   </data>
   <data name="area" xml:space="preserve">
-    <value>Area:</value>
+    <value>Area</value>
   </data>
   <data name="infrastructure" xml:space="preserve">
     <value>Infrastruktur</value>
   </data>
   <data name="infamy" xml:space="preserve">
-    <value>keburukan:</value>
+    <value>keburukan</value>
   </data>
   <data name="independentsince" xml:space="preserve">
-    <value>Merdeka Sejak:</value>
+    <value>Merdeka Sejak</value>
   </data>
   <data name="war_level" xml:space="preserve">
-    <value>Tingkat Perang:</value>
+    <value>Tingkat Perang</value>
   </data>
   <data name="employment" xml:space="preserve">
     <value>Pekerjaan</value>
@@ -292,7 +292,7 @@
     <value>Investasi Harian:</value>
   </data>
   <data name="one_time_investment" xml:space="preserve">
-    <value>Investasi Satu Kali</value>
+    <value>Investasi Satu Kali:</value>
   </data>
   <data name="in_millions_hint" xml:space="preserve">
     <value>Dalam Jutaan $</value>
@@ -515,7 +515,7 @@ Tahun baru telah tiba. Kami mengucapkan selamat tahun baru. Semoga waktu baru in
   <data name="join_defenders" xml:space="preserve">
     <value>Bergabung dengan para pembela</value>
   </data>
-  <data name="foreign_inverstment" xml:space="preserve">
+  <data name="foreign_investment" xml:space="preserve">
     <value>Mencari investasi asing (Iklan hadiah)</value>
   </data>
   <data name="diplomatic_campaign" xml:space="preserve">

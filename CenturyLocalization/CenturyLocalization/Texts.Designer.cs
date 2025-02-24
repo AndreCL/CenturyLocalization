@@ -142,7 +142,7 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Area:.
+        ///   Looks up a localized string similar to Area.
         /// </summary>
         internal static string area {
             get {
@@ -549,9 +549,9 @@ namespace CenturyLocalization {
         /// <summary>
         ///   Looks up a localized string similar to Seek foreign investment (Reward ad).
         /// </summary>
-        internal static string foreign_inverstment {
+        internal static string foreign_investment {
             get {
-                return ResourceManager.GetString("foreign_inverstment", resourceCulture);
+                return ResourceManager.GetString("foreign_investment", resourceCulture);
             }
         }
         
@@ -646,7 +646,7 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Independent since:.
+        ///   Looks up a localized string similar to Independent since.
         /// </summary>
         internal static string independentsince {
             get {
@@ -655,7 +655,7 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Infamy:.
+        ///   Looks up a localized string similar to Infamy.
         /// </summary>
         internal static string infamy {
             get {
@@ -799,7 +799,7 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Men to Equipment ratio: .
+        ///   Looks up a localized string similar to Men to Equipment ratio:.
         /// </summary>
         internal static string men_to_equipment {
             get {
@@ -1215,7 +1215,7 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to War level:.
+        ///   Looks up a localized string similar to War level.
         /// </summary>
         internal static string war_level {
             get {
