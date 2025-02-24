@@ -358,6 +358,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Diplomatic campaign (Reward ad).
+        /// </summary>
+        internal static string diplomatic_campaign {
+            get {
+                return ResourceManager.GetString("diplomatic_campaign", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Discord.
         /// </summary>
         internal static string discord {
@@ -534,6 +543,15 @@ namespace CenturyLocalization {
         internal static string filter_wars {
             get {
                 return ResourceManager.GetString("filter_wars", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Seek foreign investment (Reward ad).
+        /// </summary>
+        internal static string foreign_inverstment {
+            get {
+                return ResourceManager.GetString("foreign_inverstment", resourceCulture);
             }
         }
         
@@ -995,6 +1013,15 @@ namespace CenturyLocalization {
         internal static string poverty {
             get {
                 return ResourceManager.GetString("poverty", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Propaganda campaign (Reward ad).
+        /// </summary>
+        internal static string propaganda_campaign {
+            get {
+                return ResourceManager.GetString("propaganda_campaign", resourceCulture);
             }
         }
         

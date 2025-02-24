@@ -515,4 +515,13 @@ Een nieuw jaar is aangebroken. Wij wensen u een gelukkig nieuwjaar. Moge deze ni
   <data name="join_defenders" xml:space="preserve">
     <value>Sluit je aan bij de verdedigers</value>
   </data>
+  <data name="foreign_inverstment" xml:space="preserve">
+    <value>Zoek buitenlandse investeringen (Beloningsadvertentie)</value>
+  </data>
+  <data name="diplomatic_campaign" xml:space="preserve">
+    <value>Diplomatieke campagne (Beloningsadvertentie)</value>
+  </data>
+  <data name="propaganda_campaign" xml:space="preserve">
+    <value>Propagandacampagne (Beloningsadvertentie)</value>
+  </data>
 </root>

@@ -515,4 +515,13 @@ Ein neues Jahr steht bevor. Wir wünschen Ihnen ein frohes neues Jahr. Möge die
   <data name="join_defenders" xml:space="preserve">
     <value>Schließe dich den Verteidigern an</value>
   </data>
+  <data name="foreign_inverstment" xml:space="preserve">
+    <value>Ausländische Investitionen suchen (Belohnungsanzeige)</value>
+  </data>
+  <data name="diplomatic_campaign" xml:space="preserve">
+    <value>Diplomatische Kampagne (Belohnungsanzeige)</value>
+  </data>
+  <data name="propaganda_campaign" xml:space="preserve">
+    <value>Propagandakampagne (Belohnungsanzeige)</value>
+  </data>
 </root>
