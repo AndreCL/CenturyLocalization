@@ -294,9 +294,6 @@
   <data name="one_time_investment" xml:space="preserve">
     <value>Einmalige Investition:</value>
   </data>
-  <data name="in_millions_hint" xml:space="preserve">
-    <value>in Millionen von $</value>
-  </data>
   <data name="filter_wars" xml:space="preserve">
     <value>Kriege filtern</value>
   </data>
@@ -349,10 +346,10 @@
     <value>Spiel vorbei</value>
   </data>
   <data name="endgametitle" xml:space="preserve">
-    <value>Glückwunsch! Du hast deine Nation durch harte {0] Jahre geführt</value>
+    <value>Glückwunsch! Du hast deine Nation durch harte {0} Jahre geführt</value>
   </data>
   <data name="winner" xml:space="preserve">
-    <value>Sieger:</value>
+    <value>Sieger</value>
   </data>
   <data name="second" xml:space="preserve">
     <value>2er:</value>
@@ -523,5 +520,26 @@ Ein neues Jahr steht bevor. Wir wünschen Ihnen ein frohes neues Jahr. Möge die
   </data>
   <data name="propaganda_campaign" xml:space="preserve">
     <value>Propagandakampagne (Belohnungsanzeige)</value>
+  </data>
+  <data name="numerous_as_stars" xml:space="preserve">
+    <value>Zahlreich wie die Sterne</value>
+  </data>
+  <data name="endless_frontiers" xml:space="preserve">
+    <value>Land der endlosen Grenzen</value>
+  </data>
+  <data name="warrior_nation" xml:space="preserve">
+    <value>Kriegernation</value>
+  </data>
+  <data name="sovereign_sea" xml:space="preserve">
+    <value>Souverän der Meere</value>
+  </data>
+  <data name="winged_armada" xml:space="preserve">
+    <value>Geflügelte Armada</value>
+  </data>
+  <data name="paragon_of_peace" xml:space="preserve">
+    <value>Vorbild des Friedens</value>
+  </data>
+  <data name="best_trains_roads" xml:space="preserve">
+    <value>Die besten Züge und Straßen</value>
   </data>
 </root>

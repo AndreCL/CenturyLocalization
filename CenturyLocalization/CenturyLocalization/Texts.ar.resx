@@ -521,4 +521,25 @@
   <data name="propaganda_campaign" xml:space="preserve">
     <value>حملة دعاية (إعلان مكافأة)</value>
   </data>
+  <data name="numerous_as_stars" xml:space="preserve">
+    <value>كثيرة مثل النجوم</value>
+  </data>
+  <data name="endless_frontiers" xml:space="preserve">
+    <value>أرض الحدود التي لا نهاية لها</value>
+  </data>
+  <data name="warrior_nation" xml:space="preserve">
+    <value>أمة المحاربين</value>
+  </data>
+  <data name="sovereign_sea" xml:space="preserve">
+    <value>سيّد البحار</value>
+  </data>
+  <data name="winged_armada" xml:space="preserve">
+    <value>الأسطول المجنح</value>
+  </data>
+  <data name="paragon_of_peace" xml:space="preserve">
+    <value>مثال السلام</value>
+  </data>
+  <data name="best_trains_roads" xml:space="preserve">
+    <value>أفضل القطارات والطرق</value>
+  </data>
 </root>

@@ -292,9 +292,6 @@
   <data name="one_time_investment" xml:space="preserve">
     <value>Engangs investering:</value>
   </data>
-  <data name="in_millions_hint" xml:space="preserve">
-    <value>i millioner af $</value>
-  </data>
   <data name="filter_wars" xml:space="preserve">
     <value>Filtrer krige</value>
   </data>
@@ -347,10 +344,10 @@
     <value>Spil slut</value>
   </data>
   <data name="endgametitle" xml:space="preserve">
-    <value>Tillykke! Du har ledt dit land igennem {0] år</value>
+    <value>Tillykke! Du har ledt dit land igennem {0} år</value>
   </data>
   <data name="winner" xml:space="preserve">
-    <value>Vinder:</value>
+    <value>Vinder</value>
   </data>
   <data name="second" xml:space="preserve">
     <value>2.:</value>
@@ -524,5 +521,26 @@ Et nyt år er over os. Vi ønsker jer et godt nytår. Må denne nye tid være fr
   </data>
   <data name="propaganda_campaign" xml:space="preserve">
     <value>Propagandakampagne (Belønningsannonce)</value>
+  </data>
+  <data name="numerous_as_stars" xml:space="preserve">
+    <value>Talrige som stjernerne</value>
+  </data>
+  <data name="endless_frontiers" xml:space="preserve">
+    <value>Landet med uendelige grænser</value>
+  </data>
+  <data name="warrior_nation" xml:space="preserve">
+    <value>Krigernation</value>
+  </data>
+  <data name="sovereign_sea" xml:space="preserve">
+    <value>Hersker over havene</value>
+  </data>
+  <data name="winged_armada" xml:space="preserve">
+    <value>Bevinget armada</value>
+  </data>
+  <data name="paragon_of_peace" xml:space="preserve">
+    <value>Mønster på fred</value>
+  </data>
+  <data name="best_trains_roads" xml:space="preserve">
+    <value>De bedste tog og veje</value>
   </data>
 </root>
