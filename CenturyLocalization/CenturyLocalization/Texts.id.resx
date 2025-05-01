@@ -241,13 +241,13 @@
     <value>Deklarasi Perang</value>
   </data>
   <data name="poverty" xml:space="preserve">
-    <value>Kemiskinan:</value>
+    <value>Kemiskinan</value>
   </data>
   <data name="healthcare" xml:space="preserve">
     <value>Cakupan Layanan Kesehatan</value>
   </data>
   <data name="money" xml:space="preserve">
-    <value>Uang:</value>
+    <value>Uang</value>
   </data>
   <data name="population" xml:space="preserve">
     <value>Populasi</value>
@@ -541,5 +541,8 @@ Tahun baru telah tiba. Kami mengucapkan selamat tahun baru. Semoga waktu baru in
   </data>
   <data name="best_trains_roads" xml:space="preserve">
     <value>Kereta dan jalan terbaik</value>
+  </data>
+  <data name="total" xml:space="preserve">
+    <value>Total</value>
   </data>
 </root>

@@ -542,4 +542,7 @@
   <data name="best_trains_roads" xml:space="preserve">
     <value>أفضل القطارات والطرق</value>
   </data>
+  <data name="total" xml:space="preserve">
+    <value>الإجمالي</value>
+  </data>
 </root>

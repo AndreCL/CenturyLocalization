@@ -241,13 +241,13 @@
     <value>Verklaar oorlog</value>
   </data>
   <data name="poverty" xml:space="preserve">
-    <value>Armoede:</value>
+    <value>Armoede</value>
   </data>
   <data name="healthcare" xml:space="preserve">
     <value>Gezondheidszorg</value>
   </data>
   <data name="money" xml:space="preserve">
-    <value>Geld:</value>
+    <value>Geld</value>
   </data>
   <data name="population" xml:space="preserve">
     <value>Bevolking</value>
@@ -541,5 +541,8 @@ Een nieuw jaar is aangebroken. Wij wensen u een gelukkig nieuwjaar. Moge deze ni
   </data>
   <data name="best_trains_roads" xml:space="preserve">
     <value>De beste treinen en wegen</value>
+  </data>
+  <data name="total" xml:space="preserve">
+    <value>Totaal</value>
   </data>
 </root>

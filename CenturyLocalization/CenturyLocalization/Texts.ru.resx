@@ -243,13 +243,13 @@
     <value>Обьявить войну</value>
   </data>
   <data name="poverty" xml:space="preserve">
-    <value>Бедность:</value>
+    <value>Бедность</value>
   </data>
   <data name="healthcare" xml:space="preserve">
     <value>Качество медицины</value>
   </data>
   <data name="money" xml:space="preserve">
-    <value>Деньги:</value>
+    <value>Деньги</value>
   </data>
   <data name="population" xml:space="preserve">
     <value>Население</value>
@@ -546,5 +546,8 @@
   </data>
   <data name="best_trains_roads" xml:space="preserve">
     <value>Лучшие поезда и дороги</value>
+  </data>
+  <data name="total" xml:space="preserve">
+    <value>Итого</value>
   </data>
 </root>

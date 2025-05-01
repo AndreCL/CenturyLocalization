@@ -239,13 +239,13 @@
     <value>erklære krig</value>
   </data>
   <data name="poverty" xml:space="preserve">
-    <value>Fattigdom:</value>
+    <value>Fattigdom</value>
   </data>
   <data name="healthcare" xml:space="preserve">
     <value>Sundhedsdækning</value>
   </data>
   <data name="money" xml:space="preserve">
-    <value>Penge:</value>
+    <value>Penge</value>
   </data>
   <data name="population" xml:space="preserve">
     <value>Befolkning</value>
@@ -542,5 +542,8 @@ Et nyt år er over os. Vi ønsker jer et godt nytår. Må denne nye tid være fr
   </data>
   <data name="best_trains_roads" xml:space="preserve">
     <value>De bedste tog og veje</value>
+  </data>
+  <data name="total" xml:space="preserve">
+    <value>Total</value>
   </data>
 </root>

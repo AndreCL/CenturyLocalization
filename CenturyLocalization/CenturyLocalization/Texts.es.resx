@@ -246,13 +246,13 @@
     <value>Declarar guerra</value>
   </data>
   <data name="poverty" xml:space="preserve">
-    <value>Pobreza:</value>
+    <value>Pobreza</value>
   </data>
   <data name="healthcare" xml:space="preserve">
     <value>Cobertura sanitaria</value>
   </data>
   <data name="money" xml:space="preserve">
-    <value>Dinero:</value>
+    <value>Dinero</value>
   </data>
   <data name="population" xml:space="preserve">
     <value>Población</value>
@@ -543,5 +543,8 @@ Un nuevo año está sobre nosotros. Les deseamos un feliz año nuevo. Que este n
   </data>
   <data name="best_trains_roads" xml:space="preserve">
     <value>Los mejores trenes y carreteras</value>
+  </data>
+  <data name="total" xml:space="preserve">
+    <value>Total</value>
   </data>
 </root>

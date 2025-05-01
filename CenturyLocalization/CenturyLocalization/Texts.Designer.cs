@@ -61,6 +61,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string a_new_nation_rises {
+            get {
+                return ResourceManager.GetString("a_new_nation_rises", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Age Groups.
         /// </summary>
         internal static string age_groups {
@@ -93,6 +102,15 @@ namespace CenturyLocalization {
         internal static string airforce {
             get {
                 return ResourceManager.GetString("airforce", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string all_countries {
+            get {
+                return ResourceManager.GetString("all_countries", resourceCulture);
             }
         }
         
@@ -291,6 +309,15 @@ namespace CenturyLocalization {
         internal static string daily_investment {
             get {
                 return ResourceManager.GetString("daily_investment", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string days {
+            get {
+                return ResourceManager.GetString("days", resourceCulture);
             }
         }
         
@@ -592,6 +619,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string gameover_save_deleted {
+            get {
+                return ResourceManager.GetString("gameover_save_deleted", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Gender.
         /// </summary>
         internal static string gender {
@@ -637,6 +673,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string incompatible_save_deleted {
+            get {
+                return ResourceManager.GetString("incompatible_save_deleted", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to As one of the countries involved no longer exists, {warToRemove.Name} ended inconclusively.
         /// </summary>
         internal static string inconclusive_message {
@@ -651,6 +696,15 @@ namespace CenturyLocalization {
         internal static string inconclusive_title {
             get {
                 return ResourceManager.GetString("inconclusive_title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string independence {
+            get {
+                return ResourceManager.GetString("independence", resourceCulture);
             }
         }
         
@@ -853,11 +907,20 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Money:.
+        ///   Looks up a localized string similar to Money.
         /// </summary>
         internal static string money {
             get {
                 return ResourceManager.GetString("money", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string months {
+            get {
+                return ResourceManager.GetString("months", resourceCulture);
             }
         }
         
@@ -1035,7 +1098,7 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Poverty:.
+        ///   Looks up a localized string similar to Poverty.
         /// </summary>
         internal static string poverty {
             get {
@@ -1058,6 +1121,15 @@ namespace CenturyLocalization {
         internal static string rank {
             get {
                 return ResourceManager.GetString("rank", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string rank_by_score {
+            get {
+                return ResourceManager.GetString("rank_by_score", resourceCulture);
             }
         }
         
@@ -1206,6 +1278,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Total.
+        /// </summary>
+        internal static string total {
+            get {
+                return ResourceManager.GetString("total", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Ok.
         /// </summary>
         internal static string unittest_both {
@@ -1278,6 +1359,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string weeks {
+            get {
+                return ResourceManager.GetString("weeks", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Welfare.
         /// </summary>
         internal static string welfare {
@@ -1328,6 +1418,15 @@ namespace CenturyLocalization {
         internal static string world_war_title {
             get {
                 return ResourceManager.GetString("world_war_title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string years {
+            get {
+                return ResourceManager.GetString("years", resourceCulture);
             }
         }
         
