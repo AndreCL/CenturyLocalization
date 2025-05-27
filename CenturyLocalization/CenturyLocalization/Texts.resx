@@ -563,33 +563,33 @@ A new year is upon us. We wish you a happy new year. May this new time be peacef
     <value>Total</value>
   </data>
   <data name="years" xml:space="preserve">
-    <value></value>
+    <value>years</value>
   </data>
   <data name="months" xml:space="preserve">
-    <value></value>
+    <value>months</value>
   </data>
   <data name="weeks" xml:space="preserve">
-    <value></value>
+    <value>weeks</value>
   </data>
   <data name="days" xml:space="preserve">
-    <value></value>
+    <value>days</value>
   </data>
   <data name="independence" xml:space="preserve">
-    <value></value>
+    <value>Independence</value>
   </data>
   <data name="all_countries" xml:space="preserve">
-    <value></value>
+    <value>All countries</value>
   </data>
   <data name="a_new_nation_rises" xml:space="preserve">
-    <value></value>
+    <value>A new nation rises</value>
   </data>
   <data name="incompatible_save_deleted" xml:space="preserve">
-    <value></value>
+    <value>Incompatible save deleted</value>
   </data>
   <data name="gameover_save_deleted" xml:space="preserve">
-    <value></value>
+    <value>Game over save deleted</value>
   </data>
   <data name="rank_by_score" xml:space="preserve">
-    <value></value>
+    <value>Rank by score</value>
   </data>
 </root>

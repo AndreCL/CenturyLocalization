@@ -61,7 +61,7 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to A new nation rises.
         /// </summary>
         internal static string a_new_nation_rises {
             get {
@@ -106,7 +106,7 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to All countries.
         /// </summary>
         internal static string all_countries {
             get {
@@ -313,7 +313,7 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to days.
         /// </summary>
         internal static string days {
             get {
@@ -619,7 +619,7 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to Game over save deleted.
         /// </summary>
         internal static string gameover_save_deleted {
             get {
@@ -673,7 +673,7 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to Incompatible save deleted.
         /// </summary>
         internal static string incompatible_save_deleted {
             get {
@@ -700,7 +700,7 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to Independence.
         /// </summary>
         internal static string independence {
             get {
@@ -916,7 +916,7 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to months.
         /// </summary>
         internal static string months {
             get {
@@ -1125,7 +1125,7 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to Rank by score.
         /// </summary>
         internal static string rank_by_score {
             get {
@@ -1359,7 +1359,7 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to weeks.
         /// </summary>
         internal static string weeks {
             get {
@@ -1422,7 +1422,7 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to years.
         /// </summary>
         internal static string years {
             get {

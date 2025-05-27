@@ -546,4 +546,34 @@ Et nyt år er over os. Vi ønsker jer et godt nytår. Må denne nye tid være fr
   <data name="total" xml:space="preserve">
     <value>Total</value>
   </data>
+  <data name="years" xml:space="preserve">
+    <value>år</value>
+  </data>
+  <data name="months" xml:space="preserve">
+    <value>måneder</value>
+  </data>
+  <data name="weeks" xml:space="preserve">
+    <value>uger</value>
+  </data>
+  <data name="days" xml:space="preserve">
+    <value>dage</value>
+  </data>
+  <data name="independence" xml:space="preserve">
+    <value>Uafhængighed</value>
+  </data>
+  <data name="all_countries" xml:space="preserve">
+    <value>Alle lande</value>
+  </data>
+  <data name="a_new_nation_rises" xml:space="preserve">
+    <value>En ny nation rejser sig</value>
+  </data>
+  <data name="incompatible_save_deleted" xml:space="preserve">
+    <value>Uforenelig gem slettet</value>
+  </data>
+  <data name="gameover_save_deleted" xml:space="preserve">
+    <value>Spillet er slut, gem slettet</value>
+  </data>
+  <data name="rank_by_score" xml:space="preserve">
+    <value>Rangér efter point</value>
+  </data>
 </root>

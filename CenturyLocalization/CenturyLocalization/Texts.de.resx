@@ -545,4 +545,34 @@ Ein neues Jahr steht bevor. Wir wünschen Ihnen ein frohes neues Jahr. Möge die
   <data name="total" xml:space="preserve">
     <value>Gesamt</value>
   </data>
+  <data name="years" xml:space="preserve">
+    <value>Jahre</value>
+  </data>
+  <data name="months" xml:space="preserve">
+    <value>Monate</value>
+  </data>
+  <data name="weeks" xml:space="preserve">
+    <value>Wochen</value>
+  </data>
+  <data name="days" xml:space="preserve">
+    <value>Tage</value>
+  </data>
+  <data name="independence" xml:space="preserve">
+    <value>Unabhängigkeit</value>
+  </data>
+  <data name="all_countries" xml:space="preserve">
+    <value>Alle Länder</value>
+  </data>
+  <data name="a_new_nation_rises" xml:space="preserve">
+    <value>Eine neue Nation erhebt sich</value>
+  </data>
+  <data name="incompatible_save_deleted" xml:space="preserve">
+    <value>Inkompatibler Speicherstand gelöscht</value>
+  </data>
+  <data name="gameover_save_deleted" xml:space="preserve">
+    <value>Spiel vorbei, Speicherstand gelöscht</value>
+  </data>
+  <data name="rank_by_score" xml:space="preserve">
+    <value>Nach Punktzahl ordnen</value>
+  </data>
 </root>

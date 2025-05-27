@@ -545,4 +545,34 @@ Een nieuw jaar is aangebroken. Wij wensen u een gelukkig nieuwjaar. Moge deze ni
   <data name="total" xml:space="preserve">
     <value>Totaal</value>
   </data>
+  <data name="years" xml:space="preserve">
+    <value>jaren</value>
+  </data>
+  <data name="months" xml:space="preserve">
+    <value>maanden</value>
+  </data>
+  <data name="weeks" xml:space="preserve">
+    <value>weken</value>
+  </data>
+  <data name="days" xml:space="preserve">
+    <value>dagen</value>
+  </data>
+  <data name="independence" xml:space="preserve">
+    <value>Onafhankelijkheid</value>
+  </data>
+  <data name="all_countries" xml:space="preserve">
+    <value>Alle landen</value>
+  </data>
+  <data name="a_new_nation_rises" xml:space="preserve">
+    <value>Een nieuwe natie rijst op</value>
+  </data>
+  <data name="incompatible_save_deleted" xml:space="preserve">
+    <value>Onverenigbaar opgeslagen spel verwijderd</value>
+  </data>
+  <data name="gameover_save_deleted" xml:space="preserve">
+    <value>Spel voorbij, opgeslagen spel verwijderd</value>
+  </data>
+  <data name="rank_by_score" xml:space="preserve">
+    <value>Rangschik op score</value>
+  </data>
 </root>

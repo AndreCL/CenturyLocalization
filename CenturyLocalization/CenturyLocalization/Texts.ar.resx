@@ -545,4 +545,34 @@
   <data name="total" xml:space="preserve">
     <value>الإجمالي</value>
   </data>
+  <data name="years" xml:space="preserve">
+    <value>سنوات</value>
+  </data>
+  <data name="months" xml:space="preserve">
+    <value>أشهر</value>
+  </data>
+  <data name="weeks" xml:space="preserve">
+    <value>أسابيع</value>
+  </data>
+  <data name="days" xml:space="preserve">
+    <value>أيام</value>
+  </data>
+  <data name="independence" xml:space="preserve">
+    <value>الاستقلال</value>
+  </data>
+  <data name="all_countries" xml:space="preserve">
+    <value>جميع البلدان</value>
+  </data>
+  <data name="a_new_nation_rises" xml:space="preserve">
+    <value>أمة جديدة تنهض</value>
+  </data>
+  <data name="incompatible_save_deleted" xml:space="preserve">
+    <value>تم حذف الحفظ غير المتوافق</value>
+  </data>
+  <data name="gameover_save_deleted" xml:space="preserve">
+    <value>تم حذف حفظ نهاية اللعبة</value>
+  </data>
+  <data name="rank_by_score" xml:space="preserve">
+    <value>الترتيب حسب النقاط</value>
+  </data>
 </root>

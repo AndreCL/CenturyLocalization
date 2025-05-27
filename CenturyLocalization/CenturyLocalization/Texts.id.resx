@@ -545,4 +545,34 @@ Tahun baru telah tiba. Kami mengucapkan selamat tahun baru. Semoga waktu baru in
   <data name="total" xml:space="preserve">
     <value>Total</value>
   </data>
+  <data name="years" xml:space="preserve">
+    <value>tahun</value>
+  </data>
+  <data name="months" xml:space="preserve">
+    <value>bulan</value>
+  </data>
+  <data name="weeks" xml:space="preserve">
+    <value>minggu</value>
+  </data>
+  <data name="days" xml:space="preserve">
+    <value>hari</value>
+  </data>
+  <data name="independence" xml:space="preserve">
+    <value>Kemerdekaan</value>
+  </data>
+  <data name="all_countries" xml:space="preserve">
+    <value>Semua negara</value>
+  </data>
+  <data name="a_new_nation_rises" xml:space="preserve">
+    <value>Sebuah negara baru bangkit</value>
+  </data>
+  <data name="incompatible_save_deleted" xml:space="preserve">
+    <value>Simpanan tidak kompatibel dihapus</value>
+  </data>
+  <data name="gameover_save_deleted" xml:space="preserve">
+    <value>Permainan berakhir, simpanan dihapus</value>
+  </data>
+  <data name="rank_by_score" xml:space="preserve">
+    <value>Peringkat berdasarkan skor</value>
+  </data>
 </root>

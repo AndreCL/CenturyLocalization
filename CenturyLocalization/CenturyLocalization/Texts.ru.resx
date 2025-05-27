@@ -550,4 +550,34 @@
   <data name="total" xml:space="preserve">
     <value>Итого</value>
   </data>
+  <data name="years" xml:space="preserve">
+    <value>лет</value>
+  </data>
+  <data name="months" xml:space="preserve">
+    <value>месяцев</value>
+  </data>
+  <data name="weeks" xml:space="preserve">
+    <value>недель</value>
+  </data>
+  <data name="days" xml:space="preserve">
+    <value>дней</value>
+  </data>
+  <data name="independence" xml:space="preserve">
+    <value>Независимость</value>
+  </data>
+  <data name="all_countries" xml:space="preserve">
+    <value>Все страны</value>
+  </data>
+  <data name="a_new_nation_rises" xml:space="preserve">
+    <value>Возникает новая нация</value>
+  </data>
+  <data name="incompatible_save_deleted" xml:space="preserve">
+    <value>Несовместимое сохранение удалено</value>
+  </data>
+  <data name="gameover_save_deleted" xml:space="preserve">
+    <value>Игра окончена, сохранение удалено</value>
+  </data>
+  <data name="rank_by_score" xml:space="preserve">
+    <value>Рейтинг по очкам</value>
+  </data>
 </root>
