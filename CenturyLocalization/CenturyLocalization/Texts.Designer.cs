@@ -313,7 +313,7 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to days.
+        ///   Looks up a localized string similar to {0} days.
         /// </summary>
         internal static string days {
             get {
@@ -916,7 +916,7 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to months.
+        ///   Looks up a localized string similar to {0} months.
         /// </summary>
         internal static string months {
             get {
@@ -1359,7 +1359,7 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to weeks.
+        ///   Looks up a localized string similar to {0} weeks.
         /// </summary>
         internal static string weeks {
             get {
@@ -1422,7 +1422,7 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to years.
+        ///   Looks up a localized string similar to {0} years.
         /// </summary>
         internal static string years {
             get {

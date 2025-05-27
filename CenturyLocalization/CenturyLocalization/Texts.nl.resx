@@ -546,16 +546,16 @@ Een nieuw jaar is aangebroken. Wij wensen u een gelukkig nieuwjaar. Moge deze ni
     <value>Totaal</value>
   </data>
   <data name="years" xml:space="preserve">
-    <value>jaren</value>
+    <value>{0} jaren</value>
   </data>
   <data name="months" xml:space="preserve">
-    <value>maanden</value>
+    <value>{0} maanden</value>
   </data>
   <data name="weeks" xml:space="preserve">
-    <value>weken</value>
+    <value>{0} weken</value>
   </data>
   <data name="days" xml:space="preserve">
-    <value>dagen</value>
+    <value>{0} dagen</value>
   </data>
   <data name="independence" xml:space="preserve">
     <value>Onafhankelijkheid</value>

@@ -546,16 +546,16 @@ Tahun baru telah tiba. Kami mengucapkan selamat tahun baru. Semoga waktu baru in
     <value>Total</value>
   </data>
   <data name="years" xml:space="preserve">
-    <value>tahun</value>
+    <value>{0} tahun</value>
   </data>
   <data name="months" xml:space="preserve">
-    <value>bulan</value>
+    <value>{0} bulan</value>
   </data>
   <data name="weeks" xml:space="preserve">
-    <value>minggu</value>
+    <value>{0} minggu</value>
   </data>
   <data name="days" xml:space="preserve">
-    <value>hari</value>
+    <value>{0} hari</value>
   </data>
   <data name="independence" xml:space="preserve">
     <value>Kemerdekaan</value>

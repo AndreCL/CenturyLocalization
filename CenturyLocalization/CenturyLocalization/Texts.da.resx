@@ -547,16 +547,16 @@ Et nyt år er over os. Vi ønsker jer et godt nytår. Må denne nye tid være fr
     <value>Total</value>
   </data>
   <data name="years" xml:space="preserve">
-    <value>år</value>
+    <value>{0} år</value>
   </data>
   <data name="months" xml:space="preserve">
-    <value>måneder</value>
+    <value>{0} måneder</value>
   </data>
   <data name="weeks" xml:space="preserve">
-    <value>uger</value>
+    <value>{0} uger</value>
   </data>
   <data name="days" xml:space="preserve">
-    <value>dage</value>
+    <value>{0} dage</value>
   </data>
   <data name="independence" xml:space="preserve">
     <value>Uafhængighed</value>

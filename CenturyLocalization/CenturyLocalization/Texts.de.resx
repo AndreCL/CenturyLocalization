@@ -546,16 +546,16 @@ Ein neues Jahr steht bevor. Wir wünschen Ihnen ein frohes neues Jahr. Möge die
     <value>Gesamt</value>
   </data>
   <data name="years" xml:space="preserve">
-    <value>Jahre</value>
+    <value>{0} Jahre</value>
   </data>
   <data name="months" xml:space="preserve">
-    <value>Monate</value>
+    <value>{0} Monate</value>
   </data>
   <data name="weeks" xml:space="preserve">
-    <value>Wochen</value>
+    <value>{0} Wochen</value>
   </data>
   <data name="days" xml:space="preserve">
-    <value>Tage</value>
+    <value>{0} Tage</value>
   </data>
   <data name="independence" xml:space="preserve">
     <value>Unabhängigkeit</value>

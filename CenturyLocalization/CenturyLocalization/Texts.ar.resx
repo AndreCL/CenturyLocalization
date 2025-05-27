@@ -546,16 +546,16 @@
     <value>الإجمالي</value>
   </data>
   <data name="years" xml:space="preserve">
-    <value>سنوات</value>
+    <value>{0} سنوات</value>
   </data>
   <data name="months" xml:space="preserve">
-    <value>أشهر</value>
+    <value>{0} أشهر</value>
   </data>
   <data name="weeks" xml:space="preserve">
-    <value>أسابيع</value>
+    <value>{0} أسابيع</value>
   </data>
   <data name="days" xml:space="preserve">
-    <value>أيام</value>
+    <value>{0} أيام</value>
   </data>
   <data name="independence" xml:space="preserve">
     <value>الاستقلال</value>

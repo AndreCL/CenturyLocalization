@@ -551,16 +551,16 @@
     <value>Итого</value>
   </data>
   <data name="years" xml:space="preserve">
-    <value>лет</value>
+    <value>{0} лет</value>
   </data>
   <data name="months" xml:space="preserve">
-    <value>месяцев</value>
+    <value>{0} месяцев</value>
   </data>
   <data name="weeks" xml:space="preserve">
-    <value>недель</value>
+    <value>{0} недель</value>
   </data>
   <data name="days" xml:space="preserve">
-    <value>дней</value>
+    <value>{0} дней</value>
   </data>
   <data name="independence" xml:space="preserve">
     <value>Независимость</value>
