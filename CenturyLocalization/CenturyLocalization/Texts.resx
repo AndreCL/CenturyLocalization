@@ -362,10 +362,10 @@
     <value>Winner</value>
   </data>
   <data name="second" xml:space="preserve">
-    <value>2nd:</value>
+    <value>2nd</value>
   </data>
   <data name="third" xml:space="preserve">
-    <value>3rd:</value>
+    <value>3rd</value>
   </data>
   <data name="attackers" xml:space="preserve">
     <value>Attackers:</value>

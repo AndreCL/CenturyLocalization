@@ -354,10 +354,10 @@
     <value>Победитель</value>
   </data>
   <data name="second" xml:space="preserve">
-    <value>2ой:</value>
+    <value>2ой</value>
   </data>
   <data name="third" xml:space="preserve">
-    <value>3ий:</value>
+    <value>3ий</value>
   </data>
   <data name="close" xml:space="preserve">
     <value>Закрыть</value>

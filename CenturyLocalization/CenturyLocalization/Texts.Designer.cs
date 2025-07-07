@@ -1170,7 +1170,7 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 2nd:.
+        ///   Looks up a localized string similar to 2nd.
         /// </summary>
         internal static string second {
             get {
@@ -1260,7 +1260,7 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 3rd:.
+        ///   Looks up a localized string similar to 3rd.
         /// </summary>
         internal static string third {
             get {

@@ -357,10 +357,10 @@
     <value>Ganador</value>
   </data>
   <data name="second" xml:space="preserve">
-    <value>2do:</value>
+    <value>2do</value>
   </data>
   <data name="third" xml:space="preserve">
-    <value>3ro:</value>
+    <value>3ro</value>
   </data>
   <data name="attackers" xml:space="preserve">
     <value>Atacantes:</value>

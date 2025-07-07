@@ -352,10 +352,10 @@
     <value>Winnaar</value>
   </data>
   <data name="second" xml:space="preserve">
-    <value>2de:</value>
+    <value>2de</value>
   </data>
   <data name="third" xml:space="preserve">
-    <value>3de:</value>
+    <value>3de</value>
   </data>
   <data name="attackers" xml:space="preserve">
     <value>Aanvallers:</value>
