@@ -575,4 +575,10 @@ Tahun baru telah tiba. Kami mengucapkan selamat tahun baru. Semoga waktu baru in
   <data name="rank_by_score" xml:space="preserve">
     <value>Peringkat berdasarkan skor</value>
   </data>
+  <data name="male" xml:space="preserve">
+    <value>Pria</value>
+  </data>
+  <data name="female" xml:space="preserve">
+    <value>Wanita</value>
+  </data>
 </root>

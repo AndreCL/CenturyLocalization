@@ -580,4 +580,10 @@
   <data name="rank_by_score" xml:space="preserve">
     <value>Рейтинг по очкам</value>
   </data>
+  <data name="male" xml:space="preserve">
+    <value>Мужчина</value>
+  </data>
+  <data name="female" xml:space="preserve">
+    <value>Женщина</value>
+  </data>
 </root>

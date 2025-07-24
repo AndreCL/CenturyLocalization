@@ -574,6 +574,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Female.
+        /// </summary>
+        internal static string female {
+            get {
+                return ResourceManager.GetString("female", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Fighters:.
         /// </summary>
         internal static string fighters {
@@ -849,6 +858,15 @@ namespace CenturyLocalization {
         internal static string losses {
             get {
                 return ResourceManager.GetString("losses", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Male.
+        /// </summary>
+        internal static string male {
+            get {
+                return ResourceManager.GetString("male", resourceCulture);
             }
         }
         

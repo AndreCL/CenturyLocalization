@@ -576,4 +576,10 @@ Et nyt år er over os. Vi ønsker jer et godt nytår. Må denne nye tid være fr
   <data name="rank_by_score" xml:space="preserve">
     <value>Rangér efter point</value>
   </data>
+  <data name="male" xml:space="preserve">
+    <value>Mand</value>
+  </data>
+  <data name="female" xml:space="preserve">
+    <value>Kvinde</value>
+  </data>
 </root>
