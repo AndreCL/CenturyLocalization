@@ -586,4 +586,10 @@
   <data name="female" xml:space="preserve">
     <value>Женщина</value>
   </data>
+  <data name="send_missionaries" xml:space="preserve">
+    <value>Отправить миссионеров</value>
+  </data>
+  <data name="send_material_volunteers" xml:space="preserve">
+    <value>Отправить снаряжение и добровольцев</value>
+  </data>
 </root>

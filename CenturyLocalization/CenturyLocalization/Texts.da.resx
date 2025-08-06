@@ -582,4 +582,10 @@ Et nyt år er over os. Vi ønsker jer et godt nytår. Må denne nye tid være fr
   <data name="female" xml:space="preserve">
     <value>Kvinde</value>
   </data>
+  <data name="send_missionaries" xml:space="preserve">
+    <value>Send missionærer</value>
+  </data>
+  <data name="send_material_volunteers" xml:space="preserve">
+    <value>Send materiel og frivillige</value>
+  </data>
 </root>

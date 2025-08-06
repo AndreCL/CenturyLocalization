@@ -581,4 +581,10 @@ Tahun baru telah tiba. Kami mengucapkan selamat tahun baru. Semoga waktu baru in
   <data name="female" xml:space="preserve">
     <value>Wanita</value>
   </data>
+  <data name="send_missionaries" xml:space="preserve">
+    <value>Kirim misionaris</value>
+  </data>
+  <data name="send_material_volunteers" xml:space="preserve">
+    <value>Kirim perlengkapan dan relawan</value>
+  </data>
 </root>

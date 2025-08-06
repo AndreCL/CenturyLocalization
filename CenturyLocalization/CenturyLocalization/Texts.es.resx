@@ -583,4 +583,10 @@ Un nuevo año está sobre nosotros. Les deseamos un feliz año nuevo. Que este n
   <data name="female" xml:space="preserve">
     <value>Mujer</value>
   </data>
+  <data name="send_missionaries" xml:space="preserve">
+    <value>Enviar misioneros</value>
+  </data>
+  <data name="send_material_volunteers" xml:space="preserve">
+    <value>Enviar material y voluntarios</value>
+  </data>
 </root>

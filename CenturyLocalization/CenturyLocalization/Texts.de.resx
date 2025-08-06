@@ -581,4 +581,10 @@ Ein neues Jahr steht bevor. Wir wünschen Ihnen ein frohes neues Jahr. Möge die
   <data name="female" xml:space="preserve">
     <value>Weiblich</value>
   </data>
+  <data name="send_missionaries" xml:space="preserve">
+    <value>Missionare senden</value>
+  </data>
+  <data name="send_material_volunteers" xml:space="preserve">
+    <value>Material und Freiwillige senden</value>
+  </data>
 </root>
