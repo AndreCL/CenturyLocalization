@@ -587,4 +587,22 @@ Ein neues Jahr steht bevor. Wir wünschen Ihnen ein frohes neues Jahr. Möge die
   <data name="send_material_volunteers" xml:space="preserve">
     <value>Material und Freiwillige senden</value>
   </data>
+  <data name="none" xml:space="preserve">
+    <value>Keine</value>
+  </data>
+  <data name="central_powers" xml:space="preserve">
+    <value>Mittelmächte</value>
+  </data>
+  <data name="allied_powers" xml:space="preserve">
+    <value>Alliierte Mächte</value>
+  </data>
+  <data name="current" xml:space="preserve">
+    <value>Aktuell</value>
+  </data>
+  <data name="world_tension_description" xml:space="preserve">
+    <value>Stellt das allgemeine Maß an Angst und Unruhe dar, das unter den Nationen der Welt herrscht.
+Der angezeigte Wert kann zwischen 0 % und 100 % liegen und nimmt mit der Zeit sehr langsam ab.
+Er wird durch mehrere Faktoren erhöht, z. B. durch Kriegserklärungen und leicht durch jeden laufenden Krieg.
+Sobald die Weltspannung 100 % erreicht, wird ein Weltkrieg ausgelöst und der Wert wird zurückgesetzt.</value>
+  </data>
 </root>

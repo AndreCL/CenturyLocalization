@@ -587,4 +587,22 @@ Tahun baru telah tiba. Kami mengucapkan selamat tahun baru. Semoga waktu baru in
   <data name="send_material_volunteers" xml:space="preserve">
     <value>Kirim perlengkapan dan relawan</value>
   </data>
+  <data name="none" xml:space="preserve">
+    <value>Tidak ada</value>
+  </data>
+  <data name="central_powers" xml:space="preserve">
+    <value>Blok Sentral</value>
+  </data>
+  <data name="allied_powers" xml:space="preserve">
+    <value>Blok Sekutu</value>
+  </data>
+  <data name="current" xml:space="preserve">
+    <value>Saat Ini</value>
+  </data>
+  <data name="world_tension_description" xml:space="preserve">
+    <value>Mewakili tingkat ketakutan dan kecemasan secara keseluruhan yang ada di antara negara-negara di dunia.
+Angka yang ditampilkan dapat berada antara 0% dan 100%, dan secara alami menurun sangat lambat seiring waktu.
+Nilai ini meningkat karena beberapa faktor seperti deklarasi perang, dan sedikit oleh setiap perang yang sedang berlangsung.
+Ketika Ketegangan Dunia mencapai 100%, Perang Dunia akan dipicu dan nilainya diatur ulang.</value>
+  </data>
 </root>

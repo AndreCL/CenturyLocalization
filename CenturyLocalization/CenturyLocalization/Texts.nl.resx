@@ -587,4 +587,22 @@ Een nieuw jaar is aangebroken. Wij wensen u een gelukkig nieuwjaar. Moge deze ni
   <data name="send_material_volunteers" xml:space="preserve">
     <value>Zend materieel en vrijwilligers</value>
   </data>
+  <data name="none" xml:space="preserve">
+    <value>Geen</value>
+  </data>
+  <data name="central_powers" xml:space="preserve">
+    <value>Centralen</value>
+  </data>
+  <data name="allied_powers" xml:space="preserve">
+    <value>Geallieerden</value>
+  </data>
+  <data name="current" xml:space="preserve">
+    <value>Huidig</value>
+  </data>
+  <data name="world_tension_description" xml:space="preserve">
+    <value>Vertegenwoordigt het algehele niveau van angst en onrust dat bestaat tussen de naties van de wereld.
+Het weergegeven getal kan tussen 0% en 100% liggen en neemt van nature zeer langzaam af in de tijd.
+Het wordt verhoogd door verschillende factoren, zoals het verklaren van oorlogen, en een beetje door elke lopende oorlog.
+Wanneer de wereldspanning 100% bereikt, wordt een wereldoorlog ontketend en wordt de waarde opnieuw ingesteld.</value>
+  </data>
 </root>

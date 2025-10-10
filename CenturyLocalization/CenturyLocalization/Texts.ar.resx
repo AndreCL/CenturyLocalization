@@ -587,4 +587,22 @@
   <data name="send_material_volunteers" xml:space="preserve">
     <value>أرسل المعدات والمتطوعين</value>
   </data>
+  <data name="none" xml:space="preserve">
+    <value>لا شيء / بدون</value>
+  </data>
+  <data name="central_powers" xml:space="preserve">
+    <value>القوى المركزية</value>
+  </data>
+  <data name="allied_powers" xml:space="preserve">
+    <value>قوى الحلفاء</value>
+  </data>
+  <data name="current" xml:space="preserve">
+    <value>الحالي</value>
+  </data>
+  <data name="world_tension_description" xml:space="preserve">
+    <value>يمثل المستوى العام للخوف والقلق الموجود بين دول العالم.
+يمكن أن تكون القيمة المعروضة بين 0٪ و100٪، وتنخفض ببطء شديد بمرور الوقت.
+تزداد بفعل عدة عوامل مثل إعلان الحروب، وتزداد قليلاً مع كل حرب مستمرة.
+عندما يصل توتر العالم إلى 100٪، تندلع حرب عالمية ويتم إعادة التعيين.</value>
+  </data>
 </root>

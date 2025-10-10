@@ -592,4 +592,22 @@
   <data name="send_material_volunteers" xml:space="preserve">
     <value>Отправить снаряжение и добровольцев</value>
   </data>
+  <data name="none" xml:space="preserve">
+    <value>Нет</value>
+  </data>
+  <data name="central_powers" xml:space="preserve">
+    <value>Центральные державы</value>
+  </data>
+  <data name="allied_powers" xml:space="preserve">
+    <value>Союзные державы</value>
+  </data>
+  <data name="current" xml:space="preserve">
+    <value>Текущее</value>
+  </data>
+  <data name="world_tension_description" xml:space="preserve">
+    <value>Отражает общий уровень страха и тревоги, существующий среди наций мира.
+Отображаемое число может быть от 0 % до 100 %. Оно естественным образом очень медленно уменьшается со временем.
+Повышается под воздействием различных факторов, таких как объявления войн, и немного — каждой продолжающейся войной.
+Когда мировое напряжение достигает 100 %, начинается мировая война, и показатель сбрасывается.</value>
+  </data>
 </root>

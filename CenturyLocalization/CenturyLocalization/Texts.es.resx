@@ -589,4 +589,22 @@ Un nuevo año está sobre nosotros. Les deseamos un feliz año nuevo. Que este n
   <data name="send_material_volunteers" xml:space="preserve">
     <value>Enviar material y voluntarios</value>
   </data>
+  <data name="none" xml:space="preserve">
+    <value>Ninguno</value>
+  </data>
+  <data name="central_powers" xml:space="preserve">
+    <value>Potencias Centrales</value>
+  </data>
+  <data name="allied_powers" xml:space="preserve">
+    <value>Potencias Aliadas</value>
+  </data>
+  <data name="current" xml:space="preserve">
+    <value>Actual</value>
+  </data>
+  <data name="world_tension_description" xml:space="preserve">
+    <value>Representa el nivel general de miedo y ansiedad que existe entre las naciones del mundo.
+El número mostrado puede estar entre 0 % y 100 %. Disminuye naturalmente muy lentamente con el tiempo.
+Aumenta por varios factores, como la declaración de guerras, y ligeramente por cada guerra en curso.
+Una vez que la tensión mundial alcanza el 100 %, se desencadena una guerra mundial y se reinicia.</value>
+  </data>
 </root>

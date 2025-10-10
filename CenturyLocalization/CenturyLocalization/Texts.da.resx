@@ -588,4 +588,22 @@ Et nyt år er over os. Vi ønsker jer et godt nytår. Må denne nye tid være fr
   <data name="send_material_volunteers" xml:space="preserve">
     <value>Send materiel og frivillige</value>
   </data>
+  <data name="none" xml:space="preserve">
+    <value>Ingen</value>
+  </data>
+  <data name="central_powers" xml:space="preserve">
+    <value>Centralmagterne</value>
+  </data>
+  <data name="allied_powers" xml:space="preserve">
+    <value>De Allierede</value>
+  </data>
+  <data name="world_tension_description" xml:space="preserve">
+    <value>Repræsenterer det overordnede niveau af frygt og angst, der eksisterer blandt verdens nationer.
+Tallet, der vises, kan være mellem 0 % og 100 %. Det falder naturligt meget langsomt over tid.
+Det øges af flere faktorer, såsom at krige bliver erklæret, og en smule af hver igangværende krig.
+Når verdensspændingen når 100 %, udløses en verdenskrig, og værdien nulstilles.</value>
+  </data>
+  <data name="current" xml:space="preserve">
+    <value>Nuværende</value>
+  </data>
 </root>

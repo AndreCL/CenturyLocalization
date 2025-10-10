@@ -133,6 +133,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Allied Powers.
+        /// </summary>
+        internal static string allied_powers {
+            get {
+                return ResourceManager.GetString("allied_powers", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to {countryToDelete.Name} became so small and insignificant that {inherited.Name} has absorbed it.
         /// </summary>
         internal static string annexed_message {
@@ -250,6 +259,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Central Powers.
+        /// </summary>
+        internal static string central_powers {
+            get {
+                return ResourceManager.GetString("central_powers", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Changelog.
         /// </summary>
         internal static string changelog {
@@ -300,6 +318,15 @@ namespace CenturyLocalization {
         internal static string culture {
             get {
                 return ResourceManager.GetString("culture", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Current.
+        /// </summary>
+        internal static string current {
+            get {
+                return ResourceManager.GetString("current", resourceCulture);
             }
         }
         
@@ -1053,6 +1080,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to None.
+        /// </summary>
+        internal static string none {
+            get {
+                return ResourceManager.GetString("none", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Numerous as the stars.
         /// </summary>
         internal static string numerous_as_stars {
@@ -1436,6 +1472,15 @@ namespace CenturyLocalization {
         internal static string world_tension {
             get {
                 return ResourceManager.GetString("world_tension", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Represents the overall level of fear and anxiety that exists among the nations of the World.\n\n The number displayed can be between 0% and 100%. It naturally decreases very slowly over time.\n It is increased by several factors such as wars being declared and slightly by each ongoing war.\n Once the World Tension reaches 100%, a World War is triggered and it resets.\n\n.
+        /// </summary>
+        internal static string world_tension_description {
+            get {
+                return ResourceManager.GetString("world_tension_description", resourceCulture);
             }
         }
         
