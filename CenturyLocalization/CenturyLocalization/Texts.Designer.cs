@@ -1476,7 +1476,13 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Represents the overall level of fear and anxiety that exists among the nations of the World.\n\n The number displayed can be between 0% and 100%. It naturally decreases very slowly over time.\n It is increased by several factors such as wars being declared and slightly by each ongoing war.\n Once the World Tension reaches 100%, a World War is triggered and it resets.\n\n.
+        ///   Looks up a localized string similar to Represents the overall level of fear and anxiety that exists among the nations of the World.  
+        ///
+        ///The number displayed can be between 0% and 100%. It naturally decreases very slowly over time. 
+        ///It is increased by several factors such as wars being declared and slightly by each ongoing war. 
+        ///Once the World Tension reaches 100%, a World War is triggered and it resets.
+        ///
+        ///.
         /// </summary>
         internal static string world_tension_description {
             get {
