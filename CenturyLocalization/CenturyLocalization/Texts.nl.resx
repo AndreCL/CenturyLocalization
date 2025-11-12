@@ -605,4 +605,19 @@ Het weergegeven getal kan tussen 0% en 100% liggen en neemt van nature zeer lang
 Het wordt verhoogd door verschillende factoren, zoals het verklaren van oorlogen, en een beetje door elke lopende oorlog.
 Wanneer de wereldspanning 100% bereikt, wordt een wereldoorlog ontketend en wordt de waarde opnieuw ingesteld.</value>
   </data>
+  <data name="china" xml:space="preserve">
+    <value>China</value>
+  </data>
+  <data name="united_kingdom" xml:space="preserve">
+    <value>Verenigd Koninkrijk</value>
+  </data>
+  <data name="russia" xml:space="preserve">
+    <value>Rusland</value>
+  </data>
+  <data name="united_states" xml:space="preserve">
+    <value>Verenigde Staten</value>
+  </data>
+  <data name="germany" xml:space="preserve">
+    <value>Duitsland</value>
+  </data>
 </root>

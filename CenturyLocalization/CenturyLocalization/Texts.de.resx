@@ -605,4 +605,19 @@ Der angezeigte Wert kann zwischen 0 % und 100 % liegen und nimmt mit der Zeit se
 Er wird durch mehrere Faktoren erhöht, z. B. durch Kriegserklärungen und leicht durch jeden laufenden Krieg.
 Sobald die Weltspannung 100 % erreicht, wird ein Weltkrieg ausgelöst und der Wert wird zurückgesetzt.</value>
   </data>
+  <data name="china" xml:space="preserve">
+    <value>China</value>
+  </data>
+  <data name="united_kingdom" xml:space="preserve">
+    <value>Vereinigtes Königreich</value>
+  </data>
+  <data name="russia" xml:space="preserve">
+    <value>Russland</value>
+  </data>
+  <data name="united_states" xml:space="preserve">
+    <value>Vereinigte Staaten</value>
+  </data>
+  <data name="germany" xml:space="preserve">
+    <value>Deutschland</value>
+  </data>
 </root>

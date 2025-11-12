@@ -605,4 +605,19 @@ Angka yang ditampilkan dapat berada antara 0% dan 100%, dan secara alami menurun
 Nilai ini meningkat karena beberapa faktor seperti deklarasi perang, dan sedikit oleh setiap perang yang sedang berlangsung.
 Ketika Ketegangan Dunia mencapai 100%, Perang Dunia akan dipicu dan nilainya diatur ulang.</value>
   </data>
+  <data name="china" xml:space="preserve">
+    <value>Tiongkok</value>
+  </data>
+  <data name="united_kingdom" xml:space="preserve">
+    <value>Britania Raya</value>
+  </data>
+  <data name="russia" xml:space="preserve">
+    <value>Rusia</value>
+  </data>
+  <data name="united_states" xml:space="preserve">
+    <value>Amerika Serikat</value>
+  </data>
+  <data name="germany" xml:space="preserve">
+    <value>Jerman</value>
+  </data>
 </root>

@@ -277,6 +277,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to China.
+        /// </summary>
+        internal static string china {
+            get {
+                return ResourceManager.GetString("china", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Civilian loses:.
         /// </summary>
         internal static string civilian_loses {
@@ -669,6 +678,15 @@ namespace CenturyLocalization {
         internal static string gender {
             get {
                 return ResourceManager.GetString("gender", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Germany.
+        /// </summary>
+        internal static string germany {
+            get {
+                return ResourceManager.GetString("germany", resourceCulture);
             }
         }
         
@@ -1206,6 +1224,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Russia.
+        /// </summary>
+        internal static string russia {
+            get {
+                return ResourceManager.GetString("russia", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Sailors:.
         /// </summary>
         internal static string sailors {
@@ -1355,6 +1382,24 @@ namespace CenturyLocalization {
         internal static string total {
             get {
                 return ResourceManager.GetString("total", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to United Kingdom.
+        /// </summary>
+        internal static string united_kingdom {
+            get {
+                return ResourceManager.GetString("united_kingdom", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to United States.
+        /// </summary>
+        internal static string united_states {
+            get {
+                return ResourceManager.GetString("united_states", resourceCulture);
             }
         }
         

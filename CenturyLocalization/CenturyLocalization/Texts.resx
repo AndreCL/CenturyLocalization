@@ -625,4 +625,19 @@ Once the World Tension reaches 100%, a World War is triggered and it resets.
 
 </value>
   </data>
+  <data name="china" xml:space="preserve">
+    <value>China</value>
+  </data>
+  <data name="united_kingdom" xml:space="preserve">
+    <value>United Kingdom</value>
+  </data>
+  <data name="russia" xml:space="preserve">
+    <value>Russia</value>
+  </data>
+  <data name="united_states" xml:space="preserve">
+    <value>United States</value>
+  </data>
+  <data name="germany" xml:space="preserve">
+    <value>Germany</value>
+  </data>
 </root>
