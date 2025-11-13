@@ -76,6 +76,16 @@ namespace LocalizationTests
 			Assert.Equal("Ok_es", result);
 		}
 
+        [Fact]
+        public void GettingCountryNameInEnglish()
+        {
+            var local = new Localization();
 
-	}
+            local.CurrentLanguage = new System.Globalization.CultureInfo("en-US");
+
+            var result = local.GetText("acre");
+
+            Assert.Equal("Acre", result);
+        }
+    }
 }

@@ -610,19 +610,4 @@
 Повышается под воздействием различных факторов, таких как объявления войн, и немного — каждой продолжающейся войной.
 Когда мировое напряжение достигает 100 %, начинается мировая война, и показатель сбрасывается.</value>
   </data>
-  <data name="china" xml:space="preserve">
-    <value>Китай</value>
-  </data>
-  <data name="united_kingdom" xml:space="preserve">
-    <value>Великобритания</value>
-  </data>
-  <data name="russia" xml:space="preserve">
-    <value>Россия</value>
-  </data>
-  <data name="united_states" xml:space="preserve">
-    <value>Соединённые Штаты</value>
-  </data>
-  <data name="germany" xml:space="preserve">
-    <value>Германия</value>
-  </data>
 </root>

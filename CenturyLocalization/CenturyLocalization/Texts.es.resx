@@ -607,19 +607,4 @@ El número mostrado puede estar entre 0 % y 100 %. Disminuye naturalmente muy le
 Aumenta por varios factores, como la declaración de guerras, y ligeramente por cada guerra en curso.
 Una vez que la tensión mundial alcanza el 100 %, se desencadena una guerra mundial y se reinicia.</value>
   </data>
-  <data name="china" xml:space="preserve">
-    <value>China</value>
-  </data>
-  <data name="united_kingdom" xml:space="preserve">
-    <value>Reino Unido</value>
-  </data>
-  <data name="russia" xml:space="preserve">
-    <value>Rusia</value>
-  </data>
-  <data name="united_states" xml:space="preserve">
-    <value>Estados Unidos</value>
-  </data>
-  <data name="germany" xml:space="preserve">
-    <value>Alemania</value>
-  </data>
 </root>

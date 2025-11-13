@@ -606,19 +606,4 @@ Når verdensspændingen når 100 %, udløses en verdenskrig, og værdien nulstil
   <data name="current" xml:space="preserve">
     <value>Nuværende</value>
   </data>
-  <data name="china" xml:space="preserve">
-    <value>Kina</value>
-  </data>
-  <data name="united_kingdom" xml:space="preserve">
-    <value>Storbritannien</value>
-  </data>
-  <data name="russia" xml:space="preserve">
-    <value>Rusland</value>
-  </data>
-  <data name="united_states" xml:space="preserve">
-    <value>USA</value>
-  </data>
-  <data name="germany" xml:space="preserve">
-    <value>Tyskland</value>
-  </data>
 </root>

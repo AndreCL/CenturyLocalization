@@ -605,19 +605,4 @@
 تزداد بفعل عدة عوامل مثل إعلان الحروب، وتزداد قليلاً مع كل حرب مستمرة.
 عندما يصل توتر العالم إلى 100٪، تندلع حرب عالمية ويتم إعادة التعيين.</value>
   </data>
-  <data name="china" xml:space="preserve">
-    <value>الصين</value>
-  </data>
-  <data name="united_kingdom" xml:space="preserve">
-    <value>المملكة المتحدة</value>
-  </data>
-  <data name="russia" xml:space="preserve">
-    <value>روسيا</value>
-  </data>
-  <data name="united_states" xml:space="preserve">
-    <value>الولايات المتحدة</value>
-  </data>
-  <data name="germany" xml:space="preserve">
-    <value>ألمانيا</value>
-  </data>
 </root>

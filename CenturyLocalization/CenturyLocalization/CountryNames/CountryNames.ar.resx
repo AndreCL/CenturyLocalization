@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="china" xml:space="preserve">
+    <value>الصين</value>
+  </data>
+  <data name="united_kingdom" xml:space="preserve">
+    <value>المملكة المتحدة</value>
+  </data>
+  <data name="russia" xml:space="preserve">
+    <value>روسيا</value>
+  </data>
+  <data name="united_states" xml:space="preserve">
+    <value>الولايات المتحدة</value>
+  </data>
+  <data name="germany" xml:space="preserve">
+    <value>ألمانيا</value>
+  </data>
+  <data name="austria-hungary" xml:space="preserve">
+    <value>الإمبراطورية النمساوية المجرية</value>
+  </data>
+  <data name="netherlands" xml:space="preserve">
+    <value>هولندا</value>
+  </data>
+  <data name="japan" xml:space="preserve">
+    <value>اليابان</value>
+  </data>
+  <data name="france" xml:space="preserve">
+    <value>فرنسا</value>
+  </data>
+  <data name="italy" xml:space="preserve">
+    <value>إيطاليا</value>
+  </data>
+  <data name="ottomans" xml:space="preserve">
+    <value>الدولة العثمانية</value>
+  </data>
+  <data name="spain" xml:space="preserve">
+    <value>إسبانيا</value>
+  </data>
+  <data name="brazil" xml:space="preserve">
+    <value>البرازيل</value>
+  </data>
+  <data name="korea" xml:space="preserve">
+    <value>كوريا</value>
+  </data>
+  <data name="mexico" xml:space="preserve">
+    <value>المكسيك</value>
+  </data>
+  <data name="portugal" xml:space="preserve">
+    <value>البرتغال</value>
+  </data>
+  <data name="ethiopia" xml:space="preserve">
+    <value>إثيوبيا</value>
+  </data>
+  <data name="persia" xml:space="preserve">
+    <value>فارس</value>
+  </data>
+  <data name="sweden-norway" xml:space="preserve">
+    <value>السويد والنرويج</value>
+  </data>
+  <data name="belgium" xml:space="preserve">
+    <value>بلجيكا</value>
+  </data>
+  <data name="siam" xml:space="preserve">
+    <value>سيام</value>
+  </data>
+  <data name="romania" xml:space="preserve">
+    <value>رومانيا</value>
+  </data>
+  <data name="australia" xml:space="preserve">
+    <value>أستراليا</value>
+  </data>
+  <data name="cuba" xml:space="preserve">
+    <value>كوبا</value>
+  </data>
+  <data name="panama" xml:space="preserve">
+    <value>بنما</value>
+  </data>
+  <data name="norway" xml:space="preserve">
+    <value>النرويج</value>
+  </data>
+  <data name="sweden" xml:space="preserve">
+    <value>السويد</value>
+  </data>
+  <data name="greece" xml:space="preserve">
+    <value>اليونان</value>
+  </data>
+  <data name="colombia" xml:space="preserve">
+    <value>كولومبيا</value>
+  </data>
+  <data name="argentina" xml:space="preserve">
+    <value>الأرجنتين</value>
+  </data>
+  <data name="morocco" xml:space="preserve">
+    <value>المغرب</value>
+  </data>
+  <data name="bulgaria" xml:space="preserve">
+    <value>بلغاريا</value>
+  </data>
+  <data name="switzerland" xml:space="preserve">
+    <value>سويسرا</value>
+  </data>
+  <data name="chile" xml:space="preserve">
+    <value>تشيلي</value>
+  </data>
+  <data name="peru" xml:space="preserve">
+    <value>بيرو</value>
+  </data>
+  <data name="serbia" xml:space="preserve">
+    <value>صربيا</value>
+  </data>
+  <data name="venezuela" xml:space="preserve">
+    <value>فنزويلا</value>
+  </data>
+  <data name="denmark" xml:space="preserve">
+    <value>الدنمارك</value>
+  </data>
+  <data name="bolivia" xml:space="preserve">
+    <value>بوليفيا</value>
+  </data>
+  <data name="ecuador" xml:space="preserve">
+    <value>الإكوادور</value>
+  </data>
+  <data name="uruguay" xml:space="preserve">
+    <value>أوروغواي</value>
+  </data>
+  <data name="guatemala" xml:space="preserve">
+    <value>غواتيمالا</value>
+  </data>
+  <data name="el_salvador" xml:space="preserve">
+    <value>السلفادور</value>
+  </data>
+  <data name="liberia" xml:space="preserve">
+    <value>ليبيريا</value>
+  </data>
+  <data name="paraguay" xml:space="preserve">
+    <value>باراغواي</value>
+  </data>
+  <data name="nicaragua" xml:space="preserve">
+    <value>نيكاراغوا</value>
+  </data>
+  <data name="orange_free_state" xml:space="preserve">
+    <value>دولة أورانج الحرة</value>
+  </data>
+  <data name="montenegro" xml:space="preserve">
+    <value>الجبل الأسود</value>
+  </data>
+  <data name="luxembourg" xml:space="preserve">
+    <value>لوكسمبورغ</value>
+  </data>
+  <data name="monaco" xml:space="preserve">
+    <value>موناكو</value>
+  </data>
+  <data name="honduras" xml:space="preserve">
+    <value>هندوراس</value>
+  </data>
+  <data name="san_marino" xml:space="preserve">
+    <value>سان مارينو</value>
+  </data>
+  <data name="liechtenstein" xml:space="preserve">
+    <value>ليختنشتاين</value>
+  </data>
+  <data name="andorra" xml:space="preserve">
+    <value>أندورا</value>
+  </data>
+  <data name="sokoto" xml:space="preserve">
+    <value>خلافة صكتو</value>
+  </data>
+  <data name="transvaal" xml:space="preserve">
+    <value>ترانسفال</value>
+  </data>
+  <data name="acre" xml:space="preserve">
+    <value>أكري</value>
+  </data>
+</root>
