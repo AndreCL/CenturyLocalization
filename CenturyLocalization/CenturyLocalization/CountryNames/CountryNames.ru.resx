@@ -292,4 +292,19 @@
   <data name="acre" xml:space="preserve">
     <value>Акри</value>
   </data>
+  <data name="angoche" xml:space="preserve">
+    <value>Ангоше</value>
+  </data>
+  <data name="ankole" xml:space="preserve">
+    <value>Анколе</value>
+  </data>
+  <data name="aro" xml:space="preserve">
+    <value>Аро</value>
+  </data>
+  <data name="ashanti" xml:space="preserve">
+    <value>Ашанти</value>
+  </data>
+  <data name="aussa" xml:space="preserve">
+    <value>Аусса</value>
+  </data>
 </root>

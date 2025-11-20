@@ -288,4 +288,19 @@
   <data name="acre" xml:space="preserve">
     <value>Acre</value>
   </data>
+  <data name="angoche" xml:space="preserve">
+    <value>Angoche</value>
+  </data>
+  <data name="ankole" xml:space="preserve">
+    <value>Ankole</value>
+  </data>
+  <data name="aro" xml:space="preserve">
+    <value>Aro</value>
+  </data>
+  <data name="ashanti" xml:space="preserve">
+    <value>Ashanti</value>
+  </data>
+  <data name="aussa" xml:space="preserve">
+    <value>Aussa</value>
+  </data>
 </root>

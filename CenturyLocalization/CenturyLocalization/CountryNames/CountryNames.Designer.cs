@@ -79,11 +79,56 @@ namespace CenturyLocalization.CountryNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Angoche.
+        /// </summary>
+        internal static string angoche {
+            get {
+                return ResourceManager.GetString("angoche", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ankole.
+        /// </summary>
+        internal static string ankole {
+            get {
+                return ResourceManager.GetString("ankole", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Argentina.
         /// </summary>
         internal static string argentina {
             get {
                 return ResourceManager.GetString("argentina", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Aro.
+        /// </summary>
+        internal static string aro {
+            get {
+                return ResourceManager.GetString("aro", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ashanti.
+        /// </summary>
+        internal static string ashanti {
+            get {
+                return ResourceManager.GetString("ashanti", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Aussa.
+        /// </summary>
+        internal static string aussa {
+            get {
+                return ResourceManager.GetString("aussa", resourceCulture);
             }
         }
         

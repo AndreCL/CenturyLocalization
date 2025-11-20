@@ -288,4 +288,19 @@
   <data name="acre" xml:space="preserve">
     <value>أكري</value>
   </data>
+  <data name="angoche" xml:space="preserve">
+    <value>أنغوشي</value>
+  </data>
+  <data name="ankole" xml:space="preserve">
+    <value>أنكولي</value>
+  </data>
+  <data name="aro" xml:space="preserve">
+    <value>أرو</value>
+  </data>
+  <data name="aussa" xml:space="preserve">
+    <value>أوسا</value>
+  </data>
+  <data name="ashanti" xml:space="preserve">
+    <value>أشانتي</value>
+  </data>
 </root>
