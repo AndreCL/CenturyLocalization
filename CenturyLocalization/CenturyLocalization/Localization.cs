@@ -9,21 +9,27 @@ namespace CenturyLocalization
 
 		private readonly ResourceManager _resourceManager;
         private readonly ResourceManager _countryNamesResourceManager;
+		private readonly ResourceManager _actionsResourceManager;
 
         public Localization()
 		{
 			_resourceManager = Texts.ResourceManager;
             _countryNamesResourceManager = CountryNames.CountryNames.ResourceManager;
+			_actionsResourceManager = Actions.Actions.ResourceManager;
             CurrentLanguage = CultureInfo.CurrentUICulture;
 		}
 
 		public string GetText(string name)
 		{
-			return _resourceManager.GetString(name, CurrentLanguage) ?? 
-				_countryNamesResourceManager.GetString(name, CurrentLanguage) ??
-                _resourceManager.GetString("error_string_not_found", CurrentLanguage);
-		}
+			return GetText(name, CurrentLanguage);
+        }
 
-		
-	}
+        public string GetText(string name, CultureInfo cultureInfo)
+        {
+            return _resourceManager.GetString(name, cultureInfo) ??
+                _countryNamesResourceManager.GetString(name, cultureInfo) ??
+                _actionsResourceManager.GetString(name, cultureInfo) ??
+                _resourceManager.GetString("error_string_not_found", cultureInfo);
+        }
+    }
 }

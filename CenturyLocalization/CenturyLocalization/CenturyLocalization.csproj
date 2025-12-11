@@ -9,6 +9,11 @@
     <RepositoryUrl>https://github.com/AndreCL/CenturyLocalization</RepositoryUrl>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Update="Actions\Actions.Designer.cs">
+      <DependentUpon>Actions.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
     <Compile Update="CountryNames\CountryNames.Designer.cs">
       <DependentUpon>CountryNames.resx</DependentUpon>
       <DesignTime>True</DesignTime>
@@ -21,6 +26,24 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Update="Actions\Actions.da.resx">
+      <SubType>Designer</SubType>
+      <LastGenOutput>Texts.Designer.cs</LastGenOutput>
+      <Generator>ResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Actions\Actions.es.resx">
+      <LastGenOutput>Texts.Designer.cs</LastGenOutput>
+      <Generator>ResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Actions\Actions.resx">
+      <LastGenOutput>Actions.Designer.cs</LastGenOutput>
+      <Generator>ResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Actions\Actions.ru.resx">
+      <SubType>Designer</SubType>
+      <LastGenOutput>Texts.Designer.cs</LastGenOutput>
+      <Generator>ResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
     <EmbeddedResource Update="CountryNames\CountryNames.da.resx">
       <SubType>Designer</SubType>
       <LastGenOutput>Texts.Designer.cs</LastGenOutput>

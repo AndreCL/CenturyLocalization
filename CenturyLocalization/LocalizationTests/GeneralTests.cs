@@ -87,5 +87,17 @@ namespace LocalizationTests
 
             Assert.Equal("Acre", result);
         }
+
+        [Fact]
+        public void GettingActionInEnglish()
+        {
+            var local = new Localization();
+
+            local.CurrentLanguage = new System.Globalization.CultureInfo("en-US");
+
+            var result = local.GetText("add_soldiers");
+
+            Assert.Equal("Add soldiers", result);
+        }
     }
 }
