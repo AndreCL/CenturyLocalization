@@ -8,21 +8,23 @@ namespace LocalizationTests
 		[Fact]
 		public void CultureInfoIsCorrect()
 		{
-			var local = new Localization();
+            var local = new Localization
+            {
+                CurrentLanguage = new System.Globalization.CultureInfo("en-US")
+            };
 
-			local.CurrentLanguage = new System.Globalization.CultureInfo("en-US");
-
-			Assert.Equal("en-US", local.CurrentLanguage.Name);
+            Assert.Equal("en-US", local.CurrentLanguage.Name);
 		}
 
 		[Fact]
 		public void GettingExistingStringAndDefaultEnglish()
 		{
-			var local = new Localization();
+            var local = new Localization
+            {
+                CurrentLanguage = new System.Globalization.CultureInfo("en-US")
+            };
 
-			local.CurrentLanguage = new System.Globalization.CultureInfo("en-US");
-
-			var result = local.GetText("unittest_onlyen");
+            var result = local.GetText("unittest_onlyen");
 
 			Assert.Equal("Ok", result);
 		}
@@ -30,11 +32,12 @@ namespace LocalizationTests
 		[Fact]
 		public void GetNonExistingFileLocaleReturnsEnglish()
 		{
-			var local = new Localization();
+            var local = new Localization
+            {
+                CurrentLanguage = new System.Globalization.CultureInfo("smj-SE")
+            };
 
-			local.CurrentLanguage = new System.Globalization.CultureInfo("smj-SE");
-
-			var result = local.GetText("unittest_onlyen");
+            var result = local.GetText("unittest_onlyen");
 
 			Assert.Equal("smj-SE", local.CurrentLanguage.Name);
 			Assert.Equal("Ok", result);
@@ -43,11 +46,12 @@ namespace LocalizationTests
 		[Fact]
 		public void GetNonExistingStringReturnsNull()
 		{
-			var local = new Localization();
+            var local = new Localization
+            {
+                CurrentLanguage = new System.Globalization.CultureInfo("en-US")
+            };
 
-			local.CurrentLanguage = new System.Globalization.CultureInfo("en-US");
-
-			var result = local.GetText("unittest_DOESNTEXIST");
+            var result = local.GetText("unittest_DOESNTEXIST");
 
 			Assert.Equal("Text not found", result);
 		}
@@ -55,11 +59,12 @@ namespace LocalizationTests
 		[Fact]
 		public void GetOtherLocaleString()
 		{
-			var local = new Localization();
+            var local = new Localization
+            {
+                CurrentLanguage = new System.Globalization.CultureInfo("es-ES")
+            };
 
-			local.CurrentLanguage = new System.Globalization.CultureInfo("es-ES");
-
-			var result = local.GetText("unittest_both");
+            var result = local.GetText("unittest_both");
 
 			Assert.Equal("Ok_es", result);
 		}
@@ -67,11 +72,12 @@ namespace LocalizationTests
 		[Fact]
 		public void GetOtherLocaleStringDifferentCountry()
 		{
-			var local = new Localization();
+            var local = new Localization
+            {
+                CurrentLanguage = new System.Globalization.CultureInfo("es-AR")
+            };
 
-			local.CurrentLanguage = new System.Globalization.CultureInfo("es-AR");
-
-			var result = local.GetText("unittest_both");
+            var result = local.GetText("unittest_both");
 
 			Assert.Equal("Ok_es", result);
 		}
@@ -79,9 +85,10 @@ namespace LocalizationTests
         [Fact]
         public void GettingCountryNameInEnglish()
         {
-            var local = new Localization();
-
-            local.CurrentLanguage = new System.Globalization.CultureInfo("en-US");
+            var local = new Localization
+            {
+                CurrentLanguage = new System.Globalization.CultureInfo("en-US")
+            };
 
             var result = local.GetText("acre");
 
@@ -91,9 +98,10 @@ namespace LocalizationTests
         [Fact]
         public void GettingActionInEnglish()
         {
-            var local = new Localization();
-
-            local.CurrentLanguage = new System.Globalization.CultureInfo("en-US");
+            var local = new Localization
+            {
+                CurrentLanguage = new System.Globalization.CultureInfo("en-US")
+            };
 
             var result = local.GetText("add_soldiers");
 

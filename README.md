@@ -20,3 +20,7 @@ Open source implementation of localization for Century
 * Indonesian
 * Russian 
 * Spanish
+
+## Todo:
+
+* Get supported localizations

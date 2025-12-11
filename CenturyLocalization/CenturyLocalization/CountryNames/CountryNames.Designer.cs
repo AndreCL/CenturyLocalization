@@ -151,11 +151,29 @@ namespace CenturyLocalization.CountryNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Bali.
+        /// </summary>
+        internal static string bali {
+            get {
+                return ResourceManager.GetString("bali", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Belgium.
         /// </summary>
         internal static string belgium {
             get {
                 return ResourceManager.GetString("belgium", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Bhutan.
+        /// </summary>
+        internal static string bhutan {
+            get {
+                return ResourceManager.GetString("bhutan", resourceCulture);
             }
         }
         
@@ -187,6 +205,24 @@ namespace CenturyLocalization.CountryNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Canada.
+        /// </summary>
+        internal static string canada {
+            get {
+                return ResourceManager.GetString("canada", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Champasak.
+        /// </summary>
+        internal static string champasak {
+            get {
+                return ResourceManager.GetString("champasak", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Chile.
         /// </summary>
         internal static string chile {
@@ -205,11 +241,38 @@ namespace CenturyLocalization.CountryNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Chokwe.
+        /// </summary>
+        internal static string chokwe {
+            get {
+                return ResourceManager.GetString("chokwe", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Colombia.
         /// </summary>
         internal static string colombia {
             get {
                 return ResourceManager.GetString("colombia", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Congo.
+        /// </summary>
+        internal static string congo {
+            get {
+                return ResourceManager.GetString("congo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Costa Rica.
+        /// </summary>
+        internal static string costa_rica {
+            get {
+                return ResourceManager.GetString("costa_rica", resourceCulture);
             }
         }
         

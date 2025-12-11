@@ -303,4 +303,25 @@
   <data name="aussa" xml:space="preserve">
     <value>Aussa</value>
   </data>
+  <data name="bali" xml:space="preserve">
+    <value>Bali</value>
+  </data>
+  <data name="bhutan" xml:space="preserve">
+    <value>Bhutan</value>
+  </data>
+  <data name="canada" xml:space="preserve">
+    <value>Kanada</value>
+  </data>
+  <data name="champasak" xml:space="preserve">
+    <value>Champasak</value>
+  </data>
+  <data name="chokwe" xml:space="preserve">
+    <value>Chokwe</value>
+  </data>
+  <data name="congo" xml:space="preserve">
+    <value>Kongo</value>
+  </data>
+  <data name="costa_rica" xml:space="preserve">
+    <value>Kosta Rika</value>
+  </data>
 </root>

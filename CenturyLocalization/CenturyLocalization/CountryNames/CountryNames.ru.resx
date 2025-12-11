@@ -307,4 +307,25 @@
   <data name="aussa" xml:space="preserve">
     <value>Аусса</value>
   </data>
+  <data name="bali" xml:space="preserve">
+    <value>Бали</value>
+  </data>
+  <data name="bhutan" xml:space="preserve">
+    <value>Бутан</value>
+  </data>
+  <data name="canada" xml:space="preserve">
+    <value>Канада</value>
+  </data>
+  <data name="champasak" xml:space="preserve">
+    <value>Чампасак</value>
+  </data>
+  <data name="chokwe" xml:space="preserve">
+    <value>Чокве</value>
+  </data>
+  <data name="congo" xml:space="preserve">
+    <value>Конго</value>
+  </data>
+  <data name="costa_rica" xml:space="preserve">
+    <value>Коста-Рика</value>
+  </data>
 </root>

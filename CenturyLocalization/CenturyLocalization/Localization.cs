@@ -1,6 +1,10 @@
-﻿using System.Globalization;
+﻿using System.Collections.Generic;
+using System.Globalization;
+using System.Linq;
 using System.Resources;
+using System.Runtime.CompilerServices;
 
+[assembly: InternalsVisibleTo("LocalizationTests")]
 namespace CenturyLocalization
 {
 	public class Localization

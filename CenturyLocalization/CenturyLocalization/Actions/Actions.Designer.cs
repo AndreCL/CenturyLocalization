@@ -79,6 +79,15 @@ namespace CenturyLocalization.Actions {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string change_flag {
+            get {
+                return ResourceManager.GetString("change_flag", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Remove Christian Population.
         /// </summary>
         internal static string remove_christian_population {
