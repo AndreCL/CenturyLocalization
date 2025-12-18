@@ -118,23 +118,23 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="add_christian_population" xml:space="preserve">
-    <value>Add Christian Population</value>
+    <value>Hristiyan Popülasyonu Ekle</value>
     <comment/>
   </data>
   <data name="remove_christian_population" xml:space="preserve">
-    <value>Remove Christian Population</value>
+    <value>Hristiyan Popülasyonu Eksilt</value>
     <comment/>
   </data>
   <data name="add_soldiers" xml:space="preserve">
-    <value>Add soldiers</value>
+    <value>Asker Ekle</value>
     <comment/>
   </data>
   <data name="remove_soldiers" xml:space="preserve">
-    <value>Remove soldiers</value>
+    <value>Asker Eksilt</value>
     <comment/>
   </data>
   <data name="change_flag" xml:space="preserve">
-    <value>Change Flag</value>
+    <value>Bayrak Değiştir</value>
     <comment/>
   </data>
 </root>
