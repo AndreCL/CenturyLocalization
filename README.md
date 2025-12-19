@@ -20,6 +20,7 @@ Open source implementation of localization for Century
 * Indonesian
 * Russian 
 * Spanish
+* Turkish
 
 ## Todo:
 
