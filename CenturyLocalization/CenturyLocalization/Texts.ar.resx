@@ -136,16 +136,16 @@
     <value>اغلاق</value>
   </data>
   <data name="Newgame" xml:space="preserve">
-    <value>ابدا لعبة جديدة</value>
+    <value>ابدأ لعبة جديدة</value>
   </data>
   <data name="Continuegame" xml:space="preserve">
-    <value>استمر فى العب</value>
+    <value>استمر في اللعب</value>
   </data>
   <data name="loading" xml:space="preserve">
-    <value>تحميل المحفوظات</value>
+    <value>تحميل المحفوظات...</value>
   </data>
   <data name="sendemail" xml:space="preserve">
-    <value>إرسال e mail</value>
+    <value>إرسال e-mail</value>
   </data>
   <data name="changelog" xml:space="preserve">
     <value>تغيير</value>
@@ -172,13 +172,13 @@
     <value>تحذير</value>
   </data>
   <data name="message_delete_save" xml:space="preserve">
-    <value>هل انت متأكد انك تريد حذف العية</value>
+    <value>هل انت متأكد انك تريد حذف اللعبة؟</value>
   </data>
   <data name="Instructions1" xml:space="preserve">
     <value>اختر الدولة</value>
   </data>
   <data name="startdate" xml:space="preserve">
-    <value>تاريخ البدأ </value>
+    <value>تاريخ البدء</value>
   </data>
   <data name="enddate" xml:space="preserve">
     <value>تاريخ الانتهاء</value>
@@ -208,7 +208,7 @@
     <value>البنادق</value>
   </data>
   <data name="tanks" xml:space="preserve">
-    <value>دبابات </value>
+    <value>الدبابات </value>
   </data>
   <data name="navy" xml:space="preserve">
     <value>البحرية</value>
@@ -229,7 +229,7 @@
     <value>القوات الجوية</value>
   </data>
   <data name="pilots" xml:space="preserve">
-    <value>طيارين</value>
+    <value>الطيارين</value>
   </data>
   <data name="fighters" xml:space="preserve">
     <value>مقاتلات</value>
@@ -238,19 +238,19 @@
     <value>قاذفات القنابل</value>
   </data>
   <data name="start" xml:space="preserve">
-    <value>ابدا</value>
+    <value>ابدأ</value>
   </data>
   <data name="declarewar" xml:space="preserve">
     <value>أعلن الحرب</value>
   </data>
   <data name="poverty" xml:space="preserve">
-    <value>فقر</value>
+    <value>الفقر</value>
   </data>
   <data name="healthcare" xml:space="preserve">
     <value>الرعاية الصحية</value>
   </data>
   <data name="money" xml:space="preserve">
-    <value>اموال</value>
+    <value>الاموال</value>
   </data>
   <data name="population" xml:space="preserve">
     <value>تعداد السكان</value>
@@ -259,13 +259,13 @@
     <value>المساحة</value>
   </data>
   <data name="infrastructure" xml:space="preserve">
-    <value>بنية تحتية</value>
+    <value>البنية التحتية</value>
   </data>
   <data name="infamy" xml:space="preserve">
     <value>العنف</value>
   </data>
   <data name="independentsince" xml:space="preserve">
-    <value>حصلت على استقلالها</value>
+    <value>حصلت على استقلالها منذ</value>
   </data>
   <data name="war_level" xml:space="preserve">
     <value>مستوى الحرب</value>
@@ -274,7 +274,7 @@
     <value>توظيف</value>
   </data>
   <data name="social_class" xml:space="preserve">
-    <value>الطبقة الاجتماعة</value>
+    <value>الطبقة الاجتماعية</value>
   </data>
   <data name="age_groups" xml:space="preserve">
     <value>الفئة العمرية</value>
@@ -295,7 +295,7 @@
     <value>الاستثمار اليومي </value>
   </data>
   <data name="one_time_investment" xml:space="preserve">
-    <value>استثمار المرة الوحدة</value>
+    <value>استثمار لمرة لوحدة</value>
   </data>
   <data name="filter_wars" xml:space="preserve">
     <value>تصفية الحروب</value>
@@ -340,19 +340,19 @@
     <value>مصانع</value>
   </data>
   <data name="dock" xml:space="preserve">
-    <value>الرصيف</value>
+    <value>مرسى</value>
   </data>
   <data name="docks" xml:space="preserve">
-    <value>الروصف</value>
+    <value>المراسي</value>
   </data>
   <data name="gameover" xml:space="preserve">
     <value>انتهت العبة</value>
   </data>
   <data name="endgametitle" xml:space="preserve">
-    <value>مبروك لقد قودت دولتك {0} سنة</value>
+    <value>مبروك لقد قدت دولتك {0} سنة</value>
   </data>
   <data name="winner" xml:space="preserve">
-    <value>فائذ</value>
+    <value>الفائز</value>
   </data>
   <data name="second" xml:space="preserve">
     <value>المركز الثاني </value>
@@ -364,7 +364,7 @@
     <value>مهاجمين</value>
   </data>
   <data name="defenders" xml:space="preserve">
-    <value>مدافين</value>
+    <value>مدافعين</value>
   </data>
   <data name="attacker" xml:space="preserve">
     <value>مهاجم </value>
@@ -376,7 +376,7 @@
     <value>فاز المهاجمين</value>
   </data>
   <data name="tie" xml:space="preserve">
-    <value>رابطة</value>
+    <value>تعادل</value>
   </data>
   <data name="defender_victory" xml:space="preserve">
     <value>فاز المدافعين</value>
@@ -403,7 +403,7 @@
     <value>انضم إلى جروب فيسبوك</value>
   </data>
   <data name="world_tension" xml:space="preserve">
-    <value>التوتر العالمى</value>
+    <value>التوتر العالمي</value>
   </data>
   <data name="battles" xml:space="preserve">
     <value>المعارك</value>
@@ -415,7 +415,7 @@
     <value>بعد شهور من التوترات الشديدة، دخلت القوى العظمى في حرب. {war.Name} قد بدأ.</value>
   </data>
   <data name="new_century_title" xml:space="preserve">
-    <value>سنة قرن سعيد جديد!</value>
+    <value>قرن جديد سعيد!</value>
   </data>
   <data name="new_century_message" xml:space="preserve">
     <value>أعزائي القراء،
@@ -432,7 +432,7 @@
     <value>ضم!</value>
   </data>
   <data name="annexed_message" xml:space="preserve">
-    <value>أصبح {countryToDelete.Name} صغيرًا وغير مهم لدرجة أن {inherited.Name} قد امتصه.</value>
+    <value>أصبحت {countryToDelete.Name} صغيرة وغير مهمة لدرجة أن {inherited.Name} ضمتها.</value>
   </data>
   <data name="inconclusive_title" xml:space="preserve">
     <value> انتهت {warToRemove.Name} بدون نتيجة حاسمة</value>
@@ -489,7 +489,7 @@
     <value>إقليم</value>
   </data>
   <data name="military" xml:space="preserve">
-    <value>عسكري</value>
+    <value>جيش</value>
   </data>
   <data name="welfare" xml:space="preserve">
     <value>رفاهية</value>
