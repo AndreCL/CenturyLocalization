@@ -129,4 +129,19 @@
   <data name="remove_soldiers" xml:space="preserve">
     <value>Eliminar soldados</value>
   </data>
+  <data name="change_flag" xml:space="preserve">
+    <value>Cambiar bandera</value>
+  </data>
+  <data name="join_world_war_coalition_attackers" xml:space="preserve">
+    <value>Unirse a los atacantes de la coalición de la guerra mundial</value>
+  </data>
+  <data name="join_world_war_coalition_defenders" xml:space="preserve">
+    <value>Unirse a los defensores de la coalición de la guerra mundial</value>
+  </data>
+  <data name="move_to_christian" xml:space="preserve">
+    <value>Convertirse al cristianismo</value>
+  </data>
+  <data name="move_from_christian" xml:space="preserve">
+    <value>Abandonar el cristianismo</value>
+  </data>
 </root>

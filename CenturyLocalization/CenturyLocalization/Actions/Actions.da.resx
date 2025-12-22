@@ -129,4 +129,19 @@
   <data name="remove_soldiers" xml:space="preserve">
     <value>Fjern soldater</value>
   </data>
+  <data name="change_flag" xml:space="preserve">
+    <value>Skift flag</value>
+  </data>
+  <data name="join_world_war_coalition_attackers" xml:space="preserve">
+    <value>Deltag i verdenskrigens koalitionsangribere</value>
+  </data>
+  <data name="join_world_war_coalition_defenders" xml:space="preserve">
+    <value>Deltag i verdenskrigens koalitionsforsvarere</value>
+  </data>
+  <data name="move_to_christian" xml:space="preserve">
+    <value>Konverter til kristendommen</value>
+  </data>
+  <data name="move_from_christian" xml:space="preserve">
+    <value>Forlad kristendommen</value>
+  </data>
 </root>

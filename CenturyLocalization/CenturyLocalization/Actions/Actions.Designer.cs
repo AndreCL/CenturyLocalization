@@ -19,7 +19,7 @@ namespace CenturyLocalization.Actions {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "18.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class Actions {
@@ -79,11 +79,47 @@ namespace CenturyLocalization.Actions {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to Change Flag.
         /// </summary>
         internal static string change_flag {
             get {
                 return ResourceManager.GetString("change_flag", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Join World War Coalition Attackers.
+        /// </summary>
+        internal static string join_world_war_coalition_attackers {
+            get {
+                return ResourceManager.GetString("join_world_war_coalition_attackers", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Join World War Coalition Defenders.
+        /// </summary>
+        internal static string join_world_war_coalition_defenders {
+            get {
+                return ResourceManager.GetString("join_world_war_coalition_defenders", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Leave Christianity.
+        /// </summary>
+        internal static string move_from_christian {
+            get {
+                return ResourceManager.GetString("move_from_christian", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Convert to Christianity.
+        /// </summary>
+        internal static string move_to_christian {
+            get {
+                return ResourceManager.GetString("move_to_christian", resourceCulture);
             }
         }
         

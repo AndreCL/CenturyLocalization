@@ -133,4 +133,19 @@
   <data name="remove_soldiers" xml:space="preserve">
     <value>Удалить солдат</value>
   </data>
+  <data name="change_flag" xml:space="preserve">
+    <value>Сменить флаг</value>
+  </data>
+  <data name="join_world_war_coalition_attackers" xml:space="preserve">
+    <value>Присоединиться к атакующей коалиции мировой войны</value>
+  </data>
+  <data name="join_world_war_coalition_defenders" xml:space="preserve">
+    <value>Присоединиться к обороняющейся коалиции мировой войны</value>
+  </data>
+  <data name="move_to_christian" xml:space="preserve">
+    <value>Принять христианство</value>
+  </data>
+  <data name="move_from_christian" xml:space="preserve">
+    <value>Покинуть христианство</value>
+  </data>
 </root>

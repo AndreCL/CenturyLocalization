@@ -129,4 +129,19 @@
   <data name="remove_soldiers" xml:space="preserve">
     <value>Hapus tentara</value>
   </data>
+  <data name="change_flag" xml:space="preserve">
+    <value>Ubah bendera</value>
+  </data>
+  <data name="join_world_war_coalition_attackers" xml:space="preserve">
+    <value>Bergabung dengan penyerang koalisi Perang Dunia</value>
+  </data>
+  <data name="join_world_war_coalition_defenders" xml:space="preserve">
+    <value>Bergabung dengan pembela koalisi Perang Dunia</value>
+  </data>
+  <data name="move_to_christian" xml:space="preserve">
+    <value>Masuk agama Kristen</value>
+  </data>
+  <data name="move_from_christian" xml:space="preserve">
+    <value>Meninggalkan agama Kristen</value>
+  </data>
 </root>
