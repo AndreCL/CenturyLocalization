@@ -144,4 +144,10 @@
   <data name="move_from_christian" xml:space="preserve">
     <value>Abandonar el cristianismo</value>
   </data>
+  <data name="mobilize_soldiers" xml:space="preserve">
+    <value>Movilizar soldados</value>
+  </data>
+  <data name="demobilize_soldiers" xml:space="preserve">
+    <value>Desmovilizar soldados</value>
+  </data>
 </root>

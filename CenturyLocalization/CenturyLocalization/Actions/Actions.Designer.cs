@@ -88,6 +88,15 @@ namespace CenturyLocalization.Actions {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Demobilize soldiers.
+        /// </summary>
+        internal static string demobilize_soldiers {
+            get {
+                return ResourceManager.GetString("demobilize_soldiers", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Join World War Coalition Attackers.
         /// </summary>
         internal static string join_world_war_coalition_attackers {
@@ -102,6 +111,15 @@ namespace CenturyLocalization.Actions {
         internal static string join_world_war_coalition_defenders {
             get {
                 return ResourceManager.GetString("join_world_war_coalition_defenders", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Mobilize soldiers.
+        /// </summary>
+        internal static string mobilize_soldiers {
+            get {
+                return ResourceManager.GetString("mobilize_soldiers", resourceCulture);
             }
         }
         

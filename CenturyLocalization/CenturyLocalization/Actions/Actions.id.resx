@@ -144,4 +144,10 @@
   <data name="move_from_christian" xml:space="preserve">
     <value>Meninggalkan agama Kristen</value>
   </data>
+  <data name="mobilize_soldiers" xml:space="preserve">
+    <value>Mobilisasi prajurit</value>
+  </data>
+  <data name="demobilize_soldiers" xml:space="preserve">
+    <value>Demobilisasi prajurit</value>
+  </data>
 </root>
