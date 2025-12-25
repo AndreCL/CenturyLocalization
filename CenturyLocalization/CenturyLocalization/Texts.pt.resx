@@ -117,492 +117,492 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="unittest_both" xml:space="preserve">
-    <value>Ok_ar</value>
-  </data>
   <data name="error_string_not_found" xml:space="preserve">
-    <value>النص غير موجود</value>
+    <value>Texto não encontrado</value>
+  </data>
+  <data name="unittest_both" xml:space="preserve">
+    <value>Ok</value>
+  </data>
+  <data name="unittest_onlyen" xml:space="preserve">
+    <value>Ok</value>
   </data>
   <data name="ApplicationName" xml:space="preserve">
-    <value>قرن</value>
+    <value>Century</value>
   </data>
   <data name="yes" xml:space="preserve">
-    <value>نعم</value>
+    <value>Sim</value>
   </data>
   <data name="no" xml:space="preserve">
-    <value>لا</value>
+    <value>Não</value>
   </data>
   <data name="close" xml:space="preserve">
-    <value>اغلاق</value>
+    <value>Fechar</value>
   </data>
   <data name="Newgame" xml:space="preserve">
-    <value>ابدا لعبة جديدة</value>
+    <value>Novo Jogo</value>
   </data>
   <data name="Continuegame" xml:space="preserve">
-    <value>استمر فى العب</value>
+    <value>Continuar Jogo</value>
   </data>
   <data name="loading" xml:space="preserve">
-    <value>تحميل المحفوظات</value>
+    <value>Carregando Saves...</value>
   </data>
   <data name="sendemail" xml:space="preserve">
-    <value>إرسال e mail</value>
+    <value>Enviar um E-mail</value>
   </data>
   <data name="changelog" xml:space="preserve">
-    <value>تغيير</value>
+    <value>Registro</value>
   </data>
   <data name="feedback" xml:space="preserve">
-    <value>ارسل ملاحظاتك</value>
+    <value>Enviar um comentário</value>
   </data>
   <data name="discord" xml:space="preserve">
-    <value>ديسكورد</value>
+    <value>Discord</value>
   </data>
   <data name="facebook" xml:space="preserve">
-    <value>فيسبوك</value>
+    <value>Facebook</value>
   </data>
   <data name="discordjoin" xml:space="preserve">
-    <value>انضم إلى دسكورد</value>
+    <value>Entrar no Servidor Discord</value>
   </data>
   <data name="getversion" xml:space="preserve">
-    <value>نسخة مستعادة</value>
+    <value>Obtendo Versão</value>
   </data>
   <data name="delete" xml:space="preserve">
-    <value>حذف</value>
+    <value>Apagar</value>
   </data>
   <data name="warning" xml:space="preserve">
-    <value>تحذير</value>
+    <value>Atenção</value>
   </data>
   <data name="message_delete_save" xml:space="preserve">
-    <value>هل انت متأكد انك تريد حذف العية</value>
+    <value>Tem certeza de que deseja apagar este save?</value>
   </data>
   <data name="Instructions1" xml:space="preserve">
-    <value>اختر الدولة</value>
+    <value>Escolha um país</value>
   </data>
   <data name="startdate" xml:space="preserve">
-    <value>تاريخ البدأ </value>
+    <value>Data de Início:</value>
   </data>
   <data name="enddate" xml:space="preserve">
-    <value>تاريخ الانتهاء</value>
+    <value>Data de Fim:</value>
   </data>
   <data name="country" xml:space="preserve">
-    <value>دولة</value>
+    <value>Nação</value>
   </data>
   <data name="rank" xml:space="preserve">
-    <value>الترتيب</value>
+    <value>Classificação</value>
   </data>
   <data name="illiteracy" xml:space="preserve">
-    <value>الأمية </value>
+    <value>Analfabetismo:</value>
   </data>
   <data name="largestreligion" xml:space="preserve">
-    <value>الدين الأكبر </value>
+    <value>Maior Religião:</value>
   </data>
   <data name="largestculture" xml:space="preserve">
-    <value>الحضارة الكبرى</value>
+    <value>Maior Cultura:</value>
   </data>
   <data name="army" xml:space="preserve">
-    <value>العسكرية</value>
+    <value>Exército</value>
   </data>
   <data name="soldiers" xml:space="preserve">
-    <value>الجنود</value>
+    <value>Soldados:</value>
   </data>
   <data name="rifles" xml:space="preserve">
-    <value>البنادق</value>
+    <value>Fuzis:</value>
   </data>
   <data name="tanks" xml:space="preserve">
-    <value>دبابات </value>
+    <value>Tanques:</value>
   </data>
   <data name="navy" xml:space="preserve">
-    <value>البحرية</value>
+    <value>Marinha</value>
   </data>
   <data name="sailors" xml:space="preserve">
-    <value>جنود البحرية</value>
+    <value>Marinheiros:</value>
   </data>
   <data name="smallships" xml:space="preserve">
-    <value>سفن صغيرة</value>
+    <value>Corvetas:</value>
   </data>
   <data name="mediumships" xml:space="preserve">
-    <value>سفن متوسطة </value>
+    <value>Fragatas:</value>
   </data>
   <data name="largeships" xml:space="preserve">
-    <value>سفن كبيرة</value>
+    <value>Encouraçados:</value>
   </data>
   <data name="airforce" xml:space="preserve">
-    <value>القوات الجوية</value>
+    <value>Força Aérea</value>
   </data>
   <data name="pilots" xml:space="preserve">
-    <value>طيارين</value>
+    <value>Pilotos:</value>
   </data>
   <data name="fighters" xml:space="preserve">
-    <value>مقاتلات</value>
+    <value>Caças:</value>
   </data>
   <data name="bombers" xml:space="preserve">
-    <value>قاذفات القنابل</value>
+    <value>Bombardeiros:</value>
   </data>
   <data name="start" xml:space="preserve">
-    <value>ابدا</value>
+    <value>Começar</value>
   </data>
   <data name="declarewar" xml:space="preserve">
-    <value>أعلن الحرب</value>
+    <value>Declarar Guerra</value>
   </data>
   <data name="poverty" xml:space="preserve">
-    <value>فقر</value>
+    <value>Pobreza</value>
   </data>
   <data name="healthcare" xml:space="preserve">
-    <value>الرعاية الصحية</value>
+    <value>Cobertura de Saúde</value>
   </data>
   <data name="money" xml:space="preserve">
-    <value>اموال</value>
+    <value>Dinheiro</value>
   </data>
   <data name="population" xml:space="preserve">
-    <value>تعداد السكان</value>
+    <value>População</value>
   </data>
   <data name="area" xml:space="preserve">
-    <value>المساحة</value>
+    <value>Área</value>
   </data>
   <data name="infrastructure" xml:space="preserve">
-    <value>بنية تحتية</value>
+    <value>Infraestrutura</value>
   </data>
   <data name="infamy" xml:space="preserve">
-    <value>العنف</value>
+    <value>Infâmia</value>
   </data>
   <data name="independentsince" xml:space="preserve">
-    <value>حصلت على استقلالها</value>
+    <value>Independente desde</value>
   </data>
   <data name="war_level" xml:space="preserve">
-    <value>مستوى الحرب</value>
+    <value>Nível de Guerra</value>
   </data>
   <data name="employment" xml:space="preserve">
-    <value>توظيف</value>
+    <value>Emprego</value>
   </data>
   <data name="social_class" xml:space="preserve">
-    <value>الطبقة الاجتماعة</value>
+    <value>Classe Social</value>
   </data>
   <data name="age_groups" xml:space="preserve">
-    <value>الفئة العمرية</value>
+    <value>Faixa Etária</value>
   </data>
   <data name="gender" xml:space="preserve">
-    <value>الجنس</value>
+    <value>Gênero</value>
   </data>
   <data name="religion" xml:space="preserve">
-    <value>الدين</value>
+    <value>Religião</value>
   </data>
   <data name="culture" xml:space="preserve">
-    <value>الحضارة</value>
+    <value>Cultura</value>
   </data>
   <data name="education" xml:space="preserve">
-    <value>التعليم</value>
+    <value>Educação</value>
   </data>
   <data name="daily_investment" xml:space="preserve">
-    <value>الاستثمار اليومي </value>
+    <value>Investimento Diário:</value>
   </data>
   <data name="one_time_investment" xml:space="preserve">
-    <value>استثمار المرة الوحدة</value>
+    <value>Investimento Único:</value>
   </data>
   <data name="filter_wars" xml:space="preserve">
-    <value>تصفية الحروب</value>
+    <value>Filtrar Guerras</value>
   </data>
   <data name="war" xml:space="preserve">
-    <value>الحرب</value>
+    <value>Guerra</value>
   </data>
   <data name="score" xml:space="preserve">
-    <value>نتيجة</value>
+    <value>Pontuação</value>
   </data>
   <data name="men_to_equipment" xml:space="preserve">
-    <value>نسبة الرجال إلى المعدات</value>
+    <value>Proporção de Homens por Equipamento</value>
   </data>
   <data name="extra_equipment" xml:space="preserve">
-    <value>لديك معدات اضافية</value>
+    <value>Você tem Equipamentos Extra</value>
   </data>
   <data name="extra_men" xml:space="preserve">
-    <value>لديك رجال غير موظفين</value>
+    <value>Você tem Homens despreparados.</value>
   </data>
   <data name="army_school" xml:space="preserve">
-    <value>المدرسة العسكرية</value>
+    <value>Academia Militar</value>
   </data>
   <data name="army_schools" xml:space="preserve">
-    <value>المدارس العسكرية</value>
+    <value>Academias Militares</value>
   </data>
   <data name="navy_school" xml:space="preserve">
-    <value>المدرسة البحرية</value>
+    <value>Escola Naval</value>
   </data>
   <data name="navy_schools" xml:space="preserve">
-    <value>المدارس البحرية</value>
+    <value>Escolas Navais</value>
   </data>
   <data name="air_school" xml:space="preserve">
-    <value>مدرسة الجوية</value>
+    <value>Academia da Força Aérea</value>
   </data>
   <data name="air_schools" xml:space="preserve">
-    <value>المدارس الجوية</value>
+    <value>Academias da Força Aérea</value>
   </data>
   <data name="factory" xml:space="preserve">
-    <value>مصنع</value>
+    <value>Fábrica</value>
   </data>
   <data name="factories" xml:space="preserve">
-    <value>مصانع</value>
+    <value>Fábricas</value>
   </data>
   <data name="dock" xml:space="preserve">
-    <value>الرصيف</value>
+    <value>Estaleiro Militar</value>
   </data>
   <data name="docks" xml:space="preserve">
-    <value>الروصف</value>
+    <value>Estaleiros Militares</value>
   </data>
   <data name="gameover" xml:space="preserve">
-    <value>انتهت العبة</value>
+    <value>Fim de Jogo</value>
   </data>
   <data name="endgametitle" xml:space="preserve">
-    <value>مبروك لقد قودت دولتك {0} سنة</value>
+    <value>Parabéns! Você comandou sua nação por {0} anos turbulentos</value>
   </data>
   <data name="winner" xml:space="preserve">
-    <value>فائذ</value>
+    <value>Campeão</value>
   </data>
   <data name="second" xml:space="preserve">
-    <value>المركز الثاني </value>
+    <value>2° Lugar</value>
   </data>
   <data name="third" xml:space="preserve">
-    <value>المركز الثالث</value>
+    <value>3° Lugar</value>
   </data>
   <data name="attackers" xml:space="preserve">
-    <value>مهاجمين</value>
+    <value>Agressores:</value>
   </data>
   <data name="defenders" xml:space="preserve">
-    <value>مدافين</value>
+    <value>Defensores:</value>
   </data>
   <data name="attacker" xml:space="preserve">
-    <value>مهاجم </value>
+    <value>Agressor:</value>
   </data>
   <data name="defender" xml:space="preserve">
-    <value>مدافع</value>
+    <value>Defensor:</value>
   </data>
   <data name="attacker_victory" xml:space="preserve">
-    <value>فاز المهاجمين</value>
+    <value>Vitória dos Agressores</value>
   </data>
   <data name="tie" xml:space="preserve">
-    <value>رابطة</value>
+    <value>Paz Branca</value>
   </data>
   <data name="defender_victory" xml:space="preserve">
-    <value>فاز المدافعين</value>
+    <value>Vitória dos Defensores</value>
   </data>
   <data name="no_longer_exists" xml:space="preserve">
-    <value>لم تعد الدولة المختارة موجودة</value>
+    <value>a Nação selecionada não existe mais</value>
   </data>
   <data name="military_loses" xml:space="preserve">
-    <value>الخسائر العسكرية</value>
+    <value>Baixas:</value>
   </data>
   <data name="civilian_loses" xml:space="preserve">
-    <value>الخسائر المدنية</value>
+    <value>Mortes Civis:</value>
   </data>
   <data name="equipment_loses" xml:space="preserve">
-    <value>خسائر المعدات</value>
+    <value>Equipamentos destruídos:</value>
   </data>
   <data name="infrastructure_decrease" xml:space="preserve">
-    <value>خسائر البنية التحتية</value>
+    <value>Perca de Infraestrutura:</value>
   </data>
   <data name="invest" xml:space="preserve">
-    <value>مستثمر</value>
+    <value>Investir</value>
   </data>
   <data name="facebookjoin" xml:space="preserve">
-    <value>انضم إلى جروب فيسبوك</value>
+    <value>Juntar-se ao grupo Facebook</value>
   </data>
   <data name="world_tension" xml:space="preserve">
-    <value>التوتر العالمى</value>
+    <value>Tensão Global</value>
   </data>
   <data name="battles" xml:space="preserve">
-    <value>المعارك</value>
+    <value>Batalhas</value>
   </data>
   <data name="world_war_title" xml:space="preserve">
-    <value>العالم في حالة حرب!</value>
+    <value>Guerra Mundial!</value>
   </data>
   <data name="world_war_message" xml:space="preserve">
-    <value>بعد شهور من التوترات الشديدة، دخلت القوى العظمى في حرب. {war.Name} قد بدأ.</value>
+    <value>Após meses de tensão, as Grandes Potências entraram em guerra. {war.Name} Começou.</value>
   </data>
   <data name="new_century_title" xml:space="preserve">
-    <value>سنة قرن سعيد جديد!</value>
+    <value>Feliz Novo Século!</value>
   </data>
   <data name="new_century_message" xml:space="preserve">
-    <value>أعزائي القراء،
-قرن جديد يطل علينا. نتمنى لكم سنة جديدة سعيدة. نتمنى أن يكون هذا الوقت الجديد مليئًا بالسلام.</value>
+    <value>Caros Leitores,
+Um novo século chegou. Desejamos a você um feliz novo século. Que este novo tempo seja de paz.</value>
   </data>
   <data name="new_year_title" xml:space="preserve">
-    <value>سنة جديدة سعيدة!</value>
+    <value>Feliz Ano Novo!</value>
   </data>
   <data name="new_year_message" xml:space="preserve">
-    <value>أعزائي القراء،
-عام جديد يطل علينا. نتمنى لكم سنة جديدة سعيدة. نتمنى أن يكون هذا الوقت الجديد مليئًا بالسلام.</value>
+    <value>Caros leitores,
+Um novo ano chegou. Desejamos a vocês um feliz ano novo. Que este novo ano seja repleto de paz.</value>
   </data>
   <data name="annexed_title" xml:space="preserve">
-    <value>ضم!</value>
+    <value>Anexação!</value>
   </data>
   <data name="annexed_message" xml:space="preserve">
-    <value>أصبح {countryToDelete.Name} صغيرًا وغير مهم لدرجة أن {inherited.Name} قد امتصه.</value>
+    <value>{countryToDelete.Name} tornou-se tão pequeno e insignificante que {inherited.Name} o absorveu</value>
   </data>
   <data name="inconclusive_title" xml:space="preserve">
-    <value> انتهت {warToRemove.Name} بدون نتيجة حاسمة</value>
+    <value>{warToRemove.Name} Terminou de maneira inconclusiva</value>
   </data>
   <data name="inconclusive_message" xml:space="preserve">
-    <value> نظرًا لأن إحدى الدول المشاركة لم تعد موجودة، انتهت {warToRemove.Name} بدون نتيجة حاسمة</value>
+    <value>Como um dos países envolvidos não existe mais, {warToRemove.Name} terminou sem uma conclusão definitiva</value>
   </data>
   <data name="victoria_title" xml:space="preserve">
-    <value>وفاة الملكة فيكتوريا</value>
+    <value>a Rainha Vitória está morta.</value>
   </data>
   <data name="victoria_message" xml:space="preserve">
-    <value>أصبح إدوارد السابع ملك إنجلترا والهند بعد وفاة الملكة فيكتوريا</value>
+    <value>Eduardo VII de tornou Rei da Inglaterra e da Índia após a morte da Rainha Vitória</value>
   </data>
   <data name="defaultwar_title" xml:space="preserve">
-    <value>!حرب</value>
+    <value>Guerra!</value>
   </data>
   <data name="defaultwar_message" xml:space="preserve">
-    <value>{war.Name} قد بدأت بين {war.Attackers[0].Name} و {war.Defenders[0].Name}.</value>
+    <value>{war.Name} começou entre {war.Attackers[0].Name} e {war.Defenders[0].Name}.</value>
   </data>
   <data name="defaultwar_message_infamy" xml:space="preserve">
-    <value>بعد عدة اعتداءات من {highInfamyCountry.Name}، أعلنت {attacker1.Name} و {attacker2.Name} الحرب على {highInfamyCountry.Name} الشهيرة.</value>
+    <value>Após múltiplas agressões de {highInfamyCountry.Name}, {attacker1.Name} e {attacker2.Name} declararam guerra ao infame {highInfamyCountry.Name}.</value>
   </data>
   <data name="policies" xml:space="preserve">
-    <value>سياسات</value>
+    <value>Políticas</value>
   </data>
   <data name="foreignPolicy" xml:space="preserve">
-    <value>السياسة الخارجية</value>
+    <value>Política Externa</value>
   </data>
   <data name="interventionist" xml:space="preserve">
-    <value>تدخلي</value>
+    <value>Intervencionismo</value>
   </data>
   <data name="isolationist" xml:space="preserve">
-    <value>انعزالي</value>
+    <value>Isolacionista</value>
   </data>
   <data name="losses" xml:space="preserve">
-    <value>خسائر</value>
+    <value>Percas</value>
   </data>
   <data name="military_expenses" xml:space="preserve">
-    <value>النفقات العسكرية</value>
+    <value>Gastos Militares</value>
   </data>
   <data name="other" xml:space="preserve">
-    <value>آخر</value>
+    <value>Outros</value>
   </data>
   <data name="expenses" xml:space="preserve">
-    <value>النفقات</value>
+    <value>Gastos</value>
   </data>
   <data name="income" xml:space="preserve">
-    <value>الدخل</value>
+    <value>Renda</value>
   </data>
   <data name="investments" xml:space="preserve">
-    <value>استثمارات</value>
+    <value>Investimentos</value>
   </data>
   <data name="territory" xml:space="preserve">
-    <value>إقليم</value>
+    <value>Território</value>
   </data>
   <data name="military" xml:space="preserve">
-    <value>عسكري</value>
+    <value>Militar</value>
   </data>
   <data name="welfare" xml:space="preserve">
-    <value>رفاهية</value>
+    <value>Bem-estar</value>
   </data>
   <data name="all_news" xml:space="preserve">
-    <value>جميع الأخبار</value>
+    <value>Todas Notícias</value>
   </data>
   <data name="my_news" xml:space="preserve">
-    <value>أخباري</value>
+    <value>Minhas Notícias</value>
   </data>
   <data name="all_wars" xml:space="preserve">
-    <value>جميع الحروب</value>
+    <value>Todas Guerras</value>
   </data>
   <data name="my_wars" xml:space="preserve">
-    <value>حروبي</value>
+    <value>Minhas Guerras</value>
   </data>
   <data name="join_attackers" xml:space="preserve">
-    <value>انضم إلى المهاجمين</value>
+    <value>Juntar-se aos Agressores</value>
   </data>
   <data name="join_defenders" xml:space="preserve">
-    <value>انضم إلى المدافعين</value>
+    <value>Juntar-se aos Defensores</value>
   </data>
   <data name="foreign_investment" xml:space="preserve">
-    <value>السعي للاستثمار الأجنبي (إعلان مكافأة)</value>
+    <value>Buscar investimento Estrangeiro (Anúncio com Recompensa)</value>
   </data>
   <data name="diplomatic_campaign" xml:space="preserve">
-    <value>حملة دبلوماسية (إعلان مكافأة)</value>
+    <value>Campanha Diplomática (Anúncio com Recompensa)</value>
   </data>
   <data name="propaganda_campaign" xml:space="preserve">
-    <value>حملة دعاية (إعلان مكافأة)</value>
+    <value>Propaganda Política (Anúncio com Recompensa)</value>
   </data>
   <data name="numerous_as_stars" xml:space="preserve">
-    <value>كثيرة مثل النجوم</value>
+    <value>Tão numeroso quanto as estrelas</value>
   </data>
   <data name="endless_frontiers" xml:space="preserve">
-    <value>أرض الحدود التي لا نهاية لها</value>
+    <value>Terra sem Fronteiras</value>
   </data>
   <data name="warrior_nation" xml:space="preserve">
-    <value>أمة المحاربين</value>
+    <value>Nação Guerreira</value>
   </data>
   <data name="sovereign_sea" xml:space="preserve">
-    <value>سيّد البحار</value>
+    <value>Soberano dos Mares</value>
   </data>
   <data name="winged_armada" xml:space="preserve">
-    <value>الأسطول المجنح</value>
+    <value>Armada Alada</value>
   </data>
   <data name="paragon_of_peace" xml:space="preserve">
-    <value>مثال السلام</value>
+    <value>Exemplo de Paz</value>
   </data>
   <data name="best_trains_roads" xml:space="preserve">
-    <value>أفضل القطارات والطرق</value>
+    <value>Melhores Trens e Estradas</value>
   </data>
   <data name="total" xml:space="preserve">
-    <value>الإجمالي</value>
+    <value>Total</value>
   </data>
   <data name="years" xml:space="preserve">
-    <value>{0} سنوات</value>
+    <value>{0} Anos</value>
   </data>
   <data name="months" xml:space="preserve">
-    <value>{0} أشهر</value>
+    <value>{0} Meses</value>
   </data>
   <data name="weeks" xml:space="preserve">
-    <value>{0} أسابيع</value>
+    <value>{0} Semanas</value>
   </data>
   <data name="days" xml:space="preserve">
-    <value>{0} أيام</value>
+    <value>{0} Dias</value>
   </data>
   <data name="independence" xml:space="preserve">
-    <value>الاستقلال</value>
+    <value>Independência!</value>
   </data>
   <data name="all_countries" xml:space="preserve">
-    <value>جميع البلدان</value>
+    <value>Todas Nações</value>
   </data>
   <data name="a_new_nation_rises" xml:space="preserve">
-    <value>أمة جديدة تنهض</value>
+    <value>Nasce uma Nação</value>
   </data>
   <data name="incompatible_save_deleted" xml:space="preserve">
-    <value>تم حذف الحفظ غير المتوافق</value>
+    <value>Save incompatível excluído</value>
   </data>
   <data name="gameover_save_deleted" xml:space="preserve">
-    <value>تم حذف حفظ نهاية اللعبة</value>
+    <value>Save de Fim de Jogo excluído</value>
   </data>
   <data name="rank_by_score" xml:space="preserve">
-    <value>الترتيب حسب النقاط</value>
+    <value>Classificar por Pontuação</value>
   </data>
   <data name="male" xml:space="preserve">
-    <value>ذكر</value>
+    <value>Homem</value>
   </data>
   <data name="female" xml:space="preserve">
-    <value>أنثى</value>
+    <value>Mulher</value>
   </data>
   <data name="send_missionaries" xml:space="preserve">
-    <value>أرسل المبشرين</value>
+    <value>Enviar missionários</value>
   </data>
   <data name="send_material_volunteers" xml:space="preserve">
-    <value>أرسل المعدات والمتطوعين</value>
+    <value>Enviar material e voluntários</value>
   </data>
   <data name="none" xml:space="preserve">
-    <value>لا شيء / بدون</value>
+    <value>Nenhum</value>
   </data>
   <data name="central_powers" xml:space="preserve">
-    <value>القوى المركزية</value>
+    <value>Poências Centrais</value>
   </data>
   <data name="allied_powers" xml:space="preserve">
-    <value>قوى الحلفاء</value>
+    <value>Entente</value>
   </data>
   <data name="current" xml:space="preserve">
-    <value>الحالي</value>
+    <value>Atual</value>
   </data>
   <data name="world_tension_description" xml:space="preserve">
-    <value>يمثل المستوى العام للخوف والقلق الموجود بين دول العالم.
-يمكن أن تكون القيمة المعروضة بين 0٪ و100٪، وتنخفض ببطء شديد بمرور الوقت.
-تزداد بفعل عدة عوامل مثل إعلان الحروب، وتزداد قليلاً مع كل حرب مستمرة.
-عندما يصل توتر العالم إلى 100٪، تندلع حرب عالمية ويتم إعادة التعيين.</value>
+    <value>Representa o nível geral de medo e ansiedade existente entre as nações do mundo. O número exibido pode variar entre 0% e 100%. Ele diminui naturalmente muito lentamente ao longo do tempo. É aumentado por diversos fatores, como a declaração de guerras e, ligeiramente, por cada guerra em andamento. Quando a Tensão Global atinge 100%, uma Guerra Mundial é desencadeada e o indicador é zerado.</value>
   </data>
 </root>

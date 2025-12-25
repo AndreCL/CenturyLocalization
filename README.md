@@ -21,6 +21,7 @@ Open source implementation of localization for Century
 * Russian 
 * Spanish
 * Turkish
+* Portuguese
 
 ## Todo:
 
