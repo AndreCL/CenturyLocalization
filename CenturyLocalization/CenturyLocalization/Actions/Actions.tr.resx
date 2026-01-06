@@ -155,4 +155,7 @@
   <data name="demobilize_soldiers" xml:space="preserve">
     <value>Askerleri terhis et</value>
   </data>
+  <data name="switch_name_country" xml:space="preserve">
+    <value>Ülke adını {0} olarak değiştir</value>
+  </data>
 </root>

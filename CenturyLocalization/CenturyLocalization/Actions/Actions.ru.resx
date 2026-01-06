@@ -154,4 +154,7 @@
   <data name="demobilize_soldiers" xml:space="preserve">
     <value>Демобилизовать солдат</value>
   </data>
+  <data name="switch_name_country" xml:space="preserve">
+    <value>Изменить название страны на {0}</value>
+  </data>
 </root>

@@ -150,4 +150,7 @@
   <data name="demobilize_soldiers" xml:space="preserve">
     <value>Demobilisasi prajurit</value>
   </data>
+  <data name="switch_name_country" xml:space="preserve">
+    <value>Ubah nama negara menjadi {0}</value>
+  </data>
 </root>
