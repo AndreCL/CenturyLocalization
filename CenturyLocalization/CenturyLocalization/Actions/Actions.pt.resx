@@ -153,4 +153,16 @@
   <data name="switch_name_country" xml:space="preserve">
     <value>Alterar o nome do país para {0}</value>
   </data>
+  <data name="start_world_war" xml:space="preserve">
+    <value>Iniciar a guerra mundial</value>
+  </data>
+  <data name="country_not_found" xml:space="preserve">
+    <value>País não encontrado</value>
+  </data>
+  <data name="play_as_country" xml:space="preserve">
+    <value>Jogar como {0}</value>
+  </data>
+  <data name="trigger_event" xml:space="preserve">
+    <value>Acionar evento {0}</value>
+  </data>
 </root>

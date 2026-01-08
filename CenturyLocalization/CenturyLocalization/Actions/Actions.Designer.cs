@@ -88,6 +88,15 @@ namespace CenturyLocalization.Actions {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Country not found.
+        /// </summary>
+        internal static string country_not_found {
+            get {
+                return ResourceManager.GetString("country_not_found", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Demobilize soldiers.
         /// </summary>
         internal static string demobilize_soldiers {
@@ -142,6 +151,15 @@ namespace CenturyLocalization.Actions {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Play as {0}.
+        /// </summary>
+        internal static string play_as_country {
+            get {
+                return ResourceManager.GetString("play_as_country", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Remove Christian Population.
         /// </summary>
         internal static string remove_christian_population {
@@ -160,11 +178,29 @@ namespace CenturyLocalization.Actions {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Start World War.
+        /// </summary>
+        internal static string start_world_war {
+            get {
+                return ResourceManager.GetString("start_world_war", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Switch country name to {0}.
         /// </summary>
         internal static string switch_name_country {
             get {
                 return ResourceManager.GetString("switch_name_country", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Trigger event {0}.
+        /// </summary>
+        internal static string trigger_event {
+            get {
+                return ResourceManager.GetString("trigger_event", resourceCulture);
             }
         }
     }

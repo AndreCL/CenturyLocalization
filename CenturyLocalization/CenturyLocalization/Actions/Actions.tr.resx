@@ -158,4 +158,16 @@
   <data name="switch_name_country" xml:space="preserve">
     <value>Ülke adını {0} olarak değiştir</value>
   </data>
+  <data name="start_world_war" xml:space="preserve">
+    <value>Dünya savaşını başlat</value>
+  </data>
+  <data name="country_not_found" xml:space="preserve">
+    <value>Ülke bulunamadı</value>
+  </data>
+  <data name="play_as_country" xml:space="preserve">
+    <value>{0} olarak oyna</value>
+  </data>
+  <data name="trigger_event" xml:space="preserve">
+    <value>Olayı tetikle {0}</value>
+  </data>
 </root>

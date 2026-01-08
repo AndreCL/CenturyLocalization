@@ -153,4 +153,16 @@
   <data name="switch_name_country" xml:space="preserve">
     <value>Ubah nama negara menjadi {0}</value>
   </data>
+  <data name="start_world_war" xml:space="preserve">
+    <value>Mulai perang dunia</value>
+  </data>
+  <data name="country_not_found" xml:space="preserve">
+    <value>Negara tidak ditemukan</value>
+  </data>
+  <data name="play_as_country" xml:space="preserve">
+    <value>Main sebagai {0}</value>
+  </data>
+  <data name="trigger_event" xml:space="preserve">
+    <value>Picu acara {0}</value>
+  </data>
 </root>
