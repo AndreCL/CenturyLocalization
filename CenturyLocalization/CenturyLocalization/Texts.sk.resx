@@ -1,0 +1,628 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="error_string_not_found" xml:space="preserve">
+    <value>Text sa nenašiel</value>
+    <comment>Used when a string is not found</comment>
+  </data>
+  <data name="unittest_both" xml:space="preserve">
+    <value>Ok</value>
+    <comment>IGNORE Used for unit tests</comment>
+  </data>
+  <data name="unittest_onlyen" xml:space="preserve">
+    <value>Ok</value>
+    <comment>IGNORE Used for unit tests</comment>
+  </data>
+  <data name="ApplicationName" xml:space="preserve">
+    <value>Century</value>
+    <comment>Name of the game</comment>
+  </data>
+  <data name="yes" xml:space="preserve">
+    <value>Áno</value>
+  </data>
+  <data name="no" xml:space="preserve">
+    <value>Nie</value>
+  </data>
+  <data name="close" xml:space="preserve">
+    <value>Zavrieť</value>
+  </data>
+  <data name="Newgame" xml:space="preserve">
+    <value>Nová hra</value>
+  </data>
+  <data name="Continuegame" xml:space="preserve">
+    <value>Pokračovať v hre</value>
+  </data>
+  <data name="loading" xml:space="preserve">
+    <value>Načítavam uložené hry...</value>
+  </data>
+  <data name="sendemail" xml:space="preserve">
+    <value>Poslať e-mail</value>
+  </data>
+  <data name="changelog" xml:space="preserve">
+    <value>Zoznam zmien</value>
+  </data>
+  <data name="feedback" xml:space="preserve">
+    <value>Odoslať spätnú väzbu</value>
+  </data>
+  <data name="discord" xml:space="preserve">
+    <value>Discord</value>
+  </data>
+  <data name="facebook" xml:space="preserve">
+    <value>Facebook</value>
+  </data>
+  <data name="discordjoin" xml:space="preserve">
+    <value>Pripojiť sa na Discord server</value>
+  </data>
+  <data name="getversion" xml:space="preserve">
+    <value>Zisťovanie verzie</value>
+  </data>
+  <data name="delete" xml:space="preserve">
+    <value>Vymazať</value>
+  </data>
+  <data name="warning" xml:space="preserve">
+    <value>Upozornenie</value>
+  </data>
+  <data name="message_delete_save" xml:space="preserve">
+    <value>Naozaj chcete vymazať túto uloženú hru?</value>
+  </data>
+  <data name="Instructions1" xml:space="preserve">
+    <value>Vyberte krajinu</value>
+  </data>
+  <data name="startdate" xml:space="preserve">
+    <value>Dátum začiatku:</value>
+  </data>
+  <data name="enddate" xml:space="preserve">
+    <value>Dátum konca:</value>
+  </data>
+  <data name="country" xml:space="preserve">
+    <value>Krajina</value>
+  </data>
+  <data name="rank" xml:space="preserve">
+    <value>Poradie</value>
+  </data>
+  <data name="illiteracy" xml:space="preserve">
+    <value>Negramotnosť:</value>
+  </data>
+  <data name="largestreligion" xml:space="preserve">
+    <value>Najväčšie náboženstvo:</value>
+  </data>
+  <data name="largestculture" xml:space="preserve">
+    <value>Najväčšia kultúra:</value>
+  </data>
+  <data name="army" xml:space="preserve">
+    <value>Armáda</value>
+  </data>
+  <data name="soldiers" xml:space="preserve">
+    <value>Vojaci:</value>
+  </data>
+  <data name="rifles" xml:space="preserve">
+    <value>Pušky:</value>
+  </data>
+  <data name="tanks" xml:space="preserve">
+    <value>Tanky:</value>
+  </data>
+  <data name="navy" xml:space="preserve">
+    <value>Námorníctvo</value>
+  </data>
+  <data name="sailors" xml:space="preserve">
+    <value>Námorníci:</value>
+  </data>
+  <data name="smallships" xml:space="preserve">
+    <value>Malé lode:</value>
+  </data>
+  <data name="mediumships" xml:space="preserve">
+    <value>Stredné lode:</value>
+  </data>
+  <data name="largeships" xml:space="preserve">
+    <value>Veľké lode:</value>
+  </data>
+  <data name="airforce" xml:space="preserve">
+    <value>Letectvo</value>
+  </data>
+  <data name="pilots" xml:space="preserve">
+    <value>Piloti:</value>
+  </data>
+  <data name="fighters" xml:space="preserve">
+    <value>Stíhačky:</value>
+  </data>
+  <data name="bombers" xml:space="preserve">
+    <value>Bombardéry:</value>
+  </data>
+  <data name="start" xml:space="preserve">
+    <value>Začať</value>
+  </data>
+  <data name="declarewar" xml:space="preserve">
+    <value>Vyhlásiť vojnu</value>
+  </data>
+  <data name="poverty" xml:space="preserve">
+    <value>Chudoba</value>
+  </data>
+  <data name="healthcare" xml:space="preserve">
+    <value>Zdravotné pokrytie</value>
+  </data>
+  <data name="money" xml:space="preserve">
+    <value>Peniaze</value>
+  </data>
+  <data name="population" xml:space="preserve">
+    <value>Populácia</value>
+  </data>
+  <data name="area" xml:space="preserve">
+    <value>Rozloha</value>
+  </data>
+  <data name="infrastructure" xml:space="preserve">
+    <value>Infraštruktúra</value>
+  </data>
+  <data name="infamy" xml:space="preserve">
+    <value>Zlá povesť</value>
+  </data>
+  <data name="independentsince" xml:space="preserve">
+    <value>Nezávislá od</value>
+  </data>
+  <data name="war_level" xml:space="preserve">
+    <value>Úroveň vojny</value>
+  </data>
+  <data name="employment" xml:space="preserve">
+    <value>Zamestnanosť</value>
+  </data>
+  <data name="social_class" xml:space="preserve">
+    <value>Sociálna trieda</value>
+  </data>
+  <data name="age_groups" xml:space="preserve">
+    <value>Vekové skupiny</value>
+  </data>
+  <data name="gender" xml:space="preserve">
+    <value>Pohlavie</value>
+  </data>
+  <data name="religion" xml:space="preserve">
+    <value>Náboženstvo</value>
+  </data>
+  <data name="culture" xml:space="preserve">
+    <value>Kultúra</value>
+  </data>
+  <data name="education" xml:space="preserve">
+    <value>Vzdelanie</value>
+  </data>
+  <data name="daily_investment" xml:space="preserve">
+    <value>Denná investícia:</value>
+  </data>
+  <data name="one_time_investment" xml:space="preserve">
+    <value>Jednorazová investícia:</value>
+  </data>
+  <data name="filter_wars" xml:space="preserve">
+    <value>Filtrovať vojny</value>
+  </data>
+  <data name="war" xml:space="preserve">
+    <value>Vojna</value>
+  </data>
+  <data name="score" xml:space="preserve">
+    <value>Skóre</value>
+  </data>
+  <data name="men_to_equipment" xml:space="preserve">
+    <value>Pomer mužov k výstroju:</value>
+  </data>
+  <data name="extra_equipment" xml:space="preserve">
+    <value>Máte nadbytočnú výstroj</value>
+  </data>
+  <data name="extra_men" xml:space="preserve">
+    <value>Máte nevyzbrojených mužov</value>
+  </data>
+  <data name="army_school" xml:space="preserve">
+    <value>vojenská škola</value>
+  </data>
+  <data name="army_schools" xml:space="preserve">
+    <value>vojenské školy</value>
+  </data>
+  <data name="navy_school" xml:space="preserve">
+    <value>námorná škola</value>
+  </data>
+  <data name="navy_schools" xml:space="preserve">
+    <value>námorné školy</value>
+  </data>
+  <data name="air_school" xml:space="preserve">
+    <value>letecká škola</value>
+  </data>
+  <data name="air_schools" xml:space="preserve">
+    <value>letecké školy</value>
+  </data>
+  <data name="factory" xml:space="preserve">
+    <value>továreň</value>
+  </data>
+  <data name="factories" xml:space="preserve">
+    <value>továrne</value>
+  </data>
+  <data name="dock" xml:space="preserve">
+    <value>dok</value>
+  </data>
+  <data name="docks" xml:space="preserve">
+    <value>doky</value>
+  </data>
+  <data name="gameover" xml:space="preserve">
+    <value>Koniec hry</value>
+  </data>
+  <data name="endgametitle" xml:space="preserve">
+    <value>Gratulujeme! Viedli ste svoj národ počas {0} búrlivých rokov</value>
+  </data>
+  <data name="winner" xml:space="preserve">
+    <value>Víťaz</value>
+  </data>
+  <data name="second" xml:space="preserve">
+    <value>2.</value>
+  </data>
+  <data name="third" xml:space="preserve">
+    <value>3.</value>
+  </data>
+  <data name="attackers" xml:space="preserve">
+    <value>Útočníci:</value>
+    <comment>Plural</comment>
+  </data>
+  <data name="defenders" xml:space="preserve">
+    <value>Obrancovia:</value>
+    <comment>Plural</comment>
+  </data>
+  <data name="attacker" xml:space="preserve">
+    <value>Útočník:</value>
+    <comment>Singular</comment>
+  </data>
+  <data name="defender" xml:space="preserve">
+    <value>Obranca:</value>
+    <comment>Singular</comment>
+  </data>
+  <data name="attacker_victory" xml:space="preserve">
+    <value>Víťazstvo útočníka</value>
+  </data>
+  <data name="tie" xml:space="preserve">
+    <value>Remíza</value>
+  </data>
+  <data name="defender_victory" xml:space="preserve">
+    <value>Víťazstvo obrancu</value>
+  </data>
+  <data name="no_longer_exists" xml:space="preserve">
+    <value>Vybraná krajina už neexistuje</value>
+  </data>
+  <data name="military_loses" xml:space="preserve">
+    <value>Vojenské straty:</value>
+  </data>
+  <data name="civilian_loses" xml:space="preserve">
+    <value>Civilné straty:</value>
+  </data>
+  <data name="equipment_loses" xml:space="preserve">
+    <value>Straty výstroje:</value>
+  </data>
+  <data name="infrastructure_decrease" xml:space="preserve">
+    <value>Strata infraštruktúry:</value>
+  </data>
+  <data name="invest" xml:space="preserve">
+    <value>Investovať</value>
+  </data>
+  <data name="facebookjoin" xml:space="preserve">
+    <value>Pripojiť sa k Facebook skupine</value>
+  </data>
+  <data name="world_tension" xml:space="preserve">
+    <value>Svetové napätie</value>
+  </data>
+  <data name="battles" xml:space="preserve">
+    <value>Bitky</value>
+  </data>
+  <data name="world_war_title" xml:space="preserve">
+    <value>Svet je vo vojne!</value>
+    <comment>For the news paper event</comment>
+  </data>
+  <data name="world_war_message" xml:space="preserve">
+    <value>Po mesiacoch vysokého napätia, veľmoci vstúpili do vojny. {war.Name} sa začala.</value>
+    <comment>For the news paper event</comment>
+  </data>
+  <data name="new_century_title" xml:space="preserve">
+    <value>Šťastné nové storočie!</value>
+    <comment>For the news paper event</comment>
+  </data>
+  <data name="new_century_message" xml:space="preserve">
+    <value>Vážení čitatelia,
+Nastáva nové storočie. Prajeme vám šťastný nový rok. Nech je toto nové obdobie pokojné.</value>
+    <comment>For the news paper event</comment>
+  </data>
+  <data name="new_year_title" xml:space="preserve">
+    <value>Šťastný nový rok!</value>
+    <comment>For the news paper event</comment>
+  </data>
+  <data name="new_year_message" xml:space="preserve">
+    <value>Vážení čitatelia,
+Nastáva nový rok. Prajeme vám šťastný nový rok. Nech je toto nové obdobie pokojné.</value>
+    <comment>For the news paper event</comment>
+  </data>
+  <data name="annexed_title" xml:space="preserve">
+    <value>Anexia!</value>
+  </data>
+  <data name="annexed_message" xml:space="preserve">
+    <value>{countryToDelete.Name} sa stala takou malou a bezvýznamnou, že ju {inherited.Name} pohltila</value>
+  </data>
+  <data name="inconclusive_title" xml:space="preserve">
+    <value>{warToRemove.Name} končí bez jednoznačného výsledku</value>
+  </data>
+  <data name="inconclusive_message" xml:space="preserve">
+    <value>Keďže jedna zo zúčastnených krajín už neexistuje, {warToRemove.Name} skončila bez jednoznačného výsledku</value>
+  </data>
+  <data name="victoria_title" xml:space="preserve">
+    <value>Kráľovná Viktória zomrela</value>
+  </data>
+  <data name="victoria_message" xml:space="preserve">
+    <value>Edward VII sa stáva kráľom Anglicka a Indie po smrti kráľovnej Viktórie</value>
+  </data>
+  <data name="defaultwar_title" xml:space="preserve">
+    <value>Vojna!</value>
+  </data>
+  <data name="defaultwar_message" xml:space="preserve">
+    <value>{war.Name} sa začala medzi {war.Attackers[0].Name} a {war.Defenders[0].Name}.</value>
+  </data>
+  <data name="defaultwar_message_infamy" xml:space="preserve">
+    <value>Po viacerých agresiách zo strany {highInfamyCountry.Name}, {attacker1.Name} a {attacker2.Name} vyhlásili vojnu neslávne známej {highInfamyCountry.Name}.</value>
+  </data>
+  <data name="policies" xml:space="preserve">
+    <value>Taktika</value>
+  </data>
+  <data name="foreignPolicy" xml:space="preserve">
+    <value>Zahraničná politika</value>
+  </data>
+  <data name="interventionist" xml:space="preserve">
+    <value>Intervencionistická</value>
+  </data>
+  <data name="isolationist" xml:space="preserve">
+    <value>Izolacionistická</value>
+  </data>
+  <data name="losses" xml:space="preserve">
+    <value>Straty</value>
+  </data>
+  <data name="military_expenses" xml:space="preserve">
+    <value>Vojenské výdavky</value>
+  </data>
+  <data name="other" xml:space="preserve">
+    <value>Iné</value>
+  </data>
+  <data name="expenses" xml:space="preserve">
+    <value>Výdavky</value>
+  </data>
+  <data name="income" xml:space="preserve">
+    <value>Príjem</value>
+  </data>
+  <data name="investments" xml:space="preserve">
+    <value>Investície</value>
+  </data>
+  <data name="territory" xml:space="preserve">
+    <value>Územie</value>
+  </data>
+  <data name="military" xml:space="preserve">
+    <value>Armáda</value>
+  </data>
+  <data name="welfare" xml:space="preserve">
+    <value>Sociálna starostlivosť</value>
+  </data>
+  <data name="all_news" xml:space="preserve">
+    <value>Všetky správy</value>
+  </data>
+  <data name="my_news" xml:space="preserve">
+    <value>Moje správy</value>
+  </data>
+  <data name="all_wars" xml:space="preserve">
+    <value>Všetky vojny</value>
+  </data>
+  <data name="my_wars" xml:space="preserve">
+    <value>Moje vojny</value>
+  </data>
+  <data name="join_attackers" xml:space="preserve">
+    <value>Pripojiť sa k útočníkom</value>
+  </data>
+  <data name="join_defenders" xml:space="preserve">
+    <value>Pripojiť sa k obrancom</value>
+  </data>
+  <data name="foreign_investment" xml:space="preserve">
+    <value>Hľadať zahraničné investície (Odmenová reklama)</value>
+  </data>
+  <data name="diplomatic_campaign" xml:space="preserve">
+    <value>Diplomatická kampaň (Odmenová reklama)</value>
+  </data>
+  <data name="propaganda_campaign" xml:space="preserve">
+    <value>Propagandistická kampaň (Odmenová reklama)</value>
+  </data>
+  <data name="numerous_as_stars" xml:space="preserve">
+    <value>Početní ako hviezdy</value>
+  </data>
+  <data name="endless_frontiers" xml:space="preserve">
+    <value>Krajina nekonečných hraníc</value>
+  </data>
+  <data name="warrior_nation" xml:space="preserve">
+    <value>Bojovný národ</value>
+  </data>
+  <data name="sovereign_sea" xml:space="preserve">
+    <value>Vládca morí</value>
+  </data>
+  <data name="winged_armada" xml:space="preserve">
+    <value>Okrídlená armáda</value>
+  </data>
+  <data name="paragon_of_peace" xml:space="preserve">
+    <value>Vzor mieru</value>
+  </data>
+  <data name="best_trains_roads" xml:space="preserve">
+    <value>Najlepšie vlaky a cesty</value>
+  </data>
+  <data name="total" xml:space="preserve">
+    <value>Celkom</value>
+  </data>
+  <data name="years" xml:space="preserve">
+    <value>{0} rokov</value>
+  </data>
+  <data name="months" xml:space="preserve">
+    <value>{0} mesiacov</value>
+  </data>
+  <data name="weeks" xml:space="preserve">
+    <value>{0} týždňov</value>
+  </data>
+  <data name="days" xml:space="preserve">
+    <value>{0} dní</value>
+  </data>
+  <data name="independence" xml:space="preserve">
+    <value>Nezávislosť</value>
+  </data>
+  <data name="all_countries" xml:space="preserve">
+    <value>Všetky krajiny</value>
+  </data>
+  <data name="a_new_nation_rises" xml:space="preserve">
+    <value>Nový národ povstáva</value>
+  </data>
+  <data name="incompatible_save_deleted" xml:space="preserve">
+    <value>Nekompatibilná uložená hra vymazaná</value>
+  </data>
+  <data name="gameover_save_deleted" xml:space="preserve">
+    <value>Uložená hra po skončení vymazaná</value>
+  </data>
+  <data name="rank_by_score" xml:space="preserve">
+    <value>Poradie podľa skóre</value>
+  </data>
+  <data name="male" xml:space="preserve">
+    <value>Muž</value>
+  </data>
+  <data name="female" xml:space="preserve">
+    <value>Žena</value>
+  </data>
+  <data name="send_missionaries" xml:space="preserve">
+    <value>Poslať misionárov</value>
+  </data>
+  <data name="send_material_volunteers" xml:space="preserve">
+    <value>Poslať materiál a dobrovoľníkov</value>
+  </data>
+  <data name="none" xml:space="preserve">
+    <value>Žiadne</value>
+  </data>
+  <data name="central_powers" xml:space="preserve">
+    <value>Centrálne mocnosti</value>
+  </data>
+  <data name="allied_powers" xml:space="preserve">
+    <value>Spojené mocnosti</value>
+  </data>
+  <data name="current" xml:space="preserve">
+    <value>Aktuálne</value>
+  </data>
+  <data name="world_tension_description" xml:space="preserve">
+    <value>Predstavuje celkovú úroveň strachu a úzkosti, ktorá existuje medzi národmi sveta.
+
+Zobrazené číslo môže byť medzi 0% a 100%. Prirodzene veľmi pomaly klesá v priebehu času.
+Zvyšuje sa viacerými faktormi, ako je vyhlasovanie vojen a mierne každou prebiehajúcou vojnou.
+Keď svetové napätie dosiahne 100%, spustí sa svetová vojna a resetuje sa.
+
+</value>
+  </data>
+</root>
