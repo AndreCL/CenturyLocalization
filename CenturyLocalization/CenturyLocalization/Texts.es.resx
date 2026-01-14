@@ -607,4 +607,10 @@ El número mostrado puede estar entre 0 % y 100 %. Disminuye naturalmente muy le
 Aumenta por varios factores, como la declaración de guerras, y ligeramente por cada guerra en curso.
 Una vez que la tensión mundial alcanza el 100 %, se desencadena una guerra mundial y se reinicia.</value>
   </data>
+  <data name="settings" xml:space="preserve">
+    <value>Configuración</value>
+  </data>
+  <data name="select_language" xml:space="preserve">
+    <value>Seleccionar idioma</value>
+  </data>
 </root>

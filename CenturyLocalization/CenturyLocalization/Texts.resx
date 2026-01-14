@@ -625,4 +625,10 @@ Once the World Tension reaches 100%, a World War is triggered and it resets.
 
 </value>
   </data>
+  <data name="settings" xml:space="preserve">
+    <value>Settings</value>
+  </data>
+  <data name="select_language" xml:space="preserve">
+    <value>Select language</value>
+  </data>
 </root>

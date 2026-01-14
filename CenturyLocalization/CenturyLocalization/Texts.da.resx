@@ -606,4 +606,10 @@ Når verdensspændingen når 100 %, udløses en verdenskrig, og værdien nulstil
   <data name="current" xml:space="preserve">
     <value>Nuværende</value>
   </data>
+  <data name="settings" xml:space="preserve">
+    <value>Indstillinger</value>
+  </data>
+  <data name="select_language" xml:space="preserve">
+    <value>Vælg sprog</value>
+  </data>
 </root>

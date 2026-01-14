@@ -625,4 +625,10 @@ Keď svetové napätie dosiahne 100%, spustí sa svetová vojna a resetuje sa.
 
 </value>
   </data>
+  <data name="settings" xml:space="preserve">
+    <value>Nastavenia</value>
+  </data>
+  <data name="select_language" xml:space="preserve">
+    <value>Vybrať jazyk</value>
+  </data>
 </root>

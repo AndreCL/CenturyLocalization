@@ -605,4 +605,10 @@
 تزداد بفعل عدة عوامل مثل إعلان الحروب، وتزداد قليلاً مع كل حرب مستمرة.
 عندما يصل توتر العالم إلى 100٪، تندلع حرب عالمية ويتم إعادة التعيين.</value>
   </data>
+  <data name="settings" xml:space="preserve">
+    <value>الإعدادات</value>
+  </data>
+  <data name="select_language" xml:space="preserve">
+    <value>اختر اللغة</value>
+  </data>
 </root>

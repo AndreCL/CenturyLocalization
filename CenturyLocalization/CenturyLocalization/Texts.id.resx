@@ -605,4 +605,10 @@ Angka yang ditampilkan dapat berada antara 0% dan 100%, dan secara alami menurun
 Nilai ini meningkat karena beberapa faktor seperti deklarasi perang, dan sedikit oleh setiap perang yang sedang berlangsung.
 Ketika Ketegangan Dunia mencapai 100%, Perang Dunia akan dipicu dan nilainya diatur ulang.</value>
   </data>
+  <data name="settings" xml:space="preserve">
+    <value>Pengaturan</value>
+  </data>
+  <data name="select_language" xml:space="preserve">
+    <value>Pilih bahasa</value>
+  </data>
 </root>

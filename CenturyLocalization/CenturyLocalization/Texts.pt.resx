@@ -605,4 +605,10 @@ Um novo ano chegou. Desejamos a vocês um feliz ano novo. Que este novo ano seja
   <data name="world_tension_description" xml:space="preserve">
     <value>Representa o nível geral de medo e ansiedade existente entre as nações do mundo. O número exibido pode variar entre 0% e 100%. Ele diminui naturalmente muito lentamente ao longo do tempo. É aumentado por diversos fatores, como a declaração de guerras e, ligeiramente, por cada guerra em andamento. Quando a Tensão Global atinge 100%, uma Guerra Mundial é desencadeada e o indicador é zerado.</value>
   </data>
+  <data name="settings" xml:space="preserve">
+    <value>Configurações</value>
+  </data>
+  <data name="select_language" xml:space="preserve">
+    <value>Selecionar idioma</value>
+  </data>
 </root>

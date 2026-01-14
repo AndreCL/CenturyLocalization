@@ -60,45 +60,45 @@
             : and then encoded with base64 encoding.
     -->
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
               </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string"/>
-              <xsd:attribute name="type" type="xsd:string"/>
-              <xsd:attribute name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string"/>
-              <xsd:attribute name="name" type="xsd:string"/>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -135,175 +135,175 @@
   </data>
   <data name="yes" xml:space="preserve">
     <value>Evet</value>
-    <comment/>
+    <comment />
   </data>
   <data name="no" xml:space="preserve">
     <value>Hayır</value>
-    <comment/>
+    <comment />
   </data>
   <data name="close" xml:space="preserve">
     <value>Kapat</value>
-    <comment/>
+    <comment />
   </data>
   <data name="Newgame" xml:space="preserve">
     <value>Yeni Oyun</value>
-    <comment/>
+    <comment />
   </data>
   <data name="Continuegame" xml:space="preserve">
     <value>Devam Et</value>
-    <comment/>
+    <comment />
   </data>
   <data name="loading" xml:space="preserve">
     <value>Kayıt yükleniyor...</value>
-    <comment/>
+    <comment />
   </data>
   <data name="sendemail" xml:space="preserve">
     <value>E-mail Gönder</value>
-    <comment/>
+    <comment />
   </data>
   <data name="changelog" xml:space="preserve">
     <value>Güncelleme Günlüğü</value>
-    <comment/>
+    <comment />
   </data>
   <data name="feedback" xml:space="preserve">
     <value>Geridönüş Gönder</value>
-    <comment/>
+    <comment />
   </data>
   <data name="discord" xml:space="preserve">
     <value>Discord</value>
-    <comment/>
+    <comment />
   </data>
   <data name="facebook" xml:space="preserve">
     <value>Facebook</value>
-    <comment/>
+    <comment />
   </data>
   <data name="discordjoin" xml:space="preserve">
     <value>Discord sunucusuna katıl!</value>
-    <comment/>
+    <comment />
   </data>
   <data name="getversion" xml:space="preserve">
     <value>Versiyon Çekiliyor</value>
-    <comment/>
+    <comment />
   </data>
   <data name="delete" xml:space="preserve">
     <value>Sil</value>
-    <comment/>
+    <comment />
   </data>
   <data name="warning" xml:space="preserve">
     <value>Uyarı</value>
-    <comment/>
+    <comment />
   </data>
   <data name="message_delete_save" xml:space="preserve">
     <value>Bu kaydı silmek istediğinize emin misiniz?</value>
-    <comment/>
+    <comment />
   </data>
   <data name="Instructions1" xml:space="preserve">
     <value>Bir ülke seçin</value>
-    <comment/>
+    <comment />
   </data>
   <data name="startdate" xml:space="preserve">
     <value>Başlangıç Tarihi</value>
-    <comment/>
+    <comment />
   </data>
   <data name="enddate" xml:space="preserve">
     <value>Bitiş Tarihi:</value>
-    <comment/>
+    <comment />
   </data>
   <data name="country" xml:space="preserve">
     <value>Ülke</value>
-    <comment/>
+    <comment />
   </data>
   <data name="rank" xml:space="preserve">
     <value>Rank</value>
-    <comment/>
+    <comment />
   </data>
   <data name="illiteracy" xml:space="preserve">
     <value>Okuma-yazma bilmeme oranı:</value>
-    <comment/>
+    <comment />
   </data>
   <data name="largestreligion" xml:space="preserve">
     <value>En büyük din:</value>
-    <comment/>
+    <comment />
   </data>
   <data name="largestculture" xml:space="preserve">
     <value>En büyük kültür:</value>
-    <comment/>
+    <comment />
   </data>
   <data name="army" xml:space="preserve">
     <value>Kara Kuvvetleri</value>
-    <comment/>
+    <comment />
   </data>
   <data name="soldiers" xml:space="preserve">
     <value>Asker:</value>
-    <comment/>
+    <comment />
   </data>
   <data name="rifles" xml:space="preserve">
     <value>Silah:</value>
-    <comment/>
+    <comment />
   </data>
   <data name="tanks" xml:space="preserve">
     <value>Tank:</value>
-    <comment/>
+    <comment />
   </data>
   <data name="navy" xml:space="preserve">
     <value>Deniz Kuvvetleri</value>
-    <comment/>
+    <comment />
   </data>
   <data name="sailors" xml:space="preserve">
     <value>Denizci:</value>
-    <comment/>
+    <comment />
   </data>
   <data name="smallships" xml:space="preserve">
     <value>Küçük gemi:</value>
-    <comment/>
+    <comment />
   </data>
   <data name="mediumships" xml:space="preserve">
     <value>Orta Gemi:</value>
-    <comment/>
+    <comment />
   </data>
   <data name="largeships" xml:space="preserve">
     <value>Büyük gemi:</value>
-    <comment/>
+    <comment />
   </data>
   <data name="airforce" xml:space="preserve">
     <value>Hava Kuvvetleri</value>
-    <comment/>
+    <comment />
   </data>
   <data name="pilots" xml:space="preserve">
     <value>Pilot:</value>
-    <comment/>
+    <comment />
   </data>
   <data name="fighters" xml:space="preserve">
     <value>Savaş Uçağı:</value>
-    <comment/>
+    <comment />
   </data>
   <data name="bombers" xml:space="preserve">
     <value>Bombardıman Uçağı:</value>
-    <comment/>
+    <comment />
   </data>
   <data name="start" xml:space="preserve">
     <value>Başlat</value>
-    <comment/>
+    <comment />
   </data>
   <data name="declarewar" xml:space="preserve">
     <value>Savaş İlan Et</value>
-    <comment/>
+    <comment />
   </data>
   <data name="poverty" xml:space="preserve">
     <value>Yoksulluk</value>
-    <comment/>
+    <comment />
   </data>
   <data name="healthcare" xml:space="preserve">
     <value>Sağlık Kalitesi</value>
-    <comment/>
+    <comment />
   </data>
   <data name="money" xml:space="preserve">
     <value>Para</value>
-    <comment/>
+    <comment />
   </data>
   <data name="population" xml:space="preserve">
     <value>Popülasyon</value>
-    <comment/>
+    <comment />
   </data>
   <data name="area" xml:space="preserve">
     <value>Yüzey Alanı</value>
@@ -311,139 +311,139 @@
   </data>
   <data name="infrastructure" xml:space="preserve">
     <value>Altyapı</value>
-    <comment/>
+    <comment />
   </data>
   <data name="infamy" xml:space="preserve">
     <value>Gaddarlık</value>
-    <comment/>
+    <comment />
   </data>
   <data name="independentsince" xml:space="preserve">
     <value>Şu tarihten beri bağımsız:</value>
-    <comment/>
+    <comment />
   </data>
   <data name="war_level" xml:space="preserve">
     <value>Savaş Seviyesi</value>
-    <comment/>
+    <comment />
   </data>
   <data name="employment" xml:space="preserve">
     <value>İş</value>
-    <comment/>
+    <comment />
   </data>
   <data name="social_class" xml:space="preserve">
     <value>Sosyal Sınıf</value>
-    <comment/>
+    <comment />
   </data>
   <data name="age_groups" xml:space="preserve">
     <value>Yaş Grupları</value>
-    <comment/>
+    <comment />
   </data>
   <data name="gender" xml:space="preserve">
     <value>Cinsiyet</value>
-    <comment/>
+    <comment />
   </data>
   <data name="religion" xml:space="preserve">
     <value>Din</value>
-    <comment/>
+    <comment />
   </data>
   <data name="culture" xml:space="preserve">
     <value>Kültür</value>
-    <comment/>
+    <comment />
   </data>
   <data name="education" xml:space="preserve">
     <value>Eğitim</value>
-    <comment/>
+    <comment />
   </data>
   <data name="daily_investment" xml:space="preserve">
     <value>Günlük Yatırım:</value>
-    <comment/>
+    <comment />
   </data>
   <data name="one_time_investment" xml:space="preserve">
     <value>Tek Seferlik Yatırım:</value>
-    <comment/>
+    <comment />
   </data>
   <data name="filter_wars" xml:space="preserve">
     <value>Savaşları Filtrele</value>
-    <comment/>
+    <comment />
   </data>
   <data name="war" xml:space="preserve">
     <value>Savaş</value>
-    <comment/>
+    <comment />
   </data>
   <data name="score" xml:space="preserve">
     <value>Skor</value>
-    <comment/>
+    <comment />
   </data>
   <data name="men_to_equipment" xml:space="preserve">
     <value>Piyade-Ekipman oranı</value>
-    <comment/>
+    <comment />
   </data>
   <data name="extra_equipment" xml:space="preserve">
     <value>Eksta ekipmanın var</value>
-    <comment/>
+    <comment />
   </data>
   <data name="extra_men" xml:space="preserve">
     <value>Ektra piyaden var</value>
-    <comment/>
+    <comment />
   </data>
   <data name="army_school" xml:space="preserve">
     <value>Piyade okulu</value>
-    <comment/>
+    <comment />
   </data>
   <data name="army_schools" xml:space="preserve">
     <value>Piyade okullarıı</value>
-    <comment/>
+    <comment />
   </data>
   <data name="navy_school" xml:space="preserve">
     <value>Denizcilik okulu</value>
-    <comment/>
+    <comment />
   </data>
   <data name="navy_schools" xml:space="preserve">
     <value>Denizcilik okulları</value>
-    <comment/>
+    <comment />
   </data>
   <data name="air_school" xml:space="preserve">
     <value>Havacılık okulu</value>
-    <comment/>
+    <comment />
   </data>
   <data name="air_schools" xml:space="preserve">
     <value>Havacılık okulları</value>
-    <comment/>
+    <comment />
   </data>
   <data name="factory" xml:space="preserve">
     <value>Fabrika</value>
-    <comment/>
+    <comment />
   </data>
   <data name="factories" xml:space="preserve">
     <value>Fabrikalar</value>
-    <comment/>
+    <comment />
   </data>
   <data name="dock" xml:space="preserve">
     <value>Liman</value>
-    <comment/>
+    <comment />
   </data>
   <data name="docks" xml:space="preserve">
     <value>Limanlar</value>
-    <comment/>
+    <comment />
   </data>
   <data name="gameover" xml:space="preserve">
     <value>Oyun Bitti</value>
-    <comment/>
+    <comment />
   </data>
   <data name="endgametitle" xml:space="preserve">
     <value>Helaaaal! {0} çalkantılı yıl boyunca devletini yönettin!</value>
-    <comment/>
+    <comment />
   </data>
   <data name="winner" xml:space="preserve">
     <value>Kazanan</value>
-    <comment/>
+    <comment />
   </data>
   <data name="second" xml:space="preserve">
     <value>2.</value>
-    <comment/>
+    <comment />
   </data>
   <data name="third" xml:space="preserve">
     <value>3.</value>
-    <comment/>
+    <comment />
   </data>
   <data name="attackers" xml:space="preserve">
     <value>Taaruz:</value>
@@ -463,51 +463,51 @@
   </data>
   <data name="attacker_victory" xml:space="preserve">
     <value>Ofansif Taraf Kazandı</value>
-    <comment/>
+    <comment />
   </data>
   <data name="tie" xml:space="preserve">
     <value>Berabere</value>
-    <comment/>
+    <comment />
   </data>
   <data name="defender_victory" xml:space="preserve">
     <value>Defansif Taraf Kazandı</value>
-    <comment/>
+    <comment />
   </data>
   <data name="no_longer_exists" xml:space="preserve">
     <value>Seçilen ülke artık yok</value>
-    <comment/>
+    <comment />
   </data>
   <data name="military_loses" xml:space="preserve">
     <value>Askeri kayıplar:</value>
-    <comment/>
+    <comment />
   </data>
   <data name="civilian_loses" xml:space="preserve">
     <value>Sivil kayıplar:</value>
-    <comment/>
+    <comment />
   </data>
   <data name="equipment_loses" xml:space="preserve">
     <value>Ekipman kaybı:</value>
-    <comment/>
+    <comment />
   </data>
   <data name="infrastructure_decrease" xml:space="preserve">
     <value>Altyapı kaybı:</value>
-    <comment/>
+    <comment />
   </data>
   <data name="invest" xml:space="preserve">
     <value>Yatırım</value>
-    <comment/>
+    <comment />
   </data>
   <data name="facebookjoin" xml:space="preserve">
     <value>Facebook grubuna katıl!</value>
-    <comment/>
+    <comment />
   </data>
   <data name="world_tension" xml:space="preserve">
     <value>Dünya Kargaşası</value>
-    <comment/>
+    <comment />
   </data>
   <data name="battles" xml:space="preserve">
     <value>Muharabeler</value>
-    <comment/>
+    <comment />
   </data>
   <data name="world_war_title" xml:space="preserve">
     <value>Dünya Savaşı!</value>
@@ -571,91 +571,91 @@
   </data>
   <data name="policies" xml:space="preserve">
     <value>Politikalar</value>
-    <comment/>
+    <comment />
   </data>
   <data name="foreignPolicy" xml:space="preserve">
     <value>DIş Politika</value>
-    <comment/>
+    <comment />
   </data>
   <data name="interventionist" xml:space="preserve">
     <value>Aktif</value>
-    <comment/>
+    <comment />
   </data>
   <data name="isolationist" xml:space="preserve">
     <value>Pasif</value>
-    <comment/>
+    <comment />
   </data>
   <data name="losses" xml:space="preserve">
     <value>Kayıplar</value>
-    <comment/>
+    <comment />
   </data>
   <data name="military_expenses" xml:space="preserve">
     <value>Askeri harcamalar</value>
-    <comment/>
+    <comment />
   </data>
   <data name="other" xml:space="preserve">
     <value>Diğer</value>
-    <comment/>
+    <comment />
   </data>
   <data name="expenses" xml:space="preserve">
     <value>Harcamalar</value>
-    <comment/>
+    <comment />
   </data>
   <data name="income" xml:space="preserve">
     <value>Gelir</value>
-    <comment/>
+    <comment />
   </data>
   <data name="investments" xml:space="preserve">
     <value>Yatırımlar</value>
-    <comment/>
+    <comment />
   </data>
   <data name="territory" xml:space="preserve">
     <value>Toprak</value>
-    <comment/>
+    <comment />
   </data>
   <data name="military" xml:space="preserve">
     <value>Askeri</value>
-    <comment/>
+    <comment />
   </data>
   <data name="welfare" xml:space="preserve">
     <value>Refah</value>
-    <comment/>
+    <comment />
   </data>
   <data name="all_news" xml:space="preserve">
     <value>Bütün haberler</value>
-    <comment/>
+    <comment />
   </data>
   <data name="my_news" xml:space="preserve">
     <value>Beni ilgilendiren haberler</value>
-    <comment/>
+    <comment />
   </data>
   <data name="all_wars" xml:space="preserve">
     <value>Bütün savaşlar</value>
-    <comment/>
+    <comment />
   </data>
   <data name="my_wars" xml:space="preserve">
     <value>Beni ilgilendiren savaşlar</value>
-    <comment/>
+    <comment />
   </data>
   <data name="join_attackers" xml:space="preserve">
     <value>Saldıranlara katıl</value>
-    <comment/>
+    <comment />
   </data>
   <data name="join_defenders" xml:space="preserve">
     <value>Savunanlara katıl</value>
-    <comment/>
+    <comment />
   </data>
   <data name="foreign_investment" xml:space="preserve">
     <value>Dış borç al (Reklam)</value>
-    <comment/>
+    <comment />
   </data>
   <data name="diplomatic_campaign" xml:space="preserve">
     <value>Diplomatik İlişkiler (Reklam)</value>
-    <comment/>
+    <comment />
   </data>
   <data name="propaganda_campaign" xml:space="preserve">
     <value>Propaganda (Reklam)</value>
-    <comment/>
+    <comment />
   </data>
   <data name="numerous_as_stars" xml:space="preserve">
     <value>Yıldızlar Kadar Çok</value>
@@ -687,55 +687,55 @@
   </data>
   <data name="total" xml:space="preserve">
     <value>Toplam</value>
-    <comment/>
+    <comment />
   </data>
   <data name="years" xml:space="preserve">
     <value>{0} yıl</value>
-    <comment/>
+    <comment />
   </data>
   <data name="months" xml:space="preserve">
     <value>{0} ay</value>
-    <comment/>
+    <comment />
   </data>
   <data name="weeks" xml:space="preserve">
     <value>{0} hafta</value>
-    <comment/>
+    <comment />
   </data>
   <data name="days" xml:space="preserve">
     <value>{0} gün</value>
-    <comment/>
+    <comment />
   </data>
   <data name="independence" xml:space="preserve">
     <value>bağımsızlık</value>
-    <comment/>
+    <comment />
   </data>
   <data name="all_countries" xml:space="preserve">
     <value>Bütün Devletler</value>
-    <comment/>
+    <comment />
   </data>
   <data name="a_new_nation_rises" xml:space="preserve">
     <value>Yeni bir devlet doğdu kaosun küllerinden...</value>
-    <comment/>
+    <comment />
   </data>
   <data name="incompatible_save_deleted" xml:space="preserve">
     <value>Uyuşmaz kayıt tespit edildi</value>
-    <comment/>
+    <comment />
   </data>
   <data name="gameover_save_deleted" xml:space="preserve">
     <value>Bitmiş oyun kaydı silindi</value>
-    <comment/>
+    <comment />
   </data>
   <data name="rank_by_score" xml:space="preserve">
     <value>Skora göre sırala</value>
-    <comment/>
+    <comment />
   </data>
   <data name="male" xml:space="preserve">
     <value>Erkek</value>
-    <comment/>
+    <comment />
   </data>
   <data name="female" xml:space="preserve">
     <value>Kadın</value>
-    <comment/>
+    <comment />
   </data>
   <data name="send_missionaries" xml:space="preserve">
     <value>Din değiştirmek için misyoner gönder</value>
@@ -743,26 +743,32 @@
   </data>
   <data name="send_material_volunteers" xml:space="preserve">
     <value>Eşya ve gönüllü gönder</value>
-    <comment/>
+    <comment />
   </data>
   <data name="none" xml:space="preserve">
     <value>Hiç</value>
-    <comment/>
+    <comment />
   </data>
   <data name="central_powers" xml:space="preserve">
     <value>İttifak Devletleri</value>
-    <comment/>
+    <comment />
   </data>
   <data name="allied_powers" xml:space="preserve">
     <value>İtilaf Devletleri</value>
-    <comment/>
+    <comment />
   </data>
   <data name="current" xml:space="preserve">
     <value>Şu an:</value>
-    <comment/>
+    <comment />
   </data>
   <data name="world_tension_description" xml:space="preserve">
     <value>Dünyadaki korku ve gerginliği simgeler. %0 ve %100 arasındadır.  Barış ilan edildiği zaman azalır. Zaman geçtikçe yavaşça azalır.  Her savaş ilan edildiğinde artar. Her var olan savaş başına yavaşça artar. 100%'e ulaşırsa dünya savaşı başlar ve sıfırlanır.</value>
-    <comment/>
+    <comment />
+  </data>
+  <data name="settings" xml:space="preserve">
+    <value>Ayarlar</value>
+  </data>
+  <data name="select_language" xml:space="preserve">
+    <value>Dil seç</value>
   </data>
 </root>
