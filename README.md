@@ -23,7 +23,3 @@ Open source implementation of localization for Century
 * Turkish
 * Portuguese
 * Slovak
-
-## Todo:
-
-* Get supported localizations

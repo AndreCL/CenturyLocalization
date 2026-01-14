@@ -1,4 +1,5 @@
 using CenturyLocalization;
+using System.Linq;
 using Xunit;
 
 namespace LocalizationTests
