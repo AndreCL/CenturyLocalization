@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Globalization;
-using System.IO;
 using System.Linq;
 using System.Resources;
 using System.Runtime.CompilerServices;
@@ -9,25 +8,25 @@ using System.Runtime.CompilerServices;
 [assembly: InternalsVisibleTo("LocalizationTests")]
 namespace CenturyLocalization
 {
-	public class Localization
-	{
-		public CultureInfo CurrentLanguage { get; set; }
+    public class Localization
+    {
+        public CultureInfo CurrentLanguage { get; set; }
 
-		private readonly ResourceManager _resourceManager;
+        private readonly ResourceManager _resourceManager;
         private readonly ResourceManager _countryNamesResourceManager;
-		private readonly ResourceManager _actionsResourceManager;
+        private readonly ResourceManager _actionsResourceManager;
 
         public Localization()
-		{
-			_resourceManager = Texts.ResourceManager;
+        {
+            _resourceManager = Texts.ResourceManager;
             _countryNamesResourceManager = CountryNames.CountryNames.ResourceManager;
-			_actionsResourceManager = Actions.Actions.ResourceManager;
+            _actionsResourceManager = Actions.Actions.ResourceManager;
             CurrentLanguage = CultureInfo.CurrentUICulture;
-		}
+        }
 
-		public string GetText(string name)
-		{
-			return GetText(name, CurrentLanguage);
+        public string GetText(string name)
+        {
+            return GetText(name, CurrentLanguage);
         }
 
         public string GetText(string name, CultureInfo cultureInfo)
@@ -42,71 +41,52 @@ namespace CenturyLocalization
 
         public IEnumerable<CultureInfo> GetAvailableCultures(string neutralCultureName = "en")
         {
-            var assembly = typeof(Localization).Assembly;
-            string baseDir = Path.GetDirectoryName(assembly.Location)!;
 
-            var cultures = new List<CultureInfo>();
-            var seen = new HashSet<string>(StringComparer.OrdinalIgnoreCase);
-
-            foreach (var dir in Directory.GetDirectories(baseDir))
+            var managers = new[]
             {
-                string folderName = Path.GetFileName(dir);
+                _resourceManager,
+                _countryNamesResourceManager,
+                _actionsResourceManager
+            };
 
-                if (!LooksLikeCulture(folderName))
-                    continue;
+            // Get all framework-known cultures and probe which ones actually have resources.
+            // We exclude invariant at this stage and add the neutral explicitly later.
+            var all = CultureInfo.GetCultures(CultureTypes.AllCultures)
+                                 .Where(c => c != CultureInfo.InvariantCulture);
 
-                CultureInfo? culture = TryCreateCulture(folderName);
-                if (culture is null) continue;
+            var supported = new HashSet<string>(StringComparer.OrdinalIgnoreCase);
 
-                if (HasResourcesForCulture(_resourceManager, culture) ||
-                    HasResourcesForCulture(_countryNamesResourceManager, culture) ||
-                    HasResourcesForCulture(_actionsResourceManager, culture))
+            foreach (var culture in all)
+            {
+                foreach (var rm in managers)
                 {
-                    if (seen.Add(culture.Name))
-                        cultures.Add(culture);
+                    try
+                    {
+                        // tryParents: false ensures we only count cultures with actual satellite resources,
+                        // not those satisfied by fallback.
+                        var set = rm.GetResourceSet(culture, createIfNotExists: true, tryParents: false);
+                        if (set != null)
+                        {
+                            supported.Add(culture.Name);
+                            break; // This culture is supported by at least one RM
+                        }
+                    }
+                    catch
+                    {
+                        // Ignore probing errors; continue checking other cultures.
+                    }
                 }
             }
 
-            // Replace invariant with your neutral language (en)
+            // Ensure your neutral language is always present instead of invariant
             var neutral = new CultureInfo(neutralCultureName);
-            if (seen.Add(neutral.Name))
-                cultures.Add(neutral);
+            supported.Add(neutral.Name);
 
-            // Sort for stable output (optional)
-            cultures = cultures
-                .DistinctBy(c => c.Name)
-                .OrderBy(c => c.Name, StringComparer.OrdinalIgnoreCase)
+            // Return as CultureInfo list; order by NativeName for nicer UX
+            return supported
+                .Select(name => new CultureInfo(name))
+                .OrderBy(c => c.NativeName, StringComparer.CurrentCultureIgnoreCase)
                 .ToList();
-
-            return cultures;
         }
-
-        private static bool LooksLikeCulture(string name)
-        {
-            // Fast path to avoid exceptions; allows "xx" or "xx-YY"
-            return name.Length is 2 or 5 && (char.IsLetter(name[0]) && char.IsLetter(name[1]));
-        }
-
-        private static CultureInfo? TryCreateCulture(string name)
-        {
-            try { return new CultureInfo(name); }
-            catch (CultureNotFoundException) { return null; }
-        }
-
-        private static bool HasResourcesForCulture(ResourceManager manager, CultureInfo culture)
-        {
-            try
-            {
-                // 'tryParents: false' ensures we only count cultures that have actual satellite resources
-                var rmSet = manager.GetResourceSet(culture, createIfNotExists: true, tryParents: false);
-                return rmSet != null;
-            }
-            catch
-            {
-                return false;
-            }
-        }
-
-
     }
 }
