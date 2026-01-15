@@ -121,5 +121,18 @@ namespace LocalizationTests
 
             Assert.Equal("Male", result);
         }
+
+        [Fact]
+        public void GettingWarnamesAttributes()
+        {
+            var local = new Localization
+            {
+                CurrentLanguage = new System.Globalization.CultureInfo("en-US")
+            };
+
+            var result = local.GetText("acre_war");
+
+            Assert.Equal("The Acre War", result);
+        }
     }
 }

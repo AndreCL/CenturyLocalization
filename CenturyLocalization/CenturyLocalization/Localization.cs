@@ -16,6 +16,7 @@ namespace CenturyLocalization
         private readonly ResourceManager _countryNamesResourceManager;
         private readonly ResourceManager _actionsResourceManager;
         private readonly ResourceManager _populationAttributesManager;
+        private readonly ResourceManager _warNamesManager;
 
         public Localization()
         {
@@ -23,6 +24,7 @@ namespace CenturyLocalization
             _countryNamesResourceManager = CountryNames.CountryNames.ResourceManager;
             _actionsResourceManager = Actions.Actions.ResourceManager;
             _populationAttributesManager = PopulationAttributes.PopulationAttributes.ResourceManager;
+            _warNamesManager = WarNames.WarNames.ResourceManager;
             CurrentLanguage = CultureInfo.CurrentUICulture;
         }
 
@@ -37,6 +39,7 @@ namespace CenturyLocalization
                 _countryNamesResourceManager.GetString(name, cultureInfo) ??
                 _actionsResourceManager.GetString(name, cultureInfo) ??
                 _populationAttributesManager.GetString(name, cultureInfo) ??
+                _warNamesManager.GetString(name, cultureInfo) ??
                 _resourceManager.GetString("error_string_not_found", cultureInfo);
         }
 
@@ -50,7 +53,8 @@ namespace CenturyLocalization
                 _resourceManager,
                 _countryNamesResourceManager,
                 _actionsResourceManager,
-                _populationAttributesManager
+                _populationAttributesManager,
+                _warNamesManager
             };
 
             // Get all framework-known cultures and probe which ones actually have resources.
