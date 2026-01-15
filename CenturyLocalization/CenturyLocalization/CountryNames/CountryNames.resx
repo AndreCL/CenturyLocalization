@@ -324,4 +324,28 @@
   <data name="costa_rica" xml:space="preserve">
     <value>Costa Rica</value>
   </data>
+  <data name="dominican_republic" xml:space="preserve">
+    <value>Dominican Republic</value>
+  </data>
+  <data name="haiti" xml:space="preserve">
+    <value>Haiti</value>
+  </data>
+  <data name="afghanistan" xml:space="preserve">
+    <value>Afghanistan</value>
+  </data>
+  <data name="nepal" xml:space="preserve">
+    <value>Nepal</value>
+  </data>
+  <data name="muscat_and_oman" xml:space="preserve">
+    <value>Muscat and Oman</value>
+  </data>
+  <data name="aceh" xml:space="preserve">
+    <value>Aceh</value>
+  </data>
+  <data name="agadez" xml:space="preserve">
+    <value>Agadez</value>
+  </data>
+  <data name="finland" xml:space="preserve">
+    <value>Finland</value>
+  </data>
 </root>

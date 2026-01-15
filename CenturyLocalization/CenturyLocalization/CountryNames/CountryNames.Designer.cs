@@ -19,7 +19,7 @@ namespace CenturyLocalization.CountryNames {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "18.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class CountryNames {
@@ -61,11 +61,38 @@ namespace CenturyLocalization.CountryNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Aceh.
+        /// </summary>
+        internal static string aceh {
+            get {
+                return ResourceManager.GetString("aceh", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Acre.
         /// </summary>
         internal static string acre {
             get {
                 return ResourceManager.GetString("acre", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Afghanistan.
+        /// </summary>
+        internal static string afghanistan {
+            get {
+                return ResourceManager.GetString("afghanistan", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Agadez.
+        /// </summary>
+        internal static string agadez {
+            get {
+                return ResourceManager.GetString("agadez", resourceCulture);
             }
         }
         
@@ -295,6 +322,15 @@ namespace CenturyLocalization.CountryNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Dominican Republic.
+        /// </summary>
+        internal static string dominican_republic {
+            get {
+                return ResourceManager.GetString("dominican_republic", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Ecuador.
         /// </summary>
         internal static string ecuador {
@@ -318,6 +354,15 @@ namespace CenturyLocalization.CountryNames {
         internal static string ethiopia {
             get {
                 return ResourceManager.GetString("ethiopia", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Finland.
+        /// </summary>
+        internal static string finland {
+            get {
+                return ResourceManager.GetString("finland", resourceCulture);
             }
         }
         
@@ -354,6 +399,15 @@ namespace CenturyLocalization.CountryNames {
         internal static string guatemala {
             get {
                 return ResourceManager.GetString("guatemala", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Haiti.
+        /// </summary>
+        internal static string haiti {
+            get {
+                return ResourceManager.GetString("haiti", resourceCulture);
             }
         }
         
@@ -453,6 +507,24 @@ namespace CenturyLocalization.CountryNames {
         internal static string morocco {
             get {
                 return ResourceManager.GetString("morocco", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Muscat and Oman.
+        /// </summary>
+        internal static string muscat_and_oman {
+            get {
+                return ResourceManager.GetString("muscat_and_oman", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Nepal.
+        /// </summary>
+        internal static string nepal {
+            get {
+                return ResourceManager.GetString("nepal", resourceCulture);
             }
         }
         

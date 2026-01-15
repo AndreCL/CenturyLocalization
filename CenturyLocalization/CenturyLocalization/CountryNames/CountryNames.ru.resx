@@ -328,4 +328,28 @@
   <data name="costa_rica" xml:space="preserve">
     <value>Коста-Рика</value>
   </data>
+  <data name="dominican_republic" xml:space="preserve">
+    <value>Доминиканская Республика</value>
+  </data>
+  <data name="haiti" xml:space="preserve">
+    <value>Гаити</value>
+  </data>
+  <data name="afghanistan" xml:space="preserve">
+    <value>Афганистан</value>
+  </data>
+  <data name="nepal" xml:space="preserve">
+    <value>Непал</value>
+  </data>
+  <data name="muscat_and_oman" xml:space="preserve">
+    <value>Маскат и Оман</value>
+  </data>
+  <data name="aceh" xml:space="preserve">
+    <value>Ачех</value>
+  </data>
+  <data name="agadez" xml:space="preserve">
+    <value>Агадес</value>
+  </data>
+  <data name="finland" xml:space="preserve">
+    <value>Финляндия</value>
+  </data>
 </root>
