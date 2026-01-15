@@ -592,12 +592,6 @@ Nastáva nový rok. Prajeme vám šťastný nový rok. Nech je toto nové obdobi
   <data name="rank_by_score" xml:space="preserve">
     <value>Poradie podľa skóre</value>
   </data>
-  <data name="male" xml:space="preserve">
-    <value>Muž</value>
-  </data>
-  <data name="female" xml:space="preserve">
-    <value>Žena</value>
-  </data>
   <data name="send_missionaries" xml:space="preserve">
     <value>Poslať misionárov</value>
   </data>
@@ -630,5 +624,8 @@ Keď svetové napätie dosiahne 100%, spustí sa svetová vojna a resetuje sa.
   </data>
   <data name="select_language" xml:space="preserve">
     <value>Vybrať jazyk</value>
+  </data>
+  <data name="started_date" xml:space="preserve">
+    <value>Začalo: {0}</value>
   </data>
 </root>

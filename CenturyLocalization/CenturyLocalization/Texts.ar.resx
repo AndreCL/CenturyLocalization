@@ -575,12 +575,6 @@
   <data name="rank_by_score" xml:space="preserve">
     <value>الترتيب حسب النقاط</value>
   </data>
-  <data name="male" xml:space="preserve">
-    <value>ذكر</value>
-  </data>
-  <data name="female" xml:space="preserve">
-    <value>أنثى</value>
-  </data>
   <data name="send_missionaries" xml:space="preserve">
     <value>أرسل المبشرين</value>
   </data>
@@ -610,5 +604,8 @@
   </data>
   <data name="select_language" xml:space="preserve">
     <value>اختر اللغة</value>
+  </data>
+  <data name="started_date" xml:space="preserve">
+    <value>بدأ في: {0}</value>
   </data>
 </root>

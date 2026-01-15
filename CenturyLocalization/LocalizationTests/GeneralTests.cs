@@ -108,5 +108,18 @@ namespace LocalizationTests
 
             Assert.Equal("Add soldiers", result);
         }
+
+        [Fact]
+        public void GettingPopulationAttributes()
+        {
+            var local = new Localization
+            {
+                CurrentLanguage = new System.Globalization.CultureInfo("en-US")
+            };
+
+            var result = local.GetText("male");
+
+            Assert.Equal("Male", result);
+        }
     }
 }

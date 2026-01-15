@@ -580,12 +580,6 @@
   <data name="rank_by_score" xml:space="preserve">
     <value>Рейтинг по очкам</value>
   </data>
-  <data name="male" xml:space="preserve">
-    <value>Мужчина</value>
-  </data>
-  <data name="female" xml:space="preserve">
-    <value>Женщина</value>
-  </data>
   <data name="send_missionaries" xml:space="preserve">
     <value>Отправить миссионеров</value>
   </data>
@@ -615,5 +609,8 @@
   </data>
   <data name="select_language" xml:space="preserve">
     <value>Выберите язык</value>
+  </data>
+  <data name="started_date" xml:space="preserve">
+    <value>Началось: {0}</value>
   </data>
 </root>

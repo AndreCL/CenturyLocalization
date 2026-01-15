@@ -578,12 +578,6 @@ Um novo ano chegou. Desejamos a vocês um feliz ano novo. Que este novo ano seja
   <data name="rank_by_score" xml:space="preserve">
     <value>Classificar por Pontuação</value>
   </data>
-  <data name="male" xml:space="preserve">
-    <value>Homem</value>
-  </data>
-  <data name="female" xml:space="preserve">
-    <value>Mulher</value>
-  </data>
   <data name="send_missionaries" xml:space="preserve">
     <value>Enviar missionários</value>
   </data>
@@ -610,5 +604,8 @@ Um novo ano chegou. Desejamos a vocês um feliz ano novo. Que este novo ano seja
   </data>
   <data name="select_language" xml:space="preserve">
     <value>Selecionar idioma</value>
+  </data>
+  <data name="started_date" xml:space="preserve">
+    <value>Iniciado em: {0}</value>
   </data>
 </root>

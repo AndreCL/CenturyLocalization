@@ -576,12 +576,6 @@ Et nyt år er over os. Vi ønsker jer et godt nytår. Må denne nye tid være fr
   <data name="rank_by_score" xml:space="preserve">
     <value>Rangér efter point</value>
   </data>
-  <data name="male" xml:space="preserve">
-    <value>Mand</value>
-  </data>
-  <data name="female" xml:space="preserve">
-    <value>Kvinde</value>
-  </data>
   <data name="send_missionaries" xml:space="preserve">
     <value>Send missionærer</value>
   </data>
@@ -611,5 +605,8 @@ Når verdensspændingen når 100 %, udløses en verdenskrig, og værdien nulstil
   </data>
   <data name="select_language" xml:space="preserve">
     <value>Vælg sprog</value>
+  </data>
+  <data name="started_date" xml:space="preserve">
+    <value>Startet: {0}</value>
   </data>
 </root>

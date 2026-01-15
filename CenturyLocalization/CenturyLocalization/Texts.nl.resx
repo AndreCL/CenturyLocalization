@@ -575,12 +575,6 @@ Een nieuw jaar is aangebroken. Wij wensen u een gelukkig nieuwjaar. Moge deze ni
   <data name="rank_by_score" xml:space="preserve">
     <value>Rangschik op score</value>
   </data>
-  <data name="male" xml:space="preserve">
-    <value>Man</value>
-  </data>
-  <data name="female" xml:space="preserve">
-    <value>Vrouw</value>
-  </data>
   <data name="send_missionaries" xml:space="preserve">
     <value>Zend missionarissen</value>
   </data>
@@ -610,5 +604,8 @@ Wanneer de wereldspanning 100% bereikt, wordt een wereldoorlog ontketend en word
   </data>
   <data name="select_language" xml:space="preserve">
     <value>Taal selecteren</value>
+  </data>
+  <data name="started_date" xml:space="preserve">
+    <value>Begonnen: {0}</value>
   </data>
 </root>

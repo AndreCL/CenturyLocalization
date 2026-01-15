@@ -592,12 +592,6 @@ A new year is upon us. We wish you a happy new year. May this new time be peacef
   <data name="rank_by_score" xml:space="preserve">
     <value>Rank by score</value>
   </data>
-  <data name="male" xml:space="preserve">
-    <value>Male</value>
-  </data>
-  <data name="female" xml:space="preserve">
-    <value>Female</value>
-  </data>
   <data name="send_missionaries" xml:space="preserve">
     <value>Send missionaries</value>
   </data>
@@ -630,5 +624,8 @@ Once the World Tension reaches 100%, a World War is triggered and it resets.
   </data>
   <data name="select_language" xml:space="preserve">
     <value>Select language</value>
+  </data>
+  <data name="started_date" xml:space="preserve">
+    <value>Started: {0}</value>
   </data>
 </root>

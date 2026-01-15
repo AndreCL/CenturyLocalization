@@ -729,14 +729,6 @@
     <value>Skora göre sırala</value>
     <comment />
   </data>
-  <data name="male" xml:space="preserve">
-    <value>Erkek</value>
-    <comment />
-  </data>
-  <data name="female" xml:space="preserve">
-    <value>Kadın</value>
-    <comment />
-  </data>
   <data name="send_missionaries" xml:space="preserve">
     <value>Din değiştirmek için misyoner gönder</value>
     <comment>Daha açıklayıcı olsun diye</comment>
@@ -770,5 +762,8 @@
   </data>
   <data name="select_language" xml:space="preserve">
     <value>Dil seç</value>
+  </data>
+  <data name="started_date" xml:space="preserve">
+    <value>Başlangıç: {0}</value>
   </data>
 </root>

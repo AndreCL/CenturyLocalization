@@ -577,12 +577,6 @@ Un nuevo año está sobre nosotros. Les deseamos un feliz año nuevo. Que este n
   <data name="rank_by_score" xml:space="preserve">
     <value>Clasificar por puntuación</value>
   </data>
-  <data name="male" xml:space="preserve">
-    <value>Hombre</value>
-  </data>
-  <data name="female" xml:space="preserve">
-    <value>Mujer</value>
-  </data>
   <data name="send_missionaries" xml:space="preserve">
     <value>Enviar misioneros</value>
   </data>
@@ -612,5 +606,8 @@ Una vez que la tensión mundial alcanza el 100 %, se desencadena una guerra mund
   </data>
   <data name="select_language" xml:space="preserve">
     <value>Seleccionar idioma</value>
+  </data>
+  <data name="started_date" xml:space="preserve">
+    <value>Iniciado: {0}</value>
   </data>
 </root>

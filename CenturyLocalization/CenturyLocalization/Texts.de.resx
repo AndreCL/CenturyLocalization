@@ -575,12 +575,6 @@ Ein neues Jahr steht bevor. Wir wünschen Ihnen ein frohes neues Jahr. Möge die
   <data name="rank_by_score" xml:space="preserve">
     <value>Nach Punktzahl ordnen</value>
   </data>
-  <data name="male" xml:space="preserve">
-    <value>Männlich</value>
-  </data>
-  <data name="female" xml:space="preserve">
-    <value>Weiblich</value>
-  </data>
   <data name="send_missionaries" xml:space="preserve">
     <value>Missionare senden</value>
   </data>
@@ -610,5 +604,8 @@ Sobald die Weltspannung 100 % erreicht, wird ein Weltkrieg ausgelöst und der We
   </data>
   <data name="select_language" xml:space="preserve">
     <value>Sprache auswählen</value>
+  </data>
+  <data name="started_date" xml:space="preserve">
+    <value>Begonnen: {0}</value>
   </data>
 </root>
