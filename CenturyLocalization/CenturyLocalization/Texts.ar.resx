@@ -608,4 +608,10 @@
   <data name="started_date" xml:space="preserve">
     <value>بدأ في: {0}</value>
   </data>
+  <data name="private" xml:space="preserve">
+    <value>القطاع الخاص</value>
+  </data>
+  <data name="state" xml:space="preserve">
+    <value>الموظف الحكومي</value>
+  </data>
 </root>

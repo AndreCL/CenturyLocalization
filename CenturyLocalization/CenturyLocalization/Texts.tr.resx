@@ -234,7 +234,7 @@
     <comment />
   </data>
   <data name="soldiers" xml:space="preserve">
-    <value>Asker:</value>
+    <value>Asker</value>
     <comment />
   </data>
   <data name="rifles" xml:space="preserve">
@@ -250,7 +250,7 @@
     <comment />
   </data>
   <data name="sailors" xml:space="preserve">
-    <value>Denizci:</value>
+    <value>Denizci</value>
     <comment />
   </data>
   <data name="smallships" xml:space="preserve">
@@ -270,7 +270,7 @@
     <comment />
   </data>
   <data name="pilots" xml:space="preserve">
-    <value>Pilot:</value>
+    <value>Pilot</value>
     <comment />
   </data>
   <data name="fighters" xml:space="preserve">
@@ -765,5 +765,11 @@
   </data>
   <data name="started_date" xml:space="preserve">
     <value>Başlangıç: {0}</value>
+  </data>
+  <data name="private" xml:space="preserve">
+    <value>Özel</value>
+  </data>
+  <data name="state" xml:space="preserve">
+    <value>Devlet</value>
   </data>
 </root>

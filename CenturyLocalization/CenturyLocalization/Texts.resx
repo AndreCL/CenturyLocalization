@@ -209,7 +209,7 @@
     <value>Army</value>
   </data>
   <data name="soldiers" xml:space="preserve">
-    <value>Soldiers:</value>
+    <value>Soldiers</value>
   </data>
   <data name="rifles" xml:space="preserve">
     <value>Rifles:</value>
@@ -221,7 +221,7 @@
     <value>Navy</value>
   </data>
   <data name="sailors" xml:space="preserve">
-    <value>Sailors:</value>
+    <value>Sailors</value>
   </data>
   <data name="smallships" xml:space="preserve">
     <value>Small ships:</value>
@@ -236,7 +236,7 @@
     <value>Air force</value>
   </data>
   <data name="pilots" xml:space="preserve">
-    <value>Pilots:</value>
+    <value>Pilots</value>
   </data>
   <data name="fighters" xml:space="preserve">
     <value>Fighters:</value>
@@ -627,5 +627,13 @@ Once the World Tension reaches 100%, a World War is triggered and it resets.
   </data>
   <data name="started_date" xml:space="preserve">
     <value>Started: {0}</value>
+  </data>
+  <data name="state" xml:space="preserve">
+    <value>State</value>
+    <comment>State employees</comment>
+  </data>
+  <data name="private" xml:space="preserve">
+    <value>Private</value>
+    <comment>Private sector employees</comment>
   </data>
 </root>

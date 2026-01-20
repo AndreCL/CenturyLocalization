@@ -201,7 +201,7 @@
     <value>Армия</value>
   </data>
   <data name="soldiers" xml:space="preserve">
-    <value>Солдаты:</value>
+    <value>Солдаты</value>
   </data>
   <data name="rifles" xml:space="preserve">
     <value>Винтовки:</value>
@@ -213,7 +213,7 @@
     <value>Флот</value>
   </data>
   <data name="sailors" xml:space="preserve">
-    <value>Моряки:</value>
+    <value>Моряки</value>
   </data>
   <data name="smallships" xml:space="preserve">
     <value>Малые суда:</value>
@@ -228,7 +228,7 @@
     <value>Воздушный флот</value>
   </data>
   <data name="pilots" xml:space="preserve">
-    <value>Пилоты:</value>
+    <value>Пилоты</value>
   </data>
   <data name="fighters" xml:space="preserve">
     <value>Истрибители:</value>
@@ -612,5 +612,11 @@
   </data>
   <data name="started_date" xml:space="preserve">
     <value>Началось: {0}</value>
+  </data>
+  <data name="state" xml:space="preserve">
+    <value>Государственный сектор</value>
+  </data>
+  <data name="private" xml:space="preserve">
+    <value>Частный сектор</value>
   </data>
 </root>

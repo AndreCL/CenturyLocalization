@@ -199,7 +199,7 @@
     <value>Tentara</value>
   </data>
   <data name="soldiers" xml:space="preserve">
-    <value>Prajurit:</value>
+    <value>Prajurit</value>
   </data>
   <data name="rifles" xml:space="preserve">
     <value>Senapan:</value>
@@ -211,7 +211,7 @@
     <value>Angkatan laut</value>
   </data>
   <data name="sailors" xml:space="preserve">
-    <value>Pelaut:</value>
+    <value>Pelaut</value>
   </data>
   <data name="smallships" xml:space="preserve">
     <value>Kapal Kecil:</value>
@@ -226,7 +226,7 @@
     <value>Angkatan Udara</value>
   </data>
   <data name="pilots" xml:space="preserve">
-    <value>Pilot:</value>
+    <value>Pilot</value>
   </data>
   <data name="fighters" xml:space="preserve">
     <value>Pesawat Tempur:</value>
@@ -607,5 +607,11 @@ Ketika Ketegangan Dunia mencapai 100%, Perang Dunia akan dipicu dan nilainya dia
   </data>
   <data name="started_date" xml:space="preserve">
     <value>Dimulai: {0}</value>
+  </data>
+  <data name="state" xml:space="preserve">
+    <value>Negeri</value>
+  </data>
+  <data name="private" xml:space="preserve">
+    <value>Swasta</value>
   </data>
 </root>

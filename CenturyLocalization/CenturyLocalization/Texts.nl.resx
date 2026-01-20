@@ -199,7 +199,7 @@
     <value>Leger</value>
   </data>
   <data name="soldiers" xml:space="preserve">
-    <value>Soldaten:</value>
+    <value>Soldaten</value>
   </data>
   <data name="rifles" xml:space="preserve">
     <value>Geweren:</value>
@@ -211,7 +211,7 @@
     <value>Marine</value>
   </data>
   <data name="sailors" xml:space="preserve">
-    <value>Matroos:</value>
+    <value>Matroos</value>
   </data>
   <data name="smallships" xml:space="preserve">
     <value>Kleine schepen:</value>
@@ -226,7 +226,7 @@
     <value>Luchtmacht</value>
   </data>
   <data name="pilots" xml:space="preserve">
-    <value>Piloten:</value>
+    <value>Piloten</value>
   </data>
   <data name="fighters" xml:space="preserve">
     <value>Jachtvliegtuigen:</value>
@@ -607,5 +607,11 @@ Wanneer de wereldspanning 100% bereikt, wordt een wereldoorlog ontketend en word
   </data>
   <data name="started_date" xml:space="preserve">
     <value>Begonnen: {0}</value>
+  </data>
+  <data name="state" xml:space="preserve">
+    <value>Overheid</value>
+  </data>
+  <data name="private" xml:space="preserve">
+    <value>Particulier</value>
   </data>
 </root>

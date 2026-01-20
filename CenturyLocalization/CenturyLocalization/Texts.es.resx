@@ -204,7 +204,7 @@
     <value>Ejército</value>
   </data>
   <data name="soldiers" xml:space="preserve">
-    <value>Soldados:</value>
+    <value>Soldados</value>
   </data>
   <data name="rifles" xml:space="preserve">
     <value>Rifles:</value>
@@ -216,7 +216,7 @@
     <value>Marina</value>
   </data>
   <data name="sailors" xml:space="preserve">
-    <value>Marineros:</value>
+    <value>Marineros</value>
   </data>
   <data name="smallships" xml:space="preserve">
     <value>Barcos pequeños:</value>
@@ -231,7 +231,7 @@
     <value>Fuerza aérea</value>
   </data>
   <data name="pilots" xml:space="preserve">
-    <value>Pilotos:</value>
+    <value>Pilotos</value>
   </data>
   <data name="fighters" xml:space="preserve">
     <value>Cazas:</value>
@@ -609,5 +609,11 @@ Una vez que la tensión mundial alcanza el 100 %, se desencadena una guerra mund
   </data>
   <data name="started_date" xml:space="preserve">
     <value>Iniciado: {0}</value>
+  </data>
+  <data name="state" xml:space="preserve">
+    <value>Estatal</value>
+  </data>
+  <data name="private" xml:space="preserve">
+    <value>Privado</value>
   </data>
 </root>

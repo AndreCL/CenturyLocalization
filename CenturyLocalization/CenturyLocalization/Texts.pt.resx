@@ -205,7 +205,7 @@
     <value>Exército</value>
   </data>
   <data name="soldiers" xml:space="preserve">
-    <value>Soldados:</value>
+    <value>Soldados</value>
   </data>
   <data name="rifles" xml:space="preserve">
     <value>Fuzis:</value>
@@ -217,7 +217,7 @@
     <value>Marinha</value>
   </data>
   <data name="sailors" xml:space="preserve">
-    <value>Marinheiros:</value>
+    <value>Marinheiros</value>
   </data>
   <data name="smallships" xml:space="preserve">
     <value>Corvetas:</value>
@@ -232,7 +232,7 @@
     <value>Força Aérea</value>
   </data>
   <data name="pilots" xml:space="preserve">
-    <value>Pilotos:</value>
+    <value>Pilotos</value>
   </data>
   <data name="fighters" xml:space="preserve">
     <value>Caças:</value>
@@ -607,5 +607,11 @@ Um novo ano chegou. Desejamos a vocês um feliz ano novo. Que este novo ano seja
   </data>
   <data name="started_date" xml:space="preserve">
     <value>Iniciado em: {0}</value>
+  </data>
+  <data name="state" xml:space="preserve">
+    <value>Estatal</value>
+  </data>
+  <data name="private" xml:space="preserve">
+    <value>Privado</value>
   </data>
 </root>

@@ -61,6 +61,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Private.
+        /// </summary>
+        internal static string _private {
+            get {
+                return ResourceManager.GetString("private", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to A new nation rises.
         /// </summary>
         internal static string a_new_nation_rises {
@@ -1107,7 +1116,7 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Pilots:.
+        ///   Looks up a localized string similar to Pilots.
         /// </summary>
         internal static string pilots {
             get {
@@ -1188,7 +1197,7 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Sailors:.
+        ///   Looks up a localized string similar to Sailors.
         /// </summary>
         internal static string sailors {
             get {
@@ -1278,7 +1287,7 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Soldiers:.
+        ///   Looks up a localized string similar to Soldiers.
         /// </summary>
         internal static string soldiers {
             get {
@@ -1319,6 +1328,15 @@ namespace CenturyLocalization {
         internal static string started_date {
             get {
                 return ResourceManager.GetString("started_date", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to State.
+        /// </summary>
+        internal static string state {
+            get {
+                return ResourceManager.GetString("state", resourceCulture);
             }
         }
         

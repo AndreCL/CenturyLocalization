@@ -199,7 +199,7 @@
     <value>Armee</value>
   </data>
   <data name="soldiers" xml:space="preserve">
-    <value>Soldaten:</value>
+    <value>Soldaten</value>
   </data>
   <data name="rifles" xml:space="preserve">
     <value>Gewehre:</value>
@@ -211,7 +211,7 @@
     <value>Flotte</value>
   </data>
   <data name="sailors" xml:space="preserve">
-    <value>Matrosen:</value>
+    <value>Matrosen</value>
   </data>
   <data name="smallships" xml:space="preserve">
     <value>Kleine Schiffe:</value>
@@ -226,7 +226,7 @@
     <value>Luftwaffe</value>
   </data>
   <data name="pilots" xml:space="preserve">
-    <value>Piloten:</value>
+    <value>Piloten</value>
   </data>
   <data name="fighters" xml:space="preserve">
     <value>Jagdflugzeuge:</value>
@@ -607,5 +607,11 @@ Sobald die Weltspannung 100 % erreicht, wird ein Weltkrieg ausgelöst und der We
   </data>
   <data name="started_date" xml:space="preserve">
     <value>Begonnen: {0}</value>
+  </data>
+  <data name="state" xml:space="preserve">
+    <value>Staatlich</value>
+  </data>
+  <data name="private" xml:space="preserve">
+    <value>Privat</value>
   </data>
 </root>

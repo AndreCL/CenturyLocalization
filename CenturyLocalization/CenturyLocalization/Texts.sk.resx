@@ -209,7 +209,7 @@
     <value>Armáda</value>
   </data>
   <data name="soldiers" xml:space="preserve">
-    <value>Vojaci:</value>
+    <value>Vojaci</value>
   </data>
   <data name="rifles" xml:space="preserve">
     <value>Pušky:</value>
@@ -221,7 +221,7 @@
     <value>Námorníctvo</value>
   </data>
   <data name="sailors" xml:space="preserve">
-    <value>Námorníci:</value>
+    <value>Námorníci</value>
   </data>
   <data name="smallships" xml:space="preserve">
     <value>Malé lode:</value>
@@ -236,7 +236,7 @@
     <value>Letectvo</value>
   </data>
   <data name="pilots" xml:space="preserve">
-    <value>Piloti:</value>
+    <value>Piloti</value>
   </data>
   <data name="fighters" xml:space="preserve">
     <value>Stíhačky:</value>
@@ -627,5 +627,11 @@ Keď svetové napätie dosiahne 100%, spustí sa svetová vojna a resetuje sa.
   </data>
   <data name="started_date" xml:space="preserve">
     <value>Začalo: {0}</value>
+  </data>
+  <data name="state" xml:space="preserve">
+    <value>Štátny</value>
+  </data>
+  <data name="private" xml:space="preserve">
+    <value>Súkromný</value>
   </data>
 </root>

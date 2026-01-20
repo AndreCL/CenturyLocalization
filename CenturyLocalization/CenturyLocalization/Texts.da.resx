@@ -197,7 +197,7 @@
     <value>Hær</value>
   </data>
   <data name="soldiers" xml:space="preserve">
-    <value>Soldater:</value>
+    <value>Soldater</value>
   </data>
   <data name="rifles" xml:space="preserve">
     <value>Rifler:</value>
@@ -209,7 +209,7 @@
     <value>Flåde</value>
   </data>
   <data name="sailors" xml:space="preserve">
-    <value>Sømænd:</value>
+    <value>Sømænd</value>
   </data>
   <data name="smallships" xml:space="preserve">
     <value>Små skibe:</value>
@@ -224,7 +224,7 @@
     <value>Luftvåben</value>
   </data>
   <data name="pilots" xml:space="preserve">
-    <value>Piloter:</value>
+    <value>Piloter</value>
   </data>
   <data name="fighters" xml:space="preserve">
     <value>Jagerfly:</value>
@@ -608,5 +608,11 @@ Når verdensspændingen når 100 %, udløses en verdenskrig, og værdien nulstil
   </data>
   <data name="started_date" xml:space="preserve">
     <value>Startet: {0}</value>
+  </data>
+  <data name="state" xml:space="preserve">
+    <value>Stat</value>
+  </data>
+  <data name="private" xml:space="preserve">
+    <value>Privat</value>
   </data>
 </root>
