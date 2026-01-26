@@ -348,4 +348,16 @@
   <data name="finland" xml:space="preserve">
     <value>فنلندا</value>
   </data>
+  <data name="ukraine" xml:space="preserve">
+    <value>أوكرانيا</value>
+  </data>
+  <data name="estonia" xml:space="preserve">
+    <value>إستونيا</value>
+  </data>
+  <data name="latvia" xml:space="preserve">
+    <value>لاتفيا</value>
+  </data>
+  <data name="lithuania" xml:space="preserve">
+    <value>ليتوانيا</value>
+  </data>
 </root>

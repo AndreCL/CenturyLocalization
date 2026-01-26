@@ -349,6 +349,15 @@ namespace CenturyLocalization.CountryNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Estonia.
+        /// </summary>
+        internal static string estonia {
+            get {
+                return ResourceManager.GetString("estonia", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Ethiopia.
         /// </summary>
         internal static string ethiopia {
@@ -448,6 +457,15 @@ namespace CenturyLocalization.CountryNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Latvia.
+        /// </summary>
+        internal static string latvia {
+            get {
+                return ResourceManager.GetString("latvia", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Liberia.
         /// </summary>
         internal static string liberia {
@@ -462,6 +480,15 @@ namespace CenturyLocalization.CountryNames {
         internal static string liechtenstein {
             get {
                 return ResourceManager.GetString("liechtenstein", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Lithuania.
+        /// </summary>
+        internal static string lithuania {
+            get {
+                return ResourceManager.GetString("lithuania", resourceCulture);
             }
         }
         
@@ -714,6 +741,15 @@ namespace CenturyLocalization.CountryNames {
         internal static string transvaal {
             get {
                 return ResourceManager.GetString("transvaal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ukraine.
+        /// </summary>
+        internal static string ukraine {
+            get {
+                return ResourceManager.GetString("ukraine", resourceCulture);
             }
         }
         
