@@ -634,4 +634,19 @@ Keď svetové napätie dosiahne 100%, spustí sa svetová vojna a resetuje sa.
   <data name="private" xml:space="preserve">
     <value>Súkromný</value>
   </data>
+  <data name="select_game_mode" xml:space="preserve">
+    <value>Vyberte herný režim</value>
+  </data>
+  <data name="historical" xml:space="preserve">
+    <value>Historický</value>
+  </data>
+  <data name="historical_description" xml:space="preserve">
+    <value>Hrajte simuláciu 20. storočia s historickými štátmi, vojnami a udalosťami</value>
+  </data>
+  <data name="random" xml:space="preserve">
+    <value>Náhodný</value>
+  </data>
+  <data name="random_description" xml:space="preserve">
+    <value>Hrajte v náhodne vygenerovanom svete s náhodnými krajinami, vojnami a udalosťami</value>
+  </data>
 </root>

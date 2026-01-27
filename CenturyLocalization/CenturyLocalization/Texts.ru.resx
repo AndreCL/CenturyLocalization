@@ -619,4 +619,19 @@
   <data name="private" xml:space="preserve">
     <value>Частный сектор</value>
   </data>
+  <data name="select_game_mode" xml:space="preserve">
+    <value>Выберите режим игры</value>
+  </data>
+  <data name="historical" xml:space="preserve">
+    <value>Исторический</value>
+  </data>
+  <data name="historical_description" xml:space="preserve">
+    <value>Играй в симуляцию XX века с историческими государствами, войнами и событиями</value>
+  </data>
+  <data name="random" xml:space="preserve">
+    <value>Случайный</value>
+  </data>
+  <data name="random_description" xml:space="preserve">
+    <value>Играй в случайно сгенерированном мире со случайными странами, войнами и событиями</value>
+  </data>
 </root>

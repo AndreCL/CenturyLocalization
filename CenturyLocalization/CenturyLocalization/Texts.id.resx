@@ -614,4 +614,19 @@ Ketika Ketegangan Dunia mencapai 100%, Perang Dunia akan dipicu dan nilainya dia
   <data name="private" xml:space="preserve">
     <value>Swasta</value>
   </data>
+  <data name="select_game_mode" xml:space="preserve">
+    <value>Pilih mode permainan</value>
+  </data>
+  <data name="historical" xml:space="preserve">
+    <value>Historis</value>
+  </data>
+  <data name="historical_description" xml:space="preserve">
+    <value>Mainkan simulasi abad ke‑20 dengan negara, perang, dan peristiwa bersejarah</value>
+  </data>
+  <data name="random" xml:space="preserve">
+    <value>Acak</value>
+  </data>
+  <data name="random_description" xml:space="preserve">
+    <value>Mainkan di dunia yang dihasilkan secara acak dengan negara, perang, dan peristiwa acak</value>
+  </data>
 </root>

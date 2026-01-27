@@ -691,6 +691,24 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Historical.
+        /// </summary>
+        internal static string historical {
+            get {
+                return ResourceManager.GetString("historical", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Play through a simulation of the 20th century, with historical nations, wars and events.
+        /// </summary>
+        internal static string historical_description {
+            get {
+                return ResourceManager.GetString("historical_description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Illiteracy:.
         /// </summary>
         internal static string illiteracy {
@@ -1161,6 +1179,24 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Random.
+        /// </summary>
+        internal static string random {
+            get {
+                return ResourceManager.GetString("random", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Play in a randomly generated world with random countries, wars and events.
+        /// </summary>
+        internal static string random_description {
+            get {
+                return ResourceManager.GetString("random_description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Rank.
         /// </summary>
         internal static string rank {
@@ -1220,6 +1256,15 @@ namespace CenturyLocalization {
         internal static string second {
             get {
                 return ResourceManager.GetString("second", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Select game mode.
+        /// </summary>
+        internal static string select_game_mode {
+            get {
+                return ResourceManager.GetString("select_game_mode", resourceCulture);
             }
         }
         

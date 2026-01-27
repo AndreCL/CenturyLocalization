@@ -614,4 +614,19 @@ Um novo ano chegou. Desejamos a vocês um feliz ano novo. Que este novo ano seja
   <data name="private" xml:space="preserve">
     <value>Privado</value>
   </data>
+  <data name="select_game_mode" xml:space="preserve">
+    <value>Selecionar modo de jogo</value>
+  </data>
+  <data name="historical" xml:space="preserve">
+    <value>Histórico</value>
+  </data>
+  <data name="historical_description" xml:space="preserve">
+    <value>Jogue uma simulação do século XX com nações, guerras e eventos históricos</value>
+  </data>
+  <data name="random" xml:space="preserve">
+    <value>Aleatório</value>
+  </data>
+  <data name="random_description" xml:space="preserve">
+    <value>Jogue em um mundo gerado aleatoriamente com países, guerras e eventos aleatórios</value>
+  </data>
 </root>

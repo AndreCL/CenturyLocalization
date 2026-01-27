@@ -616,4 +616,19 @@ Una vez que la tensión mundial alcanza el 100 %, se desencadena una guerra mund
   <data name="private" xml:space="preserve">
     <value>Privado</value>
   </data>
+  <data name="select_game_mode" xml:space="preserve">
+    <value>Seleccionar modo de juego</value>
+  </data>
+  <data name="historical" xml:space="preserve">
+    <value>Histórico</value>
+  </data>
+  <data name="historical_description" xml:space="preserve">
+    <value>Juega una simulación del siglo XX con naciones, guerras y eventos históricos</value>
+  </data>
+  <data name="random" xml:space="preserve">
+    <value>Aleatorio</value>
+  </data>
+  <data name="random_description" xml:space="preserve">
+    <value>Juega en un mundo generado aleatoriamente con países, guerras y eventos aleatorios</value>
+  </data>
 </root>

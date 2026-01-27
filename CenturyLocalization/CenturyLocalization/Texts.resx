@@ -636,4 +636,19 @@ Once the World Tension reaches 100%, a World War is triggered and it resets.
     <value>Private</value>
     <comment>Private sector employees</comment>
   </data>
+  <data name="select_game_mode" xml:space="preserve">
+    <value>Select game mode</value>
+  </data>
+  <data name="historical" xml:space="preserve">
+    <value>Historical</value>
+  </data>
+  <data name="historical_description" xml:space="preserve">
+    <value>Play through a simulation of the 20th century, with historical nations, wars and events</value>
+  </data>
+  <data name="random" xml:space="preserve">
+    <value>Random</value>
+  </data>
+  <data name="random_description" xml:space="preserve">
+    <value>Play in a randomly generated world with random countries, wars and events</value>
+  </data>
 </root>

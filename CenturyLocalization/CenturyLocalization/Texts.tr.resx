@@ -772,4 +772,19 @@
   <data name="state" xml:space="preserve">
     <value>Devlet</value>
   </data>
+  <data name="select_game_mode" xml:space="preserve">
+    <value>Oyun modunu seç</value>
+  </data>
+  <data name="historical" xml:space="preserve">
+    <value>Tarihî</value>
+  </data>
+  <data name="historical_description" xml:space="preserve">
+    <value>20. yüzyılın tarihî devletleri, savaşları ve olaylarıyla bir simülasyonu oyna</value>
+  </data>
+  <data name="random" xml:space="preserve">
+    <value>Rastgele</value>
+  </data>
+  <data name="random_description" xml:space="preserve">
+    <value>Rastgele oluşturulmuş bir dünyada rastgele ülkeler, savaşlar ve olaylarla oyna</value>
+  </data>
 </root>

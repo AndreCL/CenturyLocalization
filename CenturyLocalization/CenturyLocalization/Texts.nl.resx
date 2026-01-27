@@ -614,4 +614,19 @@ Wanneer de wereldspanning 100% bereikt, wordt een wereldoorlog ontketend en word
   <data name="private" xml:space="preserve">
     <value>Particulier</value>
   </data>
+  <data name="select_game_mode" xml:space="preserve">
+    <value>Kies spelmodus</value>
+  </data>
+  <data name="historical" xml:space="preserve">
+    <value>Historisch</value>
+  </data>
+  <data name="historical_description" xml:space="preserve">
+    <value>Speel een simulatie van de 20e eeuw met historische landen, oorlogen en gebeurtenissen</value>
+  </data>
+  <data name="random" xml:space="preserve">
+    <value>Willekeurig</value>
+  </data>
+  <data name="random_description" xml:space="preserve">
+    <value>Speel in een willekeurig gegenereerde wereld met willekeurige landen, oorlogen en gebeurtenissen</value>
+  </data>
 </root>

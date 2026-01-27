@@ -614,4 +614,19 @@ Sobald die Weltspannung 100 % erreicht, wird ein Weltkrieg ausgelöst und der We
   <data name="private" xml:space="preserve">
     <value>Privat</value>
   </data>
+  <data name="select_game_mode" xml:space="preserve">
+    <value>Spielmodus auswählen</value>
+  </data>
+  <data name="historical" xml:space="preserve">
+    <value>Historisch</value>
+  </data>
+  <data name="historical_description" xml:space="preserve">
+    <value>Spiele eine Simulation des 20. Jahrhunderts mit historischen Nationen, Kriegen und Ereignissen</value>
+  </data>
+  <data name="random" xml:space="preserve">
+    <value>Zufällig</value>
+  </data>
+  <data name="random_description" xml:space="preserve">
+    <value>Spiele in einer zufällig generierten Welt mit zufälligen Ländern, Kriegen und Ereignissen</value>
+  </data>
 </root>

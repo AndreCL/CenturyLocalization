@@ -615,4 +615,19 @@ Når verdensspændingen når 100 %, udløses en verdenskrig, og værdien nulstil
   <data name="private" xml:space="preserve">
     <value>Privat</value>
   </data>
+  <data name="select_game_mode" xml:space="preserve">
+    <value>Vælg spiltilstand</value>
+  </data>
+  <data name="historical" xml:space="preserve">
+    <value>Historisk</value>
+  </data>
+  <data name="historical_description" xml:space="preserve">
+    <value>Spil gennem en simulation af det 20. århundrede med historiske nationer, krige og begivenheder</value>
+  </data>
+  <data name="random" xml:space="preserve">
+    <value>Tilfældig</value>
+  </data>
+  <data name="random_description" xml:space="preserve">
+    <value>Spil i en tilfældigt genereret verden med tilfældige lande, krige og begivenheder</value>
+  </data>
 </root>
