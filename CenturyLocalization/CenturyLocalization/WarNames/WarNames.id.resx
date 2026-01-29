@@ -126,4 +126,19 @@
   <data name="acre_war" xml:space="preserve">
     <value>Perang Acre</value>
   </data>
+  <data name="golden_stool_war" xml:space="preserve">
+    <value>Perang Takhta Emas</value>
+  </data>
+  <data name="korean_invasion_of_manchuria" xml:space="preserve">
+    <value>Invasi Korea ke Manchuria</value>
+  </data>
+  <data name="holy_mans_rebellion" xml:space="preserve">
+    <value>Pemberontakan Orang Suci</value>
+  </data>
+  <data name="anglo_aro_war" xml:space="preserve">
+    <value>Perang Anglo-Aro</value>
+  </data>
+  <data name="venezuelan_crisis" xml:space="preserve">
+    <value>Krisis Venezuela</value>
+  </data>
 </root>

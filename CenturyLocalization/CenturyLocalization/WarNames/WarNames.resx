@@ -106,4 +106,19 @@
   <data name="acre_war" xml:space="preserve">
     <value>The Acre War</value>
   </data>
+  <data name="golden_stool_war" xml:space="preserve">
+    <value>War of the Golden Stool</value>
+  </data>
+  <data name="korean_invasion_of_manchuria" xml:space="preserve">
+    <value>Korean Invasion of Manchuria</value>
+  </data>
+  <data name="holy_mans_rebellion" xml:space="preserve">
+    <value>Holy Man's Rebellion</value>
+  </data>
+  <data name="anglo_aro_war" xml:space="preserve">
+    <value>The Anglo-Aro War</value>
+  </data>
+  <data name="venezuelan_crisis" xml:space="preserve">
+    <value>Venezuelan Crisis</value>
+  </data>
 </root>

@@ -70,6 +70,15 @@ namespace CenturyLocalization.WarNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to The Anglo-Aro War.
+        /// </summary>
+        internal static string anglo_aro_war {
+            get {
+                return ResourceManager.GetString("anglo_aro_war", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to The Boxer Rebellion.
         /// </summary>
         internal static string boxer_rebellion {
@@ -79,11 +88,47 @@ namespace CenturyLocalization.WarNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to War of the Golden Stool.
+        /// </summary>
+        internal static string golden_stool_war {
+            get {
+                return ResourceManager.GetString("golden_stool_war", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Holy Man&apos;s Rebellion.
+        /// </summary>
+        internal static string holy_mans_rebellion {
+            get {
+                return ResourceManager.GetString("holy_mans_rebellion", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Korean Invasion of Manchuria.
+        /// </summary>
+        internal static string korean_invasion_of_manchuria {
+            get {
+                return ResourceManager.GetString("korean_invasion_of_manchuria", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to The Second Boer War.
         /// </summary>
         internal static string second_boer_war {
             get {
                 return ResourceManager.GetString("second_boer_war", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Venezuelan Crisis.
+        /// </summary>
+        internal static string venezuelan_crisis {
+            get {
+                return ResourceManager.GetString("venezuelan_crisis", resourceCulture);
             }
         }
     }

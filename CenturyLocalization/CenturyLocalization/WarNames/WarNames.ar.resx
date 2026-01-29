@@ -126,4 +126,19 @@
   <data name="acre_war" xml:space="preserve">
     <value>حرب أكري</value>
   </data>
+  <data name="golden_stool_war" xml:space="preserve">
+    <value>حرب العرش الذهبي</value>
+  </data>
+  <data name="korean_invasion_of_manchuria" xml:space="preserve">
+    <value>الغزو الكوري لمنشوريا</value>
+  </data>
+  <data name="holy_mans_rebellion" xml:space="preserve">
+    <value>تمرد الرجل المقدس</value>
+  </data>
+  <data name="anglo_aro_war" xml:space="preserve">
+    <value>الحرب الأنجلو-آرو</value>
+  </data>
+  <data name="venezuelan_crisis" xml:space="preserve">
+    <value>أزمة فنزويلا</value>
+  </data>
 </root>

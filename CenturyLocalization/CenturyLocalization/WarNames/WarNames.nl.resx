@@ -126,4 +126,19 @@
   <data name="acre_war" xml:space="preserve">
     <value>De Acre-oorlog</value>
   </data>
+  <data name="golden_stool_war" xml:space="preserve">
+    <value>Oorlog om de Gouden Kruk</value>
+  </data>
+  <data name="korean_invasion_of_manchuria" xml:space="preserve">
+    <value>De Koreaanse invasie van Mantsjoerije</value>
+  </data>
+  <data name="holy_mans_rebellion" xml:space="preserve">
+    <value>De Opstand van de Heilige Man</value>
+  </data>
+  <data name="anglo_aro_war" xml:space="preserve">
+    <value>De Anglo-Aro-oorlog</value>
+  </data>
+  <data name="venezuelan_crisis" xml:space="preserve">
+    <value>De Venezolaanse crisis</value>
+  </data>
 </root>

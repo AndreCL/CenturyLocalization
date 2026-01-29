@@ -126,4 +126,19 @@
   <data name="acre_war" xml:space="preserve">
     <value>La Guerra del Acre</value>
   </data>
+  <data name="golden_stool_war" xml:space="preserve">
+    <value>Guerra del Taburete Dorado</value>
+  </data>
+  <data name="korean_invasion_of_manchuria" xml:space="preserve">
+    <value>Invasión coreana de Manchuria</value>
+  </data>
+  <data name="holy_mans_rebellion" xml:space="preserve">
+    <value>Rebelión del Hombre Santo</value>
+  </data>
+  <data name="anglo_aro_war" xml:space="preserve">
+    <value>Guerra anglo-aro</value>
+  </data>
+  <data name="venezuelan_crisis" xml:space="preserve">
+    <value>Crisis de Venezuela</value>
+  </data>
 </root>

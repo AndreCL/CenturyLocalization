@@ -126,4 +126,19 @@
   <data name="acre_war" xml:space="preserve">
     <value>Акревская война</value>
   </data>
+  <data name="golden_stool_war" xml:space="preserve">
+    <value>Война за Золотой Табурет</value>
+  </data>
+  <data name="korean_invasion_of_manchuria" xml:space="preserve">
+    <value>Корейское вторжение в Маньчжурию</value>
+  </data>
+  <data name="holy_mans_rebellion" xml:space="preserve">
+    <value>Восстание Святого Человека</value>
+  </data>
+  <data name="anglo_aro_war" xml:space="preserve">
+    <value>Англо-ара война</value>
+  </data>
+  <data name="venezuelan_crisis" xml:space="preserve">
+    <value>Венесуэльский кризис</value>
+  </data>
 </root>

@@ -126,4 +126,19 @@
   <data name="acre_war" xml:space="preserve">
     <value>Acre Savaşı</value>
   </data>
+  <data name="golden_stool_war" xml:space="preserve">
+    <value>Altın Tabure Savaşı</value>
+  </data>
+  <data name="korean_invasion_of_manchuria" xml:space="preserve">
+    <value>Kore’nin Mançurya’yı istilası</value>
+  </data>
+  <data name="holy_mans_rebellion" xml:space="preserve">
+    <value>Kutsal Adam İsyanı</value>
+  </data>
+  <data name="anglo_aro_war" xml:space="preserve">
+    <value>Anglo-Aro Savaşı</value>
+  </data>
+  <data name="venezuelan_crisis" xml:space="preserve">
+    <value>Venezuela Krizi</value>
+  </data>
 </root>
