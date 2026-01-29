@@ -664,4 +664,10 @@ Keď svetové napätie dosiahne 100%, spustí sa svetová vojna a resetuje sa.
   <data name="war_goal_join_country" xml:space="preserve">
     <value>Pripojenie ku krajine</value>
   </data>
+  <data name="small_independent_mission" xml:space="preserve">
+    <value>Poslať malú nezávislú misiu</value>
+  </data>
+  <data name="large_state_mission" xml:space="preserve">
+    <value>Poslať veľkú štátom sponzorovanú misiu</value>
+  </data>
 </root>

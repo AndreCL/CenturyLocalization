@@ -644,4 +644,10 @@
   <data name="war_goal_join_country" xml:space="preserve">
     <value>الانضمام إلى الدولة</value>
   </data>
+  <data name="small_independent_mission" xml:space="preserve">
+    <value>إرسال مهمة صغيرة مستقلة</value>
+  </data>
+  <data name="large_state_mission" xml:space="preserve">
+    <value>إرسال مهمة كبيرة برعاية الدولة</value>
+  </data>
 </root>

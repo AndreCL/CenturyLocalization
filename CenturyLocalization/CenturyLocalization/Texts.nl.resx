@@ -644,4 +644,10 @@ Wanneer de wereldspanning 100% bereikt, wordt een wereldoorlog ontketend en word
   <data name="war_goal_join_country" xml:space="preserve">
     <value>Bij een land aansluiten</value>
   </data>
+  <data name="small_independent_mission" xml:space="preserve">
+    <value>Stuur kleine onafhankelijke missie</value>
+  </data>
+  <data name="large_state_mission" xml:space="preserve">
+    <value>Stuur grote door de staat gesponsorde missie</value>
+  </data>
 </root>

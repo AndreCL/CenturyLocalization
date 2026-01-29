@@ -649,4 +649,10 @@
   <data name="war_goal_join_country" xml:space="preserve">
     <value>Присоединиться к стране</value>
   </data>
+  <data name="small_independent_mission" xml:space="preserve">
+    <value>Отправить небольшую независимую миссию</value>
+  </data>
+  <data name="large_state_mission" xml:space="preserve">
+    <value>Отправить крупную миссию, спонсируемую государством</value>
+  </data>
 </root>

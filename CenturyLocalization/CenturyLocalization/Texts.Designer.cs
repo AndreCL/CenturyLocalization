@@ -862,6 +862,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Send large state sponsored mission.
+        /// </summary>
+        internal static string large_state_mission {
+            get {
+                return ResourceManager.GetString("large_state_mission", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Large ships:.
         /// </summary>
         internal static string largeships {
@@ -1310,6 +1319,15 @@ namespace CenturyLocalization {
         internal static string settings {
             get {
                 return ResourceManager.GetString("settings", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Send small independent mission.
+        /// </summary>
+        internal static string small_independent_mission {
+            get {
+                return ResourceManager.GetString("small_independent_mission", resourceCulture);
             }
         }
         

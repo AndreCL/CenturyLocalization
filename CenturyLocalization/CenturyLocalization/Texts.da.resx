@@ -645,4 +645,10 @@ Når verdensspændingen når 100 %, udløses en verdenskrig, og værdien nulstil
   <data name="war_goal_join_country" xml:space="preserve">
     <value>Slutte sig til land</value>
   </data>
+  <data name="small_independent_mission" xml:space="preserve">
+    <value>Send lille uafhængig mission</value>
+  </data>
+  <data name="large_state_mission" xml:space="preserve">
+    <value>Send stor statssponsoreret mission</value>
+  </data>
 </root>

@@ -646,4 +646,10 @@ Una vez que la tensión mundial alcanza el 100 %, se desencadena una guerra mund
   <data name="war_goal_join_country" xml:space="preserve">
     <value>Unirse al país</value>
   </data>
+  <data name="small_independent_mission" xml:space="preserve">
+    <value>Enviar pequeña misión independiente</value>
+  </data>
+  <data name="large_state_mission" xml:space="preserve">
+    <value>Enviar gran misión patrocinada por el Estado</value>
+  </data>
 </root>

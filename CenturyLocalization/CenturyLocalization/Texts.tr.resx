@@ -802,4 +802,10 @@
   <data name="war_goal_join_country" xml:space="preserve">
     <value>Ülkeye katılma</value>
   </data>
+  <data name="small_independent_mission" xml:space="preserve">
+    <value>Küçük bağımsız görev gönder</value>
+  </data>
+  <data name="large_state_mission" xml:space="preserve">
+    <value>Büyük devlet destekli görev gönder</value>
+  </data>
 </root>

@@ -644,4 +644,10 @@ Ketika Ketegangan Dunia mencapai 100%, Perang Dunia akan dipicu dan nilainya dia
   <data name="war_goal_join_country" xml:space="preserve">
     <value>Bergabung dengan negara</value>
   </data>
+  <data name="small_independent_mission" xml:space="preserve">
+    <value>Kirim misi kecil independen</value>
+  </data>
+  <data name="large_state_mission" xml:space="preserve">
+    <value>Kirim misi besar yang disponsori negara</value>
+  </data>
 </root>

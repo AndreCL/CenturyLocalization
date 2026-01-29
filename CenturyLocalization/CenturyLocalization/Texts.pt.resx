@@ -644,4 +644,10 @@ Um novo ano chegou. Desejamos a vocês um feliz ano novo. Que este novo ano seja
   <data name="war_goal_join_country" xml:space="preserve">
     <value>Unir‑se a país</value>
   </data>
+  <data name="small_independent_mission" xml:space="preserve">
+    <value>Enviar pequena missão independente</value>
+  </data>
+  <data name="large_state_mission" xml:space="preserve">
+    <value>Enviar grande missão patrocinada pelo Estado</value>
+  </data>
 </root>

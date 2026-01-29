@@ -644,4 +644,10 @@ Sobald die Weltspannung 100 % erreicht, wird ein Weltkrieg ausgelöst und der We
   <data name="war_goal_join_country" xml:space="preserve">
     <value>Einem Land beitreten</value>
   </data>
+  <data name="small_independent_mission" xml:space="preserve">
+    <value>Kleine unabhängige Mission senden</value>
+  </data>
+  <data name="large_state_mission" xml:space="preserve">
+    <value>Große staatlich geförderte Mission senden</value>
+  </data>
 </root>

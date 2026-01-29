@@ -666,4 +666,10 @@ Once the World Tension reaches 100%, a World War is triggered and it resets.
   <data name="war_goal_join_country" xml:space="preserve">
     <value>Join country</value>
   </data>
+  <data name="small_independent_mission" xml:space="preserve">
+    <value>Send small independent mission</value>
+  </data>
+  <data name="large_state_mission" xml:space="preserve">
+    <value>Send large state sponsored mission</value>
+  </data>
 </root>
