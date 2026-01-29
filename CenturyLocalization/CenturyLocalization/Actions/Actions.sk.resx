@@ -170,4 +170,7 @@
   <data name="trigger_event" xml:space="preserve">
     <value>Spustiť udalosť {0}</value>
   </data>
+  <data name="add_war_goal" xml:space="preserve">
+    <value>Pridať vojnový cieľ: {0}</value>
+  </data>
 </root>

@@ -629,4 +629,19 @@
   <data name="random_description" xml:space="preserve">
     <value>العب في عالم مُولَّد عشوائيًا مع دول وحروب وأحداث عشوائية</value>
   </data>
+  <data name="war_goal_none" xml:space="preserve">
+    <value>لا شيء</value>
+  </data>
+  <data name="war_goal_economic" xml:space="preserve">
+    <value>اقتصادي</value>
+  </data>
+  <data name="war_goal_conquer_land" xml:space="preserve">
+    <value>غزو الأراضي</value>
+  </data>
+  <data name="war_goal_annex_country" xml:space="preserve">
+    <value>ضم الدولة</value>
+  </data>
+  <data name="war_goal_join_country" xml:space="preserve">
+    <value>الانضمام إلى الدولة</value>
+  </data>
 </root>

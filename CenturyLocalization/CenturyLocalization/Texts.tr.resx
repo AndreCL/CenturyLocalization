@@ -787,4 +787,19 @@
   <data name="random_description" xml:space="preserve">
     <value>Rastgele oluşturulmuş bir dünyada rastgele ülkeler, savaşlar ve olaylarla oyna</value>
   </data>
+  <data name="war_goal_none" xml:space="preserve">
+    <value>Yok</value>
+  </data>
+  <data name="war_goal_economic" xml:space="preserve">
+    <value>Ekonomik</value>
+  </data>
+  <data name="war_goal_conquer_land" xml:space="preserve">
+    <value>Toprak fethetme</value>
+  </data>
+  <data name="war_goal_annex_country" xml:space="preserve">
+    <value>Ülkeyi ilhak etme</value>
+  </data>
+  <data name="war_goal_join_country" xml:space="preserve">
+    <value>Ülkeye katılma</value>
+  </data>
 </root>

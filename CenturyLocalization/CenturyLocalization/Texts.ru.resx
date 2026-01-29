@@ -634,4 +634,19 @@
   <data name="random_description" xml:space="preserve">
     <value>Играй в случайно сгенерированном мире со случайными странами, войнами и событиями</value>
   </data>
+  <data name="war_goal_none" xml:space="preserve">
+    <value>Нет</value>
+  </data>
+  <data name="war_goal_economic" xml:space="preserve">
+    <value>Экономическая</value>
+  </data>
+  <data name="war_goal_conquer_land" xml:space="preserve">
+    <value>Захватить территорию</value>
+  </data>
+  <data name="war_goal_annex_country" xml:space="preserve">
+    <value>Аннексировать страну</value>
+  </data>
+  <data name="war_goal_join_country" xml:space="preserve">
+    <value>Присоединиться к стране</value>
+  </data>
 </root>

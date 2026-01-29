@@ -631,4 +631,19 @@ Una vez que la tensión mundial alcanza el 100 %, se desencadena una guerra mund
   <data name="random_description" xml:space="preserve">
     <value>Juega en un mundo generado aleatoriamente con países, guerras y eventos aleatorios</value>
   </data>
+  <data name="war_goal_none" xml:space="preserve">
+    <value>Ninguno</value>
+  </data>
+  <data name="war_goal_economic" xml:space="preserve">
+    <value>Económico</value>
+  </data>
+  <data name="war_goal_conquer_land" xml:space="preserve">
+    <value>Conquistar territorio</value>
+  </data>
+  <data name="war_goal_annex_country" xml:space="preserve">
+    <value>Anexar país</value>
+  </data>
+  <data name="war_goal_join_country" xml:space="preserve">
+    <value>Unirse al país</value>
+  </data>
 </root>

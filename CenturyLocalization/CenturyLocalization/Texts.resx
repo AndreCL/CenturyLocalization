@@ -651,4 +651,19 @@ Once the World Tension reaches 100%, a World War is triggered and it resets.
   <data name="random_description" xml:space="preserve">
     <value>Play in a randomly generated world with random countries, wars and events</value>
   </data>
+  <data name="war_goal_none" xml:space="preserve">
+    <value>None</value>
+  </data>
+  <data name="war_goal_economic" xml:space="preserve">
+    <value>Economic</value>
+  </data>
+  <data name="war_goal_conquer_land" xml:space="preserve">
+    <value>Conquer land</value>
+  </data>
+  <data name="war_goal_annex_country" xml:space="preserve">
+    <value>Annex country</value>
+  </data>
+  <data name="war_goal_join_country" xml:space="preserve">
+    <value>Join country</value>
+  </data>
 </root>

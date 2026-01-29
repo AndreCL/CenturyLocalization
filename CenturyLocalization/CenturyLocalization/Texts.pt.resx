@@ -629,4 +629,19 @@ Um novo ano chegou. Desejamos a vocês um feliz ano novo. Que este novo ano seja
   <data name="random_description" xml:space="preserve">
     <value>Jogue em um mundo gerado aleatoriamente com países, guerras e eventos aleatórios</value>
   </data>
+  <data name="war_goal_none" xml:space="preserve">
+    <value>Nenhum</value>
+  </data>
+  <data name="war_goal_economic" xml:space="preserve">
+    <value>Económico</value>
+  </data>
+  <data name="war_goal_conquer_land" xml:space="preserve">
+    <value>Conquistar território</value>
+  </data>
+  <data name="war_goal_annex_country" xml:space="preserve">
+    <value>Anexar país</value>
+  </data>
+  <data name="war_goal_join_country" xml:space="preserve">
+    <value>Unir‑se a país</value>
+  </data>
 </root>

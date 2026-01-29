@@ -629,4 +629,19 @@ Wanneer de wereldspanning 100% bereikt, wordt een wereldoorlog ontketend en word
   <data name="random_description" xml:space="preserve">
     <value>Speel in een willekeurig gegenereerde wereld met willekeurige landen, oorlogen en gebeurtenissen</value>
   </data>
+  <data name="war_goal_none" xml:space="preserve">
+    <value>Geen</value>
+  </data>
+  <data name="war_goal_economic" xml:space="preserve">
+    <value>Economisch</value>
+  </data>
+  <data name="war_goal_conquer_land" xml:space="preserve">
+    <value>Land veroveren</value>
+  </data>
+  <data name="war_goal_annex_country" xml:space="preserve">
+    <value>Land annexeren</value>
+  </data>
+  <data name="war_goal_join_country" xml:space="preserve">
+    <value>Bij een land aansluiten</value>
+  </data>
 </root>

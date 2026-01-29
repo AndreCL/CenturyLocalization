@@ -629,4 +629,19 @@ Sobald die Weltspannung 100 % erreicht, wird ein Weltkrieg ausgelöst und der We
   <data name="random_description" xml:space="preserve">
     <value>Spiele in einer zufällig generierten Welt mit zufälligen Ländern, Kriegen und Ereignissen</value>
   </data>
+  <data name="war_goal_none" xml:space="preserve">
+    <value>Keines</value>
+  </data>
+  <data name="war_goal_economic" xml:space="preserve">
+    <value>Wirtschaftlich</value>
+  </data>
+  <data name="war_goal_conquer_land" xml:space="preserve">
+    <value>Land erobern</value>
+  </data>
+  <data name="war_goal_annex_country" xml:space="preserve">
+    <value>Land annektieren</value>
+  </data>
+  <data name="war_goal_join_country" xml:space="preserve">
+    <value>Einem Land beitreten</value>
+  </data>
 </root>

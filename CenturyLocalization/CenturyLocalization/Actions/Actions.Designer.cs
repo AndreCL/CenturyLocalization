@@ -79,6 +79,15 @@ namespace CenturyLocalization.Actions {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Add war goal: {0}.
+        /// </summary>
+        internal static string add_war_goal {
+            get {
+                return ResourceManager.GetString("add_war_goal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Change Flag.
         /// </summary>
         internal static string change_flag {

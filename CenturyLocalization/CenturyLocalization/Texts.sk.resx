@@ -649,4 +649,19 @@ Keď svetové napätie dosiahne 100%, spustí sa svetová vojna a resetuje sa.
   <data name="random_description" xml:space="preserve">
     <value>Hrajte v náhodne vygenerovanom svete s náhodnými krajinami, vojnami a udalosťami</value>
   </data>
+  <data name="war_goal_none" xml:space="preserve">
+    <value>Žiadny</value>
+  </data>
+  <data name="war_goal_economic" xml:space="preserve">
+    <value>Ekonomický</value>
+  </data>
+  <data name="war_goal_conquer_land" xml:space="preserve">
+    <value>Dobytie územia</value>
+  </data>
+  <data name="war_goal_annex_country" xml:space="preserve">
+    <value>Anexia krajiny</value>
+  </data>
+  <data name="war_goal_join_country" xml:space="preserve">
+    <value>Pripojenie ku krajine</value>
+  </data>
 </root>

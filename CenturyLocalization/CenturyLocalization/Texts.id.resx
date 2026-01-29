@@ -629,4 +629,19 @@ Ketika Ketegangan Dunia mencapai 100%, Perang Dunia akan dipicu dan nilainya dia
   <data name="random_description" xml:space="preserve">
     <value>Mainkan di dunia yang dihasilkan secara acak dengan negara, perang, dan peristiwa acak</value>
   </data>
+  <data name="war_goal_none" xml:space="preserve">
+    <value>Tidak ada</value>
+  </data>
+  <data name="war_goal_economic" xml:space="preserve">
+    <value>Ekonomi</value>
+  </data>
+  <data name="war_goal_conquer_land" xml:space="preserve">
+    <value>Menaklukkan wilayah</value>
+  </data>
+  <data name="war_goal_annex_country" xml:space="preserve">
+    <value>Menganeksasi negara</value>
+  </data>
+  <data name="war_goal_join_country" xml:space="preserve">
+    <value>Bergabung dengan negara</value>
+  </data>
 </root>

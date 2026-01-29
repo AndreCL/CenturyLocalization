@@ -165,4 +165,7 @@
   <data name="trigger_event" xml:space="preserve">
     <value>Picu acara {0}</value>
   </data>
+  <data name="add_war_goal" xml:space="preserve">
+    <value>Tambahkan tujuan perang: {0}</value>
+  </data>
 </root>

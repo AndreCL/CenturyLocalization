@@ -630,4 +630,19 @@ Når verdensspændingen når 100 %, udløses en verdenskrig, og værdien nulstil
   <data name="random_description" xml:space="preserve">
     <value>Spil i en tilfældigt genereret verden med tilfældige lande, krige og begivenheder</value>
   </data>
+  <data name="war_goal_none" xml:space="preserve">
+    <value>Ingen</value>
+  </data>
+  <data name="war_goal_economic" xml:space="preserve">
+    <value>Økonomisk</value>
+  </data>
+  <data name="war_goal_conquer_land" xml:space="preserve">
+    <value>Erobre land</value>
+  </data>
+  <data name="war_goal_annex_country" xml:space="preserve">
+    <value>Annektere land</value>
+  </data>
+  <data name="war_goal_join_country" xml:space="preserve">
+    <value>Slutte sig til land</value>
+  </data>
 </root>

@@ -1476,6 +1476,51 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Annex country.
+        /// </summary>
+        internal static string war_goal_annex_country {
+            get {
+                return ResourceManager.GetString("war_goal_annex_country", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Conquer land.
+        /// </summary>
+        internal static string war_goal_conquer_land {
+            get {
+                return ResourceManager.GetString("war_goal_conquer_land", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Economic.
+        /// </summary>
+        internal static string war_goal_economic {
+            get {
+                return ResourceManager.GetString("war_goal_economic", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Join country.
+        /// </summary>
+        internal static string war_goal_join_country {
+            get {
+                return ResourceManager.GetString("war_goal_join_country", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to None.
+        /// </summary>
+        internal static string war_goal_none {
+            get {
+                return ResourceManager.GetString("war_goal_none", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to War level.
         /// </summary>
         internal static string war_level {
