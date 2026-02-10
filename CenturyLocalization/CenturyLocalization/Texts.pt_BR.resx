@@ -1,0 +1,653 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="error_string_not_found" xml:space="preserve">
+    <value>Texto não encontrado</value>
+  </data>
+  <data name="unittest_both" xml:space="preserve">
+    <value>Ok</value>
+  </data>
+  <data name="unittest_onlyen" xml:space="preserve">
+    <value>Ok</value>
+  </data>
+  <data name="ApplicationName" xml:space="preserve">
+    <value>Century</value>
+  </data>
+  <data name="yes" xml:space="preserve">
+    <value>Sim</value>
+  </data>
+  <data name="no" xml:space="preserve">
+    <value>Não</value>
+  </data>
+  <data name="close" xml:space="preserve">
+    <value>Fechar</value>
+  </data>
+  <data name="Newgame" xml:space="preserve">
+    <value>Novo Jogo</value>
+  </data>
+  <data name="Continuegame" xml:space="preserve">
+    <value>Continuar Jogo</value>
+  </data>
+  <data name="loading" xml:space="preserve">
+    <value>Carregando Saves...</value>
+  </data>
+  <data name="sendemail" xml:space="preserve">
+    <value>Enviar um E-mail</value>
+  </data>
+  <data name="changelog" xml:space="preserve">
+    <value>Registro</value>
+  </data>
+  <data name="feedback" xml:space="preserve">
+    <value>Enviar um comentário</value>
+  </data>
+  <data name="discord" xml:space="preserve">
+    <value>Discord</value>
+  </data>
+  <data name="facebook" xml:space="preserve">
+    <value>Facebook</value>
+  </data>
+  <data name="discordjoin" xml:space="preserve">
+    <value>Entrar no Servidor Discord</value>
+  </data>
+  <data name="getversion" xml:space="preserve">
+    <value>Obtendo Versão</value>
+  </data>
+  <data name="delete" xml:space="preserve">
+    <value>Apagar</value>
+  </data>
+  <data name="warning" xml:space="preserve">
+    <value>Atenção</value>
+  </data>
+  <data name="message_delete_save" xml:space="preserve">
+    <value>Tem certeza de que deseja apagar este save?</value>
+  </data>
+  <data name="Instructions1" xml:space="preserve">
+    <value>Escolha um país</value>
+  </data>
+  <data name="startdate" xml:space="preserve">
+    <value>Data de Início:</value>
+  </data>
+  <data name="enddate" xml:space="preserve">
+    <value>Data de Fim:</value>
+  </data>
+  <data name="country" xml:space="preserve">
+    <value>Nação</value>
+  </data>
+  <data name="rank" xml:space="preserve">
+    <value>Classificação</value>
+  </data>
+  <data name="illiteracy" xml:space="preserve">
+    <value>Analfabetismo:</value>
+  </data>
+  <data name="largestreligion" xml:space="preserve">
+    <value>Maior Religião:</value>
+  </data>
+  <data name="largestculture" xml:space="preserve">
+    <value>Maior Cultura:</value>
+  </data>
+  <data name="army" xml:space="preserve">
+    <value>Exército</value>
+  </data>
+  <data name="soldiers" xml:space="preserve">
+    <value>Soldados</value>
+  </data>
+  <data name="rifles" xml:space="preserve">
+    <value>Fuzis:</value>
+  </data>
+  <data name="tanks" xml:space="preserve">
+    <value>Tanques:</value>
+  </data>
+  <data name="navy" xml:space="preserve">
+    <value>Marinha</value>
+  </data>
+  <data name="sailors" xml:space="preserve">
+    <value>Marinheiros</value>
+  </data>
+  <data name="smallships" xml:space="preserve">
+    <value>Corvetas:</value>
+  </data>
+  <data name="mediumships" xml:space="preserve">
+    <value>Fragatas:</value>
+  </data>
+  <data name="largeships" xml:space="preserve">
+    <value>Encouraçados:</value>
+  </data>
+  <data name="airforce" xml:space="preserve">
+    <value>Força Aérea</value>
+  </data>
+  <data name="pilots" xml:space="preserve">
+    <value>Pilotos</value>
+  </data>
+  <data name="fighters" xml:space="preserve">
+    <value>Caças:</value>
+  </data>
+  <data name="bombers" xml:space="preserve">
+    <value>Bombardeiros:</value>
+  </data>
+  <data name="start" xml:space="preserve">
+    <value>Começar</value>
+  </data>
+  <data name="declarewar" xml:space="preserve">
+    <value>Declarar Guerra</value>
+  </data>
+  <data name="poverty" xml:space="preserve">
+    <value>Pobreza</value>
+  </data>
+  <data name="healthcare" xml:space="preserve">
+    <value>Cobertura de Saúde</value>
+  </data>
+  <data name="money" xml:space="preserve">
+    <value>Dinheiro</value>
+  </data>
+  <data name="population" xml:space="preserve">
+    <value>População</value>
+  </data>
+  <data name="area" xml:space="preserve">
+    <value>Área</value>
+  </data>
+  <data name="infrastructure" xml:space="preserve">
+    <value>Infraestrutura</value>
+  </data>
+  <data name="infamy" xml:space="preserve">
+    <value>Infâmia</value>
+  </data>
+  <data name="independentsince" xml:space="preserve">
+    <value>Independente desde</value>
+  </data>
+  <data name="war_level" xml:space="preserve">
+    <value>Nível de Guerra</value>
+  </data>
+  <data name="employment" xml:space="preserve">
+    <value>Emprego</value>
+  </data>
+  <data name="social_class" xml:space="preserve">
+    <value>Classe Social</value>
+  </data>
+  <data name="age_groups" xml:space="preserve">
+    <value>Faixa Etária</value>
+  </data>
+  <data name="gender" xml:space="preserve">
+    <value>Gênero</value>
+  </data>
+  <data name="religion" xml:space="preserve">
+    <value>Religião</value>
+  </data>
+  <data name="culture" xml:space="preserve">
+    <value>Cultura</value>
+  </data>
+  <data name="education" xml:space="preserve">
+    <value>Educação</value>
+  </data>
+  <data name="daily_investment" xml:space="preserve">
+    <value>Investimento Diário:</value>
+  </data>
+  <data name="one_time_investment" xml:space="preserve">
+    <value>Investimento Único:</value>
+  </data>
+  <data name="filter_wars" xml:space="preserve">
+    <value>Filtrar Guerras</value>
+  </data>
+  <data name="war" xml:space="preserve">
+    <value>Guerra</value>
+  </data>
+  <data name="score" xml:space="preserve">
+    <value>Pontuação</value>
+  </data>
+  <data name="men_to_equipment" xml:space="preserve">
+    <value>Proporção de Homens por Equipamento</value>
+  </data>
+  <data name="extra_equipment" xml:space="preserve">
+    <value>Você tem Equipamentos Extra</value>
+  </data>
+  <data name="extra_men" xml:space="preserve">
+    <value>Você tem Homens despreparados.</value>
+  </data>
+  <data name="army_school" xml:space="preserve">
+    <value>Academia Militar</value>
+  </data>
+  <data name="army_schools" xml:space="preserve">
+    <value>Academias Militares</value>
+  </data>
+  <data name="navy_school" xml:space="preserve">
+    <value>Escola Naval</value>
+  </data>
+  <data name="navy_schools" xml:space="preserve">
+    <value>Escolas Navais</value>
+  </data>
+  <data name="air_school" xml:space="preserve">
+    <value>Academia da Força Aérea</value>
+  </data>
+  <data name="air_schools" xml:space="preserve">
+    <value>Academias da Força Aérea</value>
+  </data>
+  <data name="factory" xml:space="preserve">
+    <value>Fábrica</value>
+  </data>
+  <data name="factories" xml:space="preserve">
+    <value>Fábricas</value>
+  </data>
+  <data name="dock" xml:space="preserve">
+    <value>Estaleiro Militar</value>
+  </data>
+  <data name="docks" xml:space="preserve">
+    <value>Estaleiros Militares</value>
+  </data>
+  <data name="gameover" xml:space="preserve">
+    <value>Fim de Jogo</value>
+  </data>
+  <data name="endgametitle" xml:space="preserve">
+    <value>Parabéns! Você comandou sua nação por {0} anos turbulentos</value>
+  </data>
+  <data name="winner" xml:space="preserve">
+    <value>Campeão</value>
+  </data>
+  <data name="second" xml:space="preserve">
+    <value>2° Lugar</value>
+  </data>
+  <data name="third" xml:space="preserve">
+    <value>3° Lugar</value>
+  </data>
+  <data name="attackers" xml:space="preserve">
+    <value>Agressores:</value>
+  </data>
+  <data name="defenders" xml:space="preserve">
+    <value>Defensores:</value>
+  </data>
+  <data name="attacker" xml:space="preserve">
+    <value>Agressor:</value>
+  </data>
+  <data name="defender" xml:space="preserve">
+    <value>Defensor:</value>
+  </data>
+  <data name="attacker_victory" xml:space="preserve">
+    <value>Vitória dos Agressores</value>
+  </data>
+  <data name="tie" xml:space="preserve">
+    <value>Paz Branca</value>
+  </data>
+  <data name="defender_victory" xml:space="preserve">
+    <value>Vitória dos Defensores</value>
+  </data>
+  <data name="no_longer_exists" xml:space="preserve">
+    <value>a Nação selecionada não existe mais</value>
+  </data>
+  <data name="military_loses" xml:space="preserve">
+    <value>Baixas:</value>
+  </data>
+  <data name="civilian_loses" xml:space="preserve">
+    <value>Mortes Civis:</value>
+  </data>
+  <data name="equipment_loses" xml:space="preserve">
+    <value>Equipamentos destruídos:</value>
+  </data>
+  <data name="infrastructure_decrease" xml:space="preserve">
+    <value>Perda de Infraestrutura:</value>
+  </data>
+  <data name="invest" xml:space="preserve">
+    <value>Investir</value>
+  </data>
+  <data name="facebookjoin" xml:space="preserve">
+    <value>Entrar no grupo do Facebook</value>
+  </data>
+  <data name="world_tension" xml:space="preserve">
+    <value>Tensão Global</value>
+  </data>
+  <data name="battles" xml:space="preserve">
+    <value>Batalhas</value>
+  </data>
+  <data name="world_war_title" xml:space="preserve">
+    <value>Guerra Mundial!</value>
+  </data>
+  <data name="world_war_message" xml:space="preserve">
+    <value>Após meses de tensão, as Grandes Potências entraram em guerra. {war.Name} Começou.</value>
+  </data>
+  <data name="new_century_title" xml:space="preserve">
+    <value>Feliz Novo Século!</value>
+  </data>
+  <data name="new_century_message" xml:space="preserve">
+    <value>Caros Leitores,
+Um novo século chegou. Desejamos a você um feliz novo século. Que este novo tempo seja de paz.</value>
+  </data>
+  <data name="new_year_title" xml:space="preserve">
+    <value>Feliz Ano Novo!</value>
+  </data>
+  <data name="new_year_message" xml:space="preserve">
+    <value>Caros leitores,
+Um novo ano chegou. Desejamos a vocês um feliz ano novo. Que este novo ano seja repleto de paz.</value>
+  </data>
+  <data name="annexed_title" xml:space="preserve">
+    <value>Anexação!</value>
+  </data>
+  <data name="annexed_message" xml:space="preserve">
+    <value>{countryToDelete.Name} tornou-se tão pequeno e insignificante que {inherited.Name} o absorveu</value>
+  </data>
+  <data name="inconclusive_title" xml:space="preserve">
+    <value>{warToRemove.Name} Terminou de maneira inconclusiva</value>
+  </data>
+  <data name="inconclusive_message" xml:space="preserve">
+    <value>Como um dos países envolvidos não existe mais, {warToRemove.Name} terminou sem uma conclusão definitiva</value>
+  </data>
+  <data name="victoria_title" xml:space="preserve">
+    <value>a Rainha Vitória está morta.</value>
+  </data>
+  <data name="victoria_message" xml:space="preserve">
+    <value>Eduardo VII de tornou Rei da Inglaterra e da Índia após a morte da Rainha Vitória</value>
+  </data>
+  <data name="defaultwar_title" xml:space="preserve">
+    <value>Guerra!</value>
+  </data>
+  <data name="defaultwar_message" xml:space="preserve">
+    <value>{war.Name} começou entre {war.Attackers[0].Name} e {war.Defenders[0].Name}.</value>
+  </data>
+  <data name="defaultwar_message_infamy" xml:space="preserve">
+    <value>Após múltiplas agressões de {highInfamyCountry.Name}, {attacker1.Name} e {attacker2.Name} declararam guerra ao infame {highInfamyCountry.Name}.</value>
+  </data>
+  <data name="policies" xml:space="preserve">
+    <value>Políticas</value>
+  </data>
+  <data name="foreignPolicy" xml:space="preserve">
+    <value>Política Externa</value>
+  </data>
+  <data name="interventionist" xml:space="preserve">
+    <value>Intervencionismo</value>
+  </data>
+  <data name="isolationist" xml:space="preserve">
+    <value>Isolacionista</value>
+  </data>
+  <data name="losses" xml:space="preserve">
+    <value>Perdas</value>
+  </data>
+  <data name="military_expenses" xml:space="preserve">
+    <value>Gastos Militares</value>
+  </data>
+  <data name="other" xml:space="preserve">
+    <value>Outros</value>
+  </data>
+  <data name="expenses" xml:space="preserve">
+    <value>Gastos</value>
+  </data>
+  <data name="income" xml:space="preserve">
+    <value>Renda</value>
+  </data>
+  <data name="investments" xml:space="preserve">
+    <value>Investimentos</value>
+  </data>
+  <data name="territory" xml:space="preserve">
+    <value>Território</value>
+  </data>
+  <data name="military" xml:space="preserve">
+    <value>Militar</value>
+  </data>
+  <data name="welfare" xml:space="preserve">
+    <value>Bem-estar</value>
+  </data>
+  <data name="all_news" xml:space="preserve">
+    <value>Todas Notícias</value>
+  </data>
+  <data name="my_news" xml:space="preserve">
+    <value>Minhas Notícias</value>
+  </data>
+  <data name="all_wars" xml:space="preserve">
+    <value>Todas Guerras</value>
+  </data>
+  <data name="my_wars" xml:space="preserve">
+    <value>Minhas Guerras</value>
+  </data>
+  <data name="join_attackers" xml:space="preserve">
+    <value>Entrar para os Agressores</value>
+  </data>
+  <data name="join_defenders" xml:space="preserve">
+    <value>Entrar para os Defensores</value>
+  </data>
+  <data name="foreign_investment" xml:space="preserve">
+    <value>Buscar investimento Estrangeiro (Anúncio com Recompensa)</value>
+  </data>
+  <data name="diplomatic_campaign" xml:space="preserve">
+    <value>Campanha Diplomática (Anúncio com Recompensa)</value>
+  </data>
+  <data name="propaganda_campaign" xml:space="preserve">
+    <value>Propaganda Política (Anúncio com Recompensa)</value>
+  </data>
+  <data name="numerous_as_stars" xml:space="preserve">
+    <value>Tão numeroso quanto as estrelas</value>
+  </data>
+  <data name="endless_frontiers" xml:space="preserve">
+    <value>Terra sem Fronteiras</value>
+  </data>
+  <data name="warrior_nation" xml:space="preserve">
+    <value>Nação Guerreira</value>
+  </data>
+  <data name="sovereign_sea" xml:space="preserve">
+    <value>Soberano dos Mares</value>
+  </data>
+  <data name="winged_armada" xml:space="preserve">
+    <value>Armada Alada</value>
+  </data>
+  <data name="paragon_of_peace" xml:space="preserve">
+    <value>Exemplo de Paz</value>
+  </data>
+  <data name="best_trains_roads" xml:space="preserve">
+    <value>Melhores Trens e Estradas</value>
+  </data>
+  <data name="total" xml:space="preserve">
+    <value>Total</value>
+  </data>
+  <data name="years" xml:space="preserve">
+    <value>{0} Anos</value>
+  </data>
+  <data name="months" xml:space="preserve">
+    <value>{0} Meses</value>
+  </data>
+  <data name="weeks" xml:space="preserve">
+    <value>{0} Semanas</value>
+  </data>
+  <data name="days" xml:space="preserve">
+    <value>{0} Dias</value>
+  </data>
+  <data name="independence" xml:space="preserve">
+    <value>Independência!</value>
+  </data>
+  <data name="all_countries" xml:space="preserve">
+    <value>Todas Nações</value>
+  </data>
+  <data name="a_new_nation_rises" xml:space="preserve">
+    <value>Nasce uma Nação</value>
+  </data>
+  <data name="incompatible_save_deleted" xml:space="preserve">
+    <value>Save incompatível excluído</value>
+  </data>
+  <data name="gameover_save_deleted" xml:space="preserve">
+    <value>Save de Fim de Jogo excluído</value>
+  </data>
+  <data name="rank_by_score" xml:space="preserve">
+    <value>Classificar por Pontuação</value>
+  </data>
+  <data name="send_missionaries" xml:space="preserve">
+    <value>Enviar missionários</value>
+  </data>
+  <data name="send_material_volunteers" xml:space="preserve">
+    <value>Enviar material e voluntários</value>
+  </data>
+  <data name="none" xml:space="preserve">
+    <value>Nenhum</value>
+  </data>
+  <data name="central_powers" xml:space="preserve">
+    <value>Potências Centrais</value>
+  </data>
+  <data name="allied_powers" xml:space="preserve">
+    <value>Entente</value>
+  </data>
+  <data name="current" xml:space="preserve">
+    <value>Atual</value>
+  </data>
+  <data name="world_tension_description" xml:space="preserve">
+    <value>Representa o nível geral de medo e ansiedade existente entre as nações do mundo. O número exibido pode variar entre 0% e 100%. Ele diminui naturalmente muito lentamente ao longo do tempo. É aumentado por diversos fatores, como a declaração de guerras e, ligeiramente, por cada guerra em andamento. Quando a Tensão Global atinge 100%, uma Guerra Mundial é desencadeada e o indicador é zerado.</value>
+  </data>
+  <data name="settings" xml:space="preserve">
+    <value>Configurações</value>
+  </data>
+  <data name="select_language" xml:space="preserve">
+    <value>Selecionar idioma</value>
+  </data>
+  <data name="started_date" xml:space="preserve">
+    <value>Iniciado em: {0}</value>
+  </data>
+  <data name="state" xml:space="preserve">
+    <value>Estatal</value>
+  </data>
+  <data name="private" xml:space="preserve">
+    <value>Privado</value>
+  </data>
+  <data name="select_game_mode" xml:space="preserve">
+    <value>Selecionar modo de jogo</value>
+  </data>
+  <data name="historical" xml:space="preserve">
+    <value>Histórico</value>
+  </data>
+  <data name="historical_description" xml:space="preserve">
+    <value>Jogue uma simulação do século XX com nações, guerras e eventos históricos</value>
+  </data>
+  <data name="random" xml:space="preserve">
+    <value>Aleatório</value>
+  </data>
+  <data name="random_description" xml:space="preserve">
+    <value>Jogue em um mundo gerado aleatoriamente com países, guerras e eventos aleatórios</value>
+  </data>
+  <data name="war_goal_none" xml:space="preserve">
+    <value>Nenhum</value>
+  </data>
+  <data name="war_goal_economic" xml:space="preserve">
+    <value>Econômico</value>
+  </data>
+  <data name="war_goal_conquer_land" xml:space="preserve">
+    <value>Conquistar território</value>
+  </data>
+  <data name="war_goal_annex_country" xml:space="preserve">
+    <value>Anexar país</value>
+  </data>
+  <data name="war_goal_join_country" xml:space="preserve">
+    <value>Unir‑se a país</value>
+  </data>
+  <data name="small_independent_mission" xml:space="preserve">
+    <value>Enviar pequena missão independente</value>
+  </data>
+  <data name="large_state_mission" xml:space="preserve">
+    <value>Enviar grande missão patrocinada pelo Estado</value>
+  </data>
+</root>

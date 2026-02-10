@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -283,7 +283,7 @@
     <value>Faixa Etária</value>
   </data>
   <data name="gender" xml:space="preserve">
-    <value>Gênero</value>
+    <value>Género</value>
   </data>
   <data name="religion" xml:space="preserve">
     <value>Religião</value>
@@ -397,13 +397,13 @@
     <value>Equipamentos destruídos:</value>
   </data>
   <data name="infrastructure_decrease" xml:space="preserve">
-    <value>Perca de Infraestrutura:</value>
+    <value>Perda de Infraestrutura:</value>
   </data>
   <data name="invest" xml:space="preserve">
     <value>Investir</value>
   </data>
   <data name="facebookjoin" xml:space="preserve">
-    <value>Juntar-se ao grupo Facebook</value>
+    <value>Aderir ao grupo do Facebook</value>
   </data>
   <data name="world_tension" xml:space="preserve">
     <value>Tensão Global</value>
@@ -471,7 +471,7 @@ Um novo ano chegou. Desejamos a vocês um feliz ano novo. Que este novo ano seja
     <value>Isolacionista</value>
   </data>
   <data name="losses" xml:space="preserve">
-    <value>Percas</value>
+    <value>Perdas</value>
   </data>
   <data name="military_expenses" xml:space="preserve">
     <value>Gastos Militares</value>
@@ -510,10 +510,10 @@ Um novo ano chegou. Desejamos a vocês um feliz ano novo. Que este novo ano seja
     <value>Minhas Guerras</value>
   </data>
   <data name="join_attackers" xml:space="preserve">
-    <value>Juntar-se aos Agressores</value>
+    <value>Aderir aos Atacantes</value>
   </data>
   <data name="join_defenders" xml:space="preserve">
-    <value>Juntar-se aos Defensores</value>
+    <value>Aderir aos Defensores</value>
   </data>
   <data name="foreign_investment" xml:space="preserve">
     <value>Buscar investimento Estrangeiro (Anúncio com Recompensa)</value>
@@ -588,7 +588,7 @@ Um novo ano chegou. Desejamos a vocês um feliz ano novo. Que este novo ano seja
     <value>Nenhum</value>
   </data>
   <data name="central_powers" xml:space="preserve">
-    <value>Poências Centrais</value>
+    <value>Potências Centrais</value>
   </data>
   <data name="allied_powers" xml:space="preserve">
     <value>Entente</value>

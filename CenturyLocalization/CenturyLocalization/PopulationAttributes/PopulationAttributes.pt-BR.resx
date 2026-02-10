@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,28 +117,19 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="second_boer_war" xml:space="preserve">
-    <value>A Segunda Guerra dos Bôeres</value>
+  <data name="male" xml:space="preserve">
+    <value>Homem</value>
   </data>
-  <data name="boxer_rebellion" xml:space="preserve">
-    <value>Rebelião dos Boxers</value>
+  <data name="female" xml:space="preserve">
+    <value>Mulher</value>
   </data>
-  <data name="acre_war" xml:space="preserve">
-    <value>Guerra do Acre</value>
+  <data name="rich" xml:space="preserve">
+    <value>Rico</value>
   </data>
-  <data name="golden_stool_war" xml:space="preserve">
-    <value>Guerra do Banquinho Dourado</value>
+  <data name="middle" xml:space="preserve">
+    <value>Classe Média</value>
   </data>
-  <data name="korean_invasion_of_manchuria" xml:space="preserve">
-    <value>Invasão coreana da Manchúria</value>
-  </data>
-  <data name="holy_mans_rebellion" xml:space="preserve">
-    <value>Rebelião do Homem Santo</value>
-  </data>
-  <data name="anglo_aro_war" xml:space="preserve">
-    <value>Guerra Anglo-Aro</value>
-  </data>
-  <data name="venezuelan_crisis" xml:space="preserve">
-    <value>Crise Venezuelana</value>
+  <data name="poor" xml:space="preserve">
+    <value>Pobre</value>
   </data>
 </root>
