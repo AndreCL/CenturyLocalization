@@ -45,53 +45,16 @@ namespace CenturyLocalization
 
 
 
+        // Hardcoded list of cultures that have satellite resource assemblies.
+        // Update this list when adding or removing a language from the .resx files.
+        private static readonly string[] _supportedCultureNames =
+        [
+            "en", "ar", "da", "de", "es", "id", "nl", "pt-BR", "pt-PT", "ru", "sk", "tr"
+        ];
+
         public IEnumerable<CultureInfo> GetAvailableCultures(string neutralCultureName = "en")
         {
-
-            var managers = new[]
-            {
-                _resourceManager,
-                _countryNamesResourceManager,
-                _actionsResourceManager,
-                _populationAttributesManager,
-                _warNamesManager
-            };
-
-            // Get all framework-known cultures and probe which ones actually have resources.
-            // We exclude invariant at this stage and add the neutral explicitly later.
-            var all = CultureInfo.GetCultures(CultureTypes.AllCultures)
-                                 .Where(c => c != CultureInfo.InvariantCulture);
-
-            var supported = new HashSet<string>(StringComparer.OrdinalIgnoreCase);
-
-            foreach (var culture in all)
-            {
-                foreach (var rm in managers)
-                {
-                    try
-                    {
-                        // tryParents: false ensures we only count cultures with actual satellite resources,
-                        // not those satisfied by fallback.
-                        var set = rm.GetResourceSet(culture, createIfNotExists: true, tryParents: false);
-                        if (set != null)
-                        {
-                            supported.Add(culture.Name);
-                            break; // This culture is supported by at least one RM
-                        }
-                    }
-                    catch
-                    {
-                        // Ignore probing errors; continue checking other cultures.
-                    }
-                }
-            }
-
-            // Ensure your neutral language is always present instead of invariant
-            var neutral = new CultureInfo(neutralCultureName);
-            supported.Add(neutral.Name);
-
-            // Return as CultureInfo list; order by NativeName for nicer UX
-            return supported
+            return _supportedCultureNames
                 .Select(name => new CultureInfo(name))
                 .OrderBy(c => c.NativeName, StringComparer.CurrentCultureIgnoreCase)
                 .ToList();

@@ -24,3 +24,11 @@ Open source implementation of localization for Century
 * Portuguese (Brazil)
 * Portuguese (Portugal)
 * Slovak
+
+## Adding a language:
+* Create Actions file
+* Create CountryNames file
+* Create PopulationAttributes file
+* Create WarNames file
+* Create Texts file
+* Add language to Localization._supportedCultureNames
