@@ -808,4 +808,10 @@
   <data name="large_state_mission" xml:space="preserve">
     <value>Büyük devlet destekli görev gönder</value>
   </data>
+  <data name="ok" xml:space="preserve">
+    <value>Tamam</value>
+  </data>
+  <data name="cancel" xml:space="preserve">
+    <value>İptal</value>
+  </data>
 </root>

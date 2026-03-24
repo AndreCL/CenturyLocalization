@@ -19,7 +19,7 @@ namespace CenturyLocalization {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "18.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class Texts {
@@ -264,6 +264,15 @@ namespace CenturyLocalization {
         internal static string bombers {
             get {
                 return ResourceManager.GetString("bombers", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cancel.
+        /// </summary>
+        internal static string cancel {
+            get {
+                return ResourceManager.GetString("cancel", resourceCulture);
             }
         }
         
@@ -1112,6 +1121,15 @@ namespace CenturyLocalization {
         internal static string numerous_as_stars {
             get {
                 return ResourceManager.GetString("numerous_as_stars", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ok.
+        /// </summary>
+        internal static string ok {
+            get {
+                return ResourceManager.GetString("ok", resourceCulture);
             }
         }
         

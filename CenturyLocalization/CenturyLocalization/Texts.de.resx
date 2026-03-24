@@ -650,4 +650,10 @@ Sobald die Weltspannung 100 % erreicht, wird ein Weltkrieg ausgelöst und der We
   <data name="large_state_mission" xml:space="preserve">
     <value>Große staatlich geförderte Mission senden</value>
   </data>
+  <data name="ok" xml:space="preserve">
+    <value>Ok</value>
+  </data>
+  <data name="cancel" xml:space="preserve">
+    <value>Abbrechen</value>
+  </data>
 </root>

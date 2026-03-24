@@ -650,4 +650,10 @@ Ketika Ketegangan Dunia mencapai 100%, Perang Dunia akan dipicu dan nilainya dia
   <data name="large_state_mission" xml:space="preserve">
     <value>Kirim misi besar yang disponsori negara</value>
   </data>
+  <data name="ok" xml:space="preserve">
+    <value>Oke</value>
+  </data>
+  <data name="cancel" xml:space="preserve">
+    <value>Batal</value>
+  </data>
 </root>

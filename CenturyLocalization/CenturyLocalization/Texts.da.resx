@@ -651,4 +651,10 @@ Når verdensspændingen når 100 %, udløses en verdenskrig, og værdien nulstil
   <data name="large_state_mission" xml:space="preserve">
     <value>Send stor statssponsoreret mission</value>
   </data>
+  <data name="ok" xml:space="preserve">
+    <value>Ok</value>
+  </data>
+  <data name="cancel" xml:space="preserve">
+    <value>Annuller</value>
+  </data>
 </root>

@@ -650,4 +650,10 @@ Um novo ano chegou. Desejamos a vocês um feliz ano novo. Que este novo ano seja
   <data name="large_state_mission" xml:space="preserve">
     <value>Enviar grande missão patrocinada pelo Estado</value>
   </data>
+  <data name="ok" xml:space="preserve">
+    <value>Ok</value>
+  </data>
+  <data name="cancel" xml:space="preserve">
+    <value>Cancelar</value>
+  </data>
 </root>

@@ -650,4 +650,10 @@
   <data name="large_state_mission" xml:space="preserve">
     <value>إرسال مهمة كبيرة برعاية الدولة</value>
   </data>
+  <data name="cancel" xml:space="preserve">
+    <value>إلغاء</value>
+  </data>
+  <data name="ok" xml:space="preserve">
+    <value>موافق</value>
+  </data>
 </root>

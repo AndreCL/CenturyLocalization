@@ -652,4 +652,10 @@ Una vez que la tensión mundial alcanza el 100 %, se desencadena una guerra mund
   <data name="large_state_mission" xml:space="preserve">
     <value>Enviar gran misión patrocinada por el Estado</value>
   </data>
+  <data name="ok" xml:space="preserve">
+    <value>Aceptar</value>
+  </data>
+  <data name="cancel" xml:space="preserve">
+    <value>Cancelar</value>
+  </data>
 </root>

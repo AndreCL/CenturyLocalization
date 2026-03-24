@@ -19,6 +19,11 @@
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
     </Compile>
+    <Compile Update="Events\Events.Designer.cs">
+      <DependentUpon>Events.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
     <Compile Update="PopulationAttributes\PopulationAttributes.Designer.cs">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
@@ -75,6 +80,10 @@
     <EmbeddedResource Update="CountryNames\CountryNames.ru.resx">
       <SubType>Designer</SubType>
       <LastGenOutput>Texts.Designer.cs</LastGenOutput>
+      <Generator>ResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Events\Events.resx">
+      <LastGenOutput>Events.Designer.cs</LastGenOutput>
       <Generator>ResXFileCodeGenerator</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="PopulationAttributes\PopulationAttributes.resx">

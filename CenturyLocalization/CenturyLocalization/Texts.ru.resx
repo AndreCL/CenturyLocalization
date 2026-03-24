@@ -655,4 +655,10 @@
   <data name="large_state_mission" xml:space="preserve">
     <value>Отправить крупную миссию, спонсируемую государством</value>
   </data>
+  <data name="ok" xml:space="preserve">
+    <value>Ок</value>
+  </data>
+  <data name="cancel" xml:space="preserve">
+    <value>Отмена</value>
+  </data>
 </root>
