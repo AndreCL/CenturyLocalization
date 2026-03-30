@@ -19,7 +19,7 @@ namespace CenturyLocalization.PopulationAttributes {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "18.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class PopulationAttributes {
@@ -61,11 +61,56 @@ namespace CenturyLocalization.PopulationAttributes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Buddhist.
+        /// </summary>
+        internal static string buddhist {
+            get {
+                return ResourceManager.GetString("buddhist", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Christian.
+        /// </summary>
+        internal static string christian {
+            get {
+                return ResourceManager.GetString("christian", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Female.
         /// </summary>
         internal static string female {
             get {
                 return ResourceManager.GetString("female", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Hindu.
+        /// </summary>
+        internal static string hindu {
+            get {
+                return ResourceManager.GetString("hindu", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Jain.
+        /// </summary>
+        internal static string jain {
+            get {
+                return ResourceManager.GetString("jain", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Jewish.
+        /// </summary>
+        internal static string jewish {
+            get {
+                return ResourceManager.GetString("jewish", resourceCulture);
             }
         }
         
@@ -88,6 +133,15 @@ namespace CenturyLocalization.PopulationAttributes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Muslim.
+        /// </summary>
+        internal static string muslim {
+            get {
+                return ResourceManager.GetString("muslim", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Poor.
         /// </summary>
         internal static string poor {
@@ -102,6 +156,51 @@ namespace CenturyLocalization.PopulationAttributes {
         internal static string rich {
             get {
                 return ResourceManager.GetString("rich", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Secular.
+        /// </summary>
+        internal static string secular {
+            get {
+                return ResourceManager.GetString("secular", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Shinto.
+        /// </summary>
+        internal static string shinto {
+            get {
+                return ResourceManager.GetString("shinto", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sikh.
+        /// </summary>
+        internal static string sikh {
+            get {
+                return ResourceManager.GetString("sikh", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Traditional.
+        /// </summary>
+        internal static string traditional {
+            get {
+                return ResourceManager.GetString("traditional", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Zoroastrian.
+        /// </summary>
+        internal static string zoroastrian {
+            get {
+                return ResourceManager.GetString("zoroastrian", resourceCulture);
             }
         }
     }

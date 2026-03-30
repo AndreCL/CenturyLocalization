@@ -132,4 +132,37 @@
   <data name="poor" xml:space="preserve">
     <value>Бедный</value>
   </data>
+  <data name="christian" xml:space="preserve">
+    <value>Христианин</value>
+  </data>
+  <data name="muslim" xml:space="preserve">
+    <value>Мусульманин</value>
+  </data>
+  <data name="secular" xml:space="preserve">
+    <value>Светский</value>
+  </data>
+  <data name="hindu" xml:space="preserve">
+    <value>Индуист</value>
+  </data>
+  <data name="buddhist" xml:space="preserve">
+    <value>Буддист</value>
+  </data>
+  <data name="sikh" xml:space="preserve">
+    <value>Сикх</value>
+  </data>
+  <data name="jewish" xml:space="preserve">
+    <value>Еврей</value>
+  </data>
+  <data name="jain" xml:space="preserve">
+    <value>Джайн</value>
+  </data>
+  <data name="shinto" xml:space="preserve">
+    <value>Синтоист</value>
+  </data>
+  <data name="zoroastrian" xml:space="preserve">
+    <value>Зороастриец</value>
+  </data>
+  <data name="traditional" xml:space="preserve">
+    <value>Традиционная</value>
+  </data>
 </root>
