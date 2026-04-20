@@ -55,6 +55,24 @@ namespace CenturyLocalization
             "en", "ar", "da", "de", "es", "id", "nl", "pt-BR", "pt-PT", "ru", "sk", "tr"
         ];
 
+        public IEnumerable<string> GetAllCountryNames()
+        {
+            return GetAllCountryNames(CurrentLanguage);
+        }
+
+        public IEnumerable<string> GetAllCountryNames(CultureInfo cultureInfo)
+        {
+            var resourceSet = _countryNamesResourceManager.GetResourceSet(cultureInfo, true, true);
+            if (resourceSet == null)
+                return [];
+
+            return resourceSet.Cast<System.Collections.DictionaryEntry>()
+                .Select(e => e.Value?.ToString())
+                .Where(v => v != null)
+                .OrderBy(v => v)
+                .ToList();
+        }
+
         public IEnumerable<CultureInfo> GetAvailableCultures(string neutralCultureName = "en")
         {
             return _supportedCultureNames

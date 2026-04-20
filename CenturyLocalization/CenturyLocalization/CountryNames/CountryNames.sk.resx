@@ -360,4 +360,7 @@
   <data name="lithuania" xml:space="preserve">
     <value>Litva</value>
   </data>
+  <data name="soviet_union" xml:space="preserve">
+    <value>Sovietsky zväz</value>
+  </data>
 </root>

@@ -134,5 +134,18 @@ namespace LocalizationTests
 
             Assert.Equal("The Acre War", result);
         }
+
+        [Fact]
+        public void GetAllCountryNamesReturnsAtLeast81Items()
+        {
+            var local = new Localization
+            {
+                CurrentLanguage = new System.Globalization.CultureInfo("en-US")
+            };
+
+            var result = local.GetAllCountryNames();
+
+            Assert.True(result.Count() >= 81);
+        }
     }
 }

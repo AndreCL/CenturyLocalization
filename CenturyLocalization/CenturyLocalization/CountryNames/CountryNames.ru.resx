@@ -364,4 +364,7 @@
   <data name="lithuania" xml:space="preserve">
     <value>Литва</value>
   </data>
+  <data name="soviet_union" xml:space="preserve">
+    <value>Советский Союз</value>
+  </data>
 </root>

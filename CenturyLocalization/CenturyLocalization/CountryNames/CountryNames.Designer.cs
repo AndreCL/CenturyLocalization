@@ -700,6 +700,15 @@ namespace CenturyLocalization.CountryNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Soviet Union.
+        /// </summary>
+        internal static string soviet_union {
+            get {
+                return ResourceManager.GetString("soviet_union", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Spain.
         /// </summary>
         internal static string spain {
