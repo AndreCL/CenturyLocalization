@@ -657,4 +657,16 @@ Når verdensspændingen når 100 %, udløses en verdenskrig, og værdien nulstil
   <data name="cancel" xml:space="preserve">
     <value>Annuller</value>
   </data>
+  <data name="difficulty_level" xml:space="preserve">
+    <value>Sværhedsgrad</value>
+  </data>
+  <data name="easy" xml:space="preserve">
+    <value>Let</value>
+  </data>
+  <data name="normal" xml:space="preserve">
+    <value>Normal</value>
+  </data>
+  <data name="hard" xml:space="preserve">
+    <value>Svær</value>
+  </data>
 </root>

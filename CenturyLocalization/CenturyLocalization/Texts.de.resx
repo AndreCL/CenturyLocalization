@@ -656,4 +656,16 @@ Sobald die Weltspannung 100 % erreicht, wird ein Weltkrieg ausgelöst und der We
   <data name="cancel" xml:space="preserve">
     <value>Abbrechen</value>
   </data>
+  <data name="difficulty_level" xml:space="preserve">
+    <value>Schwierigkeitsgrad</value>
+  </data>
+  <data name="easy" xml:space="preserve">
+    <value>Leicht</value>
+  </data>
+  <data name="normal" xml:space="preserve">
+    <value>Normal</value>
+  </data>
+  <data name="hard" xml:space="preserve">
+    <value>Schwer</value>
+  </data>
 </root>

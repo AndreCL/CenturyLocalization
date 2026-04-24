@@ -439,6 +439,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Difficulty level.
+        /// </summary>
+        internal static string difficulty_level {
+            get {
+                return ResourceManager.GetString("difficulty_level", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Diplomatic campaign (Reward ad).
         /// </summary>
         internal static string diplomatic_campaign {
@@ -480,6 +489,15 @@ namespace CenturyLocalization {
         internal static string docks {
             get {
                 return ResourceManager.GetString("docks", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Easy.
+        /// </summary>
+        internal static string easy {
+            get {
+                return ResourceManager.GetString("easy", resourceCulture);
             }
         }
         
@@ -687,6 +705,15 @@ namespace CenturyLocalization {
         internal static string getversion {
             get {
                 return ResourceManager.GetString("getversion", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Hard.
+        /// </summary>
+        internal static string hard {
+            get {
+                return ResourceManager.GetString("hard", resourceCulture);
             }
         }
         
@@ -1112,6 +1139,15 @@ namespace CenturyLocalization {
         internal static string none {
             get {
                 return ResourceManager.GetString("none", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Normal.
+        /// </summary>
+        internal static string normal {
+            get {
+                return ResourceManager.GetString("normal", resourceCulture);
             }
         }
         

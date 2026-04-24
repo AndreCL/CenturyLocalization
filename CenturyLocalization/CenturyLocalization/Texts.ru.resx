@@ -661,4 +661,16 @@
   <data name="cancel" xml:space="preserve">
     <value>Отмена</value>
   </data>
+  <data name="difficulty_level" xml:space="preserve">
+    <value>Уровень сложности</value>
+  </data>
+  <data name="easy" xml:space="preserve">
+    <value>Лёгкий</value>
+  </data>
+  <data name="normal" xml:space="preserve">
+    <value>Нормальный</value>
+  </data>
+  <data name="hard" xml:space="preserve">
+    <value>Сложный</value>
+  </data>
 </root>

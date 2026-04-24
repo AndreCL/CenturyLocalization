@@ -656,4 +656,16 @@
   <data name="ok" xml:space="preserve">
     <value>موافق</value>
   </data>
+  <data name="difficulty_level" xml:space="preserve">
+    <value>مستوى الصعوبة</value>
+  </data>
+  <data name="easy" xml:space="preserve">
+    <value>سهل</value>
+  </data>
+  <data name="normal" xml:space="preserve">
+    <value>عادي</value>
+  </data>
+  <data name="hard" xml:space="preserve">
+    <value>صعب</value>
+  </data>
 </root>

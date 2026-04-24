@@ -658,4 +658,16 @@ Una vez que la tensión mundial alcanza el 100 %, se desencadena una guerra mund
   <data name="cancel" xml:space="preserve">
     <value>Cancelar</value>
   </data>
+  <data name="difficulty_level" xml:space="preserve">
+    <value>Nivel de dificultad</value>
+  </data>
+  <data name="easy" xml:space="preserve">
+    <value>Fácil</value>
+  </data>
+  <data name="normal" xml:space="preserve">
+    <value>Normal</value>
+  </data>
+  <data name="hard" xml:space="preserve">
+    <value>Difícil</value>
+  </data>
 </root>

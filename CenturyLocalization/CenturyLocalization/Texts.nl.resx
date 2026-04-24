@@ -656,4 +656,16 @@ Wanneer de wereldspanning 100% bereikt, wordt een wereldoorlog ontketend en word
   <data name="cancel" xml:space="preserve">
     <value>Annuleren</value>
   </data>
+  <data name="difficulty_level" xml:space="preserve">
+    <value>Moeilijkheidsgraad</value>
+  </data>
+  <data name="easy" xml:space="preserve">
+    <value>Makkelijk</value>
+  </data>
+  <data name="normal" xml:space="preserve">
+    <value>Normaal</value>
+  </data>
+  <data name="hard" xml:space="preserve">
+    <value>Moeilijk</value>
+  </data>
 </root>

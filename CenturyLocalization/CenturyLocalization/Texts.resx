@@ -678,4 +678,16 @@ Once the World Tension reaches 100%, a World War is triggered and it resets.
   <data name="ok" xml:space="preserve">
     <value>Ok</value>
   </data>
+  <data name="difficulty_level" xml:space="preserve">
+    <value>Difficulty level</value>
+  </data>
+  <data name="easy" xml:space="preserve">
+    <value>Easy</value>
+  </data>
+  <data name="normal" xml:space="preserve">
+    <value>Normal</value>
+  </data>
+  <data name="hard" xml:space="preserve">
+    <value>Hard</value>
+  </data>
 </root>
