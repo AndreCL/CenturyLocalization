@@ -668,4 +668,10 @@ Sobald die Weltspannung 100 % erreicht, wird ein Weltkrieg ausgelöst und der We
   <data name="hard" xml:space="preserve">
     <value>Schwer</value>
   </data>
+  <data name="birth_rate_modifier" xml:space="preserve">
+    <value>Geburtenraten‑Modifikator</value>
+  </data>
+  <data name="territory_income_modifier" xml:space="preserve">
+    <value>Territoriumseinkommens‑Modifikator</value>
+  </data>
 </root>

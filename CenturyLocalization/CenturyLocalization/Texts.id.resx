@@ -668,4 +668,10 @@ Ketika Ketegangan Dunia mencapai 100%, Perang Dunia akan dipicu dan nilainya dia
   <data name="hard" xml:space="preserve">
     <value>Sulit</value>
   </data>
+  <data name="birth_rate_modifier" xml:space="preserve">
+    <value>Pengubah tingkat kelahiran</value>
+  </data>
+  <data name="territory_income_modifier" xml:space="preserve">
+    <value>Pengubah pendapatan wilayah</value>
+  </data>
 </root>

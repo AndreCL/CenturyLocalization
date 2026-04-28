@@ -688,4 +688,10 @@ Keď svetové napätie dosiahne 100%, spustí sa svetová vojna a resetuje sa.
   <data name="hard" xml:space="preserve">
     <value>Ťažká</value>
   </data>
+  <data name="birth_rate_modifier" xml:space="preserve">
+    <value>Modifikátor pôrodnosti</value>
+  </data>
+  <data name="territory_income_modifier" xml:space="preserve">
+    <value>Modifikátor príjmu územia</value>
+  </data>
 </root>

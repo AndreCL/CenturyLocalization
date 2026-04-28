@@ -668,4 +668,10 @@
   <data name="hard" xml:space="preserve">
     <value>صعب</value>
   </data>
+  <data name="birth_rate_modifier" xml:space="preserve">
+    <value>مُعامل معدل المواليد</value>
+  </data>
+  <data name="territory_income_modifier" xml:space="preserve">
+    <value>مُعامل دخل الإقليم</value>
+  </data>
 </root>

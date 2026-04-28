@@ -826,4 +826,10 @@
   <data name="hard" xml:space="preserve">
     <value>Zor</value>
   </data>
+  <data name="birth_rate_modifier" xml:space="preserve">
+    <value>Doğum oranı çarpanı</value>
+  </data>
+  <data name="territory_income_modifier" xml:space="preserve">
+    <value>Bölge gelir çarpanı</value>
+  </data>
 </root>

@@ -668,4 +668,10 @@ Um novo ano chegou. Desejamos a vocês um feliz ano novo. Que este novo ano seja
   <data name="hard" xml:space="preserve">
     <value>Difícil</value>
   </data>
+  <data name="birth_rate_modifier" xml:space="preserve">
+    <value>Modificador da taxa de natalidade</value>
+  </data>
+  <data name="territory_income_modifier" xml:space="preserve">
+    <value>Modificador de renda do território</value>
+  </data>
 </root>

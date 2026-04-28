@@ -259,6 +259,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Birth rate modifier.
+        /// </summary>
+        internal static string birth_rate_modifier {
+            get {
+                return ResourceManager.GetString("birth_rate_modifier", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Bombers:.
         /// </summary>
         internal static string bombers {
@@ -1472,6 +1481,15 @@ namespace CenturyLocalization {
         internal static string territory {
             get {
                 return ResourceManager.GetString("territory", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Territory income modifier.
+        /// </summary>
+        internal static string territory_income_modifier {
+            get {
+                return ResourceManager.GetString("territory_income_modifier", resourceCulture);
             }
         }
         

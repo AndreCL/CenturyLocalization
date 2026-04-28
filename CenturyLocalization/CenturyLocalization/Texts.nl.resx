@@ -668,4 +668,10 @@ Wanneer de wereldspanning 100% bereikt, wordt een wereldoorlog ontketend en word
   <data name="hard" xml:space="preserve">
     <value>Moeilijk</value>
   </data>
+  <data name="birth_rate_modifier" xml:space="preserve">
+    <value>Geboortecijfer‑modifier</value>
+  </data>
+  <data name="territory_income_modifier" xml:space="preserve">
+    <value>Territoriuminkomens‑modifier</value>
+  </data>
 </root>

@@ -673,4 +673,10 @@
   <data name="hard" xml:space="preserve">
     <value>Сложный</value>
   </data>
+  <data name="birth_rate_modifier" xml:space="preserve">
+    <value>Модификатор рождаемости</value>
+  </data>
+  <data name="territory_income_modifier" xml:space="preserve">
+    <value>Модификатор дохода территории</value>
+  </data>
 </root>

@@ -690,4 +690,10 @@ Once the World Tension reaches 100%, a World War is triggered and it resets.
   <data name="hard" xml:space="preserve">
     <value>Hard</value>
   </data>
+  <data name="birth_rate_modifier" xml:space="preserve">
+    <value>Birth rate modifier</value>
+  </data>
+  <data name="territory_income_modifier" xml:space="preserve">
+    <value>Territory income modifier</value>
+  </data>
 </root>

@@ -670,4 +670,10 @@ Una vez que la tensión mundial alcanza el 100 %, se desencadena una guerra mund
   <data name="hard" xml:space="preserve">
     <value>Difícil</value>
   </data>
+  <data name="birth_rate_modifier" xml:space="preserve">
+    <value>Modificador de la tasa de natalidad</value>
+  </data>
+  <data name="territory_income_modifier" xml:space="preserve">
+    <value>Modificador de ingresos del territorio</value>
+  </data>
 </root>

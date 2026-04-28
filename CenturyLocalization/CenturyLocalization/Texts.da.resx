@@ -669,4 +669,10 @@ Når verdensspændingen når 100 %, udløses en verdenskrig, og værdien nulstil
   <data name="hard" xml:space="preserve">
     <value>Svær</value>
   </data>
+  <data name="birth_rate_modifier" xml:space="preserve">
+    <value>Modifier for fødselsrate</value>
+  </data>
+  <data name="territory_income_modifier" xml:space="preserve">
+    <value>Modifier for territorieindkomst</value>
+  </data>
 </root>
