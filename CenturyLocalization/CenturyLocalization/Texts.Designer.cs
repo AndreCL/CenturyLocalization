@@ -943,6 +943,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to You are about to leave the game.
+        /// </summary>
+        internal static string leaving_game {
+            get {
+                return ResourceManager.GetString("leaving_game", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Loading saves....
         /// </summary>
         internal static string loading {

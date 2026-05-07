@@ -674,4 +674,7 @@ Um novo ano chegou. Desejamos a vocês um feliz ano novo. Que este novo ano seja
   <data name="territory_income_modifier" xml:space="preserve">
     <value>Modificador do rendimento do território</value>
   </data>
+  <data name="leaving_game" xml:space="preserve">
+    <value>Está prestes a sair do jogo</value>
+  </data>
 </root>

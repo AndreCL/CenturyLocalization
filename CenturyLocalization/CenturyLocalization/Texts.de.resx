@@ -674,4 +674,7 @@ Sobald die Weltspannung 100 % erreicht, wird ein Weltkrieg ausgelöst und der We
   <data name="territory_income_modifier" xml:space="preserve">
     <value>Territoriumseinkommens‑Modifikator</value>
   </data>
+  <data name="leaving_game" xml:space="preserve">
+    <value>Sie sind dabei, das Spiel zu verlassen</value>
+  </data>
 </root>

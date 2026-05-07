@@ -676,4 +676,7 @@ Una vez que la tensión mundial alcanza el 100 %, se desencadena una guerra mund
   <data name="territory_income_modifier" xml:space="preserve">
     <value>Modificador de ingresos del territorio</value>
   </data>
+  <data name="leaving_game" xml:space="preserve">
+    <value>Estás a punto de salir del juego</value>
+  </data>
 </root>

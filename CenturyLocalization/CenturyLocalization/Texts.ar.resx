@@ -674,4 +674,7 @@
   <data name="territory_income_modifier" xml:space="preserve">
     <value>مُعامل دخل الإقليم</value>
   </data>
+  <data name="leaving_game" xml:space="preserve">
+    <value>أنت على وشك مغادرة اللعبة</value>
+  </data>
 </root>

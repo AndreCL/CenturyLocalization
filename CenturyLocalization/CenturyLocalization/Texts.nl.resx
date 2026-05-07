@@ -674,4 +674,7 @@ Wanneer de wereldspanning 100% bereikt, wordt een wereldoorlog ontketend en word
   <data name="territory_income_modifier" xml:space="preserve">
     <value>Territoriuminkomens‑modifier</value>
   </data>
+  <data name="leaving_game" xml:space="preserve">
+    <value>Je staat op het punt het spel te verlaten</value>
+  </data>
 </root>

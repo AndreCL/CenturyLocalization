@@ -832,4 +832,7 @@
   <data name="territory_income_modifier" xml:space="preserve">
     <value>Bölge gelir çarpanı</value>
   </data>
+  <data name="leaving_game" xml:space="preserve">
+    <value>Oyundan çıkmak üzeresiniz</value>
+  </data>
 </root>

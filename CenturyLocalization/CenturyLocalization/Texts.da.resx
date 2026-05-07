@@ -675,4 +675,7 @@ Når verdensspændingen når 100 %, udløses en verdenskrig, og værdien nulstil
   <data name="territory_income_modifier" xml:space="preserve">
     <value>Modifier for territorieindkomst</value>
   </data>
+  <data name="leaving_game" xml:space="preserve">
+    <value>Du er ved at forlade spillet</value>
+  </data>
 </root>

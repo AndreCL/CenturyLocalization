@@ -696,4 +696,7 @@ Once the World Tension reaches 100%, a World War is triggered and it resets.
   <data name="territory_income_modifier" xml:space="preserve">
     <value>Territory income modifier</value>
   </data>
+  <data name="leaving_game" xml:space="preserve">
+    <value>You are about to leave the game</value>
+  </data>
 </root>

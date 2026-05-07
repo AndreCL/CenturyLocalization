@@ -679,4 +679,7 @@
   <data name="territory_income_modifier" xml:space="preserve">
     <value>Модификатор дохода территории</value>
   </data>
+  <data name="leaving_game" xml:space="preserve">
+    <value>Вы собираетесь выйти из игры</value>
+  </data>
 </root>

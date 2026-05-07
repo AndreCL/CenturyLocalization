@@ -694,4 +694,7 @@ Keď svetové napätie dosiahne 100%, spustí sa svetová vojna a resetuje sa.
   <data name="territory_income_modifier" xml:space="preserve">
     <value>Modifikátor príjmu územia</value>
   </data>
+  <data name="leaving_game" xml:space="preserve">
+    <value>Chystáte sa opustiť hru</value>
+  </data>
 </root>

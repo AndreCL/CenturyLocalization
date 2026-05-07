@@ -674,4 +674,7 @@ Ketika Ketegangan Dunia mencapai 100%, Perang Dunia akan dipicu dan nilainya dia
   <data name="territory_income_modifier" xml:space="preserve">
     <value>Pengubah pendapatan wilayah</value>
   </data>
+  <data name="leaving_game" xml:space="preserve">
+    <value>Anda akan keluar dari permainan</value>
+  </data>
 </root>
