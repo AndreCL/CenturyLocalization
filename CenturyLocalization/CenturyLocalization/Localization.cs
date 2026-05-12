@@ -52,7 +52,7 @@ namespace CenturyLocalization
         // Update this list when adding or removing a language from the .resx files.
         private static readonly string[] _supportedCultureNames =
         [
-            "en", "ar", "da", "de", "es", "id", "nl", "pt-BR", "pt-PT", "ru", "sk", "tr"
+            "en", "ar", "da", "de", "es", "id", "nl", "pt-BR", "pt-PT", "ru", "sk", "tr", "fr"
         ];
 
         public IEnumerable<string> GetAllCountryNames()

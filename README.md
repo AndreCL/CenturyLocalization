@@ -24,6 +24,7 @@ Open source implementation of localization for Century
 * Portuguese (Brazil)
 * Portuguese (Portugal)
 * Slovak
+* French
 
 ## Adding a language:
 * Create Actions file

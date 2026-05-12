@@ -46,6 +46,10 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Update="Actions\Actions.fr.resx">
+      <LastGenOutput>Actions.fr.Designer.cs</LastGenOutput>
+      <Generator>ResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
     <EmbeddedResource Update="Actions\Actions.da.resx">
       <SubType>Designer</SubType>
       <LastGenOutput>Texts.Designer.cs</LastGenOutput>
@@ -62,6 +66,10 @@
     <EmbeddedResource Update="Actions\Actions.ru.resx">
       <SubType>Designer</SubType>
       <LastGenOutput>Texts.Designer.cs</LastGenOutput>
+      <Generator>ResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="CountryNames\CountryNames.fr.resx">
+      <LastGenOutput>CountryNames.fr.Designer.cs</LastGenOutput>
       <Generator>ResXFileCodeGenerator</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="CountryNames\CountryNames.da.resx">
@@ -82,13 +90,25 @@
       <LastGenOutput>Texts.Designer.cs</LastGenOutput>
       <Generator>ResXFileCodeGenerator</Generator>
     </EmbeddedResource>
+    <EmbeddedResource Update="Events\Events.fr.resx">
+      <LastGenOutput>Events.fr.Designer.cs</LastGenOutput>
+      <Generator>ResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
     <EmbeddedResource Update="Events\Events.resx">
       <LastGenOutput>Events.Designer.cs</LastGenOutput>
+      <Generator>ResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="PopulationAttributes\PopulationAttributes.fr.resx">
+      <LastGenOutput>PopulationAttributes.fr.Designer.cs</LastGenOutput>
       <Generator>ResXFileCodeGenerator</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="PopulationAttributes\PopulationAttributes.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>PopulationAttributes.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Texts.fr.resx">
+      <LastGenOutput>Texts.fr.Designer.cs</LastGenOutput>
+      <Generator>ResXFileCodeGenerator</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Texts.sk.resx">
       <LastGenOutput>Texts.sk.Designer.cs</LastGenOutput>
@@ -111,6 +131,10 @@
     <EmbeddedResource Update="Texts.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Texts.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="WarNames\WarNames.fr.resx">
+      <LastGenOutput>WarNames.fr.Designer.cs</LastGenOutput>
+      <Generator>ResXFileCodeGenerator</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="WarNames\WarNames.resx">
       <Generator>ResXFileCodeGenerator</Generator>

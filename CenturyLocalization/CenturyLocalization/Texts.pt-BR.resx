@@ -121,10 +121,11 @@
     <value>Texto não encontrado</value>
   </data>
   <data name="unittest_both" xml:space="preserve">
-    <value>Ok</value>
+    <value>Ok_pt-BR</value>
   </data>
-  <data name="unittest_onlyen" xml:space="preserve">
-    <value>Ok</value>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="unittest_onlyen" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
   </data>
   <data name="ApplicationName" xml:space="preserve">
     <value>Century</value>
@@ -650,11 +651,11 @@ Um novo ano chegou. Desejamos a vocês um feliz ano novo. Que este novo ano seja
   <data name="large_state_mission" xml:space="preserve">
     <value>Enviar grande missão patrocinada pelo Estado</value>
   </data>
-  <data name="ok" xml:space="preserve">
-    <value>Ok</value>
-  </data>
   <data name="cancel" xml:space="preserve">
     <value>Cancelar</value>
+  </data>
+  <data name="ok" xml:space="preserve">
+    <value>Ok</value>
   </data>
   <data name="difficulty_level" xml:space="preserve">
     <value>Nível de dificuldade</value>
