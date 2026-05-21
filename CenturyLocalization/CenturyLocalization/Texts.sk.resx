@@ -698,4 +698,16 @@ Keď svetové napätie dosiahne 100%, spustí sa svetová vojna a resetuje sa.
   <data name="leaving_game" xml:space="preserve">
     <value>Chystáte sa opustiť hru</value>
   </data>
+  <data name="end_game" xml:space="preserve">
+    <value>Dosiahli ste koniec hry</value>
+  </data>
+  <data name="extend_game_prompt" xml:space="preserve">
+    <value>Chcete pokračovať v hraní?</value>
+  </data>
+  <data name="extend_game" xml:space="preserve">
+    <value>Áno, nechajte ma hrať ešte 10 rokov</value>
+  </data>
+  <data name="dont_extend_game" xml:space="preserve">
+    <value>Nie, prejdite na výsledky</value>
+  </data>
 </root>

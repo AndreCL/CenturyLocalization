@@ -502,6 +502,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to No, take me to the results.
+        /// </summary>
+        internal static string dont_extend_game {
+            get {
+                return ResourceManager.GetString("dont_extend_game", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Easy.
         /// </summary>
         internal static string easy {
@@ -525,6 +534,15 @@ namespace CenturyLocalization {
         internal static string employment {
             get {
                 return ResourceManager.GetString("employment", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You have reached the end of the game.
+        /// </summary>
+        internal static string end_game {
+            get {
+                return ResourceManager.GetString("end_game", resourceCulture);
             }
         }
         
@@ -579,6 +597,24 @@ namespace CenturyLocalization {
         internal static string expenses {
             get {
                 return ResourceManager.GetString("expenses", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Yes, let me play 10 more years.
+        /// </summary>
+        internal static string extend_game {
+            get {
+                return ResourceManager.GetString("extend_game", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Do you wish to continue playing?.
+        /// </summary>
+        internal static string extend_game_prompt {
+            get {
+                return ResourceManager.GetString("extend_game_prompt", resourceCulture);
             }
         }
         

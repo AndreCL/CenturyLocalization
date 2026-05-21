@@ -678,4 +678,16 @@ Um novo ano chegou. Desejamos a vocês um feliz ano novo. Que este novo ano seja
   <data name="leaving_game" xml:space="preserve">
     <value>Você está prestes a sair do jogo</value>
   </data>
+  <data name="end_game" xml:space="preserve">
+    <value>Você chegou ao fim do jogo</value>
+  </data>
+  <data name="extend_game_prompt" xml:space="preserve">
+    <value>Deseja continuar jogando?</value>
+  </data>
+  <data name="extend_game" xml:space="preserve">
+    <value>Sim, me deixe jogar por mais 10 anos</value>
+  </data>
+  <data name="dont_extend_game" xml:space="preserve">
+    <value>Não, me leve para os resultados</value>
+  </data>
 </root>

@@ -678,4 +678,16 @@ Når verdensspændingen når 100 %, udløses en verdenskrig, og værdien nulstil
   <data name="leaving_game" xml:space="preserve">
     <value>Du er ved at forlade spillet</value>
   </data>
+  <data name="end_game" xml:space="preserve">
+    <value>Du har nået slutningen af spillet</value>
+  </data>
+  <data name="extend_game_prompt" xml:space="preserve">
+    <value>Ønsker du at fortsætte med at spille?</value>
+  </data>
+  <data name="extend_game" xml:space="preserve">
+    <value>Ja, lad mig spille 10 år mere</value>
+  </data>
+  <data name="dont_extend_game" xml:space="preserve">
+    <value>Nej, før mig til resultaterne</value>
+  </data>
 </root>

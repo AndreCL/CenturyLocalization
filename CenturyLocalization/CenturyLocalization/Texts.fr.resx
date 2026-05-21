@@ -700,4 +700,16 @@ Une fois que la tension mondiale atteint 100 %, une guerre mondiale est déclenc
   <data name="leaving_game" xml:space="preserve">
     <value>Vous êtes sur le point de quitter la partie</value>
   </data>
+  <data name="end_game" xml:space="preserve">
+    <value>Vous avez atteint la fin du jeu</value>
+  </data>
+  <data name="extend_game_prompt" xml:space="preserve">
+    <value>Souhaitez-vous continuer à jouer ?</value>
+  </data>
+  <data name="extend_game" xml:space="preserve">
+    <value>Oui, laissez-moi jouer encore 10 ans</value>
+  </data>
+  <data name="dont_extend_game" xml:space="preserve">
+    <value>Non, emmenez-moi aux résultats</value>
+  </data>
 </root>

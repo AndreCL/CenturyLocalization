@@ -677,4 +677,16 @@ Wanneer de wereldspanning 100% bereikt, wordt een wereldoorlog ontketend en word
   <data name="leaving_game" xml:space="preserve">
     <value>Je staat op het punt het spel te verlaten</value>
   </data>
+  <data name="end_game" xml:space="preserve">
+    <value>Je hebt het einde van het spel bereikt</value>
+  </data>
+  <data name="extend_game_prompt" xml:space="preserve">
+    <value>Wil je verder spelen?</value>
+  </data>
+  <data name="extend_game" xml:space="preserve">
+    <value>Ja, laat me nog 10 jaar spelen</value>
+  </data>
+  <data name="dont_extend_game" xml:space="preserve">
+    <value>Nee, ga naar de resultaten</value>
+  </data>
 </root>

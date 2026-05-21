@@ -677,4 +677,16 @@
   <data name="leaving_game" xml:space="preserve">
     <value>أنت على وشك مغادرة اللعبة</value>
   </data>
+  <data name="end_game" xml:space="preserve">
+    <value>لقد وصلت إلى نهاية اللعبة</value>
+  </data>
+  <data name="extend_game_prompt" xml:space="preserve">
+    <value>هل ترغب في الاستمرار في اللعب؟</value>
+  </data>
+  <data name="extend_game" xml:space="preserve">
+    <value>نعم، دعني ألعب 10 سنوات إضافية</value>
+  </data>
+  <data name="dont_extend_game" xml:space="preserve">
+    <value>لا، خذني إلى النتائج</value>
+  </data>
 </root>

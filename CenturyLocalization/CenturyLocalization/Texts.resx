@@ -699,4 +699,16 @@ Once the World Tension reaches 100%, a World War is triggered and it resets.
   <data name="leaving_game" xml:space="preserve">
     <value>You are about to leave the game</value>
   </data>
+  <data name="end_game" xml:space="preserve">
+    <value>You have reached the end of the game</value>
+  </data>
+  <data name="extend_game_prompt" xml:space="preserve">
+    <value>Do you wish to continue playing?</value>
+  </data>
+  <data name="extend_game" xml:space="preserve">
+    <value>Yes, let me play 10 more years</value>
+  </data>
+  <data name="dont_extend_game" xml:space="preserve">
+    <value>No, take me to the results</value>
+  </data>
 </root>

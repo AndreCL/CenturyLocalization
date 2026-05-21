@@ -677,4 +677,16 @@ Sobald die Weltspannung 100 % erreicht, wird ein Weltkrieg ausgelöst und der We
   <data name="leaving_game" xml:space="preserve">
     <value>Sie sind dabei, das Spiel zu verlassen</value>
   </data>
+  <data name="end_game" xml:space="preserve">
+    <value>Du hast das Ende des Spiels erreicht</value>
+  </data>
+  <data name="extend_game_prompt" xml:space="preserve">
+    <value>Möchtest du weiterspielen?</value>
+  </data>
+  <data name="extend_game" xml:space="preserve">
+    <value>Ja, lass mich noch 10 Jahre spielen</value>
+  </data>
+  <data name="dont_extend_game" xml:space="preserve">
+    <value>Nein, bring mich zu den Ergebnissen</value>
+  </data>
 </root>

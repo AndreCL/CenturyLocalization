@@ -682,4 +682,16 @@
   <data name="leaving_game" xml:space="preserve">
     <value>Вы собираетесь выйти из игры</value>
   </data>
+  <data name="end_game" xml:space="preserve">
+    <value>Вы достигли конца игры</value>
+  </data>
+  <data name="extend_game_prompt" xml:space="preserve">
+    <value>Хотите продолжить игру?</value>
+  </data>
+  <data name="extend_game" xml:space="preserve">
+    <value>Да, позвольте мне играть ещё 10 лет</value>
+  </data>
+  <data name="dont_extend_game" xml:space="preserve">
+    <value>Нет, перейти к результатам</value>
+  </data>
 </root>

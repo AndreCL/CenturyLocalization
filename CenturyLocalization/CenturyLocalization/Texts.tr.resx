@@ -708,4 +708,16 @@
   <data name="leaving_game" xml:space="preserve">
     <value>Oyundan çıkmak üzeresiniz</value>
   </data>
+  <data name="end_game" xml:space="preserve">
+    <value>Oyunun sonuna ulaştınız</value>
+  </data>
+  <data name="extend_game_prompt" xml:space="preserve">
+    <value>Oynamaya devam etmek istiyor musunuz?</value>
+  </data>
+  <data name="extend_game" xml:space="preserve">
+    <value>Evet, 10 yıl daha oynamama izin ver</value>
+  </data>
+  <data name="dont_extend_game" xml:space="preserve">
+    <value>Hayır, beni sonuçlara götür</value>
+  </data>
 </root>

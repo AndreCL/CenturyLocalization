@@ -677,4 +677,16 @@ Ketika Ketegangan Dunia mencapai 100%, Perang Dunia akan dipicu dan nilainya dia
   <data name="leaving_game" xml:space="preserve">
     <value>Anda akan keluar dari permainan</value>
   </data>
+  <data name="end_game" xml:space="preserve">
+    <value>Anda telah mencapai akhir permainan</value>
+  </data>
+  <data name="extend_game_prompt" xml:space="preserve">
+    <value>Apakah Anda ingin melanjutkan bermain?</value>
+  </data>
+  <data name="extend_game" xml:space="preserve">
+    <value>Ya, biarkan saya bermain 10 tahun lagi</value>
+  </data>
+  <data name="dont_extend_game" xml:space="preserve">
+    <value>Tidak, bawa saya ke hasil</value>
+  </data>
 </root>

@@ -46,96 +46,42 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Update="Actions\Actions.fr.resx">
-      <LastGenOutput>Actions.fr.Designer.cs</LastGenOutput>
-      <Generator>ResXFileCodeGenerator</Generator>
-    </EmbeddedResource>
-    <EmbeddedResource Update="Actions\Actions.da.resx">
-      <SubType>Designer</SubType>
-      <LastGenOutput>Texts.Designer.cs</LastGenOutput>
-      <Generator>ResXFileCodeGenerator</Generator>
-    </EmbeddedResource>
-    <EmbeddedResource Update="Actions\Actions.es.resx">
-      <LastGenOutput>Texts.Designer.cs</LastGenOutput>
-      <Generator>ResXFileCodeGenerator</Generator>
-    </EmbeddedResource>
+    <EmbeddedResource Update="Actions\Actions.fr.resx" />
+    <EmbeddedResource Update="Actions\Actions.da.resx" />
+    <EmbeddedResource Update="Actions\Actions.es.resx" />
     <EmbeddedResource Update="Actions\Actions.resx">
       <LastGenOutput>Actions.Designer.cs</LastGenOutput>
       <Generator>ResXFileCodeGenerator</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Actions\Actions.ru.resx">
-      <SubType>Designer</SubType>
-      <LastGenOutput>Texts.Designer.cs</LastGenOutput>
-      <Generator>ResXFileCodeGenerator</Generator>
-    </EmbeddedResource>
-    <EmbeddedResource Update="CountryNames\CountryNames.fr.resx">
-      <LastGenOutput>CountryNames.fr.Designer.cs</LastGenOutput>
-      <Generator>ResXFileCodeGenerator</Generator>
-    </EmbeddedResource>
-    <EmbeddedResource Update="CountryNames\CountryNames.da.resx">
-      <SubType>Designer</SubType>
-      <LastGenOutput>Texts.Designer.cs</LastGenOutput>
-      <Generator>ResXFileCodeGenerator</Generator>
-    </EmbeddedResource>
-    <EmbeddedResource Update="CountryNames\CountryNames.es.resx">
-      <LastGenOutput>Texts.Designer.cs</LastGenOutput>
-      <Generator>ResXFileCodeGenerator</Generator>
-    </EmbeddedResource>
+    <EmbeddedResource Update="Actions\Actions.ru.resx" />
+    <EmbeddedResource Update="CountryNames\CountryNames.fr.resx" />
+    <EmbeddedResource Update="CountryNames\CountryNames.da.resx" />
+    <EmbeddedResource Update="CountryNames\CountryNames.es.resx" />
     <EmbeddedResource Update="CountryNames\CountryNames.resx">
       <LastGenOutput>CountryNames.Designer.cs</LastGenOutput>
       <Generator>ResXFileCodeGenerator</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="CountryNames\CountryNames.ru.resx">
-      <SubType>Designer</SubType>
-      <LastGenOutput>Texts.Designer.cs</LastGenOutput>
-      <Generator>ResXFileCodeGenerator</Generator>
-    </EmbeddedResource>
-    <EmbeddedResource Update="Events\Events.fr.resx">
-      <LastGenOutput>Events.fr.Designer.cs</LastGenOutput>
-      <Generator>ResXFileCodeGenerator</Generator>
-    </EmbeddedResource>
+    <EmbeddedResource Update="CountryNames\CountryNames.ru.resx" />
+    <EmbeddedResource Update="Events\Events.fr.resx" />
     <EmbeddedResource Update="Events\Events.resx">
       <LastGenOutput>Events.Designer.cs</LastGenOutput>
       <Generator>ResXFileCodeGenerator</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="PopulationAttributes\PopulationAttributes.fr.resx">
-      <LastGenOutput>PopulationAttributes.fr.Designer.cs</LastGenOutput>
-      <Generator>ResXFileCodeGenerator</Generator>
-    </EmbeddedResource>
+    <EmbeddedResource Update="PopulationAttributes\PopulationAttributes.fr.resx" />
     <EmbeddedResource Update="PopulationAttributes\PopulationAttributes.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>PopulationAttributes.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Update="Texts.fr.resx">
-      <LastGenOutput>Texts.fr.Designer.cs</LastGenOutput>
-      <Generator>ResXFileCodeGenerator</Generator>
-    </EmbeddedResource>
-    <EmbeddedResource Update="Texts.sk.resx">
-      <LastGenOutput>Texts.sk.Designer.cs</LastGenOutput>
-      <Generator>ResXFileCodeGenerator</Generator>
-    </EmbeddedResource>
-    <EmbeddedResource Update="Texts.da.resx">
-      <SubType>Designer</SubType>
-      <LastGenOutput>Texts.Designer.cs</LastGenOutput>
-      <Generator>ResXFileCodeGenerator</Generator>
-    </EmbeddedResource>
-    <EmbeddedResource Update="Texts.ru.resx">
-      <SubType>Designer</SubType>
-      <LastGenOutput>Texts.Designer.cs</LastGenOutput>
-      <Generator>ResXFileCodeGenerator</Generator>
-    </EmbeddedResource>
-    <EmbeddedResource Update="Texts.es.resx">
-      <LastGenOutput>Texts.Designer.cs</LastGenOutput>
-      <Generator>ResXFileCodeGenerator</Generator>
-    </EmbeddedResource>
+    <EmbeddedResource Update="Texts.fr.resx" />
+    <EmbeddedResource Update="Texts.sk.resx" />
+    <EmbeddedResource Update="Texts.da.resx" />
+    <EmbeddedResource Update="Texts.ru.resx" />
+    <EmbeddedResource Update="Texts.es.resx" />
     <EmbeddedResource Update="Texts.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Texts.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Update="WarNames\WarNames.fr.resx">
-      <LastGenOutput>WarNames.fr.Designer.cs</LastGenOutput>
-      <Generator>ResXFileCodeGenerator</Generator>
-    </EmbeddedResource>
+    <EmbeddedResource Update="WarNames\WarNames.fr.resx" />
     <EmbeddedResource Update="WarNames\WarNames.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>WarNames.Designer.cs</LastGenOutput>
