@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="endgametitle" xml:space="preserve">
+    <value>Gratulujeme! Viedli ste svoj národ počas {0} búrlivých rokov</value>
+  </data>
+  <data name="winner" xml:space="preserve">
+    <value>Víťaz</value>
+  </data>
+  <data name="second" xml:space="preserve">
+    <value>2.</value>
+  </data>
+  <data name="third" xml:space="preserve">
+    <value>3.</value>
+  </data>
+  <data name="numerous_as_stars" xml:space="preserve">
+    <value>Početní ako hviezdy</value>
+  </data>
+  <data name="endless_frontiers" xml:space="preserve">
+    <value>Krajina nekonečných hraníc</value>
+  </data>
+  <data name="warrior_nation" xml:space="preserve">
+    <value>Bojovný národ</value>
+  </data>
+  <data name="sovereign_sea" xml:space="preserve">
+    <value>Vládca morí</value>
+  </data>
+  <data name="winged_armada" xml:space="preserve">
+    <value>Okrídlená armáda</value>
+  </data>
+  <data name="paragon_of_peace" xml:space="preserve">
+    <value>Vzor mieru</value>
+  </data>
+  <data name="best_trains_roads" xml:space="preserve">
+    <value>Najlepšie vlaky a cesty</value>
+  </data>
+  <data name="worldconquesttitle" xml:space="preserve">
+    <value>Gratulujem! Dobyli ste svet za {0} rokov</value>
+  </data>
+  <data name="gameover" xml:space="preserve">
+    <value>Váš národ bol porazený po {0} rokoch</value>
+  </data>
+</root>

@@ -250,15 +250,6 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Best trains and roads.
-        /// </summary>
-        internal static string best_trains_roads {
-            get {
-                return ResourceManager.GetString("best_trains_roads", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Birth rate modifier.
         /// </summary>
         internal static string birth_rate_modifier {
@@ -556,24 +547,6 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Congratulations! You led your nation through {0} tumultuous years.
-        /// </summary>
-        internal static string endgametitle {
-            get {
-                return ResourceManager.GetString("endgametitle", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Land of Endless Frontiers.
-        /// </summary>
-        internal static string endless_frontiers {
-            get {
-                return ResourceManager.GetString("endless_frontiers", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Equipment loses:.
         /// </summary>
         internal static string equipment_loses {
@@ -714,15 +687,6 @@ namespace CenturyLocalization {
         internal static string foreignPolicy {
             get {
                 return ResourceManager.GetString("foreignPolicy", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Game Over.
-        /// </summary>
-        internal static string gameover {
-            get {
-                return ResourceManager.GetString("gameover", resourceCulture);
             }
         }
         
@@ -1206,15 +1170,6 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Numerous as the stars.
-        /// </summary>
-        internal static string numerous_as_stars {
-            get {
-                return ResourceManager.GetString("numerous_as_stars", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Ok.
         /// </summary>
         internal static string ok {
@@ -1238,15 +1193,6 @@ namespace CenturyLocalization {
         internal static string other {
             get {
                 return ResourceManager.GetString("other", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Paragon of Peace.
-        /// </summary>
-        internal static string paragon_of_peace {
-            get {
-                return ResourceManager.GetString("paragon_of_peace", resourceCulture);
             }
         }
         
@@ -1368,15 +1314,6 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 2nd.
-        /// </summary>
-        internal static string second {
-            get {
-                return ResourceManager.GetString("second", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Select game mode.
         /// </summary>
         internal static string select_game_mode {
@@ -1467,15 +1404,6 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Sovereign of the Seas.
-        /// </summary>
-        internal static string sovereign_sea {
-            get {
-                return ResourceManager.GetString("sovereign_sea", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Start.
         /// </summary>
         internal static string start {
@@ -1535,15 +1463,6 @@ namespace CenturyLocalization {
         internal static string territory_income_modifier {
             get {
                 return ResourceManager.GetString("territory_income_modifier", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to 3rd.
-        /// </summary>
-        internal static string third {
-            get {
-                return ResourceManager.GetString("third", resourceCulture);
             }
         }
         
@@ -1674,15 +1593,6 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Warrior Nation.
-        /// </summary>
-        internal static string warrior_nation {
-            get {
-                return ResourceManager.GetString("warrior_nation", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to {0} weeks.
         /// </summary>
         internal static string weeks {
@@ -1697,24 +1607,6 @@ namespace CenturyLocalization {
         internal static string welfare {
             get {
                 return ResourceManager.GetString("welfare", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Winged Armada.
-        /// </summary>
-        internal static string winged_armada {
-            get {
-                return ResourceManager.GetString("winged_armada", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Winner.
-        /// </summary>
-        internal static string winner {
-            get {
-                return ResourceManager.GetString("winner", resourceCulture);
             }
         }
         

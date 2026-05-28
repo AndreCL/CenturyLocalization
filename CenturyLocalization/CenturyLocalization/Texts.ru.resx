@@ -344,21 +344,6 @@
   <data name="docks" xml:space="preserve">
     <value>Доки</value>
   </data>
-  <data name="gameover" xml:space="preserve">
-    <value>Игра окончена</value>
-  </data>
-  <data name="endgametitle" xml:space="preserve">
-    <value>Поздравляю! Вы провели свою нацию через {0} бурных лет</value>
-  </data>
-  <data name="winner" xml:space="preserve">
-    <value>Победитель</value>
-  </data>
-  <data name="second" xml:space="preserve">
-    <value>2ой</value>
-  </data>
-  <data name="third" xml:space="preserve">
-    <value>3ий</value>
-  </data>
   <data name="close" xml:space="preserve">
     <value>Закрыть</value>
   </data>
@@ -525,27 +510,6 @@
   </data>
   <data name="propaganda_campaign" xml:space="preserve">
     <value>Пропагандистская кампания (Рекламное объявление с наградой)</value>
-  </data>
-  <data name="numerous_as_stars" xml:space="preserve">
-    <value>Многочисленные, как звёзды</value>
-  </data>
-  <data name="endless_frontiers" xml:space="preserve">
-    <value>Земля бесконечных границ</value>
-  </data>
-  <data name="warrior_nation" xml:space="preserve">
-    <value>Нация воинов</value>
-  </data>
-  <data name="sovereign_sea" xml:space="preserve">
-    <value>Повелитель морей</value>
-  </data>
-  <data name="winged_armada" xml:space="preserve">
-    <value>Крылатая армада</value>
-  </data>
-  <data name="paragon_of_peace" xml:space="preserve">
-    <value>Образец мира</value>
-  </data>
-  <data name="best_trains_roads" xml:space="preserve">
-    <value>Лучшие поезда и дороги</value>
   </data>
   <data name="total" xml:space="preserve">
     <value>Итого</value>

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="endgametitle" xml:space="preserve">
+    <value>Helaaaal! {0} çalkantılı yıl boyunca devletini yönettin!</value>
+  </data>
+  <data name="winner" xml:space="preserve">
+    <value>Kazanan</value>
+  </data>
+  <data name="second" xml:space="preserve">
+    <value>2.</value>
+  </data>
+  <data name="third" xml:space="preserve">
+    <value>3.</value>
+  </data>
+  <data name="numerous_as_stars" xml:space="preserve">
+    <value>Yıldızlar Kadar Çok</value>
+  </data>
+  <data name="endless_frontiers" xml:space="preserve">
+    <value>Sonsuz Cephelerin Toprağı</value>
+  </data>
+  <data name="warrior_nation" xml:space="preserve">
+    <value>Savaşçıların İdeası</value>
+  </data>
+  <data name="sovereign_sea" xml:space="preserve">
+    <value>Denizlerin Hükümdarı</value>
+  </data>
+  <data name="winged_armada" xml:space="preserve">
+    <value>Kanatlı Donanma</value>
+  </data>
+  <data name="paragon_of_peace" xml:space="preserve">
+    <value>Barışın Örneği</value>
+  </data>
+  <data name="best_trains_roads" xml:space="preserve">
+    <value>Altyapının Önderi</value>
+  </data>
+  <data name="worldconquesttitle" xml:space="preserve">
+    <value>Tebrikler! {0} yıl içinde dünyayı fethettiniz</value>
+  </data>
+  <data name="gameover" xml:space="preserve">
+    <value>Ulusunuz {0} yıl sonra yenilgiye uğratıldı</value>
+  </data>
+</root>

@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>net10.0</TargetFramework>
     <Authors>AndreCL</Authors>
@@ -86,5 +86,30 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>WarNames.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="EndScreen\EndScreen.Designer.cs">
+      <DependentUpon>EndScreen.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="EndScreen\EndScreen.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>EndScreen.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="EndScreen\EndScreen.ar.resx" />
+    <EmbeddedResource Update="EndScreen\EndScreen.da.resx" />
+    <EmbeddedResource Update="EndScreen\EndScreen.de.resx" />
+    <EmbeddedResource Update="EndScreen\EndScreen.es.resx" />
+    <EmbeddedResource Update="EndScreen\EndScreen.fr.resx" />
+    <EmbeddedResource Update="EndScreen\EndScreen.id.resx" />
+    <EmbeddedResource Update="EndScreen\EndScreen.nl.resx" />
+    <EmbeddedResource Update="EndScreen\EndScreen.pt-BR.resx" />
+    <EmbeddedResource Update="EndScreen\EndScreen.pt-PT.resx" />
+    <EmbeddedResource Update="EndScreen\EndScreen.ru.resx" />
+    <EmbeddedResource Update="EndScreen\EndScreen.sk.resx" />
+    <EmbeddedResource Update="EndScreen\EndScreen.tr.resx" />
   </ItemGroup>
 </Project>

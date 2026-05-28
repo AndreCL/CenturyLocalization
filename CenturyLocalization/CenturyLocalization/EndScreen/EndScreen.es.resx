@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="endgametitle" xml:space="preserve">
+    <value>¡Felicidades! Guiaste a tu nación a través de {0} años tumultuosos</value>
+  </data>
+  <data name="winner" xml:space="preserve">
+    <value>Ganador</value>
+  </data>
+  <data name="second" xml:space="preserve">
+    <value>2do</value>
+  </data>
+  <data name="third" xml:space="preserve">
+    <value>3ro</value>
+  </data>
+  <data name="numerous_as_stars" xml:space="preserve">
+    <value>Numerosos como las estrellas</value>
+  </data>
+  <data name="endless_frontiers" xml:space="preserve">
+    <value>Tierra de fronteras infinitas</value>
+  </data>
+  <data name="warrior_nation" xml:space="preserve">
+    <value>Nación guerrera</value>
+  </data>
+  <data name="sovereign_sea" xml:space="preserve">
+    <value>Soberano de los mares</value>
+  </data>
+  <data name="winged_armada" xml:space="preserve">
+    <value>Armada alada</value>
+  </data>
+  <data name="paragon_of_peace" xml:space="preserve">
+    <value>Modelo de paz</value>
+  </data>
+  <data name="best_trains_roads" xml:space="preserve">
+    <value>Los mejores trenes y carreteras</value>
+  </data>
+  <data name="worldconquesttitle" xml:space="preserve">
+    <value>¡Felicidades! Conquistaste el mundo en {0} años</value>
+  </data>
+  <data name="gameover" xml:space="preserve">
+    <value>Tu nación fue derrotada después de {0} años</value>
+  </data>
+</root>
