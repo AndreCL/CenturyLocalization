@@ -32,4 +32,5 @@ Open source implementation of localization for Century
 * Create PopulationAttributes file
 * Create WarNames file
 * Create Texts file
+* Create EndScreen file
 * Add language to Localization._supportedCultureNames
