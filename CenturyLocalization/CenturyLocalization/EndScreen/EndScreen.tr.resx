@@ -51,4 +51,7 @@
   <data name="gameover" xml:space="preserve">
     <value>Ulusunuz {0} yıl sonra yenilgiye uğratıldı</value>
   </data>
+  <data name="hordes_of_genghis_khan" xml:space="preserve">
+    <value>Cengiz Han'ın sürüleri</value>
+  </data>
 </root>

@@ -88,11 +88,20 @@ namespace CenturyLocalization.EndScreen {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Game Over.
+        ///   Looks up a localized string similar to Your Nation was defeated after {0} years.
         /// </summary>
         internal static string gameover {
             get {
                 return ResourceManager.GetString("gameover", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Hordes of Genghis Khan.
+        /// </summary>
+        internal static string hordes_of_genghis_khan {
+            get {
+                return ResourceManager.GetString("hordes_of_genghis_khan", resourceCulture);
             }
         }
         
@@ -165,6 +174,15 @@ namespace CenturyLocalization.EndScreen {
         internal static string winner {
             get {
                 return ResourceManager.GetString("winner", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Congratulations! You conquered the world in {0} years.
+        /// </summary>
+        internal static string worldconquesttitle {
+            get {
+                return ResourceManager.GetString("worldconquesttitle", resourceCulture);
             }
         }
     }

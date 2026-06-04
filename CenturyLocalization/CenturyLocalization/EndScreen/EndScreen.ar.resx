@@ -51,4 +51,7 @@
   <data name="gameover" xml:space="preserve">
     <value>لقد هُزمت أمتك بعد {0} سنة</value>
   </data>
+  <data name="hordes_of_genghis_khan" xml:space="preserve">
+    <value>جحافل جنكيز خان</value>
+  </data>
 </root>

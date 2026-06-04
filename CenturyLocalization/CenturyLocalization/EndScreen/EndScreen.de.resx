@@ -51,4 +51,7 @@
   <data name="gameover" xml:space="preserve">
     <value>Ihre Nation wurde nach {0} Jahren besiegt</value>
   </data>
+  <data name="hordes_of_genghis_khan" xml:space="preserve">
+    <value>Horden von Dschingis Khan</value>
+  </data>
 </root>

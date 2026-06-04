@@ -51,4 +51,7 @@
   <data name="gameover" xml:space="preserve">
     <value>Váš národ bol porazený po {0} rokoch</value>
   </data>
+  <data name="hordes_of_genghis_khan" xml:space="preserve">
+    <value>Hordy Džingischána</value>
+  </data>
 </root>

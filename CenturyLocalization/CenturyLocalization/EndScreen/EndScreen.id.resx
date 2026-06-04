@@ -51,4 +51,7 @@
   <data name="gameover" xml:space="preserve">
     <value>Bangsa Anda dikalahkan setelah {0} tahun</value>
   </data>
+  <data name="hordes_of_genghis_khan" xml:space="preserve">
+    <value>Gerombolan Jenghis Khan</value>
+  </data>
 </root>

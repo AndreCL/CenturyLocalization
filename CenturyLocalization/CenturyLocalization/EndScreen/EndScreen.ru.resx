@@ -51,4 +51,7 @@
   <data name="gameover" xml:space="preserve">
     <value>Ваша нация потерпела поражение спустя {0} лет.</value>
   </data>
+  <data name="hordes_of_genghis_khan" xml:space="preserve">
+    <value>Орды Чингисхана</value>
+  </data>
 </root>
