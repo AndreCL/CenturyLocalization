@@ -70,6 +70,15 @@ namespace CenturyLocalization.EndScreen {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Land of El Dorado.
+        /// </summary>
+        internal static string el_dorado {
+            get {
+                return ResourceManager.GetString("el_dorado", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Congratulations! You led your nation through {0} tumultuous years.
         /// </summary>
         internal static string endgametitle {

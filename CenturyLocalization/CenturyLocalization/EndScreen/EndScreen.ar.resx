@@ -54,4 +54,7 @@
   <data name="hordes_of_genghis_khan" xml:space="preserve">
     <value>جحافل جنكيز خان</value>
   </data>
+  <data name="el_dorado" xml:space="preserve">
+    <value>أرض الدورادو</value>
+  </data>
 </root>

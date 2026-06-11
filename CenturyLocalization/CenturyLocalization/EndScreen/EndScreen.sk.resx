@@ -54,4 +54,7 @@
   <data name="hordes_of_genghis_khan" xml:space="preserve">
     <value>Hordy Džingischána</value>
   </data>
+  <data name="el_dorado" xml:space="preserve">
+    <value>Krajina El Dorado</value>
+  </data>
 </root>
