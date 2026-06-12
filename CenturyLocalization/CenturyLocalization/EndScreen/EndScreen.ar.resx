@@ -57,4 +57,10 @@
   <data name="el_dorado" xml:space="preserve">
     <value>أرض الدورادو</value>
   </data>
+  <data name="plus_other_nation" xml:space="preserve">
+    <value>ودولة واحدة أخرى</value>
+  </data>
+  <data name="plus_other_nations" xml:space="preserve">
+    <value>و{0} دول أخرى</value>
+  </data>
 </root>

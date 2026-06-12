@@ -133,6 +133,24 @@ namespace CenturyLocalization.EndScreen {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to and 1 other nation.
+        /// </summary>
+        internal static string plus_other_nation {
+            get {
+                return ResourceManager.GetString("plus_other_nation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to and {0} other nations.
+        /// </summary>
+        internal static string plus_other_nations {
+            get {
+                return ResourceManager.GetString("plus_other_nations", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 2nd.
         /// </summary>
         internal static string second {

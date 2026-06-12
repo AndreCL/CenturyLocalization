@@ -57,4 +57,10 @@
   <data name="el_dorado" xml:space="preserve">
     <value>Krajina El Dorado</value>
   </data>
+  <data name="plus_other_nation" xml:space="preserve">
+    <value>a 1 ďalší národ</value>
+  </data>
+  <data name="plus_other_nations" xml:space="preserve">
+    <value>a ďalšie národy ({0}).</value>
+  </data>
 </root>

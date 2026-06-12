@@ -57,4 +57,10 @@
   <data name="el_dorado" xml:space="preserve">
     <value>El Dorado Ülkesi</value>
   </data>
+  <data name="plus_other_nation" xml:space="preserve">
+    <value>ve 1 ülke daha</value>
+  </data>
+  <data name="plus_other_nations" xml:space="preserve">
+    <value>ve {0} diğer ülke</value>
+  </data>
 </root>

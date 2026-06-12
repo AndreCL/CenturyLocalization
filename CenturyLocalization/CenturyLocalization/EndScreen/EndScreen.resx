@@ -162,4 +162,10 @@
   <data name="el_dorado" xml:space="preserve">
     <value>Land of El Dorado</value>
   </data>
+  <data name="plus_other_nation" xml:space="preserve">
+    <value>and 1 other nation</value>
+  </data>
+  <data name="plus_other_nations" xml:space="preserve">
+    <value>and {0} other nations</value>
+  </data>
 </root>

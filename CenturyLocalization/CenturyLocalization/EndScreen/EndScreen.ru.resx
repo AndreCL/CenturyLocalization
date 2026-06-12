@@ -57,4 +57,10 @@
   <data name="el_dorado" xml:space="preserve">
     <value>Земля Эльдорадо</value>
   </data>
+  <data name="plus_other_nation" xml:space="preserve">
+    <value>и еще 1 страна</value>
+  </data>
+  <data name="plus_other_nations" xml:space="preserve">
+    <value>и {0} других стран</value>
+  </data>
 </root>
