@@ -363,4 +363,7 @@
   <data name="soviet_union" xml:space="preserve">
     <value>Sovjetunionen</value>
   </data>
+  <data name="slovakia" xml:space="preserve">
+    <value>Slovakiet</value>
+  </data>
 </root>

@@ -691,6 +691,15 @@ namespace CenturyLocalization.CountryNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Slovakia.
+        /// </summary>
+        internal static string slovakia {
+            get {
+                return ResourceManager.GetString("slovakia", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Sokoto Caliphate.
         /// </summary>
         internal static string sokoto {
