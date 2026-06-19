@@ -650,4 +650,28 @@ Wanneer de wereldspanning 100% bereikt, wordt een wereldoorlog ontketend en word
   <data name="dont_extend_game" xml:space="preserve">
     <value>Nee, ga naar de resultaten</value>
   </data>
+  <data name="unittest_onlyen" xml:space="preserve">
+    <value>Ok_nl</value>
+  </data>
+  <data name="send_volunteers" xml:space="preserve">
+    <value>Stuur vrijwilligers</value>
+  </data>
+  <data name="send_expeditionary_land_force" xml:space="preserve">
+    <value>Stuur een expeditielandmacht</value>
+  </data>
+  <data name="send_land_equipment" xml:space="preserve">
+    <value>Stuur landuitrusting</value>
+  </data>
+  <data name="send_expeditionary_air_force" xml:space="preserve">
+    <value>Stuur een expeditieluchtmacht</value>
+  </data>
+  <data name="send_air_equipment" xml:space="preserve">
+    <value>Luchtapparatuur sturen</value>
+  </data>
+  <data name="send_economic_help" xml:space="preserve">
+    <value>Stuur economische hulp</value>
+  </data>
+  <data name="send" xml:space="preserve">
+    <value>Versturen</value>
+  </data>
 </root>

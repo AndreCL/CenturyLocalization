@@ -124,8 +124,8 @@
     <value>Ok_pt-BR</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="unittest_onlyen" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="unittest_onlyen" xml:space="preserve">
+    <value>Ok_pt-BR</value>
   </data>
   <data name="ApplicationName" xml:space="preserve">
     <value>Century</value>
@@ -650,5 +650,26 @@ Um novo ano chegou. Desejamos a vocês um feliz ano novo. Que este novo ano seja
   </data>
   <data name="dont_extend_game" xml:space="preserve">
     <value>Não, me leve para os resultados</value>
+  </data>
+  <data name="send_volunteers" xml:space="preserve">
+    <value>Envie voluntários</value>
+  </data>
+  <data name="send_expeditionary_land_force" xml:space="preserve">
+    <value>Enviar força terrestre expedicionária</value>
+  </data>
+  <data name="send_land_equipment" xml:space="preserve">
+    <value>Enviar equipamento terrestre</value>
+  </data>
+  <data name="send_expeditionary_air_force" xml:space="preserve">
+    <value>Enviar força aérea expedicionária</value>
+  </data>
+  <data name="send_air_equipment" xml:space="preserve">
+    <value>Enviar equipamento aéreo</value>
+  </data>
+  <data name="send_economic_help" xml:space="preserve">
+    <value>Envie ajuda econômica</value>
+  </data>
+  <data name="send" xml:space="preserve">
+    <value>Enviar</value>
   </data>
 </root>

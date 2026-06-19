@@ -652,4 +652,28 @@ Una vez que la tensión mundial alcanza el 100 %, se desencadena una guerra mund
   <data name="dont_extend_game" xml:space="preserve">
     <value>No, llévame a los resultados</value>
   </data>
+  <data name="unittest_onlyen" xml:space="preserve">
+    <value>Ok_es</value>
+  </data>
+  <data name="send_volunteers" xml:space="preserve">
+    <value>enviar voluntarios</value>
+  </data>
+  <data name="send_expeditionary_land_force" xml:space="preserve">
+    <value>Enviar fuerza terrestre expedicionaria</value>
+  </data>
+  <data name="send_land_equipment" xml:space="preserve">
+    <value>Enviar equipo terrestre</value>
+  </data>
+  <data name="send_expeditionary_air_force" xml:space="preserve">
+    <value>Enviar fuerza aérea expedicionaria</value>
+  </data>
+  <data name="send_air_equipment" xml:space="preserve">
+    <value>enviar equipo aéreo</value>
+  </data>
+  <data name="send_economic_help" xml:space="preserve">
+    <value>enviar ayuda económica</value>
+  </data>
+  <data name="send" xml:space="preserve">
+    <value>Enviar</value>
+  </data>
 </root>

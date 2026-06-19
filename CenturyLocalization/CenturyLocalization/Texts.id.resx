@@ -650,4 +650,28 @@ Ketika Ketegangan Dunia mencapai 100%, Perang Dunia akan dipicu dan nilainya dia
   <data name="dont_extend_game" xml:space="preserve">
     <value>Tidak, bawa saya ke hasil</value>
   </data>
+  <data name="unittest_onlyen" xml:space="preserve">
+    <value>Ok_In</value>
+  </data>
+  <data name="send_volunteers" xml:space="preserve">
+    <value>Kirim sukarelawan</value>
+  </data>
+  <data name="send_expeditionary_land_force" xml:space="preserve">
+    <value>Kirim pasukan darat ekspedisi</value>
+  </data>
+  <data name="send_land_equipment" xml:space="preserve">
+    <value>Kirim peralatan darat</value>
+  </data>
+  <data name="send_expeditionary_air_force" xml:space="preserve">
+    <value>Kirim angkatan udara ekspedisi</value>
+  </data>
+  <data name="send_air_equipment" xml:space="preserve">
+    <value>Kirim peralatan udara</value>
+  </data>
+  <data name="send_economic_help" xml:space="preserve">
+    <value>Kirim bantuan ekonomi</value>
+  </data>
+  <data name="send" xml:space="preserve">
+    <value>Mengirim</value>
+  </data>
 </root>

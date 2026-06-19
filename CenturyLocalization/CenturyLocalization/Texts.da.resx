@@ -651,4 +651,28 @@ Når verdensspændingen når 100 %, udløses en verdenskrig, og værdien nulstil
   <data name="dont_extend_game" xml:space="preserve">
     <value>Nej, før mig til resultaterne</value>
   </data>
+  <data name="unittest_onlyen" xml:space="preserve">
+    <value>Ok_da</value>
+  </data>
+  <data name="send_volunteers" xml:space="preserve">
+    <value>Send frivillige</value>
+  </data>
+  <data name="send_expeditionary_land_force" xml:space="preserve">
+    <value>Send ekspeditionslandstyrke</value>
+  </data>
+  <data name="send_land_equipment" xml:space="preserve">
+    <value>Send landudstyr</value>
+  </data>
+  <data name="send_expeditionary_air_force" xml:space="preserve">
+    <value>Send ekspeditionsluftvåben</value>
+  </data>
+  <data name="send_air_equipment" xml:space="preserve">
+    <value>Send luftudstyr</value>
+  </data>
+  <data name="send_economic_help" xml:space="preserve">
+    <value>Send økonomisk hjælp</value>
+  </data>
+  <data name="send" xml:space="preserve">
+    <value>Send</value>
+  </data>
 </root>

@@ -650,4 +650,28 @@ Sobald die Weltspannung 100 % erreicht, wird ein Weltkrieg ausgelöst und der We
   <data name="dont_extend_game" xml:space="preserve">
     <value>Nein, bring mich zu den Ergebnissen</value>
   </data>
+  <data name="unittest_onlyen" xml:space="preserve">
+    <value>Ok_de</value>
+  </data>
+  <data name="send_volunteers" xml:space="preserve">
+    <value>Senden Sie Freiwillige</value>
+  </data>
+  <data name="send_expeditionary_land_force" xml:space="preserve">
+    <value>Entsenden Sie eine Expeditions-Landstreitmacht</value>
+  </data>
+  <data name="send_land_equipment" xml:space="preserve">
+    <value>Landausrüstung schicken</value>
+  </data>
+  <data name="send_expeditionary_air_force" xml:space="preserve">
+    <value>Schicken Sie eine Expeditions-Luftwaffe</value>
+  </data>
+  <data name="send_air_equipment" xml:space="preserve">
+    <value>Luftausrüstung schicken</value>
+  </data>
+  <data name="send_economic_help" xml:space="preserve">
+    <value>Senden Sie wirtschaftliche Hilfe</value>
+  </data>
+  <data name="send" xml:space="preserve">
+    <value>Schicken</value>
+  </data>
 </root>

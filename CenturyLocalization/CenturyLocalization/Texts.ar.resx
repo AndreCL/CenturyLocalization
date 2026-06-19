@@ -650,4 +650,28 @@
   <data name="dont_extend_game" xml:space="preserve">
     <value>لا، خذني إلى النتائج</value>
   </data>
+  <data name="unittest_onlyen" xml:space="preserve">
+    <value>Ok_ar</value>
+  </data>
+  <data name="send_volunteers" xml:space="preserve">
+    <value>إرسال المتطوعين</value>
+  </data>
+  <data name="send_expeditionary_land_force" xml:space="preserve">
+    <value>إرسال قوة برية سريعة</value>
+  </data>
+  <data name="send_land_equipment" xml:space="preserve">
+    <value>إرسال معدات الأرض</value>
+  </data>
+  <data name="send_expeditionary_air_force" xml:space="preserve">
+    <value>إرسال قوة جوية استطلاعية</value>
+  </data>
+  <data name="send_air_equipment" xml:space="preserve">
+    <value>إرسال المعدات الجوية</value>
+  </data>
+  <data name="send_economic_help" xml:space="preserve">
+    <value>إرسال المساعدة الاقتصادية</value>
+  </data>
+  <data name="send" xml:space="preserve">
+    <value>يرسل</value>
+  </data>
 </root>

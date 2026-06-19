@@ -126,8 +126,8 @@
     <comment>IGNORE Used for unit tests</comment>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="unittest_onlyen" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="unittest_onlyen" xml:space="preserve">
+    <value>Ok_sk</value>
     <comment>IGNORE Used for unit tests</comment>
   </data>
   <data name="ApplicationName" xml:space="preserve">
@@ -670,5 +670,26 @@ Keď svetové napätie dosiahne 100%, spustí sa svetová vojna a resetuje sa.
   </data>
   <data name="dont_extend_game" xml:space="preserve">
     <value>Nie, prejdite na výsledky</value>
+  </data>
+  <data name="send_volunteers" xml:space="preserve">
+    <value>Pošlite dobrovoľníkov</value>
+  </data>
+  <data name="send_expeditionary_land_force" xml:space="preserve">
+    <value>Pošlite expedičné pozemné sily</value>
+  </data>
+  <data name="send_land_equipment" xml:space="preserve">
+    <value>Pošlite pozemnú techniku</value>
+  </data>
+  <data name="send_expeditionary_air_force" xml:space="preserve">
+    <value>Pošlite expedičné letectvo</value>
+  </data>
+  <data name="send_air_equipment" xml:space="preserve">
+    <value>Pošlite letecké vybavenie</value>
+  </data>
+  <data name="send_economic_help" xml:space="preserve">
+    <value>Pošlite ekonomickú pomoc</value>
+  </data>
+  <data name="send" xml:space="preserve">
+    <value>Odoslať</value>
   </data>
 </root>

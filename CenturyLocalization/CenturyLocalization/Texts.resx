@@ -672,4 +672,25 @@ Once the World Tension reaches 100%, a World War is triggered and it resets.
   <data name="dont_extend_game" xml:space="preserve">
     <value>No, take me to the results</value>
   </data>
+  <data name="send_volunteers" xml:space="preserve">
+    <value>Send volunteers</value>
+  </data>
+  <data name="send_expeditionary_land_force" xml:space="preserve">
+    <value>Send expeditionary land force</value>
+  </data>
+  <data name="send_land_equipment" xml:space="preserve">
+    <value>Send land equipment</value>
+  </data>
+  <data name="send_expeditionary_air_force" xml:space="preserve">
+    <value>Send expeditionary air force</value>
+  </data>
+  <data name="send_air_equipment" xml:space="preserve">
+    <value>Send air equipment</value>
+  </data>
+  <data name="send_economic_help" xml:space="preserve">
+    <value>Send economic help</value>
+  </data>
+  <data name="send" xml:space="preserve">
+    <value>Send</value>
+  </data>
 </root>

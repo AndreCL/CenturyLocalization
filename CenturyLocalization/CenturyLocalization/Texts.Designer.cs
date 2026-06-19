@@ -1323,6 +1323,60 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Send.
+        /// </summary>
+        internal static string send {
+            get {
+                return ResourceManager.GetString("send", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Send air equipment.
+        /// </summary>
+        internal static string send_air_equipment {
+            get {
+                return ResourceManager.GetString("send_air_equipment", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Send economic help.
+        /// </summary>
+        internal static string send_economic_help {
+            get {
+                return ResourceManager.GetString("send_economic_help", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Send expeditionary air force.
+        /// </summary>
+        internal static string send_expeditionary_air_force {
+            get {
+                return ResourceManager.GetString("send_expeditionary_air_force", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Send expeditionary land force.
+        /// </summary>
+        internal static string send_expeditionary_land_force {
+            get {
+                return ResourceManager.GetString("send_expeditionary_land_force", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Send land equipment.
+        /// </summary>
+        internal static string send_land_equipment {
+            get {
+                return ResourceManager.GetString("send_land_equipment", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Send materiel and volunteers.
         /// </summary>
         internal static string send_material_volunteers {
@@ -1337,6 +1391,15 @@ namespace CenturyLocalization {
         internal static string send_missionaries {
             get {
                 return ResourceManager.GetString("send_missionaries", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Send volunteers.
+        /// </summary>
+        internal static string send_volunteers {
+            get {
+                return ResourceManager.GetString("send_volunteers", resourceCulture);
             }
         }
         

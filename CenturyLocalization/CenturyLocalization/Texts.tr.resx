@@ -126,8 +126,8 @@
     <comment>GÖRMEZDEN GEL Ünite test etmek için kulanılır</comment>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="unittest_onlyen" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="unittest_onlyen" xml:space="preserve">
+    <value>OK_tr</value>
     <comment>GÖRMEZDEN GEL Ünite test etmek için kulanılır</comment>
   </data>
   <data name="ApplicationName" xml:space="preserve">
@@ -672,5 +672,26 @@
   </data>
   <data name="dont_extend_game" xml:space="preserve">
     <value>Hayır, beni sonuçlara götür</value>
+  </data>
+  <data name="send_volunteers" xml:space="preserve">
+    <value>Gönüllü gönder</value>
+  </data>
+  <data name="send_expeditionary_land_force" xml:space="preserve">
+    <value>Seferi kara kuvveti gönder</value>
+  </data>
+  <data name="send_land_equipment" xml:space="preserve">
+    <value>Kara ekipmanı gönder</value>
+  </data>
+  <data name="send_expeditionary_air_force" xml:space="preserve">
+    <value>Seferi hava kuvvetleri gönder</value>
+  </data>
+  <data name="send_air_equipment" xml:space="preserve">
+    <value>Hava ekipmanı gönder</value>
+  </data>
+  <data name="send_economic_help" xml:space="preserve">
+    <value>Ekonomik yardım gönderin</value>
+  </data>
+  <data name="send" xml:space="preserve">
+    <value>Göndermek</value>
   </data>
 </root>
