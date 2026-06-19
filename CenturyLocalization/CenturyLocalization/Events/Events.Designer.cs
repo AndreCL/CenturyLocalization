@@ -61,11 +61,47 @@ namespace CenturyLocalization.Events {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to {0} has annexed {1} with a population of {2} and area of {3}..
+        /// </summary>
+        internal static string annexed_message {
+            get {
+                return ResourceManager.GetString("annexed_message", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Annexation!.
+        /// </summary>
+        internal static string annexed_title {
+            get {
+                return ResourceManager.GetString("annexed_title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Famine!.
         /// </summary>
-        internal static string famine {
+        internal static string famine_title {
             get {
-                return ResourceManager.GetString("famine", resourceCulture);
+                return ResourceManager.GetString("famine_title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Overpopulation has lead to famine and substantial economic losses around the world. The death of {0} people worldwide to starvation has taken the world population from {1} to {2}. Countries worldwide have spent {3} in an attempt to save their citizens from starvation. Tensions and conflicts are on the rise due to lack of food supplies..
+        /// </summary>
+        internal static string global_famine_message {
+            get {
+                return ResourceManager.GetString("global_famine_message", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Overpopulation in {0} leads to Famine. The death of {1} people to starvation in {0} has shocked the world. Their population has gone from from {2} to {3}. {0} has spent {4} in an attempt to save its citizens from starvation..
+        /// </summary>
+        internal static string local_famine_message {
+            get {
+                return ResourceManager.GetString("local_famine_message", resourceCulture);
             }
         }
     }

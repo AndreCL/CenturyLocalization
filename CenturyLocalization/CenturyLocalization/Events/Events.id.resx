@@ -117,7 +117,19 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="famine" xml:space="preserve">
+  <data name="famine_title" xml:space="preserve">
     <value>Kelaparan!</value>
+  </data>
+  <data name="annexed_title" xml:space="preserve">
+    <value>Aneksasi!</value>
+  </data>
+  <data name="annexed_message" xml:space="preserve">
+    <value>{0} telah mencaplok {1} dengan populasi {2} dan luas wilayah {3}.</value>
+  </data>
+  <data name="global_famine_message" xml:space="preserve">
+    <value>Kelebihan populasi telah menyebabkan kelaparan dan kerugian ekonomi yang besar di seluruh dunia. Kematian {0} orang di seluruh dunia karena kelaparan telah mengubah populasi dunia dari {1} menjadi {2}. Negara-negara di seluruh dunia telah mengeluarkan dana sebesar {3} dalam upaya menyelamatkan warganya dari kelaparan. Ketegangan dan konflik meningkat karena kurangnya pasokan makanan.</value>
+  </data>
+  <data name="local_famine_message" xml:space="preserve">
+    <value>Kelebihan populasi di {0} menyebabkan Kelaparan. Kematian {1} orang karena kelaparan di {0} telah mengejutkan dunia. Populasinya telah berubah dari {2} menjadi {3}. {0} telah mengeluarkan dana sebesar {4} dalam upaya menyelamatkan warganya dari kelaparan.</value>
   </data>
 </root>

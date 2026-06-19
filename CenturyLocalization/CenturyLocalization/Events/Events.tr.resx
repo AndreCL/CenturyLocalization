@@ -117,7 +117,19 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="famine" xml:space="preserve">
+  <data name="famine_title" xml:space="preserve">
     <value>Kıtlık!</value>
+  </data>
+  <data name="annexed_title" xml:space="preserve">
+    <value>Ele Geçirildi!</value>
+  </data>
+  <data name="annexed_message" xml:space="preserve">
+    <value>{0}, nüfusu {2} ve alanı {3} olan {1}'i ilhak etti.</value>
+  </data>
+  <data name="global_famine_message" xml:space="preserve">
+    <value>Aşırı nüfus, dünya çapında kıtlığa ve önemli ekonomik kayıplara yol açmıştır. Dünya çapında {0} kişinin açlıktan ölmesi, dünya nüfusunu {1} seviyesinden {2} seviyesine taşıdı. Dünya çapındaki ülkeler, vatandaşlarını açlıktan kurtarmak amacıyla {3} harcadı. Yiyecek sıkıntısı nedeniyle gerginlikler ve çatışmalar artıyor.</value>
+  </data>
+  <data name="local_famine_message" xml:space="preserve">
+    <value>{0} bölgesindeki aşırı nüfus Kıtlığa yol açıyor. {0}'da {1} kişinin açlıktan ölmesi dünyayı şok etti. Nüfusları {2}'den {3}'a çıktı. {0}, vatandaşlarını açlıktan kurtarmak amacıyla {4} harcadı.</value>
   </data>
 </root>

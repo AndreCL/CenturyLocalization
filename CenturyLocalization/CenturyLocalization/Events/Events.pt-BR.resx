@@ -117,7 +117,19 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="famine" xml:space="preserve">
+  <data name="famine_title" xml:space="preserve">
     <value>Fome!</value>
+  </data>
+  <data name="annexed_title" xml:space="preserve">
+    <value>Anexação!</value>
+  </data>
+  <data name="annexed_message" xml:space="preserve">
+    <value>{0} anexou {1} com uma população de {2} e uma área de {3}.</value>
+  </data>
+  <data name="global_famine_message" xml:space="preserve">
+    <value>A superpopulação levou à fome e a perdas econômicas substanciais em todo o mundo. A morte de {0} pessoas em todo o mundo devido à fome elevou a população mundial de {1} para {2}. Países em todo o mundo gastaram {3} numa tentativa de salvar os seus cidadãos da fome. As tensões e os conflitos estão a aumentar devido à falta de abastecimento alimentar.</value>
+  </data>
+  <data name="local_famine_message" xml:space="preserve">
+    <value>A superpopulação em {0} leva à fome. A morte de {1} pessoas devido à fome em {0} chocou o mundo. A sua população passou de {2} para {3}. {0} gastou {4} na tentativa de salvar seus cidadãos da fome.</value>
   </data>
 </root>

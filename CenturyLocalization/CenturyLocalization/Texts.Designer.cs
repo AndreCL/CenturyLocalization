@@ -160,15 +160,6 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Annexation!.
-        /// </summary>
-        internal static string annexed_title {
-            get {
-                return ResourceManager.GetString("annexed_title", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Century.
         /// </summary>
         internal static string ApplicationName {

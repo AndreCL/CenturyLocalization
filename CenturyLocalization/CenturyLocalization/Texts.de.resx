@@ -413,9 +413,6 @@ Ein neues Jahrhundert steht bevor. Wir wünschen Ihnen ein frohes neues Jahr. M�
     <value>Liebe Leser,
 Ein neues Jahr steht bevor. Wir wünschen Ihnen ein frohes neues Jahr. Möge diese neue Zeit friedlich sein.</value>
   </data>
-  <data name="annexed_title" xml:space="preserve">
-    <value>Annexion!</value>
-  </data>
   <data name="annexed_message" xml:space="preserve">
     <value>{countryToDelete.Name} wurde so klein und unbedeutend, dass {inherited.Name} es absorbiert hat.</value>
   </data>

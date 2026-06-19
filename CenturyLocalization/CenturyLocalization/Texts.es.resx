@@ -415,9 +415,6 @@ Un nuevo siglo está sobre nosotros. Les deseamos un feliz año nuevo. Que este 
     <value>Queridos lectores,
 Un nuevo año está sobre nosotros. Les deseamos un feliz año nuevo. Que este nuevo tiempo sea pacífico.</value>
   </data>
-  <data name="annexed_title" xml:space="preserve">
-    <value>Anexión!</value>
-  </data>
   <data name="annexed_message" xml:space="preserve">
     <value>{countryToDelete.Name} se volvió tan pequeño e insignificante que {inherited.Name} lo ha absorbido.</value>
   </data>

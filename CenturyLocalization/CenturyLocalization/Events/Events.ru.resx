@@ -117,7 +117,19 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="famine" xml:space="preserve">
+  <data name="famine_title" xml:space="preserve">
     <value>Голод!</value>
+  </data>
+  <data name="annexed_title" xml:space="preserve">
+    <value>Аннексия!</value>
+  </data>
+  <data name="annexed_message" xml:space="preserve">
+    <value>{0} аннексировал {1} с населением {2} и площадью {3}.</value>
+  </data>
+  <data name="global_famine_message" xml:space="preserve">
+    <value>Перенаселение привело к голоду и существенным экономическим потерям во всем мире. Смерть {0} человек во всем мире от голода увеличила население мира с {1} до {2}. Страны по всему миру потратили {3}, пытаясь спасти своих граждан от голодной смерти. Напряженность и конфликты растут из-за нехватки продовольствия.</value>
+  </data>
+  <data name="local_famine_message" xml:space="preserve">
+    <value>Перенаселение в {0} приводит к голоду. Смерть {1} человек от голода в {0} потрясла мир. Их население увеличилось с {2} до {3}. {0} потратил {4}, пытаясь спасти своих граждан от голодной смерти.</value>
   </data>
 </root>

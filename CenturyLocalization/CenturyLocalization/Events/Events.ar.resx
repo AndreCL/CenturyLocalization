@@ -117,7 +117,19 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="famine" xml:space="preserve">
+  <data name="famine_title" xml:space="preserve">
     <value>المجاعة!</value>
+  </data>
+  <data name="annexed_title" xml:space="preserve">
+    <value>ضم!</value>
+  </data>
+  <data name="annexed_message" xml:space="preserve">
+    <value>{0} قامت بضم {1} بعدد سكان {2} ومساحة {3}.</value>
+  </data>
+  <data name="global_famine_message" xml:space="preserve">
+    <value>وقد أدى الاكتظاظ السكاني إلى المجاعة وخسائر اقتصادية كبيرة في جميع أنحاء العالم. أدى موت {0} من الأشخاص في جميع أنحاء العالم بسبب المجاعة إلى ارتفاع عدد سكان العالم من {1} إلى {2}. أنفقت دول العالم {3} في محاولة لإنقاذ مواطنيها من المجاعة. وتتصاعد التوترات والصراعات بسبب نقص الإمدادات الغذائية.</value>
+  </data>
+  <data name="local_famine_message" xml:space="preserve">
+    <value>يؤدي الاكتظاظ السكاني في {0} إلى المجاعة. لقد صدمت وفاة {1} شخص بسبب الجوع في {0} العالم. لقد انتقل عدد سكانها من {2} إلى {3}. لقد أنفقت {0} {4} في محاولة لإنقاذ مواطنيها من المجاعة.</value>
   </data>
 </root>

@@ -117,7 +117,19 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="famine" xml:space="preserve">
+  <data name="famine_title" xml:space="preserve">
     <value>Hambruna!</value>
+  </data>
+  <data name="annexed_title" xml:space="preserve">
+    <value>Anexión!</value>
+  </data>
+  <data name="annexed_message" xml:space="preserve">
+    <value>{0} ha anexado {1} con una población de {2} y un área de {3}.</value>
+  </data>
+  <data name="global_famine_message" xml:space="preserve">
+    <value>La superpoblación ha provocado hambrunas y pérdidas económicas sustanciales en todo el mundo. La muerte de {0} personas en todo el mundo por inanición ha llevado a la población mundial de {1} a {2}. Países de todo el mundo han gastado {3} en un intento de salvar a sus ciudadanos del hambre. Las tensiones y los conflictos van en aumento debido a la falta de suministro de alimentos.</value>
+  </data>
+  <data name="local_famine_message" xml:space="preserve">
+    <value>La superpoblación en {0} provoca la hambruna. La muerte de {1} personas por inanición en {0} ha conmocionado al mundo. Su población ha pasado de {2} a {3}. {0} ha gastado {4} en un intento de salvar a sus ciudadanos del hambre.</value>
   </data>
 </root>

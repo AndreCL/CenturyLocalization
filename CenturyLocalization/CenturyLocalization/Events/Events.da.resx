@@ -117,7 +117,19 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="famine" xml:space="preserve">
+  <data name="famine_title" xml:space="preserve">
     <value>Hungersnød!</value>
+  </data>
+  <data name="annexed_title" xml:space="preserve">
+    <value>Annektering!</value>
+  </data>
+  <data name="annexed_message" xml:space="preserve">
+    <value>{0} har annekteret {1} med en befolkning på {2} og et areal på {3}.</value>
+  </data>
+  <data name="global_famine_message" xml:space="preserve">
+    <value>Overbefolkning har ført til hungersnød og betydelige økonomiske tab rundt om i verden. {0} menneskers død af sult over hele verden har taget verdensbefolkningen fra {1} til {2}. Lande verden over har brugt {3} i et forsøg på at redde deres borgere fra sult. Spændinger og konflikter er stigende på grund af mangel på fødevareforsyninger.</value>
+  </data>
+  <data name="local_famine_message" xml:space="preserve">
+    <value>Overbefolkning i {0} fører til hungersnød. {1} menneskers død til sult i {0} har chokeret verden. Deres befolkning er gået fra {2} til {3}. {0} har brugt {4} i et forsøg på at redde sine borgere fra sult.</value>
   </data>
 </root>

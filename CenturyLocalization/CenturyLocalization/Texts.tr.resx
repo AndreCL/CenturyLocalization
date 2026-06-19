@@ -430,10 +430,6 @@
     <value>Sevgili okuyucular, yeni yılınız kutlu olsun! Umarız bu sene, bir öncekine kıyasla daha barışçıl geçer.</value>
     <comment>Haber eventi için</comment>
   </data>
-  <data name="annexed_title" xml:space="preserve">
-    <value>Ele Geçirildi!</value>
-    <comment>Haber eventi için</comment>
-  </data>
   <data name="annexed_message" xml:space="preserve">
     <value>{countryToDelete.Name} çok küçüldüğü ve güçsüzleştiği için {inherited.Name} kendi bünyesine kattı.</value>
     <comment>Haber eventi için</comment>

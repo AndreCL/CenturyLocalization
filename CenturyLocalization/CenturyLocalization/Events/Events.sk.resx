@@ -117,7 +117,19 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="famine" xml:space="preserve">
+  <data name="famine_title" xml:space="preserve">
     <value>Hladomor!</value>
+  </data>
+  <data name="annexed_title" xml:space="preserve">
+    <value>Anexia!</value>
+  </data>
+  <data name="annexed_message" xml:space="preserve">
+    <value>{0} anektoval {1} ​​s populáciou {2} a rozlohou {3}.</value>
+  </data>
+  <data name="global_famine_message" xml:space="preserve">
+    <value>Preľudnenie viedlo k hladomoru a značným ekonomickým stratám na celom svete. Úmrtie {0} ľudí na celom svete od hladu predĺžilo svetovú populáciu z {1} na {2}. Krajiny na celom svete minuli {3} v snahe zachrániť svojich občanov pred hladom. Napätie a konflikty sú na vzostupe kvôli nedostatku potravín.</value>
+  </data>
+  <data name="local_famine_message" xml:space="preserve">
+    <value>Preľudnenie v {0} vedie k hladomoru. Smrť vyhladovaním {1} ľudí v meste {0} šokovala svet. Ich populácia sa zmenila z {2} na {3}. {0} minul {4} v snahe zachrániť svojich občanov pred hladom.</value>
   </data>
 </root>

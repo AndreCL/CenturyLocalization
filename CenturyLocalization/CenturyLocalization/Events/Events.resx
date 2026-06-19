@@ -117,7 +117,19 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="famine" xml:space="preserve">
+  <data name="famine_title" xml:space="preserve">
     <value>Famine!</value>
+  </data>
+  <data name="annexed_title" xml:space="preserve">
+    <value>Annexation!</value>
+  </data>
+  <data name="annexed_message" xml:space="preserve">
+    <value>{0} has annexed {1} with a population of {2} and area of {3}.</value>
+  </data>
+  <data name="global_famine_message" xml:space="preserve">
+    <value>Overpopulation has lead to famine and substantial economic losses around the world. The death of {0} people worldwide to starvation has taken the world population from {1} to {2}. Countries worldwide have spent {3} in an attempt to save their citizens from starvation. Tensions and conflicts are on the rise due to lack of food supplies.</value>
+  </data>
+  <data name="local_famine_message" xml:space="preserve">
+    <value>Overpopulation in {0} leads to Famine. The death of {1} people to starvation in {0} has shocked the world. Their population has gone from from {2} to {3}. {0} has spent {4} in an attempt to save its citizens from starvation.</value>
   </data>
 </root>

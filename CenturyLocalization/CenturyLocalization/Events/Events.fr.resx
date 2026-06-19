@@ -117,7 +117,19 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="famine" xml:space="preserve">
+  <data name="famine_title" xml:space="preserve">
     <value>Famine !</value>
+  </data>
+  <data name="annexed_title" xml:space="preserve">
+    <value>Annexion !</value>
+  </data>
+  <data name="annexed_message" xml:space="preserve">
+    <value>{0} a annexé {1} avec une population de {2} et une superficie de {3}.</value>
+  </data>
+  <data name="global_famine_message" xml:space="preserve">
+    <value>La surpopulation a entraîné la famine et des pertes économiques considérables dans le monde entier. La mort de faim de {0} personnes dans le monde a fait passer la population mondiale de {1} à {2}. Des pays du monde entier ont dépensé {3} pour tenter de sauver leurs citoyens de la famine. Les tensions et les conflits s’accentuent en raison du manque de vivres.</value>
+  </data>
+  <data name="local_famine_message" xml:space="preserve">
+    <value>La surpopulation dans {0} mène à la famine. La mort de faim de {1} personnes à {0} a choqué le monde. Leur population est passée de {2} à {3}. {0} a dépensé {4} pour tenter de sauver ses citoyens de la famine.</value>
   </data>
 </root>
