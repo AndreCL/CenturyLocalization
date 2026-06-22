@@ -668,10 +668,10 @@ Una vez que la tensión mundial alcanza el 100 %, se desencadena una guerra mund
     <value>Enviar fuerza aérea expedicionaria</value>
   </data>
   <data name="send_air_equipment" xml:space="preserve">
-    <value>enviar equipo aéreo</value>
+    <value>Enviar equipo aéreo</value>
   </data>
   <data name="send_economic_help" xml:space="preserve">
-    <value>enviar ayuda económica</value>
+    <value>Enviar ayuda económica</value>
   </data>
   <data name="send" xml:space="preserve">
     <value>Enviar</value>
