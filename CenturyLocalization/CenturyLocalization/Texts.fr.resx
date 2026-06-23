@@ -431,9 +431,6 @@ Un nouveau siècle s'ouvre à nous. Nous vous souhaitons une bonne année. Que c
 Une nouvelle année s'ouvre à nous. Nous vous souhaitons une bonne année. Que cette nouvelle ère soit paisible.</value>
     <comment>For the news paper event</comment>
   </data>
-  <data name="annexed_message" xml:space="preserve">
-    <value>{countryToDelete.Name} est devenu si petit et insignifiant que {inherited.Name} l'a absorbé</value>
-  </data>
   <data name="inconclusive_title" xml:space="preserve">
     <value>{warToRemove.Name} se termine de manière indécise</value>
   </data>

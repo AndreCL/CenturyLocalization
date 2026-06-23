@@ -151,15 +151,6 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to {countryToDelete.Name} became so small and insignificant that {inherited.Name} has absorbed it.
-        /// </summary>
-        internal static string annexed_message {
-            get {
-                return ResourceManager.GetString("annexed_message", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Century.
         /// </summary>
         internal static string ApplicationName {

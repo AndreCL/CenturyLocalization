@@ -418,9 +418,6 @@
     <value>Дорогие читатели,
 Новый год наступает. Мы желаем вам счастливого нового года. Пусть это новое время будет мирным.</value>
   </data>
-  <data name="annexed_message" xml:space="preserve">
-    <value>{countryToDelete.Name} стал настолько маленьким и незначительным, что {inherited.Name} поглотил его.</value>
-  </data>
   <data name="inconclusive_title" xml:space="preserve">
     <value>{warToRemove.Name} заканчивается безрезультатно</value>
   </data>
