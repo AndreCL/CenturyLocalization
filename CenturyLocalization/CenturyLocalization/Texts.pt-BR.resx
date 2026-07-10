@@ -417,9 +417,6 @@ Um novo século chegou. Desejamos a você um feliz novo século. Que este novo t
     <value>Caros leitores,
 Um novo ano chegou. Desejamos a vocês um feliz ano novo. Que este novo ano seja repleto de paz.</value>
   </data>
-  <data name="annexed_message" xml:space="preserve">
-    <value>{countryToDelete.Name} tornou-se tão pequeno e insignificante que {inherited.Name} o absorveu</value>
-  </data>
   <data name="inconclusive_title" xml:space="preserve">
     <value>{warToRemove.Name} Terminou de maneira inconclusiva</value>
   </data>

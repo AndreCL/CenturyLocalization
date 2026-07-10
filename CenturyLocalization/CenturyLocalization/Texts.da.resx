@@ -414,9 +414,6 @@ Et nyt århundrede er over os. Vi ønsker jer et godt nytår. Må denne nye tid 
     <value>Kære læsere,
 Et nyt år er over os. Vi ønsker jer et godt nytår. Må denne nye tid være fredelig.</value>
   </data>
-  <data name="annexed_message" xml:space="preserve">
-    <value>{countryToDelete.Name} blev så lille og ubetydelig, at {inherited.Name} har opslugt det.</value>
-  </data>
   <data name="inconclusive_title" xml:space="preserve">
     <value>{warToRemove.Name} ender uden konklusion</value>
   </data>

@@ -29,8 +29,13 @@ Open source implementation of localization for Century
 ## Adding a language:
 * Create Actions file
 * Create CountryNames file
+* Create EndScreen file
+* Create Events file
 * Create PopulationAttributes file
 * Create WarNames file
 * Create Texts file
-* Create EndScreen file
+
 * Add language to Localization._supportedCultureNames
+
+# Adding a localization category
+* Add to DataConsistencyTests (add resource names from each ResourceManager and add all resource names from each source)

@@ -431,9 +431,6 @@ Nastáva nové storočie. Prajeme vám šťastný nový rok. Nech je toto nové 
 Nastáva nový rok. Prajeme vám šťastný nový rok. Nech je toto nové obdobie pokojné.</value>
     <comment>For the news paper event</comment>
   </data>
-  <data name="annexed_message" xml:space="preserve">
-    <value>{countryToDelete.Name} sa stala takou malou a bezvýznamnou, že ju {inherited.Name} pohltila</value>
-  </data>
   <data name="inconclusive_title" xml:space="preserve">
     <value>{warToRemove.Name} končí bez jednoznačného výsledku</value>
   </data>

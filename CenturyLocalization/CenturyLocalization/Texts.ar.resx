@@ -413,9 +413,6 @@
     <value>أعزائي القراء،
 عام جديد يطل علينا. نتمنى لكم سنة جديدة سعيدة. نتمنى أن يكون هذا الوقت الجديد مليئًا بالسلام.</value>
   </data>
-  <data name="annexed_message" xml:space="preserve">
-    <value>أصبح {countryToDelete.Name} صغيرًا وغير مهم لدرجة أن {inherited.Name} قد امتصه.</value>
-  </data>
   <data name="inconclusive_title" xml:space="preserve">
     <value> انتهت {warToRemove.Name} بدون نتيجة حاسمة</value>
   </data>

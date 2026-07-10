@@ -1,6 +1,10 @@
 ﻿using CenturyLocalization;
 using CenturyLocalization.Actions;
 using CenturyLocalization.CountryNames;
+using CenturyLocalization.EndScreen;
+using CenturyLocalization.Events;
+using CenturyLocalization.PopulationAttributes;
+using CenturyLocalization.WarNames;
 using System.Collections;
 using System.Collections.Generic;
 using System.Globalization;
@@ -19,17 +23,25 @@ public class DataConsistencyTests
         var textsResourceNames = GetResourceNames(Texts.ResourceManager);
         var countryNamesResourceNames = GetResourceNames(CountryNames.ResourceManager);
         var actionsResourceNames = GetResourceNames(Actions.ResourceManager);
+        var endScreenResourceNames = GetResourceNames(EndScreen.ResourceManager);
+        var eventsResourceNames = GetResourceNames(Events.ResourceManager);
+        var populationAttributesResourceNames = GetResourceNames(PopulationAttributes.ResourceManager);
+        var warNamesResourceNames = GetResourceNames(WarNames.ResourceManager);
 
-        // Create a dictionary to track resource names and their sources
-        var resourceNameSources = new Dictionary<string, List<string>>();
+		// Create a dictionary to track resource names and their sources
+		var resourceNameSources = new Dictionary<string, List<string>>();
 
         // Add all resource names from each source
         AddResourceNamesFromSource(resourceNameSources, textsResourceNames, "Texts");
         AddResourceNamesFromSource(resourceNameSources, countryNamesResourceNames, "CountryNames");
         AddResourceNamesFromSource(resourceNameSources, actionsResourceNames, "Actions");
+		AddResourceNamesFromSource(resourceNameSources, endScreenResourceNames, "EndScreen");
+		AddResourceNamesFromSource(resourceNameSources, eventsResourceNames, "Events");
+		AddResourceNamesFromSource(resourceNameSources, populationAttributesResourceNames, "PopulationAttributes");
+		AddResourceNamesFromSource(resourceNameSources, warNamesResourceNames, "WarNames");
 
-        // Find duplicates
-        var duplicates = resourceNameSources
+		// Find duplicates
+		var duplicates = resourceNameSources
             .Where(kvp => kvp.Value.Count > 1)
             .ToList();
 
