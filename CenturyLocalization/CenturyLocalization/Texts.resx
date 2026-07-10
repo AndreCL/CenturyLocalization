@@ -693,4 +693,7 @@ Once the World Tension reaches 100%, a World War is triggered and it resets.
   <data name="send" xml:space="preserve">
     <value>Send</value>
   </data>
+  <data name="warning_settings_changes" xml:space="preserve">
+    <value>Warning! The game is designed to work with the settings below set to default. Changing them can cause unexpected issues in the game</value>
+  </data>
 </root>

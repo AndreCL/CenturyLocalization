@@ -1647,6 +1647,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Warning! The game is designed to work with the settings below set to default. Changing them can cause unexpected issues in the game.
+        /// </summary>
+        internal static string warning_settings_changes {
+            get {
+                return ResourceManager.GetString("warning_settings_changes", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to {0} weeks.
         /// </summary>
         internal static string weeks {

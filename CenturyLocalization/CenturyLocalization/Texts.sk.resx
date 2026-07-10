@@ -692,4 +692,7 @@ Keď svetové napätie dosiahne 100%, spustí sa svetová vojna a resetuje sa.
   <data name="send" xml:space="preserve">
     <value>Odoslať</value>
   </data>
+  <data name="warning_settings_changes" xml:space="preserve">
+    <value>POZOR! Hra je navrhnutá tak, aby fungovala s predvolenými nastaveniami uvedenými nižšie. Ich zmena môže spôsobiť neočakávané problémy v hre</value>
+  </data>
 </root>

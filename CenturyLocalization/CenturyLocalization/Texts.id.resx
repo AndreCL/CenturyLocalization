@@ -674,4 +674,7 @@ Ketika Ketegangan Dunia mencapai 100%, Perang Dunia akan dipicu dan nilainya dia
   <data name="send" xml:space="preserve">
     <value>Mengirim</value>
   </data>
+  <data name="warning_settings_changes" xml:space="preserve">
+    <value>Peringatan! Game ini dirancang untuk bekerja dengan pengaturan di bawah ini yang disetel ke default. Mengubahnya dapat menyebabkan masalah tak terduga dalam game</value>
+  </data>
 </root>

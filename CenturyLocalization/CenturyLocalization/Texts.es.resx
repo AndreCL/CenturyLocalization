@@ -676,4 +676,7 @@ Una vez que la tensión mundial alcanza el 100 %, se desencadena una guerra mund
   <data name="send" xml:space="preserve">
     <value>Enviar</value>
   </data>
+  <data name="warning_settings_changes" xml:space="preserve">
+    <value>¡Advertencia! El juego está diseñado para funcionar con la siguiente configuración predeterminada. Cambiarlos puede causar problemas inesperados en el juego.</value>
+  </data>
 </root>

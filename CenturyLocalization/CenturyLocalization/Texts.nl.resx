@@ -674,4 +674,7 @@ Wanneer de wereldspanning 100% bereikt, wordt een wereldoorlog ontketend en word
   <data name="send" xml:space="preserve">
     <value>Versturen</value>
   </data>
+  <data name="warning_settings_changes" xml:space="preserve">
+    <value>Waarschuwing! De game is ontworpen om te werken met de onderstaande instellingen op de standaardinstellingen. Het wijzigen ervan kan onverwachte problemen in het spel veroorzaken</value>
+  </data>
 </root>

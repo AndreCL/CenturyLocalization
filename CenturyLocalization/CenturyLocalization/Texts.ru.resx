@@ -679,4 +679,7 @@
   <data name="send" xml:space="preserve">
     <value>Отправлять</value>
   </data>
+  <data name="warning_settings_changes" xml:space="preserve">
+    <value>Предупреждение! Игра предназначена для работы с приведенными ниже настройками по умолчанию. Их изменение может вызвать непредвиденные проблемы в игре.</value>
+  </data>
 </root>

@@ -694,4 +694,7 @@
   <data name="send" xml:space="preserve">
     <value>Göndermek</value>
   </data>
+  <data name="warning_settings_changes" xml:space="preserve">
+    <value>Uyarı! Oyun, aşağıdaki ayarlar varsayılan olarak ayarlandığında çalışacak şekilde tasarlanmıştır. Bunları değiştirmek oyunda beklenmeyen sorunlara neden olabilir</value>
+  </data>
 </root>

@@ -675,4 +675,7 @@ Når verdensspændingen når 100 %, udløses en verdenskrig, og værdien nulstil
   <data name="send" xml:space="preserve">
     <value>Send</value>
   </data>
+  <data name="warning_settings_changes" xml:space="preserve">
+    <value>Advarsel! Spillet er designet til at fungere med indstillingerne nedenfor sat til standard. Ændring af dem kan forårsage uventede problemer i spillet</value>
+  </data>
 </root>
