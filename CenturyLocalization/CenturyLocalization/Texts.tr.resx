@@ -693,4 +693,7 @@
   <data name="warning_settings_changes" xml:space="preserve">
     <value>Uyarı! Oyun, aşağıdaki ayarlar varsayılan olarak ayarlandığında çalışacak şekilde tasarlanmıştır. Bunları değiştirmek oyunda beklenmeyen sorunlara neden olabilir</value>
   </data>
+  <data name="add_war_goal" xml:space="preserve">
+    <value>Savaş hedefi ekle</value>
+  </data>
 </root>

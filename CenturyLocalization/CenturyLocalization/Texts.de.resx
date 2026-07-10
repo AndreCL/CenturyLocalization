@@ -674,4 +674,7 @@ Sobald die Weltspannung 100 % erreicht, wird ein Weltkrieg ausgelöst und der We
   <data name="warning_settings_changes" xml:space="preserve">
     <value>Warnung! Das Spiel ist so konzipiert, dass es mit den unten aufgeführten Standardeinstellungen funktioniert. Wenn Sie sie ändern, kann es zu unerwarteten Problemen im Spiel kommen</value>
   </data>
+  <data name="add_war_goal" xml:space="preserve">
+    <value>Kriegsziel hinzufügen</value>
+  </data>
 </root>

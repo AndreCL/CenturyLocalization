@@ -675,4 +675,7 @@ Når verdensspændingen når 100 %, udløses en verdenskrig, og værdien nulstil
   <data name="warning_settings_changes" xml:space="preserve">
     <value>Advarsel! Spillet er designet til at fungere med indstillingerne nedenfor sat til standard. Ændring af dem kan forårsage uventede problemer i spillet</value>
   </data>
+  <data name="add_war_goal" xml:space="preserve">
+    <value>Tilføj krigsmål</value>
+  </data>
 </root>

@@ -674,4 +674,7 @@
   <data name="warning_settings_changes" xml:space="preserve">
     <value>تحذير! تم تصميم اللعبة للعمل مع ضبط الإعدادات أدناه على الوضع الافتراضي. قد يؤدي تغييرها إلى حدوث مشكلات غير متوقعة في اللعبة</value>
   </data>
+  <data name="add_war_goal" xml:space="preserve">
+    <value>إضافة هدف الحرب</value>
+  </data>
 </root>

@@ -679,4 +679,7 @@
   <data name="warning_settings_changes" xml:space="preserve">
     <value>Предупреждение! Игра предназначена для работы с приведенными ниже настройками по умолчанию. Их изменение может вызвать непредвиденные проблемы в игре.</value>
   </data>
+  <data name="add_war_goal" xml:space="preserve">
+    <value>Добавить цель войны</value>
+  </data>
 </root>

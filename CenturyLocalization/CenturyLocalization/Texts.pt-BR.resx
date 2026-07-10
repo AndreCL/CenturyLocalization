@@ -672,4 +672,7 @@ Um novo ano chegou. Desejamos a vocês um feliz ano novo. Que este novo ano seja
   <data name="warning_settings_changes" xml:space="preserve">
     <value>Aviso! O jogo foi projetado para funcionar com as configurações abaixo definidas como padrão. Alterá-los pode causar problemas inesperados no jogo</value>
   </data>
+  <data name="add_war_goal" xml:space="preserve">
+    <value>Adicionar objetivo de guerra</value>
+  </data>
 </root>

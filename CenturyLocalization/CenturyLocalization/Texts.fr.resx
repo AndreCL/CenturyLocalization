@@ -694,4 +694,7 @@ Une fois que la tension mondiale atteint 100 %, une guerre mondiale est déclenc
   <data name="warning_settings_changes" xml:space="preserve">
     <value>Avertissement! Le jeu est conçu pour fonctionner avec les paramètres ci-dessous définis par défaut. Les modifier peut provoquer des problèmes inattendus dans le jeu</value>
   </data>
+  <data name="add_war_goal" xml:space="preserve">
+    <value>Ajouter un objectif de guerre</value>
+  </data>
 </root>
