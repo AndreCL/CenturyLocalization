@@ -132,4 +132,22 @@
   <data name="local_famine_message" xml:space="preserve">
     <value>Overbevolking in {0} leidt tot hongersnood. De dood van {1} mensen door honger in {0} heeft de wereld geschokt. Hun bevolking is gestegen van {2} naar {3}. {0} heeft {4} uitgegeven in een poging zijn burgers te redden van de hongerdood.</value>
   </data>
+  <data name="select_war_goal" xml:space="preserve">
+    <value>Selecteer oorlogsdoel</value>
+  </data>
+  <data name="later" xml:space="preserve">
+    <value>Wij zullen dit later doen</value>
+  </data>
+  <data name="just_peace" xml:space="preserve">
+    <value>Wij willen gewoon vrede</value>
+  </data>
+  <data name="economic_compensation" xml:space="preserve">
+    <value>We willen {0} aan economische compensatie van {1}</value>
+  </data>
+  <data name="annex_country" xml:space="preserve">
+    <value>We willen {0} annexeren</value>
+  </data>
+  <data name="conquer_land" xml:space="preserve">
+    <value>We willen {0} land van {1}</value>
+  </data>
 </root>

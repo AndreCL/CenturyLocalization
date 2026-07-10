@@ -132,4 +132,22 @@
   <data name="local_famine_message" xml:space="preserve">
     <value>Перенаселение в {0} приводит к голоду. Смерть {1} человек от голода в {0} потрясла мир. Их население увеличилось с {2} до {3}. {0} потратил {4}, пытаясь спасти своих граждан от голодной смерти.</value>
   </data>
+  <data name="select_war_goal" xml:space="preserve">
+    <value>Выберите цель войны</value>
+  </data>
+  <data name="later" xml:space="preserve">
+    <value>Мы сделаем это позже</value>
+  </data>
+  <data name="just_peace" xml:space="preserve">
+    <value>Мы просто хотим мира</value>
+  </data>
+  <data name="economic_compensation" xml:space="preserve">
+    <value>Мы хотим получить {0} в качестве экономической компенсации от {1}.</value>
+  </data>
+  <data name="annex_country" xml:space="preserve">
+    <value>Мы хотим аннексировать {0}</value>
+  </data>
+  <data name="conquer_land" xml:space="preserve">
+    <value>Нам нужен {0} земельный участок от {1}</value>
+  </data>
 </root>

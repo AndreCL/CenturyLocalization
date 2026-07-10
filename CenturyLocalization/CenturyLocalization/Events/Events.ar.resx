@@ -132,4 +132,22 @@
   <data name="local_famine_message" xml:space="preserve">
     <value>يؤدي الاكتظاظ السكاني في {0} إلى المجاعة. لقد صدمت وفاة {1} شخص بسبب الجوع في {0} العالم. لقد انتقل عدد سكانها من {2} إلى {3}. لقد أنفقت {0} {4} في محاولة لإنقاذ مواطنيها من المجاعة.</value>
   </data>
+  <data name="select_war_goal" xml:space="preserve">
+    <value>حدد هدف الحرب</value>
+  </data>
+  <data name="later" xml:space="preserve">
+    <value>سنفعل هذا لاحقا</value>
+  </data>
+  <data name="just_peace" xml:space="preserve">
+    <value>نحن نريد السلام فقط</value>
+  </data>
+  <data name="economic_compensation" xml:space="preserve">
+    <value>نريد الحصول على {0} تعويضًا اقتصاديًا من {1}</value>
+  </data>
+  <data name="annex_country" xml:space="preserve">
+    <value>نريد ضم {0}</value>
+  </data>
+  <data name="conquer_land" xml:space="preserve">
+    <value>نريد أرضًا {0} من {1}</value>
+  </data>
 </root>

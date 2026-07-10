@@ -61,6 +61,15 @@ namespace CenturyLocalization.Events {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to We want to annex {0}.
+        /// </summary>
+        internal static string annex_country {
+            get {
+                return ResourceManager.GetString("annex_country", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to {0} has annexed {1} with a population of {2} and area of {3}..
         /// </summary>
         internal static string annexed_message {
@@ -75,6 +84,24 @@ namespace CenturyLocalization.Events {
         internal static string annexed_title {
             get {
                 return ResourceManager.GetString("annexed_title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to We want {0} land from {1}.
+        /// </summary>
+        internal static string conquer_land {
+            get {
+                return ResourceManager.GetString("conquer_land", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to We want {0} in economic compensation from {1}.
+        /// </summary>
+        internal static string economic_compensation {
+            get {
+                return ResourceManager.GetString("economic_compensation", resourceCulture);
             }
         }
         
@@ -97,11 +124,38 @@ namespace CenturyLocalization.Events {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to We just want peace.
+        /// </summary>
+        internal static string just_peace {
+            get {
+                return ResourceManager.GetString("just_peace", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to We will do this later.
+        /// </summary>
+        internal static string later {
+            get {
+                return ResourceManager.GetString("later", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Overpopulation in {0} leads to Famine. The death of {1} people to starvation in {0} has shocked the world. Their population has gone from from {2} to {3}. {0} has spent {4} in an attempt to save its citizens from starvation..
         /// </summary>
         internal static string local_famine_message {
             get {
                 return ResourceManager.GetString("local_famine_message", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Select war goal.
+        /// </summary>
+        internal static string select_war_goal {
+            get {
+                return ResourceManager.GetString("select_war_goal", resourceCulture);
             }
         }
     }

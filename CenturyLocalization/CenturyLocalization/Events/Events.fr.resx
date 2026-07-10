@@ -132,4 +132,22 @@
   <data name="local_famine_message" xml:space="preserve">
     <value>La surpopulation dans {0} mène à la famine. La mort de faim de {1} personnes à {0} a choqué le monde. Leur population est passée de {2} à {3}. {0} a dépensé {4} pour tenter de sauver ses citoyens de la famine.</value>
   </data>
+  <data name="select_war_goal" xml:space="preserve">
+    <value>Sélectionnez un objectif de guerre</value>
+  </data>
+  <data name="later" xml:space="preserve">
+    <value>Nous le ferons plus tard</value>
+  </data>
+  <data name="just_peace" xml:space="preserve">
+    <value>Nous voulons juste la paix</value>
+  </data>
+  <data name="economic_compensation" xml:space="preserve">
+    <value>Nous voulons {0} en compensation économique de {1}</value>
+  </data>
+  <data name="annex_country" xml:space="preserve">
+    <value>Nous voulons annexer {0}</value>
+  </data>
+  <data name="conquer_land" xml:space="preserve">
+    <value>Nous voulons {0} terrains de {1}</value>
+  </data>
 </root>
