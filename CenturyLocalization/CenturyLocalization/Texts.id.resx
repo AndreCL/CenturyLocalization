@@ -674,7 +674,31 @@ Ketika Ketegangan Dunia mencapai 100%, Perang Dunia akan dipicu dan nilainya dia
   <data name="warning_settings_changes" xml:space="preserve">
     <value>Peringatan! Game ini dirancang untuk bekerja dengan pengaturan di bawah ini yang disetel ke default. Mengubahnya dapat menyebabkan masalah tak terduga dalam game</value>
   </data>
-  <data name="add_war_goal" xml:space="preserve">
+  <data name="add_war_goal_button" xml:space="preserve">
     <value>Tambahkan tujuan perang</value>
+  </data>
+  <data name="cost_foreign_policy_switch" xml:space="preserve">
+    <value>Biaya untuk beralih: {0} keburukan</value>
+  </data>
+  <data name="switch_to" xml:space="preserve">
+    <value>Beralih ke {0}</value>
+  </data>
+  <data name="can_get_called_into_wars" xml:space="preserve">
+    <value>• Terpanggil berperang untuk membela negara baru\n</value>
+  </data>
+  <data name="can_get_called_into_world_wars" xml:space="preserve">
+    <value>• Terpanggil dalam perang Dunia\n</value>
+  </data>
+  <data name="can_get_called_into_wars_infamy" xml:space="preserve">
+    <value>• Terpanggil berperang melawan negara-negara dengan tingkat keburukan yang tinggi\n</value>
+  </data>
+  <data name="can_declare_war_all" xml:space="preserve">
+    <value>• Dapat mendeklarasikan perang terhadap negara mana pun\n</value>
+  </data>
+  <data name="dont_get_called_into_wars" xml:space="preserve">
+    <value>• Jangan terlibat dalam perang\n</value>
+  </data>
+  <data name="can_declare_war_above" xml:space="preserve">
+    <value>• Dapat mendeklarasikan perang terhadap negara dengan tingkat keburukan di atas {0}\n</value>
   </data>
 </root>

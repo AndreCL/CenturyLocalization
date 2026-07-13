@@ -81,9 +81,9 @@ namespace CenturyLocalization {
         /// <summary>
         ///   Looks up a localized string similar to Add war goal.
         /// </summary>
-        internal static string add_war_goal {
+        internal static string add_war_goal_button {
             get {
-                return ResourceManager.GetString("add_war_goal", resourceCulture);
+                return ResourceManager.GetString("add_war_goal_button", resourceCulture);
             }
         }
         
@@ -259,6 +259,51 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to • Can declare war on nations with infamy above {0}\n.
+        /// </summary>
+        internal static string can_declare_war_above {
+            get {
+                return ResourceManager.GetString("can_declare_war_above", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to • Can declare war on any nation\n.
+        /// </summary>
+        internal static string can_declare_war_all {
+            get {
+                return ResourceManager.GetString("can_declare_war_all", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to • Get called into wars to defend new nations\n.
+        /// </summary>
+        internal static string can_get_called_into_wars {
+            get {
+                return ResourceManager.GetString("can_get_called_into_wars", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to • Get called into wars against countries with high infamy\n.
+        /// </summary>
+        internal static string can_get_called_into_wars_infamy {
+            get {
+                return ResourceManager.GetString("can_get_called_into_wars_infamy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to • Get called into World wars\n.
+        /// </summary>
+        internal static string can_get_called_into_world_wars {
+            get {
+                return ResourceManager.GetString("can_get_called_into_world_wars", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Cancel.
         /// </summary>
         internal static string cancel {
@@ -309,6 +354,15 @@ namespace CenturyLocalization {
         internal static string Continuegame {
             get {
                 return ResourceManager.GetString("Continuegame", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cost to switch: {0} infamy.
+        /// </summary>
+        internal static string cost_foreign_policy_switch {
+            get {
+                return ResourceManager.GetString("cost_foreign_policy_switch", resourceCulture);
             }
         }
         
@@ -489,6 +543,15 @@ namespace CenturyLocalization {
         internal static string dont_extend_game {
             get {
                 return ResourceManager.GetString("dont_extend_game", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to • Don&apos;t get called into wars\n.
+        /// </summary>
+        internal static string dont_get_called_into_wars {
+            get {
+                return ResourceManager.GetString("dont_get_called_into_wars", resourceCulture);
             }
         }
         
@@ -1490,6 +1553,15 @@ namespace CenturyLocalization {
         internal static string state {
             get {
                 return ResourceManager.GetString("state", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Switch to {0}.
+        /// </summary>
+        internal static string switch_to {
+            get {
+                return ResourceManager.GetString("switch_to", resourceCulture);
             }
         }
         

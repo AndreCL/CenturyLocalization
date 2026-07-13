@@ -679,7 +679,31 @@
   <data name="warning_settings_changes" xml:space="preserve">
     <value>Предупреждение! Игра предназначена для работы с приведенными ниже настройками по умолчанию. Их изменение может вызвать непредвиденные проблемы в игре.</value>
   </data>
-  <data name="add_war_goal" xml:space="preserve">
+  <data name="add_war_goal_button" xml:space="preserve">
     <value>Добавить цель войны</value>
+  </data>
+  <data name="cost_foreign_policy_switch" xml:space="preserve">
+    <value>Стоимость перехода: {0} позорной репутации.</value>
+  </data>
+  <data name="switch_to" xml:space="preserve">
+    <value>Переключиться на {0}</value>
+  </data>
+  <data name="can_get_called_into_wars" xml:space="preserve">
+    <value>• Призывайтесь на войны для защиты новых наций\n</value>
+  </data>
+  <data name="can_get_called_into_world_wars" xml:space="preserve">
+    <value>• Вас призывают в мировые войны\n</value>
+  </data>
+  <data name="can_get_called_into_wars_infamy" xml:space="preserve">
+    <value>• Вас призывают воевать против стран с высокой репутацией\n</value>
+  </data>
+  <data name="can_declare_war_all" xml:space="preserve">
+    <value>• Может объявить войну любой стране\n</value>
+  </data>
+  <data name="dont_get_called_into_wars" xml:space="preserve">
+    <value>• Не участвуйте в войнах\n</value>
+  </data>
+  <data name="can_declare_war_above" xml:space="preserve">
+    <value>• Может объявить войну странам с позорной репутацией выше {0}\n</value>
   </data>
 </root>

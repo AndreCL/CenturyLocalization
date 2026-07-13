@@ -675,7 +675,31 @@ Når verdensspændingen når 100 %, udløses en verdenskrig, og værdien nulstil
   <data name="warning_settings_changes" xml:space="preserve">
     <value>Advarsel! Spillet er designet til at fungere med indstillingerne nedenfor sat til standard. Ændring af dem kan forårsage uventede problemer i spillet</value>
   </data>
-  <data name="add_war_goal" xml:space="preserve">
+  <data name="add_war_goal_button" xml:space="preserve">
     <value>Tilføj krigsmål</value>
+  </data>
+  <data name="cost_foreign_policy_switch" xml:space="preserve">
+    <value>Pris for at skifte: {0} skændsel</value>
+  </data>
+  <data name="switch_to" xml:space="preserve">
+    <value>Skift til {0}</value>
+  </data>
+  <data name="can_get_called_into_wars" xml:space="preserve">
+    <value>• Bliv kaldt ind i krige for at forsvare nye nationer\n</value>
+  </data>
+  <data name="can_get_called_into_world_wars" xml:space="preserve">
+    <value>• Bliv kaldt ind i verdenskrige\n</value>
+  </data>
+  <data name="can_get_called_into_wars_infamy" xml:space="preserve">
+    <value>• Bliv kaldet ind i krige mod lande med stor skændsel\n</value>
+  </data>
+  <data name="can_declare_war_all" xml:space="preserve">
+    <value>• Kan erklære krig mod enhver nation\n</value>
+  </data>
+  <data name="dont_get_called_into_wars" xml:space="preserve">
+    <value>• Bliv ikke kaldt ind i krige\n</value>
+  </data>
+  <data name="can_declare_war_above" xml:space="preserve">
+    <value>• Kan erklære krig mod nationer med skændsel over {0}\n</value>
   </data>
 </root>

@@ -692,7 +692,31 @@ Keď svetové napätie dosiahne 100%, spustí sa svetová vojna a resetuje sa.
   <data name="warning_settings_changes" xml:space="preserve">
     <value>POZOR! Hra je navrhnutá tak, aby fungovala s predvolenými nastaveniami uvedenými nižšie. Ich zmena môže spôsobiť neočakávané problémy v hre</value>
   </data>
-  <data name="add_war_goal" xml:space="preserve">
+  <data name="add_war_goal_button" xml:space="preserve">
     <value>Pridajte vojnový cieľ</value>
+  </data>
+  <data name="cost_foreign_policy_switch" xml:space="preserve">
+    <value>Cena za prechod: {0} neslávne</value>
+  </data>
+  <data name="switch_to" xml:space="preserve">
+    <value>Prepnúť na {0}</value>
+  </data>
+  <data name="can_get_called_into_wars" xml:space="preserve">
+    <value>• Nechajte sa zavolať do vojen na obranu nových národov\n</value>
+  </data>
+  <data name="can_get_called_into_world_wars" xml:space="preserve">
+    <value>• Nechajte sa zavolať do svetových vojen\n</value>
+  </data>
+  <data name="can_get_called_into_wars_infamy" xml:space="preserve">
+    <value>• Nechajte sa zavolať do vojen proti krajinám s vysokou hanbou\n</value>
+  </data>
+  <data name="can_declare_war_all" xml:space="preserve">
+    <value>• Môže vyhlásiť vojnu ktorémukoľvek národu\n</value>
+  </data>
+  <data name="dont_get_called_into_wars" xml:space="preserve">
+    <value>• Nenechajte sa zavolať do vojen\n</value>
+  </data>
+  <data name="can_declare_war_above" xml:space="preserve">
+    <value>• Môže vyhlásiť vojnu národom s hanbou nad {0}\n</value>
   </data>
 </root>

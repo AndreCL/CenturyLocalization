@@ -693,7 +693,31 @@
   <data name="warning_settings_changes" xml:space="preserve">
     <value>Uyarı! Oyun, aşağıdaki ayarlar varsayılan olarak ayarlandığında çalışacak şekilde tasarlanmıştır. Bunları değiştirmek oyunda beklenmeyen sorunlara neden olabilir</value>
   </data>
-  <data name="add_war_goal" xml:space="preserve">
+  <data name="add_war_goal_button" xml:space="preserve">
     <value>Savaş hedefi ekle</value>
+  </data>
+  <data name="cost_foreign_policy_switch" xml:space="preserve">
+    <value>Geçiş yapmanın maliyeti: {0} rezillik</value>
+  </data>
+  <data name="switch_to" xml:space="preserve">
+    <value>{0}'a geç</value>
+  </data>
+  <data name="can_get_called_into_wars" xml:space="preserve">
+    <value>• Yeni ulusları savunmak için savaşlara çağrılın\n</value>
+  </data>
+  <data name="can_get_called_into_world_wars" xml:space="preserve">
+    <value>• Dünya savaşlarına çağrılın\n</value>
+  </data>
+  <data name="can_get_called_into_wars_infamy" xml:space="preserve">
+    <value>• Kötü şöhreti yüksek ülkelere karşı savaşlara çağrılın\n</value>
+  </data>
+  <data name="can_declare_war_all" xml:space="preserve">
+    <value>• Herhangi bir ülkeye savaş ilan edebilir\n</value>
+  </data>
+  <data name="dont_get_called_into_wars" xml:space="preserve">
+    <value>• Savaşlara çağrılmayın\n</value>
+  </data>
+  <data name="can_declare_war_above" xml:space="preserve">
+    <value>• Kötü şöhreti {0}'ın üzerinde olan uluslara savaş ilan edebilir\n</value>
   </data>
 </root>

@@ -693,7 +693,31 @@ Once the World Tension reaches 100%, a World War is triggered and it resets.
   <data name="warning_settings_changes" xml:space="preserve">
     <value>Warning! The game is designed to work with the settings below set to default. Changing them can cause unexpected issues in the game</value>
   </data>
-  <data name="add_war_goal" xml:space="preserve">
+  <data name="add_war_goal_button" xml:space="preserve">
     <value>Add war goal</value>
+  </data>
+  <data name="cost_foreign_policy_switch" xml:space="preserve">
+    <value>Cost to switch: {0} infamy</value>
+  </data>
+  <data name="switch_to" xml:space="preserve">
+    <value>Switch to {0}</value>
+  </data>
+  <data name="can_get_called_into_wars" xml:space="preserve">
+    <value>• Get called into wars to defend new nations\n</value>
+  </data>
+  <data name="can_get_called_into_world_wars" xml:space="preserve">
+    <value>• Get called into World wars\n</value>
+  </data>
+  <data name="can_get_called_into_wars_infamy" xml:space="preserve">
+    <value>• Get called into wars against countries with high infamy\n</value>
+  </data>
+  <data name="can_declare_war_all" xml:space="preserve">
+    <value>• Can declare war on any nation\n</value>
+  </data>
+  <data name="dont_get_called_into_wars" xml:space="preserve">
+    <value>• Don't get called into wars\n</value>
+  </data>
+  <data name="can_declare_war_above" xml:space="preserve">
+    <value>• Can declare war on nations with infamy above {0}\n</value>
   </data>
 </root>

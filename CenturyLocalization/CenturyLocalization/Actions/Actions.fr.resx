@@ -170,7 +170,7 @@
   <data name="trigger_event" xml:space="preserve">
     <value>Déclencher l'événement {0}</value>
   </data>
-  <data name="add_war_goal" xml:space="preserve">
+  <data name="add_war_goal_action" xml:space="preserve">
     <value>Ajouter un objectif de guerre : {0}</value>
   </data>
 </root>

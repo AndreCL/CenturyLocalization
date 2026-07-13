@@ -674,7 +674,31 @@
   <data name="warning_settings_changes" xml:space="preserve">
     <value>تحذير! تم تصميم اللعبة للعمل مع ضبط الإعدادات أدناه على الوضع الافتراضي. قد يؤدي تغييرها إلى حدوث مشكلات غير متوقعة في اللعبة</value>
   </data>
-  <data name="add_war_goal" xml:space="preserve">
+  <data name="add_war_goal_button" xml:space="preserve">
     <value>إضافة هدف الحرب</value>
+  </data>
+  <data name="cost_foreign_policy_switch" xml:space="preserve">
+    <value>تكلفة التبديل: {0} عار</value>
+  </data>
+  <data name="switch_to" xml:space="preserve">
+    <value>التبديل إلى {0}</value>
+  </data>
+  <data name="can_get_called_into_wars" xml:space="preserve">
+    <value>• يتم استدعاؤك للمشاركة في حروب للدفاع عن دول جديدة\n</value>
+  </data>
+  <data name="can_get_called_into_world_wars" xml:space="preserve">
+    <value>• يتم استدعاؤك للمشاركة في حروب عالمية\n</value>
+  </data>
+  <data name="can_get_called_into_wars_infamy" xml:space="preserve">
+    <value>• يتم استدعاؤك للمشاركة في حروب ضد دول ذات سمعة سيئة للغاية\n</value>
+  </data>
+  <data name="can_declare_war_all" xml:space="preserve">
+    <value>• يمكنه إعلان الحرب على أي دولة\n</value>
+  </data>
+  <data name="dont_get_called_into_wars" xml:space="preserve">
+    <value>• لا يتم استدعاؤك للمشاركة في الحروب\n</value>
+  </data>
+  <data name="can_declare_war_above" xml:space="preserve">
+    <value>• يمكن إعلان الحرب على الدول ذات الشهرة الأعلى من {0}\n</value>
   </data>
 </root>

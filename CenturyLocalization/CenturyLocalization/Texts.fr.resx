@@ -694,7 +694,31 @@ Une fois que la tension mondiale atteint 100 %, une guerre mondiale est déclenc
   <data name="warning_settings_changes" xml:space="preserve">
     <value>Avertissement! Le jeu est conçu pour fonctionner avec les paramètres ci-dessous définis par défaut. Les modifier peut provoquer des problèmes inattendus dans le jeu</value>
   </data>
-  <data name="add_war_goal" xml:space="preserve">
+  <data name="add_war_goal_button" xml:space="preserve">
     <value>Ajouter un objectif de guerre</value>
+  </data>
+  <data name="cost_foreign_policy_switch" xml:space="preserve">
+    <value>Coût du changement : {0} infamie</value>
+  </data>
+  <data name="switch_to" xml:space="preserve">
+    <value>Passer à {0}</value>
+  </data>
+  <data name="can_get_called_into_wars" xml:space="preserve">
+    <value>• Soyez appelé à participer à des guerres pour défendre de nouvelles nations\n</value>
+  </data>
+  <data name="can_get_called_into_world_wars" xml:space="preserve">
+    <value>• Soyez appelé dans les guerres mondiales\n</value>
+  </data>
+  <data name="can_get_called_into_wars_infamy" xml:space="preserve">
+    <value>• Soyez appelé à participer à des guerres contre des pays à forte infamie\n</value>
+  </data>
+  <data name="can_declare_war_all" xml:space="preserve">
+    <value>• Peut déclarer la guerre à n'importe quelle nation\n</value>
+  </data>
+  <data name="dont_get_called_into_wars" xml:space="preserve">
+    <value>• Ne vous laissez pas appeler à la guerre\n</value>
+  </data>
+  <data name="can_declare_war_above" xml:space="preserve">
+    <value>• Peut déclarer la guerre aux nations dont l'infamie est supérieure à {0}\n</value>
   </data>
 </root>

@@ -674,7 +674,31 @@ Wanneer de wereldspanning 100% bereikt, wordt een wereldoorlog ontketend en word
   <data name="warning_settings_changes" xml:space="preserve">
     <value>Waarschuwing! De game is ontworpen om te werken met de onderstaande instellingen op de standaardinstellingen. Het wijzigen ervan kan onverwachte problemen in het spel veroorzaken</value>
   </data>
-  <data name="add_war_goal" xml:space="preserve">
+  <data name="add_war_goal_button" xml:space="preserve">
     <value>Oorlogsdoel toevoegen</value>
+  </data>
+  <data name="cost_foreign_policy_switch" xml:space="preserve">
+    <value>Kosten om over te stappen: {0} schande</value>
+  </data>
+  <data name="switch_to" xml:space="preserve">
+    <value>Schakel over naar {0}</value>
+  </data>
+  <data name="can_get_called_into_wars" xml:space="preserve">
+    <value>• Word betrokken bij oorlogen om nieuwe naties te verdedigen\n</value>
+  </data>
+  <data name="can_get_called_into_world_wars" xml:space="preserve">
+    <value>• Laat je betrekken bij wereldoorlogen\n</value>
+  </data>
+  <data name="can_get_called_into_wars_infamy" xml:space="preserve">
+    <value>• Word betrokken bij oorlogen tegen landen met veel schande\n</value>
+  </data>
+  <data name="can_declare_war_all" xml:space="preserve">
+    <value>• Kan elk land de oorlog verklaren\n</value>
+  </data>
+  <data name="dont_get_called_into_wars" xml:space="preserve">
+    <value>• Laat je niet in oorlogen betrekken\n</value>
+  </data>
+  <data name="can_declare_war_above" xml:space="preserve">
+    <value>• Kan de oorlog verklaren aan landen met schande boven {0}\n</value>
   </data>
 </root>
