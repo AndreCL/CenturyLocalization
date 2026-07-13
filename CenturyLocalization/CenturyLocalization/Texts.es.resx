@@ -686,21 +686,21 @@ Una vez que la tensión mundial alcanza el 100 %, se desencadena una guerra mund
     <value>Cambiar a {0}</value>
   </data>
   <data name="can_get_called_into_wars" xml:space="preserve">
-    <value>• Ser llamado a guerras para defender nuevas naciones\n</value>
+    <value>• Puedes ser llamado a guerras para defender nuevas naciones</value>
   </data>
   <data name="can_get_called_into_world_wars" xml:space="preserve">
-    <value>• Ser llamado a las guerras mundiales\n</value>
+    <value>• Puedes ser llamado a las guerras mundiales</value>
   </data>
   <data name="can_get_called_into_wars_infamy" xml:space="preserve">
-    <value>• Ser llamado a guerras contra países con mucha infamia\n</value>
+    <value>• Puedes ser llamado a guerras contra países con mucha infamia</value>
   </data>
   <data name="can_declare_war_all" xml:space="preserve">
-    <value>• Puede declarar la guerra a cualquier nación\n</value>
+    <value>• Puedes declarar la guerra a cualquier nación</value>
   </data>
   <data name="dont_get_called_into_wars" xml:space="preserve">
-    <value>• No te dejes llamar a las guerras\n</value>
+    <value>• No serás llamado a las guerras</value>
   </data>
   <data name="can_declare_war_above" xml:space="preserve">
-    <value>• Puede declarar la guerra a naciones con infamia superior a {0}\n</value>
+    <value>• Puedes declarar la guerra a naciones con infamia superior a {0}</value>
   </data>
 </root>

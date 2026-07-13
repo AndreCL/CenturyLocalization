@@ -682,21 +682,21 @@ Um novo ano chegou. Desejamos a vocês um feliz ano novo. Que este novo ano seja
     <value>Mudar para {0}</value>
   </data>
   <data name="can_get_called_into_wars" xml:space="preserve">
-    <value>• Seja chamado para guerras para defender novas nações\n</value>
+    <value>• Seja chamado para guerras para defender novas nações</value>
   </data>
   <data name="can_get_called_into_world_wars" xml:space="preserve">
-    <value>• Ser convocado para guerras mundiais\n</value>
+    <value>• Ser convocado para guerras mundiais</value>
   </data>
   <data name="can_get_called_into_wars_infamy" xml:space="preserve">
-    <value>• Ser chamado para guerras contra países altamente infames\n</value>
+    <value>• Ser chamado para guerras contra países altamente infames</value>
   </data>
   <data name="can_declare_war_all" xml:space="preserve">
-    <value>• Pode declarar guerra a qualquer nação\n</value>
+    <value>• Pode declarar guerra a qualquer nação</value>
   </data>
   <data name="dont_get_called_into_wars" xml:space="preserve">
-    <value>• Não seja chamado para guerras\n</value>
+    <value>• Não seja chamado para guerras</value>
   </data>
   <data name="can_declare_war_above" xml:space="preserve">
-    <value>• Pode declarar guerra a nações com infâmia acima de {0}\n</value>
+    <value>• Pode declarar guerra a nações com infâmia acima de {0}</value>
   </data>
 </root>

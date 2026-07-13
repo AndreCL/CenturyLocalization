@@ -684,21 +684,21 @@ Sobald die Weltspannung 100 % erreicht, wird ein Weltkrieg ausgelöst und der We
     <value>Wechseln Sie zu {0}</value>
   </data>
   <data name="can_get_called_into_wars" xml:space="preserve">
-    <value>• Werden Sie in Kriege gerufen, um neue Nationen zu verteidigen\n</value>
+    <value>• Werden Sie in Kriege gerufen, um neue Nationen zu verteidigen</value>
   </data>
   <data name="can_get_called_into_world_wars" xml:space="preserve">
-    <value>• Werde in Weltkriege gerufen\n</value>
+    <value>• Werde in Weltkriege gerufen</value>
   </data>
   <data name="can_get_called_into_wars_infamy" xml:space="preserve">
-    <value>• Werden Sie in Kriege gegen Länder mit großer Berühmtheit gerufen\n</value>
+    <value>• Werden Sie in Kriege gegen Länder mit großer Berühmtheit gerufen</value>
   </data>
   <data name="can_declare_war_all" xml:space="preserve">
-    <value>• Kann jeder Nation den Krieg erklären\n</value>
+    <value>• Kann jeder Nation den Krieg erklären</value>
   </data>
   <data name="dont_get_called_into_wars" xml:space="preserve">
-    <value>• Lass dich nicht in Kriege verwickeln\n</value>
+    <value>• Lass dich nicht in Kriege verwickeln</value>
   </data>
   <data name="can_declare_war_above" xml:space="preserve">
-    <value>• Kann Nationen mit einer Schande über {0} den Krieg erklären\n</value>
+    <value>• Kann Nationen mit einer Schande über {0} den Krieg erklären</value>
   </data>
 </root>

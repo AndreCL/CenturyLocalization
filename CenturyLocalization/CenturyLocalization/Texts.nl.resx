@@ -684,21 +684,21 @@ Wanneer de wereldspanning 100% bereikt, wordt een wereldoorlog ontketend en word
     <value>Schakel over naar {0}</value>
   </data>
   <data name="can_get_called_into_wars" xml:space="preserve">
-    <value>• Word betrokken bij oorlogen om nieuwe naties te verdedigen\n</value>
+    <value>• Word betrokken bij oorlogen om nieuwe naties te verdedigen</value>
   </data>
   <data name="can_get_called_into_world_wars" xml:space="preserve">
-    <value>• Laat je betrekken bij wereldoorlogen\n</value>
+    <value>• Laat je betrekken bij wereldoorlogen</value>
   </data>
   <data name="can_get_called_into_wars_infamy" xml:space="preserve">
-    <value>• Word betrokken bij oorlogen tegen landen met veel schande\n</value>
+    <value>• Word betrokken bij oorlogen tegen landen met veel schande</value>
   </data>
   <data name="can_declare_war_all" xml:space="preserve">
-    <value>• Kan elk land de oorlog verklaren\n</value>
+    <value>• Kan elk land de oorlog verklaren</value>
   </data>
   <data name="dont_get_called_into_wars" xml:space="preserve">
-    <value>• Laat je niet in oorlogen betrekken\n</value>
+    <value>• Laat je niet in oorlogen betrekken</value>
   </data>
   <data name="can_declare_war_above" xml:space="preserve">
-    <value>• Kan de oorlog verklaren aan landen met schande boven {0}\n</value>
+    <value>• Kan de oorlog verklaren aan landen met schande boven {0}</value>
   </data>
 </root>

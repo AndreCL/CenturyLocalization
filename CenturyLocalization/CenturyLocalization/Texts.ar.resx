@@ -684,21 +684,21 @@
     <value>التبديل إلى {0}</value>
   </data>
   <data name="can_get_called_into_wars" xml:space="preserve">
-    <value>• يتم استدعاؤك للمشاركة في حروب للدفاع عن دول جديدة\n</value>
+    <value>• يتم استدعاؤك للمشاركة في حروب للدفاع عن دول جديدة</value>
   </data>
   <data name="can_get_called_into_world_wars" xml:space="preserve">
-    <value>• يتم استدعاؤك للمشاركة في حروب عالمية\n</value>
+    <value>• يتم استدعاؤك للمشاركة في حروب عالمية</value>
   </data>
   <data name="can_get_called_into_wars_infamy" xml:space="preserve">
-    <value>• يتم استدعاؤك للمشاركة في حروب ضد دول ذات سمعة سيئة للغاية\n</value>
+    <value>• يتم استدعاؤك للمشاركة في حروب ضد دول ذات سمعة سيئة للغاية</value>
   </data>
   <data name="can_declare_war_all" xml:space="preserve">
-    <value>• يمكنه إعلان الحرب على أي دولة\n</value>
+    <value>• يمكنه إعلان الحرب على أي دولة</value>
   </data>
   <data name="dont_get_called_into_wars" xml:space="preserve">
-    <value>• لا يتم استدعاؤك للمشاركة في الحروب\n</value>
+    <value>• لا يتم استدعاؤك للمشاركة في الحروب</value>
   </data>
   <data name="can_declare_war_above" xml:space="preserve">
-    <value>• يمكن إعلان الحرب على الدول ذات الشهرة الأعلى من {0}\n</value>
+    <value>• يمكن إعلان الحرب على الدول ذات الشهرة الأعلى من {0}</value>
   </data>
 </root>

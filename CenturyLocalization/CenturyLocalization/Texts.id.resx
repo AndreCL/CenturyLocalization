@@ -684,21 +684,21 @@ Ketika Ketegangan Dunia mencapai 100%, Perang Dunia akan dipicu dan nilainya dia
     <value>Beralih ke {0}</value>
   </data>
   <data name="can_get_called_into_wars" xml:space="preserve">
-    <value>• Terpanggil berperang untuk membela negara baru\n</value>
+    <value>• Terpanggil berperang untuk membela negara baru</value>
   </data>
   <data name="can_get_called_into_world_wars" xml:space="preserve">
-    <value>• Terpanggil dalam perang Dunia\n</value>
+    <value>• Terpanggil dalam perang Dunia</value>
   </data>
   <data name="can_get_called_into_wars_infamy" xml:space="preserve">
-    <value>• Terpanggil berperang melawan negara-negara dengan tingkat keburukan yang tinggi\n</value>
+    <value>• Terpanggil berperang melawan negara-negara dengan tingkat keburukan yang tinggi</value>
   </data>
   <data name="can_declare_war_all" xml:space="preserve">
-    <value>• Dapat mendeklarasikan perang terhadap negara mana pun\n</value>
+    <value>• Dapat mendeklarasikan perang terhadap negara mana pun</value>
   </data>
   <data name="dont_get_called_into_wars" xml:space="preserve">
-    <value>• Jangan terlibat dalam perang\n</value>
+    <value>• Jangan terlibat dalam perang</value>
   </data>
   <data name="can_declare_war_above" xml:space="preserve">
-    <value>• Dapat mendeklarasikan perang terhadap negara dengan tingkat keburukan di atas {0}\n</value>
+    <value>• Dapat mendeklarasikan perang terhadap negara dengan tingkat keburukan di atas {0}</value>
   </data>
 </root>

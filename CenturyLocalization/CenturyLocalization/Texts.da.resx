@@ -685,21 +685,21 @@ Når verdensspændingen når 100 %, udløses en verdenskrig, og værdien nulstil
     <value>Skift til {0}</value>
   </data>
   <data name="can_get_called_into_wars" xml:space="preserve">
-    <value>• Bliv kaldt ind i krige for at forsvare nye nationer\n</value>
+    <value>• Bliv kaldt ind i krige for at forsvare nye nationer</value>
   </data>
   <data name="can_get_called_into_world_wars" xml:space="preserve">
-    <value>• Bliv kaldt ind i verdenskrige\n</value>
+    <value>• Bliv kaldt ind i verdenskrige</value>
   </data>
   <data name="can_get_called_into_wars_infamy" xml:space="preserve">
-    <value>• Bliv kaldet ind i krige mod lande med stor skændsel\n</value>
+    <value>• Bliv kaldt ind i krige mod lande med stor skændsel</value>
   </data>
   <data name="can_declare_war_all" xml:space="preserve">
-    <value>• Kan erklære krig mod enhver nation\n</value>
+    <value>• Kan erklære krig mod enhver nation</value>
   </data>
   <data name="dont_get_called_into_wars" xml:space="preserve">
-    <value>• Bliv ikke kaldt ind i krige\n</value>
+    <value>• Bliv ikke kaldt ind i krige</value>
   </data>
   <data name="can_declare_war_above" xml:space="preserve">
-    <value>• Kan erklære krig mod nationer med skændsel over {0}\n</value>
+    <value>• Kan erklære krig mod nationer med skændsel over {0}</value>
   </data>
 </root>

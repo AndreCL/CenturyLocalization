@@ -259,7 +259,7 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to • Can declare war on nations with infamy above {0}\n.
+        ///   Looks up a localized string similar to • Can declare war on nations with infamy above {0}.
         /// </summary>
         internal static string can_declare_war_above {
             get {
@@ -268,7 +268,7 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to • Can declare war on any nation\n.
+        ///   Looks up a localized string similar to • Can declare war on any nation.
         /// </summary>
         internal static string can_declare_war_all {
             get {
@@ -277,7 +277,7 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to • Get called into wars to defend new nations\n.
+        ///   Looks up a localized string similar to • Get called into wars to defend new nations.
         /// </summary>
         internal static string can_get_called_into_wars {
             get {
@@ -286,7 +286,7 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to • Get called into wars against countries with high infamy\n.
+        ///   Looks up a localized string similar to • Get called into wars against countries with high infamy.
         /// </summary>
         internal static string can_get_called_into_wars_infamy {
             get {
@@ -295,7 +295,7 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to • Get called into World wars\n.
+        ///   Looks up a localized string similar to • Get called into World wars.
         /// </summary>
         internal static string can_get_called_into_world_wars {
             get {
@@ -547,7 +547,7 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to • Don&apos;t get called into wars\n.
+        ///   Looks up a localized string similar to • Don&apos;t get called into wars.
         /// </summary>
         internal static string dont_get_called_into_wars {
             get {

@@ -689,21 +689,21 @@
     <value>Переключиться на {0}</value>
   </data>
   <data name="can_get_called_into_wars" xml:space="preserve">
-    <value>• Призывайтесь на войны для защиты новых наций\n</value>
+    <value>• Призывайтесь на войны для защиты новых наций</value>
   </data>
   <data name="can_get_called_into_world_wars" xml:space="preserve">
-    <value>• Вас призывают в мировые войны\n</value>
+    <value>• Вас призывают в мировые войны</value>
   </data>
   <data name="can_get_called_into_wars_infamy" xml:space="preserve">
-    <value>• Вас призывают воевать против стран с высокой репутацией\n</value>
+    <value>• Вас призывают воевать против стран с высокой репутацией</value>
   </data>
   <data name="can_declare_war_all" xml:space="preserve">
-    <value>• Может объявить войну любой стране\n</value>
+    <value>• Может объявить войну любой стране</value>
   </data>
   <data name="dont_get_called_into_wars" xml:space="preserve">
-    <value>• Не участвуйте в войнах\n</value>
+    <value>• Не участвуйте в войнах</value>
   </data>
   <data name="can_declare_war_above" xml:space="preserve">
-    <value>• Может объявить войну странам с позорной репутацией выше {0}\n</value>
+    <value>• Может объявить войну странам с позорной репутацией выше {0}</value>
   </data>
 </root>

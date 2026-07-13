@@ -703,21 +703,21 @@
     <value>{0}'a geç</value>
   </data>
   <data name="can_get_called_into_wars" xml:space="preserve">
-    <value>• Yeni ulusları savunmak için savaşlara çağrılın\n</value>
+    <value>• Yeni ulusları savunmak için savaşlara çağrılın</value>
   </data>
   <data name="can_get_called_into_world_wars" xml:space="preserve">
-    <value>• Dünya savaşlarına çağrılın\n</value>
+    <value>• Dünya savaşlarına çağrılın</value>
   </data>
   <data name="can_get_called_into_wars_infamy" xml:space="preserve">
-    <value>• Kötü şöhreti yüksek ülkelere karşı savaşlara çağrılın\n</value>
+    <value>• Kötü şöhreti yüksek ülkelere karşı savaşlara çağrılın</value>
   </data>
   <data name="can_declare_war_all" xml:space="preserve">
-    <value>• Herhangi bir ülkeye savaş ilan edebilir\n</value>
+    <value>• Herhangi bir ülkeye savaş ilan edebilir</value>
   </data>
   <data name="dont_get_called_into_wars" xml:space="preserve">
-    <value>• Savaşlara çağrılmayın\n</value>
+    <value>• Savaşlara çağrılmayın</value>
   </data>
   <data name="can_declare_war_above" xml:space="preserve">
-    <value>• Kötü şöhreti {0}'ın üzerinde olan uluslara savaş ilan edebilir\n</value>
+    <value>• Kötü şöhreti {0}'ın üzerinde olan uluslara savaş ilan edebilir</value>
   </data>
 </root>

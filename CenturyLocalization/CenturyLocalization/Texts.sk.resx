@@ -702,21 +702,21 @@ Keď svetové napätie dosiahne 100%, spustí sa svetová vojna a resetuje sa.
     <value>Prepnúť na {0}</value>
   </data>
   <data name="can_get_called_into_wars" xml:space="preserve">
-    <value>• Nechajte sa zavolať do vojen na obranu nových národov\n</value>
+    <value>• Nechajte sa zavolať do vojen na obranu nových národov</value>
   </data>
   <data name="can_get_called_into_world_wars" xml:space="preserve">
-    <value>• Nechajte sa zavolať do svetových vojen\n</value>
+    <value>• Nechajte sa zavolať do svetových vojen</value>
   </data>
   <data name="can_get_called_into_wars_infamy" xml:space="preserve">
-    <value>• Nechajte sa zavolať do vojen proti krajinám s vysokou hanbou\n</value>
+    <value>• Nechajte sa zavolať do vojen proti krajinám s vysokou hanbou</value>
   </data>
   <data name="can_declare_war_all" xml:space="preserve">
-    <value>• Môže vyhlásiť vojnu ktorémukoľvek národu\n</value>
+    <value>• Môže vyhlásiť vojnu ktorémukoľvek národu</value>
   </data>
   <data name="dont_get_called_into_wars" xml:space="preserve">
-    <value>• Nenechajte sa zavolať do vojen\n</value>
+    <value>• Nenechajte sa zavolať do vojen</value>
   </data>
   <data name="can_declare_war_above" xml:space="preserve">
-    <value>• Môže vyhlásiť vojnu národom s hanbou nad {0}\n</value>
+    <value>• Môže vyhlásiť vojnu národom s hanbou nad {0}</value>
   </data>
 </root>
