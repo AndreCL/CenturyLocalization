@@ -121,4 +121,16 @@
   <data name="venezuelan_crisis" xml:space="preserve">
     <value>Venezuelan Crisis</value>
   </data>
+  <data name="empty_war" xml:space="preserve">
+    <value>The Empty War</value>
+    <comment>Used as placeholder when war has no participants</comment>
+  </data>
+  <data name="the_great_war" xml:space="preserve">
+    <value>The Great War</value>
+    <comment>Also known as the first world war</comment>
+  </data>
+  <data name="world_war" xml:space="preserve">
+    <value>World War {0}</value>
+    <comment>Where 0 is a roman numeral</comment>
+  </data>
 </root>

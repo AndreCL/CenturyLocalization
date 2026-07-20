@@ -19,7 +19,7 @@ namespace CenturyLocalization.WarNames {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "18.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class WarNames {
@@ -88,6 +88,15 @@ namespace CenturyLocalization.WarNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to The Empty War.
+        /// </summary>
+        internal static string empty_war {
+            get {
+                return ResourceManager.GetString("empty_war", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to War of the Golden Stool.
         /// </summary>
         internal static string golden_stool_war {
@@ -124,11 +133,29 @@ namespace CenturyLocalization.WarNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to The Great War.
+        /// </summary>
+        internal static string the_great_war {
+            get {
+                return ResourceManager.GetString("the_great_war", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Venezuelan Crisis.
         /// </summary>
         internal static string venezuelan_crisis {
             get {
                 return ResourceManager.GetString("venezuelan_crisis", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to World War {0}.
+        /// </summary>
+        internal static string world_war {
+            get {
+                return ResourceManager.GetString("world_war", resourceCulture);
             }
         }
     }

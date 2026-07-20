@@ -141,4 +141,13 @@
   <data name="venezuelan_crisis" xml:space="preserve">
     <value>Die Venezuela-Krise</value>
   </data>
+  <data name="empty_war" xml:space="preserve">
+    <value>Der leere Krieg</value>
+  </data>
+  <data name="the_great_war" xml:space="preserve">
+    <value>Der Große Krieg</value>
+  </data>
+  <data name="world_war" xml:space="preserve">
+    <value>Weltkrieg {0}</value>
+  </data>
 </root>
