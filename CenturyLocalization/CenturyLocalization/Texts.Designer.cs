@@ -1006,7 +1006,7 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Loading saves....
+        ///   Looks up a localized string similar to Loading....
         /// </summary>
         internal static string loading {
             get {

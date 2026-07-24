@@ -143,9 +143,6 @@
   <data name="Continuegame" xml:space="preserve">
     <value>Continuar juego</value>
   </data>
-  <data name="loading" xml:space="preserve">
-    <value>Cargando juego...</value>
-  </data>
   <data name="sendemail" xml:space="preserve">
     <value>Mandar correo electrónico</value>
   </data>
@@ -702,5 +699,8 @@ Una vez que la tensión mundial alcanza el 100 %, se desencadena una guerra mund
   </data>
   <data name="can_declare_war_above" xml:space="preserve">
     <value>• Puedes declarar la guerra a naciones con infamia superior a {0}</value>
+  </data>
+  <data name="loading" xml:space="preserve">
+    <value>Cargando...</value>
   </data>
 </root>

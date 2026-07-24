@@ -140,9 +140,6 @@
   <data name="Continuegame" xml:space="preserve">
     <value>Продолжить игру</value>
   </data>
-  <data name="loading" xml:space="preserve">
-    <value>Загрузка сохранений</value>
-  </data>
   <data name="sendemail" xml:space="preserve">
     <value>Отправить e-mail</value>
   </data>
@@ -705,5 +702,8 @@
   </data>
   <data name="can_declare_war_above" xml:space="preserve">
     <value>• Может объявить войну странам с позорной репутацией выше {0}</value>
+  </data>
+  <data name="loading" xml:space="preserve">
+    <value>Загрузка...</value>
   </data>
 </root>

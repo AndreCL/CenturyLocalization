@@ -149,7 +149,7 @@
     <value>Continue game</value>
   </data>
   <data name="loading" xml:space="preserve">
-    <value>Loading saves...</value>
+    <value>Loading...</value>
   </data>
   <data name="sendemail" xml:space="preserve">
     <value>Send e-mail</value>
