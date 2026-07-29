@@ -150,4 +150,23 @@
   <data name="conquer_land" xml:space="preserve">
     <value>We want {0} land from {1}</value>
   </data>
+  <data name="accept_independence" xml:space="preserve">
+    <value>Accept {0} as our brothers</value>
+    <comment>0 is a country name</comment>
+  </data>
+  <data name="peaceful_independence_title" xml:space="preserve">
+    <value>Peaceful independence</value>
+  </data>
+  <data name="peaceful_independence_message" xml:space="preserve">
+    <value>{0} embraces {1} as brothers</value>
+    <comment>0 is parent country name 1 is new country name</comment>
+  </data>
+  <data name="reject_independence" xml:space="preserve">
+    <value>{1} is a part of {1}! (War)</value>
+    <comment>0 is new country name, 1 is parent country name</comment>
+  </data>
+  <data name="play_country" xml:space="preserve">
+    <value>Play as {0}</value>
+    <comment>Where 0 is the new country name</comment>
+  </data>
 </root>

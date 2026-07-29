@@ -133,4 +133,8 @@
     <value>World War {0}</value>
     <comment>Where 0 is a roman numeral</comment>
   </data>
+  <data name="independence_war" xml:space="preserve">
+    <value>{0} War of Independence from {1}</value>
+    <comment>Where 1 is new country name and 1 is parent country name</comment>
+  </data>
 </root>

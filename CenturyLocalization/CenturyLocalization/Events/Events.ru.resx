@@ -150,4 +150,19 @@
   <data name="conquer_land" xml:space="preserve">
     <value>Нам нужен {0} земельный участок от {1}</value>
   </data>
+  <data name="accept_independence" xml:space="preserve">
+    <value>Примите {0} как наших братьев</value>
+  </data>
+  <data name="peaceful_independence_title" xml:space="preserve">
+    <value>Мирная независимость</value>
+  </data>
+  <data name="peaceful_independence_message" xml:space="preserve">
+    <value>{0} принимает {1} как братьев</value>
+  </data>
+  <data name="reject_independence" xml:space="preserve">
+    <value>{1} является частью {1}! (Война)</value>
+  </data>
+  <data name="play_country" xml:space="preserve">
+    <value>Играть как {0}</value>
+  </data>
 </root>

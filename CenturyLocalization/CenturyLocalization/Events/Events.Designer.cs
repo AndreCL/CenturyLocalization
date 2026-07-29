@@ -61,6 +61,15 @@ namespace CenturyLocalization.Events {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Accept {0} as our brothers.
+        /// </summary>
+        internal static string accept_independence {
+            get {
+                return ResourceManager.GetString("accept_independence", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to We want to annex {0}.
         /// </summary>
         internal static string annex_country {
@@ -147,6 +156,42 @@ namespace CenturyLocalization.Events {
         internal static string local_famine_message {
             get {
                 return ResourceManager.GetString("local_famine_message", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0} embraces {1} as brothers.
+        /// </summary>
+        internal static string peaceful_independence_message {
+            get {
+                return ResourceManager.GetString("peaceful_independence_message", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Peaceful independence.
+        /// </summary>
+        internal static string peaceful_independence_title {
+            get {
+                return ResourceManager.GetString("peaceful_independence_title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Play as {0}.
+        /// </summary>
+        internal static string play_country {
+            get {
+                return ResourceManager.GetString("play_country", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {1} is a part of {1}! (War).
+        /// </summary>
+        internal static string reject_independence {
+            get {
+                return ResourceManager.GetString("reject_independence", resourceCulture);
             }
         }
         

@@ -150,4 +150,19 @@
   <data name="conquer_land" xml:space="preserve">
     <value>نريد أرضًا {0} من {1}</value>
   </data>
+  <data name="accept_independence" xml:space="preserve">
+    <value>اقبل {0} كإخوة لنا</value>
+  </data>
+  <data name="peaceful_independence_title" xml:space="preserve">
+    <value>الاستقلال السلمي</value>
+  </data>
+  <data name="peaceful_independence_message" xml:space="preserve">
+    <value>{0} يحتضن {1} كأخوة</value>
+  </data>
+  <data name="reject_independence" xml:space="preserve">
+    <value>{1} جزء من {1}! (حرب)</value>
+  </data>
+  <data name="play_country" xml:space="preserve">
+    <value>العب بدور {0}</value>
+  </data>
 </root>

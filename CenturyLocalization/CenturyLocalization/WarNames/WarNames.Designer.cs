@@ -115,6 +115,15 @@ namespace CenturyLocalization.WarNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to {0} War of Independence from {1}.
+        /// </summary>
+        internal static string independence_war {
+            get {
+                return ResourceManager.GetString("independence_war", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Korean Invasion of Manchuria.
         /// </summary>
         internal static string korean_invasion_of_manchuria {
