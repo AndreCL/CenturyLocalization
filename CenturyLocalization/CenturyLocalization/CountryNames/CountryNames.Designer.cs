@@ -241,6 +241,15 @@ namespace CenturyLocalization.CountryNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Catalonia.
+        /// </summary>
+        internal static string catalonia {
+            get {
+                return ResourceManager.GetString("catalonia", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Champasak.
         /// </summary>
         internal static string champasak {
@@ -363,6 +372,15 @@ namespace CenturyLocalization.CountryNames {
         internal static string ethiopia {
             get {
                 return ResourceManager.GetString("ethiopia", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Basque Country.
+        /// </summary>
+        internal static string euskadi {
+            get {
+                return ResourceManager.GetString("euskadi", resourceCulture);
             }
         }
         

@@ -375,4 +375,10 @@
   <data name="malta" xml:space="preserve">
     <value>Malta</value>
   </data>
+  <data name="euskadi" xml:space="preserve">
+    <value>Basque Country</value>
+  </data>
+  <data name="catalonia" xml:space="preserve">
+    <value>Catalonia</value>
+  </data>
 </root>
