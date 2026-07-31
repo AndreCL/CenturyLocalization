@@ -701,4 +701,10 @@
   <data name="loading" xml:space="preserve">
     <value>تحميل...</value>
   </data>
+  <data name="ratio_more_than_one" xml:space="preserve">
+    <value>إذا كانت النسبة &gt; 1:</value>
+  </data>
+  <data name="ratio_less_than_one" xml:space="preserve">
+    <value>إذا كانت النسبة &lt; 1:</value>
+  </data>
 </root>

@@ -721,4 +721,10 @@ Une fois que la tension mondiale atteint 100 %, une guerre mondiale est déclenc
   <data name="loading" xml:space="preserve">
     <value>Chargement...</value>
   </data>
+  <data name="ratio_more_than_one" xml:space="preserve">
+    <value>Si rapport &gt; 1 :</value>
+  </data>
+  <data name="ratio_less_than_one" xml:space="preserve">
+    <value>Si rapport &lt; 1 :</value>
+  </data>
 </root>

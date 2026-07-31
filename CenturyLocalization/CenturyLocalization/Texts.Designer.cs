@@ -1332,6 +1332,24 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to If ratio &lt; 1:.
+        /// </summary>
+        internal static string ratio_less_than_one {
+            get {
+                return ResourceManager.GetString("ratio_less_than_one", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to If ratio &gt; 1:.
+        /// </summary>
+        internal static string ratio_more_than_one {
+            get {
+                return ResourceManager.GetString("ratio_more_than_one", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Religion.
         /// </summary>
         internal static string religion {

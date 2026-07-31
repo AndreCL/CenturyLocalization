@@ -699,4 +699,10 @@ Um novo ano chegou. Desejamos a vocês um feliz ano novo. Que este novo ano seja
   <data name="loading" xml:space="preserve">
     <value>Carregando...</value>
   </data>
+  <data name="ratio_more_than_one" xml:space="preserve">
+    <value>Se proporção &gt; 1:</value>
+  </data>
+  <data name="ratio_less_than_one" xml:space="preserve">
+    <value>Se proporção &lt;1:</value>
+  </data>
 </root>

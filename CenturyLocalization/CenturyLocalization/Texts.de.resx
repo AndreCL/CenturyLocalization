@@ -701,4 +701,10 @@ Sobald die Weltspannung 100 % erreicht, wird ein Weltkrieg ausgelöst und der We
   <data name="loading" xml:space="preserve">
     <value>Laden...</value>
   </data>
+  <data name="ratio_more_than_one" xml:space="preserve">
+    <value>Wenn Verhältnis &gt; 1:</value>
+  </data>
+  <data name="ratio_less_than_one" xml:space="preserve">
+    <value>Wenn Verhältnis &lt; 1:</value>
+  </data>
 </root>

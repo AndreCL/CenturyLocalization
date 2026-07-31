@@ -720,4 +720,10 @@ Once the World Tension reaches 100%, a World War is triggered and it resets.
   <data name="can_declare_war_above" xml:space="preserve">
     <value>• Can declare war on nations with infamy above {0}</value>
   </data>
+  <data name="ratio_more_than_one" xml:space="preserve">
+    <value>If ratio &gt; 1:</value>
+  </data>
+  <data name="ratio_less_than_one" xml:space="preserve">
+    <value>If ratio &lt; 1:</value>
+  </data>
 </root>

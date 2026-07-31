@@ -719,4 +719,10 @@ Keď svetové napätie dosiahne 100%, spustí sa svetová vojna a resetuje sa.
   <data name="loading" xml:space="preserve">
     <value>Načítava sa...</value>
   </data>
+  <data name="ratio_more_than_one" xml:space="preserve">
+    <value>Ak pomer &gt; 1:</value>
+  </data>
+  <data name="ratio_less_than_one" xml:space="preserve">
+    <value>Ak pomer &lt; 1:</value>
+  </data>
 </root>
