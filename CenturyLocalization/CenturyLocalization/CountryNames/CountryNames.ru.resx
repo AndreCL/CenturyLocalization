@@ -370,4 +370,13 @@
   <data name="slovakia" xml:space="preserve">
     <value>Словакия</value>
   </data>
+  <data name="iceland" xml:space="preserve">
+    <value>Исландия</value>
+  </data>
+  <data name="ireland" xml:space="preserve">
+    <value>Ирландия</value>
+  </data>
+  <data name="malta" xml:space="preserve">
+    <value>Мальта</value>
+  </data>
 </root>

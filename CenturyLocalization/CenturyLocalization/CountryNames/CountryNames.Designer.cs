@@ -430,6 +430,24 @@ namespace CenturyLocalization.CountryNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Iceland.
+        /// </summary>
+        internal static string iceland {
+            get {
+                return ResourceManager.GetString("iceland", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ireland.
+        /// </summary>
+        internal static string ireland {
+            get {
+                return ResourceManager.GetString("ireland", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Italy.
         /// </summary>
         internal static string italy {
@@ -498,6 +516,15 @@ namespace CenturyLocalization.CountryNames {
         internal static string luxembourg {
             get {
                 return ResourceManager.GetString("luxembourg", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Malta.
+        /// </summary>
+        internal static string malta {
+            get {
+                return ResourceManager.GetString("malta", resourceCulture);
             }
         }
         
