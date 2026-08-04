@@ -381,4 +381,19 @@
   <data name="catalonia" xml:space="preserve">
     <value>Catalonia</value>
   </data>
+  <data name="croatia" xml:space="preserve">
+    <value>Croatia</value>
+  </data>
+  <data name="albania" xml:space="preserve">
+    <value>Albania</value>
+  </data>
+  <data name="slovenia" xml:space="preserve">
+    <value>Slovenia</value>
+  </data>
+  <data name="hungary" xml:space="preserve">
+    <value>Hungary</value>
+  </data>
+  <data name="poland" xml:space="preserve">
+    <value>Poland</value>
+  </data>
 </root>

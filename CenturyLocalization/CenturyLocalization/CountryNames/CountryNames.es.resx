@@ -375,4 +375,25 @@
   <data name="malta" xml:space="preserve">
     <value>Malta</value>
   </data>
+  <data name="euskadi" xml:space="preserve">
+    <value>País Vasco</value>
+  </data>
+  <data name="catalonia" xml:space="preserve">
+    <value>Cataluña</value>
+  </data>
+  <data name="croatia" xml:space="preserve">
+    <value>Croacia</value>
+  </data>
+  <data name="albania" xml:space="preserve">
+    <value>Albania</value>
+  </data>
+  <data name="slovenia" xml:space="preserve">
+    <value>Eslovenia</value>
+  </data>
+  <data name="hungary" xml:space="preserve">
+    <value>Hungría</value>
+  </data>
+  <data name="poland" xml:space="preserve">
+    <value>Polonia</value>
+  </data>
 </root>
