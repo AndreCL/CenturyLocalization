@@ -402,4 +402,13 @@
   <data name="armenia" xml:space="preserve">
     <value>Armenië</value>
   </data>
+  <data name="turkey" xml:space="preserve">
+    <value>Turkiye</value>
+  </data>
+  <data name="azerbaijan" xml:space="preserve">
+    <value>Azerbeidzjan</value>
+  </data>
+  <data name="kurdistan" xml:space="preserve">
+    <value>Koerdistan</value>
+  </data>
 </root>

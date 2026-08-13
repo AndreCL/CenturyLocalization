@@ -196,6 +196,15 @@ namespace CenturyLocalization.CountryNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Azerbaijan.
+        /// </summary>
+        internal static string azerbaijan {
+            get {
+                return ResourceManager.GetString("azerbaijan", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Bali.
         /// </summary>
         internal static string bali {
@@ -538,6 +547,15 @@ namespace CenturyLocalization.CountryNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Kurdistan.
+        /// </summary>
+        internal static string kurdistan {
+            get {
+                return ResourceManager.GetString("kurdistan", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Latvia.
         /// </summary>
         internal static string latvia {
@@ -867,6 +885,15 @@ namespace CenturyLocalization.CountryNames {
         internal static string transvaal {
             get {
                 return ResourceManager.GetString("transvaal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Türkiye.
+        /// </summary>
+        internal static string turkey {
+            get {
+                return ResourceManager.GetString("turkey", resourceCulture);
             }
         }
         
