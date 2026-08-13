@@ -396,4 +396,10 @@
   <data name="poland" xml:space="preserve">
     <value>بولندا</value>
   </data>
+  <data name="georgia" xml:space="preserve">
+    <value>جورجيا</value>
+  </data>
+  <data name="armenia" xml:space="preserve">
+    <value>أرمينيا</value>
+  </data>
 </root>

@@ -400,4 +400,10 @@
   <data name="poland" xml:space="preserve">
     <value>Польша</value>
   </data>
+  <data name="georgia" xml:space="preserve">
+    <value>Грузия</value>
+  </data>
+  <data name="armenia" xml:space="preserve">
+    <value>Армения</value>
+  </data>
 </root>
