@@ -726,4 +726,16 @@ Once the World Tension reaches 100%, a World War is triggered and it resets.
   <data name="ratio_less_than_one" xml:space="preserve">
     <value>If ratio &lt; 1:</value>
   </data>
+  <data name="open_seas" xml:space="preserve">
+    <value>Open seas</value>
+  </data>
+  <data name="land_battle" xml:space="preserve">
+    <value>Land battle</value>
+  </data>
+  <data name="sea_battle" xml:space="preserve">
+    <value>Sea battle</value>
+  </data>
+  <data name="air_battle" xml:space="preserve">
+    <value>Air battle</value>
+  </data>
 </root>

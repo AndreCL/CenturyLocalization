@@ -709,4 +709,16 @@ Una vez que la tensión mundial alcanza el 100 %, se desencadena una guerra mund
   <data name="ratio_less_than_one" xml:space="preserve">
     <value>Si relación &lt; 1:</value>
   </data>
+  <data name="open_seas" xml:space="preserve">
+    <value>Mares abiertos</value>
+  </data>
+  <data name="land_battle" xml:space="preserve">
+    <value>Batalla terrestre</value>
+  </data>
+  <data name="sea_battle" xml:space="preserve">
+    <value>Batalla naval</value>
+  </data>
+  <data name="air_battle" xml:space="preserve">
+    <value>Batalla aérea</value>
+  </data>
 </root>

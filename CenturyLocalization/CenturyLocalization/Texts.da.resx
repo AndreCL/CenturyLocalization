@@ -708,4 +708,16 @@ Når verdensspændingen når 100 %, udløses en verdenskrig, og værdien nulstil
   <data name="ratio_less_than_one" xml:space="preserve">
     <value>Hvis forholdet &lt; 1:</value>
   </data>
+  <data name="open_seas" xml:space="preserve">
+    <value>Åbne hav</value>
+  </data>
+  <data name="land_battle" xml:space="preserve">
+    <value>Landslag</value>
+  </data>
+  <data name="sea_battle" xml:space="preserve">
+    <value>Søslag</value>
+  </data>
+  <data name="air_battle" xml:space="preserve">
+    <value>Luftkamp</value>
+  </data>
 </root>

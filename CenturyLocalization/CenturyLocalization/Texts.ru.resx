@@ -712,4 +712,16 @@
   <data name="ratio_less_than_one" xml:space="preserve">
     <value>Если соотношение &lt; 1:</value>
   </data>
+  <data name="open_seas" xml:space="preserve">
+    <value>Открытое море</value>
+  </data>
+  <data name="land_battle" xml:space="preserve">
+    <value>Сухопутный бой</value>
+  </data>
+  <data name="sea_battle" xml:space="preserve">
+    <value>Морской бой</value>
+  </data>
+  <data name="air_battle" xml:space="preserve">
+    <value>Воздушный бой</value>
+  </data>
 </root>

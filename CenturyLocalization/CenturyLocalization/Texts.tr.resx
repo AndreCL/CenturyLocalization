@@ -726,4 +726,16 @@
   <data name="ratio_less_than_one" xml:space="preserve">
     <value>Oran &lt; 1 ise:</value>
   </data>
+  <data name="open_seas" xml:space="preserve">
+    <value>Açık denizler</value>
+  </data>
+  <data name="land_battle" xml:space="preserve">
+    <value>Kara savaşı</value>
+  </data>
+  <data name="sea_battle" xml:space="preserve">
+    <value>Deniz savaşı</value>
+  </data>
+  <data name="air_battle" xml:space="preserve">
+    <value>Hava savaşı</value>
+  </data>
 </root>

@@ -707,4 +707,16 @@ Ketika Ketegangan Dunia mencapai 100%, Perang Dunia akan dipicu dan nilainya dia
   <data name="ratio_less_than_one" xml:space="preserve">
     <value>Jika rasio &lt; 1:</value>
   </data>
+  <data name="open_seas" xml:space="preserve">
+    <value>Laut terbuka</value>
+  </data>
+  <data name="land_battle" xml:space="preserve">
+    <value>Pertempuran darat</value>
+  </data>
+  <data name="sea_battle" xml:space="preserve">
+    <value>Pertempuran laut</value>
+  </data>
+  <data name="air_battle" xml:space="preserve">
+    <value>Pertempuran udara</value>
+  </data>
 </root>

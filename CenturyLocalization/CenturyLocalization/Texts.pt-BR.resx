@@ -705,4 +705,16 @@ Um novo ano chegou. Desejamos a vocês um feliz ano novo. Que este novo ano seja
   <data name="ratio_less_than_one" xml:space="preserve">
     <value>Se proporção &lt;1:</value>
   </data>
+  <data name="open_seas" xml:space="preserve">
+    <value>Mar aberto</value>
+  </data>
+  <data name="land_battle" xml:space="preserve">
+    <value>Batalha terrestre</value>
+  </data>
+  <data name="sea_battle" xml:space="preserve">
+    <value>Batalha naval</value>
+  </data>
+  <data name="air_battle" xml:space="preserve">
+    <value>Batalha aérea</value>
+  </data>
 </root>

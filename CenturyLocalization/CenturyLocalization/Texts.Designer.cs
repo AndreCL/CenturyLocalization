@@ -97,6 +97,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Air battle.
+        /// </summary>
+        internal static string air_battle {
+            get {
+                return ResourceManager.GetString("air_battle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to air force school.
         /// </summary>
         internal static string air_school {
@@ -961,6 +970,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Land battle.
+        /// </summary>
+        internal static string land_battle {
+            get {
+                return ResourceManager.GetString("land_battle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Send large state sponsored mission.
         /// </summary>
         internal static string large_state_mission {
@@ -1242,6 +1260,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Open seas.
+        /// </summary>
+        internal static string open_seas {
+            get {
+                return ResourceManager.GetString("open_seas", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Other.
         /// </summary>
         internal static string other {
@@ -1382,6 +1409,15 @@ namespace CenturyLocalization {
         internal static string score {
             get {
                 return ResourceManager.GetString("score", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sea battle.
+        /// </summary>
+        internal static string sea_battle {
+            get {
+                return ResourceManager.GetString("sea_battle", resourceCulture);
             }
         }
         

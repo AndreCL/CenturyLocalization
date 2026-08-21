@@ -727,4 +727,16 @@ Une fois que la tension mondiale atteint 100 %, une guerre mondiale est déclenc
   <data name="ratio_less_than_one" xml:space="preserve">
     <value>Si rapport &lt; 1 :</value>
   </data>
+  <data name="open_seas" xml:space="preserve">
+    <value>Mers ouvertes</value>
+  </data>
+  <data name="land_battle" xml:space="preserve">
+    <value>Bataille terrestre</value>
+  </data>
+  <data name="sea_battle" xml:space="preserve">
+    <value>Bataille navale</value>
+  </data>
+  <data name="air_battle" xml:space="preserve">
+    <value>Bataille aérienne</value>
+  </data>
 </root>
