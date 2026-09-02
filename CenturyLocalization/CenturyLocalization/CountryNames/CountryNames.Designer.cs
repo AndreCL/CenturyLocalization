@@ -941,5 +941,14 @@ namespace CenturyLocalization.CountryNames {
                 return ResourceManager.GetString("venezuela", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Yorubaland.
+        /// </summary>
+        internal static string yorubaland {
+            get {
+                return ResourceManager.GetString("yorubaland", resourceCulture);
+            }
+        }
     }
 }

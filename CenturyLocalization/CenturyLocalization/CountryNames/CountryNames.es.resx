@@ -411,4 +411,7 @@
   <data name="kurdistan" xml:space="preserve">
     <value>Kurdistán</value>
   </data>
+  <data name="yorubaland" xml:space="preserve">
+    <value>Yorubalandia</value>
+  </data>
 </root>
