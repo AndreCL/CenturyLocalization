@@ -414,4 +414,28 @@
   <data name="yorubaland" xml:space="preserve">
     <value>Yorubalandia</value>
   </data>
+  <data name="uzbekistan" xml:space="preserve">
+    <value>Uzbekistán</value>
+  </data>
+  <data name="kazakhstan" xml:space="preserve">
+    <value>Kazajistán</value>
+  </data>
+  <data name="kyrgyzstan" xml:space="preserve">
+    <value>Kirguistán</value>
+  </data>
+  <data name="tajikistan" xml:space="preserve">
+    <value>Tayikistán</value>
+  </data>
+  <data name="east_turkestan" xml:space="preserve">
+    <value>Turquestán</value>
+  </data>
+  <data name="balochistan" xml:space="preserve">
+    <value>Baluchistán</value>
+  </data>
+  <data name="turkmenistan" xml:space="preserve">
+    <value>Turkmenistán</value>
+  </data>
+  <data name="tatarstan" xml:space="preserve">
+    <value>Tatarstan</value>
+  </data>
 </root>
