@@ -943,7 +943,7 @@ namespace CenturyLocalization.CountryNames {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Türkiye.
+        ///   Looks up a localized string similar to Turkey.
         /// </summary>
         internal static string turkey {
             get {

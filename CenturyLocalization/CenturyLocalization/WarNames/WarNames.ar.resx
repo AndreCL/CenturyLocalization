@@ -150,4 +150,16 @@
   <data name="world_war" xml:space="preserve">
     <value>الحرب العالمية {0}</value>
   </data>
+  <data name="independence_war" xml:space="preserve">
+    <value>{0} حرب الاستقلال من {1}</value>
+  </data>
+  <data name="dutch_annexation_aceh" xml:space="preserve">
+    <value>الضم الهولندي لآتشيه</value>
+  </data>
+  <data name="british_annexation_sokoto" xml:space="preserve">
+    <value>الضم البريطاني لسوكوتو</value>
+  </data>
+  <data name="british_expedition_tibet" xml:space="preserve">
+    <value>البعثة البريطانية إلى التبت</value>
+  </data>
 </root>

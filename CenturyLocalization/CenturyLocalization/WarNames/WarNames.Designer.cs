@@ -88,6 +88,33 @@ namespace CenturyLocalization.WarNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to British annexation of the Sokoto.
+        /// </summary>
+        internal static string british_annexation_sokoto {
+            get {
+                return ResourceManager.GetString("british_annexation_sokoto", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to British expedition to Tibet.
+        /// </summary>
+        internal static string british_expedition_tibet {
+            get {
+                return ResourceManager.GetString("british_expedition_tibet", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dutch annexation of Aceh.
+        /// </summary>
+        internal static string dutch_annexation_aceh {
+            get {
+                return ResourceManager.GetString("dutch_annexation_aceh", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to The Empty War.
         /// </summary>
         internal static string empty_war {

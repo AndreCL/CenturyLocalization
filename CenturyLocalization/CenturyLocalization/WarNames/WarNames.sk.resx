@@ -150,4 +150,16 @@
   <data name="world_war" xml:space="preserve">
     <value>svetová vojna {0}</value>
   </data>
+  <data name="independence_war" xml:space="preserve">
+    <value>{0} Vojna za nezávislosť od {1}</value>
+  </data>
+  <data name="dutch_annexation_aceh" xml:space="preserve">
+    <value>Holandská anexia Acehu</value>
+  </data>
+  <data name="british_annexation_sokoto" xml:space="preserve">
+    <value>Britská anexia Sokota</value>
+  </data>
+  <data name="british_expedition_tibet" xml:space="preserve">
+    <value>Britská expedícia do Tibetu</value>
+  </data>
 </root>

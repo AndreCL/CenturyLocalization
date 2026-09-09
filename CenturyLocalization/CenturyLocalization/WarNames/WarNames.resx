@@ -137,4 +137,13 @@
     <value>{0} War of Independence from {1}</value>
     <comment>Where 1 is new country name and 1 is parent country name</comment>
   </data>
+  <data name="dutch_annexation_aceh" xml:space="preserve">
+    <value>Dutch annexation of Aceh</value>
+  </data>
+  <data name="british_annexation_sokoto" xml:space="preserve">
+    <value>British annexation of the Sokoto</value>
+  </data>
+  <data name="british_expedition_tibet" xml:space="preserve">
+    <value>British expedition to Tibet</value>
+  </data>
 </root>

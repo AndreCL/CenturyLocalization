@@ -150,4 +150,16 @@
   <data name="world_war" xml:space="preserve">
     <value>Мировая война {0}</value>
   </data>
+  <data name="independence_war" xml:space="preserve">
+    <value>{0} Война за независимость от {1}</value>
+  </data>
+  <data name="dutch_annexation_aceh" xml:space="preserve">
+    <value>Голландская аннексия Ачеха</value>
+  </data>
+  <data name="british_annexation_sokoto" xml:space="preserve">
+    <value>Британская аннексия Сокото</value>
+  </data>
+  <data name="british_expedition_tibet" xml:space="preserve">
+    <value>Британская экспедиция в Тибет</value>
+  </data>
 </root>

@@ -150,4 +150,16 @@
   <data name="world_war" xml:space="preserve">
     <value>Verdenskrig {0}</value>
   </data>
+  <data name="independence_war" xml:space="preserve">
+    <value>{0} Uafhængighedskrig fra {1}</value>
+  </data>
+  <data name="dutch_annexation_aceh" xml:space="preserve">
+    <value>Hollandsk annektering af Aceh</value>
+  </data>
+  <data name="british_annexation_sokoto" xml:space="preserve">
+    <value>Britisk annektering af Sokoto</value>
+  </data>
+  <data name="british_expedition_tibet" xml:space="preserve">
+    <value>Britisk ekspedition til Tibet</value>
+  </data>
 </root>
