@@ -160,6 +160,24 @@ namespace CenturyLocalization.WarNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Russo-Japanese War.
+        /// </summary>
+        internal static string ruso_japanese_war {
+            get {
+                return ResourceManager.GetString("ruso_japanese_war", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Russian invasion of Manchuria.
+        /// </summary>
+        internal static string russian_invasion_manchuria {
+            get {
+                return ResourceManager.GetString("russian_invasion_manchuria", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to The Second Boer War.
         /// </summary>
         internal static string second_boer_war {

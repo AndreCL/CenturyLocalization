@@ -162,4 +162,10 @@
   <data name="british_expedition_tibet" xml:space="preserve">
     <value>Britse expeditie naar Tibet</value>
   </data>
+  <data name="russian_invasion_manchuria" xml:space="preserve">
+    <value>Russische invasie van Mantsjoerije</value>
+  </data>
+  <data name="ruso_japanese_war" xml:space="preserve">
+    <value>Russisch-Japanse Oorlog</value>
+  </data>
 </root>
