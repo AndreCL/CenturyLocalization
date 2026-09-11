@@ -737,4 +737,13 @@ Keď svetové napätie dosiahne 100%, spustí sa svetová vojna a resetuje sa.
   <data name="air_battle" xml:space="preserve">
     <value>Vzdušná bitka</value>
   </data>
+  <data name="open_seas_battle" xml:space="preserve">
+    <value>Bitka na otvorenom mori</value>
+  </data>
+  <data name="coastal_bombardment" xml:space="preserve">
+    <value>Bombardovanie pobrežia</value>
+  </data>
+  <data name="naval_blockade" xml:space="preserve">
+    <value>Námorná blokáda</value>
+  </data>
 </root>

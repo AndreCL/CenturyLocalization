@@ -358,6 +358,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Coastal bombardment.
+        /// </summary>
+        internal static string coastal_bombardment {
+            get {
+                return ResourceManager.GetString("coastal_bombardment", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Continue game.
         /// </summary>
         internal static string Continuegame {
@@ -1132,6 +1141,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Naval blockade.
+        /// </summary>
+        internal static string naval_blockade {
+            get {
+                return ResourceManager.GetString("naval_blockade", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Navy.
         /// </summary>
         internal static string navy {
@@ -1265,6 +1283,15 @@ namespace CenturyLocalization {
         internal static string open_seas {
             get {
                 return ResourceManager.GetString("open_seas", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Open seas battle.
+        /// </summary>
+        internal static string open_seas_battle {
+            get {
+                return ResourceManager.GetString("open_seas_battle", resourceCulture);
             }
         }
         

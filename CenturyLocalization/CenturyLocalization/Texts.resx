@@ -738,4 +738,13 @@ Once the World Tension reaches 100%, a World War is triggered and it resets.
   <data name="air_battle" xml:space="preserve">
     <value>Air battle</value>
   </data>
+  <data name="open_seas_battle" xml:space="preserve">
+    <value>Open seas battle</value>
+  </data>
+  <data name="coastal_bombardment" xml:space="preserve">
+    <value>Coastal bombardment</value>
+  </data>
+  <data name="naval_blockade" xml:space="preserve">
+    <value>Naval blockade</value>
+  </data>
 </root>
