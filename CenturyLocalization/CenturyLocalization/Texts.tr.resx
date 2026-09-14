@@ -747,4 +747,10 @@
   <data name="naval_blockade" xml:space="preserve">
     <value>Deniz ablukası</value>
   </data>
+  <data name="culture_groups" xml:space="preserve">
+    <value>Kültür grupları</value>
+  </data>
+  <data name="cultures" xml:space="preserve">
+    <value>Kültürler</value>
+  </data>
 </root>

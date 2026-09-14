@@ -729,4 +729,10 @@ Når verdensspændingen når 100 %, udløses en verdenskrig, og værdien nulstil
   <data name="naval_blockade" xml:space="preserve">
     <value>Søblokade</value>
   </data>
+  <data name="culture_groups" xml:space="preserve">
+    <value>Kulturgrupper</value>
+  </data>
+  <data name="cultures" xml:space="preserve">
+    <value>Kulturer</value>
+  </data>
 </root>

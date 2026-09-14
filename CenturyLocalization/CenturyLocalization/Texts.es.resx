@@ -730,4 +730,10 @@ Una vez que la tensión mundial alcanza el 100 %, se desencadena una guerra mund
   <data name="naval_blockade" xml:space="preserve">
     <value>Bloqueo naval</value>
   </data>
+  <data name="culture_groups" xml:space="preserve">
+    <value>Grupos culturales</value>
+  </data>
+  <data name="cultures" xml:space="preserve">
+    <value>Culturas</value>
+  </data>
 </root>

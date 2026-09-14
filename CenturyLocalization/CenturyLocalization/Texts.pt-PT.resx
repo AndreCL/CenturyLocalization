@@ -726,4 +726,10 @@ Um novo ano chegou. Desejamos a vocês um feliz ano novo. Que este novo ano seja
   <data name="naval_blockade" xml:space="preserve">
     <value>Bloqueio naval</value>
   </data>
+  <data name="culture_groups" xml:space="preserve">
+    <value>Grupos culturais</value>
+  </data>
+  <data name="cultures" xml:space="preserve">
+    <value>cultures:</value>
+  </data>
 </root>

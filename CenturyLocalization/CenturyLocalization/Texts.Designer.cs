@@ -403,6 +403,24 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Culture groups.
+        /// </summary>
+        internal static string culture_groups {
+            get {
+                return ResourceManager.GetString("culture_groups", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cultures.
+        /// </summary>
+        internal static string cultures {
+            get {
+                return ResourceManager.GetString("cultures", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Current.
         /// </summary>
         internal static string current {

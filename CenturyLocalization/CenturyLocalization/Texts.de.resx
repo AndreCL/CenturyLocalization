@@ -728,4 +728,10 @@ Sobald die Weltspannung 100 % erreicht, wird ein Weltkrieg ausgelöst und der We
   <data name="naval_blockade" xml:space="preserve">
     <value>Seeblockade</value>
   </data>
+  <data name="culture_groups" xml:space="preserve">
+    <value>Kulturgruppen</value>
+  </data>
+  <data name="cultures" xml:space="preserve">
+    <value>Kulturen</value>
+  </data>
 </root>

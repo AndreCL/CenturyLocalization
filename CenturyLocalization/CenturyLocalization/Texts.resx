@@ -747,4 +747,10 @@ Once the World Tension reaches 100%, a World War is triggered and it resets.
   <data name="naval_blockade" xml:space="preserve">
     <value>Naval blockade</value>
   </data>
+  <data name="culture_groups" xml:space="preserve">
+    <value>Culture groups</value>
+  </data>
+  <data name="cultures" xml:space="preserve">
+    <value>Cultures</value>
+  </data>
 </root>

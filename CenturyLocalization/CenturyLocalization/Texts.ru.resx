@@ -733,4 +733,10 @@
   <data name="naval_blockade" xml:space="preserve">
     <value>Морская блокада</value>
   </data>
+  <data name="culture_groups" xml:space="preserve">
+    <value>Культурные группы</value>
+  </data>
+  <data name="cultures" xml:space="preserve">
+    <value>Культуры</value>
+  </data>
 </root>

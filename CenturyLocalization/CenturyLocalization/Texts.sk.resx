@@ -746,4 +746,10 @@ Keď svetové napätie dosiahne 100%, spustí sa svetová vojna a resetuje sa.
   <data name="naval_blockade" xml:space="preserve">
     <value>Námorná blokáda</value>
   </data>
+  <data name="culture_groups" xml:space="preserve">
+    <value>Kultúrne skupiny</value>
+  </data>
+  <data name="cultures" xml:space="preserve">
+    <value>Kultúry</value>
+  </data>
 </root>

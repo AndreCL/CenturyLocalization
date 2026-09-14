@@ -728,4 +728,10 @@ Wanneer de wereldspanning 100% bereikt, wordt een wereldoorlog ontketend en word
   <data name="naval_blockade" xml:space="preserve">
     <value>Zeeblokkade</value>
   </data>
+  <data name="culture_groups" xml:space="preserve">
+    <value>Cultuurgroepen</value>
+  </data>
+  <data name="cultures" xml:space="preserve">
+    <value>Cultuur</value>
+  </data>
 </root>
