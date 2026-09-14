@@ -739,4 +739,22 @@
   <data name="cultures" xml:space="preserve">
     <value>Культуры</value>
   </data>
+  <data name="primary" xml:space="preserve">
+    <value>Начальное</value>
+  </data>
+  <data name="secondary" xml:space="preserve">
+    <value>Среднее</value>
+  </data>
+  <data name="graduate" xml:space="preserve">
+    <value>Высшее</value>
+  </data>
+  <data name="postgraduate" xml:space="preserve">
+    <value>Послевузовское</value>
+  </data>
+  <data name="doctoral" xml:space="preserve">
+    <value>Докторантура</value>
+  </data>
+  <data name="education_attainment" xml:space="preserve">
+    <value>Уровень образования</value>
+  </data>
 </root>

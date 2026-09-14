@@ -730,6 +730,24 @@ Um novo ano chegou. Desejamos a vocês um feliz ano novo. Que este novo ano seja
     <value>Grupos culturais</value>
   </data>
   <data name="cultures" xml:space="preserve">
-    <value>cultures:</value>
+    <value>Culturas</value>
+  </data>
+  <data name="primary" xml:space="preserve">
+    <value>Ensino básico</value>
+  </data>
+  <data name="secondary" xml:space="preserve">
+    <value>Ensino secundário</value>
+  </data>
+  <data name="graduate" xml:space="preserve">
+    <value>Licenciatura</value>
+  </data>
+  <data name="postgraduate" xml:space="preserve">
+    <value>Pós-graduação</value>
+  </data>
+  <data name="doctoral" xml:space="preserve">
+    <value>Doutoramento</value>
+  </data>
+  <data name="education_attainment" xml:space="preserve">
+    <value>Nível de escolaridade</value>
   </data>
 </root>

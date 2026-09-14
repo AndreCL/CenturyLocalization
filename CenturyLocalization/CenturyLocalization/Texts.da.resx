@@ -735,4 +735,22 @@ Når verdensspændingen når 100 %, udløses en verdenskrig, og værdien nulstil
   <data name="cultures" xml:space="preserve">
     <value>Kulturer</value>
   </data>
+  <data name="primary" xml:space="preserve">
+    <value>Grundskole</value>
+  </data>
+  <data name="secondary" xml:space="preserve">
+    <value>Ungdomsuddannelse</value>
+  </data>
+  <data name="graduate" xml:space="preserve">
+    <value>Bachelorgrad</value>
+  </data>
+  <data name="postgraduate" xml:space="preserve">
+    <value>Kandidatgrad</value>
+  </data>
+  <data name="doctoral" xml:space="preserve">
+    <value>Ph.d.</value>
+  </data>
+  <data name="education_attainment" xml:space="preserve">
+    <value>Uddannelsesniveau</value>
+  </data>
 </root>

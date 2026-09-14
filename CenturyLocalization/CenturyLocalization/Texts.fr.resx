@@ -754,4 +754,22 @@ Une fois que la tension mondiale atteint 100 %, une guerre mondiale est déclenc
   <data name="cultures" xml:space="preserve">
     <value>Cultures</value>
   </data>
+  <data name="primary" xml:space="preserve">
+    <value>Primaire</value>
+  </data>
+  <data name="secondary" xml:space="preserve">
+    <value>Secondaire</value>
+  </data>
+  <data name="graduate" xml:space="preserve">
+    <value>Diplôme universitaire</value>
+  </data>
+  <data name="postgraduate" xml:space="preserve">
+    <value>Master</value>
+  </data>
+  <data name="doctoral" xml:space="preserve">
+    <value>Doctorat</value>
+  </data>
+  <data name="education_attainment" xml:space="preserve">
+    <value>Niveau d'études</value>
+  </data>
 </root>

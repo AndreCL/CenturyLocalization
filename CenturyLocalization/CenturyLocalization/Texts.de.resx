@@ -734,4 +734,22 @@ Sobald die Weltspannung 100 % erreicht, wird ein Weltkrieg ausgelöst und der We
   <data name="cultures" xml:space="preserve">
     <value>Kulturen</value>
   </data>
+  <data name="primary" xml:space="preserve">
+    <value>Grundschule</value>
+  </data>
+  <data name="secondary" xml:space="preserve">
+    <value>Sekundarstufe</value>
+  </data>
+  <data name="graduate" xml:space="preserve">
+    <value>Hochschulabschluss</value>
+  </data>
+  <data name="postgraduate" xml:space="preserve">
+    <value>Masterabschluss</value>
+  </data>
+  <data name="doctoral" xml:space="preserve">
+    <value>Promotion</value>
+  </data>
+  <data name="education_attainment" xml:space="preserve">
+    <value>Bildungsniveau</value>
+  </data>
 </root>
