@@ -61,6 +61,15 @@ namespace CenturyLocalization.PopulationAttributes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Age Groups.
+        /// </summary>
+        internal static string age_groups {
+            get {
+                return ResourceManager.GetString("age_groups", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Buddhist.
         /// </summary>
         internal static string buddhist {
@@ -79,11 +88,92 @@ namespace CenturyLocalization.PopulationAttributes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Culture.
+        /// </summary>
+        internal static string culture {
+            get {
+                return ResourceManager.GetString("culture", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Culture groups.
+        /// </summary>
+        internal static string culture_groups {
+            get {
+                return ResourceManager.GetString("culture_groups", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cultures.
+        /// </summary>
+        internal static string cultures {
+            get {
+                return ResourceManager.GetString("cultures", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Doctoral.
+        /// </summary>
+        internal static string doctoral {
+            get {
+                return ResourceManager.GetString("doctoral", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Education.
+        /// </summary>
+        internal static string education {
+            get {
+                return ResourceManager.GetString("education", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Education Attainment.
+        /// </summary>
+        internal static string education_attainment {
+            get {
+                return ResourceManager.GetString("education_attainment", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Employment.
+        /// </summary>
+        internal static string employment {
+            get {
+                return ResourceManager.GetString("employment", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Female.
         /// </summary>
         internal static string female {
             get {
                 return ResourceManager.GetString("female", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Gender.
+        /// </summary>
+        internal static string gender {
+            get {
+                return ResourceManager.GetString("gender", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Graduate.
+        /// </summary>
+        internal static string graduate {
+            get {
+                return ResourceManager.GetString("graduate", resourceCulture);
             }
         }
         
@@ -151,11 +241,47 @@ namespace CenturyLocalization.PopulationAttributes {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Postgraduate.
+        /// </summary>
+        internal static string postgraduate {
+            get {
+                return ResourceManager.GetString("postgraduate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Primary.
+        /// </summary>
+        internal static string primary {
+            get {
+                return ResourceManager.GetString("primary", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Religion.
+        /// </summary>
+        internal static string religion {
+            get {
+                return ResourceManager.GetString("religion", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Rich.
         /// </summary>
         internal static string rich {
             get {
                 return ResourceManager.GetString("rich", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Secondary.
+        /// </summary>
+        internal static string secondary {
+            get {
+                return ResourceManager.GetString("secondary", resourceCulture);
             }
         }
         
@@ -183,6 +309,15 @@ namespace CenturyLocalization.PopulationAttributes {
         internal static string sikh {
             get {
                 return ResourceManager.GetString("sikh", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Social class.
+        /// </summary>
+        internal static string social_class {
+            get {
+                return ResourceManager.GetString("social_class", resourceCulture);
             }
         }
         

@@ -88,15 +88,6 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Age Groups.
-        /// </summary>
-        internal static string age_groups {
-            get {
-                return ResourceManager.GetString("age_groups", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Air battle.
         /// </summary>
         internal static string air_battle {
@@ -394,33 +385,6 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Culture.
-        /// </summary>
-        internal static string culture {
-            get {
-                return ResourceManager.GetString("culture", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Culture groups.
-        /// </summary>
-        internal static string culture_groups {
-            get {
-                return ResourceManager.GetString("culture_groups", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Cultures.
-        /// </summary>
-        internal static string cultures {
-            get {
-                return ResourceManager.GetString("cultures", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Current.
         /// </summary>
         internal static string current {
@@ -574,15 +538,6 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Doctoral.
-        /// </summary>
-        internal static string doctoral {
-            get {
-                return ResourceManager.GetString("doctoral", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to No, take me to the results.
         /// </summary>
         internal static string dont_extend_game {
@@ -606,33 +561,6 @@ namespace CenturyLocalization {
         internal static string easy {
             get {
                 return ResourceManager.GetString("easy", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Education.
-        /// </summary>
-        internal static string education {
-            get {
-                return ResourceManager.GetString("education", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Education Attainment.
-        /// </summary>
-        internal static string education_attainment {
-            get {
-                return ResourceManager.GetString("education_attainment", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Employment.
-        /// </summary>
-        internal static string employment {
-            get {
-                return ResourceManager.GetString("employment", resourceCulture);
             }
         }
         
@@ -808,29 +736,11 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Gender.
-        /// </summary>
-        internal static string gender {
-            get {
-                return ResourceManager.GetString("gender", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Retrieving version.
         /// </summary>
         internal static string getversion {
             get {
                 return ResourceManager.GetString("getversion", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Graduate.
-        /// </summary>
-        internal static string graduate {
-            get {
-                return ResourceManager.GetString("graduate", resourceCulture);
             }
         }
         
@@ -1377,29 +1287,11 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Postgraduate.
-        /// </summary>
-        internal static string postgraduate {
-            get {
-                return ResourceManager.GetString("postgraduate", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Poverty.
         /// </summary>
         internal static string poverty {
             get {
                 return ResourceManager.GetString("poverty", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Primary.
-        /// </summary>
-        internal static string primary {
-            get {
-                return ResourceManager.GetString("primary", resourceCulture);
             }
         }
         
@@ -1467,15 +1359,6 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Religion.
-        /// </summary>
-        internal static string religion {
-            get {
-                return ResourceManager.GetString("religion", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Rifles:.
         /// </summary>
         internal static string rifles {
@@ -1508,15 +1391,6 @@ namespace CenturyLocalization {
         internal static string sea_battle {
             get {
                 return ResourceManager.GetString("sea_battle", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Secondary.
-        /// </summary>
-        internal static string secondary {
-            get {
-                return ResourceManager.GetString("secondary", resourceCulture);
             }
         }
         
@@ -1652,15 +1526,6 @@ namespace CenturyLocalization {
         internal static string smallships {
             get {
                 return ResourceManager.GetString("smallships", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Social class.
-        /// </summary>
-        internal static string social_class {
-            get {
-                return ResourceManager.GetString("social_class", resourceCulture);
             }
         }
         

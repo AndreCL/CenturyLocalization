@@ -165,4 +165,49 @@
   <data name="traditional" xml:space="preserve">
     <value>Traditionell</value>
   </data>
+  <data name="culture_groups" xml:space="preserve">
+    <value>Kulturgruppen</value>
+  </data>
+  <data name="cultures" xml:space="preserve">
+    <value>Kulturen</value>
+  </data>
+  <data name="culture" xml:space="preserve">
+    <value>Kultur</value>
+  </data>
+  <data name="education_attainment" xml:space="preserve">
+    <value>Bildungsniveau</value>
+  </data>
+  <data name="primary" xml:space="preserve">
+    <value>Grundschule</value>
+  </data>
+  <data name="secondary" xml:space="preserve">
+    <value>Sekundarstufe</value>
+  </data>
+  <data name="graduate" xml:space="preserve">
+    <value>Hochschulabschluss</value>
+  </data>
+  <data name="postgraduate" xml:space="preserve">
+    <value>Masterabschluss</value>
+  </data>
+  <data name="doctoral" xml:space="preserve">
+    <value>Promotion</value>
+  </data>
+  <data name="education" xml:space="preserve">
+    <value>Unterricht</value>
+  </data>
+  <data name="religion" xml:space="preserve">
+    <value>Religion</value>
+  </data>
+  <data name="gender" xml:space="preserve">
+    <value>Geschlecht</value>
+  </data>
+  <data name="age_groups" xml:space="preserve">
+    <value>Alters Gruppen</value>
+  </data>
+  <data name="social_class" xml:space="preserve">
+    <value>Soziale Klasse</value>
+  </data>
+  <data name="employment" xml:space="preserve">
+    <value>Eingestellte</value>
+  </data>
 </root>

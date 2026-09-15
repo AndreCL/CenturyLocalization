@@ -165,4 +165,49 @@
   <data name="traditional" xml:space="preserve">
     <value>Traditionel</value>
   </data>
+  <data name="culture_groups" xml:space="preserve">
+    <value>Kulturgrupper</value>
+  </data>
+  <data name="cultures" xml:space="preserve">
+    <value>Kulturer</value>
+  </data>
+  <data name="culture" xml:space="preserve">
+    <value>Kultur</value>
+  </data>
+  <data name="education_attainment" xml:space="preserve">
+    <value>Uddannelsesniveau</value>
+  </data>
+  <data name="primary" xml:space="preserve">
+    <value>Grundskole</value>
+  </data>
+  <data name="secondary" xml:space="preserve">
+    <value>Ungdomsuddannelse</value>
+  </data>
+  <data name="graduate" xml:space="preserve">
+    <value>Bachelorgrad</value>
+  </data>
+  <data name="postgraduate" xml:space="preserve">
+    <value>Kandidatgrad</value>
+  </data>
+  <data name="doctoral" xml:space="preserve">
+    <value>Ph.d.</value>
+  </data>
+  <data name="education" xml:space="preserve">
+    <value>Uddannelse</value>
+  </data>
+  <data name="religion" xml:space="preserve">
+    <value>Religion</value>
+  </data>
+  <data name="gender" xml:space="preserve">
+    <value>Køn</value>
+  </data>
+  <data name="age_groups" xml:space="preserve">
+    <value>Alder</value>
+  </data>
+  <data name="social_class" xml:space="preserve">
+    <value>Social klasse</value>
+  </data>
+  <data name="employment" xml:space="preserve">
+    <value>Beskæftigelse</value>
+  </data>
 </root>

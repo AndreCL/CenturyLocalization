@@ -165,4 +165,49 @@
   <data name="traditional" xml:space="preserve">
     <value>Tradisional</value>
   </data>
+  <data name="culture_groups" xml:space="preserve">
+    <value>Kelompok budaya</value>
+  </data>
+  <data name="cultures" xml:space="preserve">
+    <value>Budaya</value>
+  </data>
+  <data name="culture" xml:space="preserve">
+    <value>Budaya</value>
+  </data>
+  <data name="education_attainment" xml:space="preserve">
+    <value>Tingkat pendidikan</value>
+  </data>
+  <data name="primary" xml:space="preserve">
+    <value>Pendidikan dasar</value>
+  </data>
+  <data name="secondary" xml:space="preserve">
+    <value>Pendidikan menengah</value>
+  </data>
+  <data name="graduate" xml:space="preserve">
+    <value>Sarjana</value>
+  </data>
+  <data name="postgraduate" xml:space="preserve">
+    <value>Pascasarjana</value>
+  </data>
+  <data name="doctoral" xml:space="preserve">
+    <value>Doktor</value>
+  </data>
+  <data name="education" xml:space="preserve">
+    <value>Edukasi</value>
+  </data>
+  <data name="religion" xml:space="preserve">
+    <value>Agama</value>
+  </data>
+  <data name="gender" xml:space="preserve">
+    <value>Jenis Kelamin</value>
+  </data>
+  <data name="age_groups" xml:space="preserve">
+    <value>Kelompok Usia</value>
+  </data>
+  <data name="social_class" xml:space="preserve">
+    <value>Kelas Sosial</value>
+  </data>
+  <data name="employment" xml:space="preserve">
+    <value>Pekerjaan</value>
+  </data>
 </root>

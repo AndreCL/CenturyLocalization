@@ -165,4 +165,49 @@
   <data name="traditional" xml:space="preserve">
     <value>Traditioneel</value>
   </data>
+  <data name="culture_groups" xml:space="preserve">
+    <value>Cultuurgroepen</value>
+  </data>
+  <data name="cultures" xml:space="preserve">
+    <value>Cultuur</value>
+  </data>
+  <data name="culture" xml:space="preserve">
+    <value>Cultuur</value>
+  </data>
+  <data name="education_attainment" xml:space="preserve">
+    <value>Opleidingsniveau</value>
+  </data>
+  <data name="primary" xml:space="preserve">
+    <value>Basisonderwijs</value>
+  </data>
+  <data name="secondary" xml:space="preserve">
+    <value>Voortgezet onderwijs</value>
+  </data>
+  <data name="graduate" xml:space="preserve">
+    <value>Bachelor</value>
+  </data>
+  <data name="postgraduate" xml:space="preserve">
+    <value>Master</value>
+  </data>
+  <data name="doctoral" xml:space="preserve">
+    <value>Doctoraat</value>
+  </data>
+  <data name="education" xml:space="preserve">
+    <value>Educatie</value>
+  </data>
+  <data name="religion" xml:space="preserve">
+    <value>Religie</value>
+  </data>
+  <data name="gender" xml:space="preserve">
+    <value>Geslacht</value>
+  </data>
+  <data name="age_groups" xml:space="preserve">
+    <value>Leeftijdsgroepen</value>
+  </data>
+  <data name="social_class" xml:space="preserve">
+    <value>Sociale klassen</value>
+  </data>
+  <data name="employment" xml:space="preserve">
+    <value>Werkgelegenheid</value>
+  </data>
 </root>

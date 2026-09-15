@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
 		Microsoft ResX Schema
@@ -144,5 +144,50 @@
   </data>
   <data name="traditional" xml:space="preserve">
     <value>Traditional</value>
+  </data>
+  <data name="culture_groups" xml:space="preserve">
+    <value>Culture groups</value>
+  </data>
+  <data name="cultures" xml:space="preserve">
+    <value>Cultures</value>
+  </data>
+  <data name="culture" xml:space="preserve">
+    <value>Culture</value>
+  </data>
+  <data name="education_attainment" xml:space="preserve">
+    <value>Education Attainment</value>
+  </data>
+  <data name="primary" xml:space="preserve">
+    <value>Primary</value>
+  </data>
+  <data name="secondary" xml:space="preserve">
+    <value>Secondary</value>
+  </data>
+  <data name="graduate" xml:space="preserve">
+    <value>Graduate</value>
+  </data>
+  <data name="postgraduate" xml:space="preserve">
+    <value>Postgraduate</value>
+  </data>
+  <data name="doctoral" xml:space="preserve">
+    <value>Doctoral</value>
+  </data>
+  <data name="education" xml:space="preserve">
+    <value>Education</value>
+  </data>
+  <data name="religion" xml:space="preserve">
+    <value>Religion</value>
+  </data>
+  <data name="gender" xml:space="preserve">
+    <value>Gender</value>
+  </data>
+  <data name="age_groups" xml:space="preserve">
+    <value>Age Groups</value>
+  </data>
+  <data name="social_class" xml:space="preserve">
+    <value>Social class</value>
+  </data>
+  <data name="employment" xml:space="preserve">
+    <value>Employment</value>
   </data>
 </root>
