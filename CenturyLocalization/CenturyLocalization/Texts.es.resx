@@ -709,4 +709,7 @@ Una vez que la tensión mundial alcanza el 100 %, se desencadena una guerra mund
   <data name="naval_blockade" xml:space="preserve">
     <value>Bloqueo naval</value>
   </data>
+  <data name="population_density" xml:space="preserve">
+    <value>Densidad de población</value>
+  </data>
 </root>

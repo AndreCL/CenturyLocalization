@@ -707,4 +707,7 @@ Ketika Ketegangan Dunia mencapai 100%, Perang Dunia akan dipicu dan nilainya dia
   <data name="naval_blockade" xml:space="preserve">
     <value>Blokade laut</value>
   </data>
+  <data name="population_density" xml:space="preserve">
+    <value>Kepadatan penduduk</value>
+  </data>
 </root>

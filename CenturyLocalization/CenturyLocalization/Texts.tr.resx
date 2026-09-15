@@ -726,4 +726,7 @@
   <data name="naval_blockade" xml:space="preserve">
     <value>Deniz ablukası</value>
   </data>
+  <data name="population_density" xml:space="preserve">
+    <value>Nüfus Yoğunluğu</value>
+  </data>
 </root>

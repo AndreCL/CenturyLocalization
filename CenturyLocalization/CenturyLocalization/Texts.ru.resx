@@ -712,4 +712,7 @@
   <data name="naval_blockade" xml:space="preserve">
     <value>Морская блокада</value>
   </data>
+  <data name="population_density" xml:space="preserve">
+    <value>Плотность населения</value>
+  </data>
 </root>

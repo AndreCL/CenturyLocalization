@@ -1287,6 +1287,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Population density.
+        /// </summary>
+        internal static string population_density {
+            get {
+                return ResourceManager.GetString("population_density", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Poverty.
         /// </summary>
         internal static string poverty {

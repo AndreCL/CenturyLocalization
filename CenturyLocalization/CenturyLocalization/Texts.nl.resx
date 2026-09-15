@@ -707,4 +707,7 @@ Wanneer de wereldspanning 100% bereikt, wordt een wereldoorlog ontketend en word
   <data name="naval_blockade" xml:space="preserve">
     <value>Zeeblokkade</value>
   </data>
+  <data name="population_density" xml:space="preserve">
+    <value>Bevolkingsdichtheid</value>
+  </data>
 </root>

@@ -707,4 +707,7 @@
   <data name="naval_blockade" xml:space="preserve">
     <value>الحصار البحري</value>
   </data>
+  <data name="population_density" xml:space="preserve">
+    <value>الكثافة السكانية</value>
+  </data>
 </root>

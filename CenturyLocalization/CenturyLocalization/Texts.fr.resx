@@ -727,4 +727,7 @@ Une fois que la tension mondiale atteint 100 %, une guerre mondiale est déclenc
   <data name="naval_blockade" xml:space="preserve">
     <value>Blocus naval</value>
   </data>
+  <data name="population_density" xml:space="preserve">
+    <value>Densité de population</value>
+  </data>
 </root>

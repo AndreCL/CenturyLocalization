@@ -708,4 +708,7 @@ Når verdensspændingen når 100 %, udløses en verdenskrig, og værdien nulstil
   <data name="naval_blockade" xml:space="preserve">
     <value>Søblokade</value>
   </data>
+  <data name="population_density" xml:space="preserve">
+    <value>populations tæthed</value>
+  </data>
 </root>
