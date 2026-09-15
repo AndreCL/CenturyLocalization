@@ -438,4 +438,13 @@
   <data name="tatarstan" xml:space="preserve">
     <value>Tartaristão</value>
   </data>
+  <data name="mongolia" xml:space="preserve">
+    <value>Mongólia</value>
+  </data>
+  <data name="sakha" xml:space="preserve">
+    <value>Sakha</value>
+  </data>
+  <data name="tibet" xml:space="preserve">
+    <value>Tibete</value>
+  </data>
 </root>

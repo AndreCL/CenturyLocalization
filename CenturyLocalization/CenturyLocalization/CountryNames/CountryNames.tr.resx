@@ -507,4 +507,13 @@
   <data name="tatarstan" xml:space="preserve">
     <value>Tataristan</value>
   </data>
+  <data name="mongolia" xml:space="preserve">
+    <value>Moğolistan</value>
+  </data>
+  <data name="sakha" xml:space="preserve">
+    <value>Saha</value>
+  </data>
+  <data name="tibet" xml:space="preserve">
+    <value>Tibet</value>
+  </data>
 </root>
