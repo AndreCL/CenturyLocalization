@@ -448,4 +448,10 @@
   <data name="tibet" xml:space="preserve">
     <value>Tibet</value>
   </data>
+  <data name="assam" xml:space="preserve">
+    <value>Assam</value>
+  </data>
+  <data name="bangladesh" xml:space="preserve">
+    <value>Bangladesh</value>
+  </data>
 </root>
