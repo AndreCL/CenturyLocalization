@@ -710,4 +710,7 @@
   <data name="population_density" xml:space="preserve">
     <value>الكثافة السكانية</value>
   </data>
+  <data name="warning_difficult_war" xml:space="preserve">
+    <value>البلد المستهدف أقوى منك بكثير. هل أنت متأكد أنك تريد إعلان الحرب ؟</value>
+  </data>
 </root>

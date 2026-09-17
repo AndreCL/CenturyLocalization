@@ -1,5 +1,6 @@
 ﻿using CenturyLocalization;
 using CenturyLocalization.Actions;
+using CenturyLocalization.BattleNames;
 using CenturyLocalization.CountryNames;
 using CenturyLocalization.EndScreen;
 using CenturyLocalization.Events;
@@ -27,6 +28,7 @@ public class DataConsistencyTests
         var eventsResourceNames = GetResourceNames(Events.ResourceManager);
         var populationAttributesResourceNames = GetResourceNames(PopulationAttributes.ResourceManager);
         var warNamesResourceNames = GetResourceNames(WarNames.ResourceManager);
+        var battleNamesResourceNames = GetResourceNames(BattleNames.ResourceManager);
 
 		// Create a dictionary to track resource names and their sources
 		var resourceNameSources = new Dictionary<string, List<string>>();
@@ -39,6 +41,7 @@ public class DataConsistencyTests
 		AddResourceNamesFromSource(resourceNameSources, eventsResourceNames, "Events");
 		AddResourceNamesFromSource(resourceNameSources, populationAttributesResourceNames, "PopulationAttributes");
 		AddResourceNamesFromSource(resourceNameSources, warNamesResourceNames, "WarNames");
+		AddResourceNamesFromSource(resourceNameSources, battleNamesResourceNames, "BattleNames");
 
 		// Find duplicates
 		var duplicates = resourceNameSources

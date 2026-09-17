@@ -1746,6 +1746,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to The target country is much stronger than you. Are you sure you want to declare war?.
+        /// </summary>
+        internal static string warning_difficult_war {
+            get {
+                return ResourceManager.GetString("warning_difficult_war", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Warning! The game is designed to work with the settings below set to default. Changing them can cause unexpected issues in the game.
         /// </summary>
         internal static string warning_settings_changes {

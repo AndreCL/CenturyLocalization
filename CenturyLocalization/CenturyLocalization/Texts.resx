@@ -729,4 +729,7 @@ Once the World Tension reaches 100%, a World War is triggered and it resets.
   <data name="population_density" xml:space="preserve">
     <value>Population density</value>
   </data>
+  <data name="warning_difficult_war" xml:space="preserve">
+    <value>The target country is much stronger than you. Are you sure you want to declare war?</value>
+  </data>
 </root>

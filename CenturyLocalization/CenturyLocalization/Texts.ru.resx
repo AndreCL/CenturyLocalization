@@ -715,4 +715,7 @@
   <data name="population_density" xml:space="preserve">
     <value>Плотность населения</value>
   </data>
+  <data name="warning_difficult_war" xml:space="preserve">
+    <value>Целевая страна намного сильнее вас. Вы уверены, что хотите объявить войну?</value>
+  </data>
 </root>

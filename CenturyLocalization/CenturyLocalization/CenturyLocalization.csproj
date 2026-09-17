@@ -44,6 +44,11 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>WarNames.resx</DependentUpon>
     </Compile>
+    <Compile Update="BattleNames\BattleNames.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>BattleNames.resx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Update="Actions\Actions.fr.resx" />
@@ -86,6 +91,22 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>WarNames.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Update="BattleNames\BattleNames.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>BattleNames.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="BattleNames\BattleNames.ar.resx" />
+    <EmbeddedResource Update="BattleNames\BattleNames.da.resx" />
+    <EmbeddedResource Update="BattleNames\BattleNames.de.resx" />
+    <EmbeddedResource Update="BattleNames\BattleNames.es.resx" />
+    <EmbeddedResource Update="BattleNames\BattleNames.fr.resx" />
+    <EmbeddedResource Update="BattleNames\BattleNames.id.resx" />
+    <EmbeddedResource Update="BattleNames\BattleNames.nl.resx" />
+    <EmbeddedResource Update="BattleNames\BattleNames.pt-BR.resx" />
+    <EmbeddedResource Update="BattleNames\BattleNames.pt-PT.resx" />
+    <EmbeddedResource Update="BattleNames\BattleNames.ru.resx" />
+    <EmbeddedResource Update="BattleNames\BattleNames.sk.resx" />
+    <EmbeddedResource Update="BattleNames\BattleNames.tr.resx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Update="EndScreen\EndScreen.Designer.cs">

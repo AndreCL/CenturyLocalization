@@ -729,4 +729,7 @@
   <data name="population_density" xml:space="preserve">
     <value>Nüfus Yoğunluğu</value>
   </data>
+  <data name="warning_difficult_war" xml:space="preserve">
+    <value>Hedef ülke sizden çok daha güçlü. Savaş ilan etmek istediğinizden emin misiniz?</value>
+  </data>
 </root>

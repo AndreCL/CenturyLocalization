@@ -710,4 +710,7 @@ Wanneer de wereldspanning 100% bereikt, wordt een wereldoorlog ontketend en word
   <data name="population_density" xml:space="preserve">
     <value>Bevolkingsdichtheid</value>
   </data>
+  <data name="warning_difficult_war" xml:space="preserve">
+    <value>Het doelland is veel sterker dan jij. Weet u zeker dat u de oorlog wilt verklaren?</value>
+  </data>
 </root>

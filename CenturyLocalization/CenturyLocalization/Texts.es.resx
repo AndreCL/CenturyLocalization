@@ -712,4 +712,7 @@ Una vez que la tensión mundial alcanza el 100 %, se desencadena una guerra mund
   <data name="population_density" xml:space="preserve">
     <value>Densidad de población</value>
   </data>
+  <data name="warning_difficult_war" xml:space="preserve">
+    <value>El país objetivo es mucho más fuerte que tú. ¿Seguro que quieres declarar la guerra?</value>
+  </data>
 </root>

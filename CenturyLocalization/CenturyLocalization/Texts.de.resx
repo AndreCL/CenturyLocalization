@@ -710,4 +710,7 @@ Sobald die Weltspannung 100 % erreicht, wird ein Weltkrieg ausgelöst und der We
   <data name="population_density" xml:space="preserve">
     <value>Bevölkerungsdichte</value>
   </data>
+  <data name="warning_difficult_war" xml:space="preserve">
+    <value>Das Zielland ist viel stärker als Sie. Bist du sicher, dass du den Krieg erklären willst?</value>
+  </data>
 </root>

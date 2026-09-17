@@ -34,8 +34,10 @@ Open source implementation of localization for Century
 * Create PopulationAttributes file
 * Create WarNames file
 * Create Texts file
-
+* Create BattleNames file
 * Add language to Localization._supportedCultureNames
+* Run unit tests
 
 # Adding a localization category
 * Add to DataConsistencyTests (add resource names from each ResourceManager and add all resource names from each source)
+* Run unit tests

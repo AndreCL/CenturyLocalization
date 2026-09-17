@@ -711,4 +711,7 @@ Når verdensspændingen når 100 %, udløses en verdenskrig, og værdien nulstil
   <data name="population_density" xml:space="preserve">
     <value>populations tæthed</value>
   </data>
+  <data name="warning_difficult_war" xml:space="preserve">
+    <value>Mållandet er meget stærkere end dig. Er du sikker på, at du vil erklære krig?</value>
+  </data>
 </root>

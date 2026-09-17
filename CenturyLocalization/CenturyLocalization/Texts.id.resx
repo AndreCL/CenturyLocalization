@@ -710,4 +710,7 @@ Ketika Ketegangan Dunia mencapai 100%, Perang Dunia akan dipicu dan nilainya dia
   <data name="population_density" xml:space="preserve">
     <value>Kepadatan penduduk</value>
   </data>
+  <data name="warning_difficult_war" xml:space="preserve">
+    <value>Negara target jauh lebih kuat darimu. Apakah kamu yakin ingin menyatakan perang?</value>
+  </data>
 </root>

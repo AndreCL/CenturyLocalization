@@ -728,4 +728,7 @@ Keď svetové napätie dosiahne 100%, spustí sa svetová vojna a resetuje sa.
   <data name="population_density" xml:space="preserve">
     <value>Hustota zaľudnenia</value>
   </data>
+  <data name="warning_difficult_war" xml:space="preserve">
+    <value>Cieľová krajina je oveľa silnejšia ako vy. Naozaj chcete vyhlásiť vojnu?</value>
+  </data>
 </root>
