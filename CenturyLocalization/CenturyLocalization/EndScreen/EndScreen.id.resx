@@ -63,4 +63,19 @@
   <data name="plus_other_nations" xml:space="preserve">
     <value>dan {0} negara lainnya</value>
   </data>
+  <data name="crossroads_cultures" xml:space="preserve">
+    <value>Persimpangan Budaya</value>
+  </data>
+  <data name="unified_identity" xml:space="preserve">
+    <value>Identitas Terpadu</value>
+  </data>
+  <data name="pantheon_faiths" xml:space="preserve">
+    <value>Pantheon of Faiths</value>
+  </data>
+  <data name="one_true_faith" xml:space="preserve">
+    <value>Satu Iman Sejati</value>
+  </data>
+  <data name="armed_citizenry" xml:space="preserve">
+    <value>Warga Negara Bersenjata</value>
+  </data>
 </root>

@@ -63,4 +63,19 @@
   <data name="plus_other_nations" xml:space="preserve">
     <value>ve {0} diğer ülke</value>
   </data>
+  <data name="crossroads_cultures" xml:space="preserve">
+    <value>Kültürlerin Kavşağı</value>
+  </data>
+  <data name="unified_identity" xml:space="preserve">
+    <value>Birleşik Kimlik</value>
+  </data>
+  <data name="pantheon_faiths" xml:space="preserve">
+    <value>İnançlar Panteonu</value>
+  </data>
+  <data name="one_true_faith" xml:space="preserve">
+    <value>Tek Gerçek İnanç</value>
+  </data>
+  <data name="armed_citizenry" xml:space="preserve">
+    <value>Silahlı Vatandaşlık</value>
+  </data>
 </root>

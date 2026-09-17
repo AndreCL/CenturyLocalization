@@ -61,11 +61,29 @@ namespace CenturyLocalization.EndScreen {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to An Armed Citizenry.
+        /// </summary>
+        internal static string armed_citizenry {
+            get {
+                return ResourceManager.GetString("armed_citizenry", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Best trains and roads.
         /// </summary>
         internal static string best_trains_roads {
             get {
                 return ResourceManager.GetString("best_trains_roads", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Crossroads of Cultures.
+        /// </summary>
+        internal static string crossroads_cultures {
+            get {
+                return ResourceManager.GetString("crossroads_cultures", resourceCulture);
             }
         }
         
@@ -124,6 +142,24 @@ namespace CenturyLocalization.EndScreen {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to One True Faith.
+        /// </summary>
+        internal static string one_true_faith {
+            get {
+                return ResourceManager.GetString("one_true_faith", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Pantheon of Faiths.
+        /// </summary>
+        internal static string pantheon_faiths {
+            get {
+                return ResourceManager.GetString("pantheon_faiths", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Paragon of Peace.
         /// </summary>
         internal static string paragon_of_peace {
@@ -174,6 +210,15 @@ namespace CenturyLocalization.EndScreen {
         internal static string third {
             get {
                 return ResourceManager.GetString("third", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Unified Identity.
+        /// </summary>
+        internal static string unified_identity {
+            get {
+                return ResourceManager.GetString("unified_identity", resourceCulture);
             }
         }
         

@@ -63,4 +63,19 @@
   <data name="plus_other_nations" xml:space="preserve">
     <value>und {0} andere Nationen</value>
   </data>
+  <data name="crossroads_cultures" xml:space="preserve">
+    <value>Kreuzung der Kulturen</value>
+  </data>
+  <data name="unified_identity" xml:space="preserve">
+    <value>Einheitliche Identität</value>
+  </data>
+  <data name="pantheon_faiths" xml:space="preserve">
+    <value>Pantheon der Religionen</value>
+  </data>
+  <data name="one_true_faith" xml:space="preserve">
+    <value>Ein wahrer Glaube</value>
+  </data>
+  <data name="armed_citizenry" xml:space="preserve">
+    <value>Eine bewaffnete Bürgerschaft</value>
+  </data>
 </root>
