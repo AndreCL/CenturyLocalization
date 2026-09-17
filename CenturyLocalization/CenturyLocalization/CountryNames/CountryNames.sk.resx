@@ -453,4 +453,10 @@
   <data name="bangladesh" xml:space="preserve">
     <value>Bangladéš</value>
   </data>
+  <data name="iran" xml:space="preserve">
+    <value>Irán</value>
+  </data>
+  <data name="thailand" xml:space="preserve">
+    <value>Thajsko</value>
+  </data>
 </root>

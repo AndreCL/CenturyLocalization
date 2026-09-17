@@ -547,6 +547,15 @@ namespace CenturyLocalization.CountryNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Iran.
+        /// </summary>
+        internal static string iran {
+            get {
+                return ResourceManager.GetString("iran", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Ireland.
         /// </summary>
         internal static string ireland {
@@ -966,6 +975,15 @@ namespace CenturyLocalization.CountryNames {
         internal static string tatarstan {
             get {
                 return ResourceManager.GetString("tatarstan", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Thailand.
+        /// </summary>
+        internal static string thailand {
+            get {
+                return ResourceManager.GetString("thailand", resourceCulture);
             }
         }
         

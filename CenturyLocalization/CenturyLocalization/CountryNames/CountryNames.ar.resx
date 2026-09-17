@@ -427,7 +427,7 @@
     <value>طاجيكستان</value>
   </data>
   <data name="east_turkestan" xml:space="preserve">
-    <value>تركستان الشرقية!</value>
+    <value>تركستان الشرقية</value>
   </data>
   <data name="balochistan" xml:space="preserve">
     <value>بلوشستان</value>
@@ -452,5 +452,11 @@
   </data>
   <data name="bangladesh" xml:space="preserve">
     <value>بنغلاديش</value>
+  </data>
+  <data name="iran" xml:space="preserve">
+    <value>إيران</value>
+  </data>
+  <data name="thailand" xml:space="preserve">
+    <value>كاميرون هايلاند</value>
   </data>
 </root>

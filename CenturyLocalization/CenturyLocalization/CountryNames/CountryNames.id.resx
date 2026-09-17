@@ -427,7 +427,7 @@
     <value>Tajikistan</value>
   </data>
   <data name="east_turkestan" xml:space="preserve">
-    <value>Turkistan Timur.</value>
+    <value>Turkistan Timur</value>
   </data>
   <data name="balochistan" xml:space="preserve">
     <value>Balochistan</value>
@@ -452,5 +452,11 @@
   </data>
   <data name="bangladesh" xml:space="preserve">
     <value>Bangladesh</value>
+  </data>
+  <data name="iran" xml:space="preserve">
+    <value>Iran</value>
+  </data>
+  <data name="thailand" xml:space="preserve">
+    <value>Thailand</value>
   </data>
 </root>
