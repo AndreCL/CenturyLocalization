@@ -168,4 +168,31 @@
   <data name="ruso_japanese_war" xml:space="preserve">
     <value>Guerra Russo-Japonesa</value>
   </data>
+  <data name="french_annexation_agadez" xml:space="preserve">
+    <value>Anexação francesa de Agadez</value>
+  </data>
+  <data name="war_of_1907" xml:space="preserve">
+    <value>Guerra de 1907</value>
+  </data>
+  <data name="french_conquest_of_morocco" xml:space="preserve">
+    <value>Conquista francesa de Marrocos</value>
+  </data>
+  <data name="dutch_intervention_in_bali" xml:space="preserve">
+    <value>Intervenção holandesa em Bali</value>
+  </data>
+  <data name="dutch_venezuelan_crisis" xml:space="preserve">
+    <value>Crise Holandesa-Venezuelana</value>
+  </data>
+  <data name="portuguese_conquest_angoche" xml:space="preserve">
+    <value>A conquista portuguesa de Angoche</value>
+  </data>
+  <data name="italo_turkish_war" xml:space="preserve">
+    <value>Guerra Ítalo-Turca</value>
+  </data>
+  <data name="first_balkan_war" xml:space="preserve">
+    <value>Primeira Guerra Balcânica</value>
+  </data>
+  <data name="second_balkan_war" xml:space="preserve">
+    <value>Segunda Guerra Balcânica</value>
+  </data>
 </root>
