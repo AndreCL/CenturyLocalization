@@ -711,4 +711,7 @@ Um novo ano chegou. Desejamos a vocês um feliz ano novo. Que este novo ano seja
   <data name="warning_difficult_war" xml:space="preserve">
     <value>O país de destino é muito mais forte do que você. Tem certeza de que deseja declarar guerra?</value>
   </data>
+  <data name="war_goal_release_country" xml:space="preserve">
+    <value>Versão de país novo</value>
+  </data>
 </root>

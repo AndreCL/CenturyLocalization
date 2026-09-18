@@ -713,4 +713,7 @@
   <data name="warning_difficult_war" xml:space="preserve">
     <value>البلد المستهدف أقوى منك بكثير. هل أنت متأكد أنك تريد إعلان الحرب ؟</value>
   </data>
+  <data name="war_goal_release_country" xml:space="preserve">
+    <value>بلد الإصدار</value>
+  </data>
 </root>

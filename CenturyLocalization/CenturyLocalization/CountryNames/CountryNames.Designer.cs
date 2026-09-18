@@ -385,6 +385,15 @@ namespace CenturyLocalization.CountryNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Czechoslovakia.
+        /// </summary>
+        internal static string czechoslovakia {
+            get {
+                return ResourceManager.GetString("czechoslovakia", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Denmark.
         /// </summary>
         internal static string denmark {

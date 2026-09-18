@@ -1728,6 +1728,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Release country.
+        /// </summary>
+        internal static string war_goal_release_country {
+            get {
+                return ResourceManager.GetString("war_goal_release_country", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to War level.
         /// </summary>
         internal static string war_level {

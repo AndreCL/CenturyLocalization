@@ -733,4 +733,7 @@ Une fois que la tension mondiale atteint 100 %, une guerre mondiale est déclenc
   <data name="warning_difficult_war" xml:space="preserve">
     <value>Le pays cible est beaucoup plus fort que vous. Êtes-vous sûr de vouloir déclarer la guerre ?</value>
   </data>
+  <data name="war_goal_release_country" xml:space="preserve">
+    <value>Pays de dissémination</value>
+  </data>
 </root>

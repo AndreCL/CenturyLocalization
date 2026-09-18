@@ -718,4 +718,7 @@
   <data name="warning_difficult_war" xml:space="preserve">
     <value>Целевая страна намного сильнее вас. Вы уверены, что хотите объявить войну?</value>
   </data>
+  <data name="war_goal_release_country" xml:space="preserve">
+    <value>Страна выпуска</value>
+  </data>
 </root>

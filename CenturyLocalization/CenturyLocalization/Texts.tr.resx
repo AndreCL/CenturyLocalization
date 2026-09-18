@@ -732,4 +732,7 @@
   <data name="warning_difficult_war" xml:space="preserve">
     <value>Hedef ülke sizden çok daha güçlü. Savaş ilan etmek istediğinizden emin misiniz?</value>
   </data>
+  <data name="war_goal_release_country" xml:space="preserve">
+    <value>Ülkeyi serbest bırakın</value>
+  </data>
 </root>

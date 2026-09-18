@@ -714,4 +714,7 @@ Når verdensspændingen når 100 %, udløses en verdenskrig, og værdien nulstil
   <data name="warning_difficult_war" xml:space="preserve">
     <value>Mållandet er meget stærkere end dig. Er du sikker på, at du vil erklære krig?</value>
   </data>
+  <data name="war_goal_release_country" xml:space="preserve">
+    <value>Frigiv land</value>
+  </data>
 </root>
