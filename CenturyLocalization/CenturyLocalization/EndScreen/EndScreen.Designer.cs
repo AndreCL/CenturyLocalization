@@ -115,6 +115,15 @@ namespace CenturyLocalization.EndScreen {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Every Acre Counts.
+        /// </summary>
+        internal static string every_acre_counts {
+            get {
+                return ResourceManager.GetString("every_acre_counts", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Your Nation was defeated after {0} years.
         /// </summary>
         internal static string gameover {
@@ -205,6 +214,15 @@ namespace CenturyLocalization.EndScreen {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to The Iron Legion.
+        /// </summary>
+        internal static string the_iron_legion {
+            get {
+                return ResourceManager.GetString("the_iron_legion", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 3rd.
         /// </summary>
         internal static string third {
@@ -228,6 +246,15 @@ namespace CenturyLocalization.EndScreen {
         internal static string warrior_nation {
             get {
                 return ResourceManager.GetString("warrior_nation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wilderness Nation.
+        /// </summary>
+        internal static string wilderness_nation {
+            get {
+                return ResourceManager.GetString("wilderness_nation", resourceCulture);
             }
         }
         

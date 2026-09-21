@@ -78,4 +78,13 @@
   <data name="armed_citizenry" xml:space="preserve">
     <value>Eine bewaffnete Bürgerschaft</value>
   </data>
+  <data name="every_acre_counts" xml:space="preserve">
+    <value>Jeder Hektar zählt</value>
+  </data>
+  <data name="wilderness_nation" xml:space="preserve">
+    <value>Wildnisnation</value>
+  </data>
+  <data name="the_iron_legion" xml:space="preserve">
+    <value>Die Eiserne Legion</value>
+  </data>
 </root>

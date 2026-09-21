@@ -78,4 +78,13 @@
   <data name="armed_citizenry" xml:space="preserve">
     <value>Silahlı Vatandaşlık</value>
   </data>
+  <data name="every_acre_counts" xml:space="preserve">
+    <value>Her Dönüm Önemlidir</value>
+  </data>
+  <data name="wilderness_nation" xml:space="preserve">
+    <value>Vahşi Ulus</value>
+  </data>
+  <data name="the_iron_legion" xml:space="preserve">
+    <value>Demir Lejyon</value>
+  </data>
 </root>

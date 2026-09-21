@@ -78,4 +78,13 @@
   <data name="armed_citizenry" xml:space="preserve">
     <value>Uma Cidadania Armada</value>
   </data>
+  <data name="every_acre_counts" xml:space="preserve">
+    <value>Cada Metro Quadrado Conta</value>
+  </data>
+  <data name="wilderness_nation" xml:space="preserve">
+    <value>Nação Selvagem</value>
+  </data>
+  <data name="the_iron_legion" xml:space="preserve">
+    <value>A Legião de Ferro</value>
+  </data>
 </root>

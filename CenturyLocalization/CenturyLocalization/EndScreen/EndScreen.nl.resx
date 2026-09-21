@@ -78,4 +78,13 @@
   <data name="armed_citizenry" xml:space="preserve">
     <value>Een gewapende burgerij</value>
   </data>
+  <data name="every_acre_counts" xml:space="preserve">
+    <value>Elke hectare telt</value>
+  </data>
+  <data name="wilderness_nation" xml:space="preserve">
+    <value>Wildernis natie</value>
+  </data>
+  <data name="the_iron_legion" xml:space="preserve">
+    <value>Het IJzeren Legioen</value>
+  </data>
 </root>

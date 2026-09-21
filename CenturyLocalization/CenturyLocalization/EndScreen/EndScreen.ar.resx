@@ -78,4 +78,13 @@
   <data name="armed_citizenry" xml:space="preserve">
     <value>مواطن مسلح</value>
   </data>
+  <data name="every_acre_counts" xml:space="preserve">
+    <value>كل شبر له قيمته</value>
+  </data>
+  <data name="wilderness_nation" xml:space="preserve">
+    <value>أمة البرية</value>
+  </data>
+  <data name="the_iron_legion" xml:space="preserve">
+    <value>الفيلق الحديدي</value>
+  </data>
 </root>

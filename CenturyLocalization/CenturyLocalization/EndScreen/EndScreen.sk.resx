@@ -78,4 +78,13 @@
   <data name="armed_citizenry" xml:space="preserve">
     <value>Ozbrojený občan</value>
   </data>
+  <data name="every_acre_counts" xml:space="preserve">
+    <value>Každý aker sa počíta</value>
+  </data>
+  <data name="wilderness_nation" xml:space="preserve">
+    <value>Národ divočiny</value>
+  </data>
+  <data name="the_iron_legion" xml:space="preserve">
+    <value>Železná légia</value>
+  </data>
 </root>

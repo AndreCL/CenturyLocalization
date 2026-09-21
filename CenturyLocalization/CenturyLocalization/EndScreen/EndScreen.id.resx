@@ -78,4 +78,13 @@
   <data name="armed_citizenry" xml:space="preserve">
     <value>Warga Negara Bersenjata</value>
   </data>
+  <data name="every_acre_counts" xml:space="preserve">
+    <value>Setiap Jengkal Berarti</value>
+  </data>
+  <data name="wilderness_nation" xml:space="preserve">
+    <value>Negara Hutan Belantara</value>
+  </data>
+  <data name="the_iron_legion" xml:space="preserve">
+    <value>Legiun Besi</value>
+  </data>
 </root>
