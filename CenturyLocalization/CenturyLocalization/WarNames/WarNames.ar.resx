@@ -168,4 +168,31 @@
   <data name="ruso_japanese_war" xml:space="preserve">
     <value>الحرب الروسية اليابانية!</value>
   </data>
+  <data name="french_annexation_agadez" xml:space="preserve">
+    <value>ضم فرنسا لأغاديز</value>
+  </data>
+  <data name="war_of_1907" xml:space="preserve">
+    <value>حرب 1907</value>
+  </data>
+  <data name="french_conquest_of_morocco" xml:space="preserve">
+    <value>الغزو الفرنسي للمغرب</value>
+  </data>
+  <data name="dutch_intervention_in_bali" xml:space="preserve">
+    <value>التدخل الهولندي في بالي</value>
+  </data>
+  <data name="dutch_venezuelan_crisis" xml:space="preserve">
+    <value>الأزمة الهولندية الفنزويلية</value>
+  </data>
+  <data name="portuguese_conquest_angoche" xml:space="preserve">
+    <value>الغزو البرتغالي لأنغوشي</value>
+  </data>
+  <data name="italo_turkish_war" xml:space="preserve">
+    <value>الحرب الإيطالية التركية</value>
+  </data>
+  <data name="first_balkan_war" xml:space="preserve">
+    <value>حرب البلقان الأولى</value>
+  </data>
+  <data name="second_balkan_war" xml:space="preserve">
+    <value>حرب البلقان الثانية</value>
+  </data>
 </root>

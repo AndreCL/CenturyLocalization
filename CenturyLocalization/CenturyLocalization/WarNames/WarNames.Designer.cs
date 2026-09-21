@@ -115,11 +115,56 @@ namespace CenturyLocalization.WarNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Dutch intervention in Bali.
+        /// </summary>
+        internal static string dutch_intervention_in_bali {
+            get {
+                return ResourceManager.GetString("dutch_intervention_in_bali", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dutch–Venezuelan crisis.
+        /// </summary>
+        internal static string dutch_venezuelan_crisis {
+            get {
+                return ResourceManager.GetString("dutch_venezuelan_crisis", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to The Empty War.
         /// </summary>
         internal static string empty_war {
             get {
                 return ResourceManager.GetString("empty_war", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to First Balkan War.
+        /// </summary>
+        internal static string first_balkan_war {
+            get {
+                return ResourceManager.GetString("first_balkan_war", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to French annexation of Agadez.
+        /// </summary>
+        internal static string french_annexation_agadez {
+            get {
+                return ResourceManager.GetString("french_annexation_agadez", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to French conquest of Morocco.
+        /// </summary>
+        internal static string french_conquest_of_morocco {
+            get {
+                return ResourceManager.GetString("french_conquest_of_morocco", resourceCulture);
             }
         }
         
@@ -151,11 +196,29 @@ namespace CenturyLocalization.WarNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Italo-Turkish War.
+        /// </summary>
+        internal static string italo_turkish_war {
+            get {
+                return ResourceManager.GetString("italo_turkish_war", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Korean Invasion of Manchuria.
         /// </summary>
         internal static string korean_invasion_of_manchuria {
             get {
                 return ResourceManager.GetString("korean_invasion_of_manchuria", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The Portuguese conquest of Angoche.
+        /// </summary>
+        internal static string portuguese_conquest_angoche {
+            get {
+                return ResourceManager.GetString("portuguese_conquest_angoche", resourceCulture);
             }
         }
         
@@ -174,6 +237,15 @@ namespace CenturyLocalization.WarNames {
         internal static string russian_invasion_manchuria {
             get {
                 return ResourceManager.GetString("russian_invasion_manchuria", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Second Balkan War.
+        /// </summary>
+        internal static string second_balkan_war {
+            get {
+                return ResourceManager.GetString("second_balkan_war", resourceCulture);
             }
         }
         
@@ -201,6 +273,15 @@ namespace CenturyLocalization.WarNames {
         internal static string venezuelan_crisis {
             get {
                 return ResourceManager.GetString("venezuelan_crisis", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to War of 1907.
+        /// </summary>
+        internal static string war_of_1907 {
+            get {
+                return ResourceManager.GetString("war_of_1907", resourceCulture);
             }
         }
         
