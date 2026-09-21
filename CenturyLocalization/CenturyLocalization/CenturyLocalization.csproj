@@ -19,6 +19,11 @@
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
     </Compile>
+    <Compile Update="Diplomacy\Diplomacy.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Diplomacy.resx</DependentUpon>
+    </Compile>
     <Compile Update="Events\Events.Designer.cs">
       <DependentUpon>Events.resx</DependentUpon>
       <DesignTime>True</DesignTime>
@@ -107,6 +112,22 @@
     <EmbeddedResource Update="BattleNames\BattleNames.ru.resx" />
     <EmbeddedResource Update="BattleNames\BattleNames.sk.resx" />
     <EmbeddedResource Update="BattleNames\BattleNames.tr.resx" />
+    <EmbeddedResource Update="Diplomacy\Diplomacy.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Diplomacy.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Diplomacy\Diplomacy.ar.resx" />
+    <EmbeddedResource Update="Diplomacy\Diplomacy.da.resx" />
+    <EmbeddedResource Update="Diplomacy\Diplomacy.de.resx" />
+    <EmbeddedResource Update="Diplomacy\Diplomacy.es.resx" />
+    <EmbeddedResource Update="Diplomacy\Diplomacy.fr.resx" />
+    <EmbeddedResource Update="Diplomacy\Diplomacy.id.resx" />
+    <EmbeddedResource Update="Diplomacy\Diplomacy.nl.resx" />
+    <EmbeddedResource Update="Diplomacy\Diplomacy.pt-BR.resx" />
+    <EmbeddedResource Update="Diplomacy\Diplomacy.pt-PT.resx" />
+    <EmbeddedResource Update="Diplomacy\Diplomacy.ru.resx" />
+    <EmbeddedResource Update="Diplomacy\Diplomacy.sk.resx" />
+    <EmbeddedResource Update="Diplomacy\Diplomacy.tr.resx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Update="EndScreen\EndScreen.Designer.cs">

@@ -20,6 +20,7 @@ namespace CenturyLocalization
         private readonly ResourceManager _eventsManager;
         private readonly ResourceManager _endScreenManager;
         private readonly ResourceManager _battleNamesManager;
+        private readonly ResourceManager _diplomacyManager;
 
         public Localization()
         {
@@ -31,6 +32,7 @@ namespace CenturyLocalization
             _eventsManager = Events.Events.ResourceManager;
             _endScreenManager = EndScreen.EndScreen.ResourceManager;
             _battleNamesManager = BattleNames.BattleNames.ResourceManager;
+            _diplomacyManager = Diplomacy.Diplomacy.ResourceManager;
             CurrentLanguage = CultureInfo.CurrentUICulture;
         }
 
@@ -49,6 +51,7 @@ namespace CenturyLocalization
                 _eventsManager.GetString(name, cultureInfo) ??
                 _endScreenManager.GetString(name, cultureInfo) ??
                 _battleNamesManager.GetString(name, cultureInfo) ??
+                _diplomacyManager.GetString(name, cultureInfo) ??
                 _resourceManager.GetString("error_string_not_found", cultureInfo);
         }
 
