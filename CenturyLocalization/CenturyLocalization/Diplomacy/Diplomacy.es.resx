@@ -124,4 +124,10 @@
   <data name="diplomacy_effect_infamy" xml:space="preserve">
     <value>Infamia</value>
   </data>
+  <data name="diplomacy_allies_in_war" xml:space="preserve">
+    <value>Aliados en guerra</value>
+  </data>
+  <data name="diplomacy_relationship_change" xml:space="preserve">
+    <value>Cambio de relación</value>
+  </data>
 </root>

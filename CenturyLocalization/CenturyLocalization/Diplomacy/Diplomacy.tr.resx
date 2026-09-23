@@ -124,4 +124,10 @@
   <data name="diplomacy_effect_infamy" xml:space="preserve">
     <value>Rezalet</value>
   </data>
+  <data name="diplomacy_allies_in_war" xml:space="preserve">
+    <value>Savaşta müttefikler</value>
+  </data>
+  <data name="diplomacy_relationship_change" xml:space="preserve">
+    <value>İlişki Değişimi</value>
+  </data>
 </root>
