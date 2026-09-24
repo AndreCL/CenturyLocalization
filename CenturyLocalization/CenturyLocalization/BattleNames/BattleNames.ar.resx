@@ -112,4 +112,25 @@
   <data name="battle_of_obassa" xml:space="preserve">
     <value>معركة أوباسا</value>
   </data>
+  <data name="first_acre_revolt" xml:space="preserve">
+    <value>ثورة الأكرة الأولى</value>
+  </data>
+  <data name="second_acre_revolt" xml:space="preserve">
+    <value>ثورة الأكرة الثانية</value>
+  </data>
+  <data name="battle_volta_empresa" xml:space="preserve">
+    <value>معركة فولتا دا إمبريزا</value>
+  </data>
+  <data name="third_acre_revolt" xml:space="preserve">
+    <value>ثورة الأكرة الثالثة</value>
+  </data>
+  <data name="campaign_placido_castro" xml:space="preserve">
+    <value>حملة بلاسيدو دي كاسترو</value>
+  </data>
+  <data name="battle_of_xapuri" xml:space="preserve">
+    <value>معركة شابوري</value>
+  </data>
+  <data name="siege_puerto_alfonso" xml:space="preserve">
+    <value>حصار بويرتو ألونسو</value>
+  </data>
 </root>

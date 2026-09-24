@@ -195,4 +195,40 @@
   <data name="second_balkan_war" xml:space="preserve">
     <value>Segunda Guerra Balcânica</value>
   </data>
+  <data name="us_occupation_veracruz" xml:space="preserve">
+    <value>A ocupação americana de Veracruz</value>
+  </data>
+  <data name="coto_war" xml:space="preserve">
+    <value>Guerra de Coto</value>
+  </data>
+  <data name="leticia_war" xml:space="preserve">
+    <value>Guerra de Letícia</value>
+  </data>
+  <data name="chaco_war" xml:space="preserve">
+    <value>Guerra do Chaco</value>
+  </data>
+  <data name="second_italo_ethiopian_war" xml:space="preserve">
+    <value>Segunda Guerra Ítalo-Etíope</value>
+  </data>
+  <data name="the_winter_war" xml:space="preserve">
+    <value>A Guerra de Inverno</value>
+  </data>
+  <data name="ecuadorian_peruvian_war" xml:space="preserve">
+    <value>Guerra Peruano-Equatoriana</value>
+  </data>
+  <data name="cenepa_war" xml:space="preserve">
+    <value>Guerra do Cenepa</value>
+  </data>
+  <data name="the_x_invasion_of_y" xml:space="preserve">
+    <value>A invasão {0} de {1}</value>
+  </data>
+  <data name="the_x_war_for_y" xml:space="preserve">
+    <value>A guerra {0} por {1}</value>
+  </data>
+  <data name="the_x-y_war" xml:space="preserve">
+    <value>A guerra {0} - {1}</value>
+  </data>
+  <data name="the_z_war" xml:space="preserve">
+    <value>A guerra de {0}</value>
+  </data>
 </root>

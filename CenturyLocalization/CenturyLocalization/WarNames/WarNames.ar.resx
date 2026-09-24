@@ -195,4 +195,40 @@
   <data name="second_balkan_war" xml:space="preserve">
     <value>حرب البلقان الثانية</value>
   </data>
+  <data name="us_occupation_veracruz" xml:space="preserve">
+    <value>احتلال الولايات المتحدة لفيراكروز</value>
+  </data>
+  <data name="coto_war" xml:space="preserve">
+    <value>حرب كوتو</value>
+  </data>
+  <data name="leticia_war" xml:space="preserve">
+    <value>حرب ليتيسيا</value>
+  </data>
+  <data name="chaco_war" xml:space="preserve">
+    <value>حرب تشاكو</value>
+  </data>
+  <data name="second_italo_ethiopian_war" xml:space="preserve">
+    <value>الحرب الإيطالية الإثيوبية الثانية</value>
+  </data>
+  <data name="the_winter_war" xml:space="preserve">
+    <value>حرب الشتاء</value>
+  </data>
+  <data name="ecuadorian_peruvian_war" xml:space="preserve">
+    <value>الحرب الإكوادورية البيروفية</value>
+  </data>
+  <data name="cenepa_war" xml:space="preserve">
+    <value>حرب سينيبا</value>
+  </data>
+  <data name="the_x_invasion_of_y" xml:space="preserve">
+    <value>غزو {0} لـ {1}</value>
+  </data>
+  <data name="the_x_war_for_y" xml:space="preserve">
+    <value>حرب {0} من أجل {1}</value>
+  </data>
+  <data name="the_x-y_war" xml:space="preserve">
+    <value>حرب {0} - {1}</value>
+  </data>
+  <data name="the_z_war" xml:space="preserve">
+    <value>حرب {0}</value>
+  </data>
 </root>

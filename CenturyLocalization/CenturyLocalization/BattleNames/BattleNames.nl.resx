@@ -112,4 +112,25 @@
   <data name="battle_of_obassa" xml:space="preserve">
     <value>Slag bij Obassa</value>
   </data>
+  <data name="first_acre_revolt" xml:space="preserve">
+    <value>Eerste Acre-opstand</value>
+  </data>
+  <data name="second_acre_revolt" xml:space="preserve">
+    <value>Tweede Acre-opstand</value>
+  </data>
+  <data name="battle_volta_empresa" xml:space="preserve">
+    <value>Slag bij Volta da Empresa</value>
+  </data>
+  <data name="third_acre_revolt" xml:space="preserve">
+    <value>Derde Acre-opstand</value>
+  </data>
+  <data name="campaign_placido_castro" xml:space="preserve">
+    <value>Veldtocht van Placido de Castro</value>
+  </data>
+  <data name="battle_of_xapuri" xml:space="preserve">
+    <value>Slag bij Xapuri</value>
+  </data>
+  <data name="siege_puerto_alfonso" xml:space="preserve">
+    <value>Beleg van Puerto Alonso</value>
+  </data>
 </root>

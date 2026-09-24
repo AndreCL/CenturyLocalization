@@ -112,4 +112,25 @@
   <data name="battle_of_obassa" xml:space="preserve">
     <value>Битва при Обассе</value>
   </data>
+  <data name="first_acre_revolt" xml:space="preserve">
+    <value>Первое Акрское восстание</value>
+  </data>
+  <data name="second_acre_revolt" xml:space="preserve">
+    <value>Второе Акрское восстание</value>
+  </data>
+  <data name="battle_volta_empresa" xml:space="preserve">
+    <value>Битва при Вольта-да-Эмпреза</value>
+  </data>
+  <data name="third_acre_revolt" xml:space="preserve">
+    <value>Третье Акрское восстание</value>
+  </data>
+  <data name="campaign_placido_castro" xml:space="preserve">
+    <value>Кампания Пласиду де Кастро</value>
+  </data>
+  <data name="battle_of_xapuri" xml:space="preserve">
+    <value>Битва при Шапури</value>
+  </data>
+  <data name="siege_puerto_alfonso" xml:space="preserve">
+    <value>Осада Пуэрто-Алонсо</value>
+  </data>
 </root>

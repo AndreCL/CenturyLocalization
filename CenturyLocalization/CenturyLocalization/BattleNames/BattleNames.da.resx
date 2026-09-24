@@ -112,4 +112,25 @@
   <data name="battle_of_obassa" xml:space="preserve">
     <value>Slaget ved Obassa</value>
   </data>
+  <data name="first_acre_revolt" xml:space="preserve">
+    <value>Første Acre-oprør</value>
+  </data>
+  <data name="second_acre_revolt" xml:space="preserve">
+    <value>Andet Acre-oprør</value>
+  </data>
+  <data name="battle_volta_empresa" xml:space="preserve">
+    <value>Slaget ved Volta da Empresa</value>
+  </data>
+  <data name="third_acre_revolt" xml:space="preserve">
+    <value>Tredje Acre-oprør</value>
+  </data>
+  <data name="campaign_placido_castro" xml:space="preserve">
+    <value>Placido de Castros kampagne</value>
+  </data>
+  <data name="battle_of_xapuri" xml:space="preserve">
+    <value>Slaget ved Xapuri</value>
+  </data>
+  <data name="siege_puerto_alfonso" xml:space="preserve">
+    <value>Belejringen af Puerto Alonso</value>
+  </data>
 </root>

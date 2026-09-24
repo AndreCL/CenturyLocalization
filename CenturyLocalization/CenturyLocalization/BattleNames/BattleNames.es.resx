@@ -112,4 +112,25 @@
   <data name="battle_of_obassa" xml:space="preserve">
     <value>Batalla de Obassa</value>
   </data>
+  <data name="first_acre_revolt" xml:space="preserve">
+    <value>Primera revuelta acreana</value>
+  </data>
+  <data name="second_acre_revolt" xml:space="preserve">
+    <value>Segunda revuelta acreana</value>
+  </data>
+  <data name="battle_volta_empresa" xml:space="preserve">
+    <value>Batalla de Volta da Empresa</value>
+  </data>
+  <data name="third_acre_revolt" xml:space="preserve">
+    <value>Tercera revuelta acreana</value>
+  </data>
+  <data name="campaign_placido_castro" xml:space="preserve">
+    <value>Campaña de Plácido de Castro</value>
+  </data>
+  <data name="battle_of_xapuri" xml:space="preserve">
+    <value>Batalla de Xapuri</value>
+  </data>
+  <data name="siege_puerto_alfonso" xml:space="preserve">
+    <value>Sitio de Puerto Alonso</value>
+  </data>
 </root>

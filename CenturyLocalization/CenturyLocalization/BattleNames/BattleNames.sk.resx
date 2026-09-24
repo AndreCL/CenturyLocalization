@@ -112,4 +112,25 @@
   <data name="battle_of_obassa" xml:space="preserve">
     <value>Bitka pri Obasse</value>
   </data>
+  <data name="first_acre_revolt" xml:space="preserve">
+    <value>Prvé akrské povstanie</value>
+  </data>
+  <data name="second_acre_revolt" xml:space="preserve">
+    <value>Druhé akrské povstanie</value>
+  </data>
+  <data name="battle_volta_empresa" xml:space="preserve">
+    <value>Bitka pri Volta da Empresa</value>
+  </data>
+  <data name="third_acre_revolt" xml:space="preserve">
+    <value>Tretie akrské povstanie</value>
+  </data>
+  <data name="campaign_placido_castro" xml:space="preserve">
+    <value>Taženie Plácida de Castra</value>
+  </data>
+  <data name="battle_of_xapuri" xml:space="preserve">
+    <value>Bitka pri Xapuri</value>
+  </data>
+  <data name="siege_puerto_alfonso" xml:space="preserve">
+    <value>Obliehanie Puerto Alonso</value>
+  </data>
 </root>

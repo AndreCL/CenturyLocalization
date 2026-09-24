@@ -195,4 +195,40 @@
   <data name="second_balkan_war" xml:space="preserve">
     <value>Perang Balkan Kedua</value>
   </data>
+  <data name="us_occupation_veracruz" xml:space="preserve">
+    <value>Pendudukan Amerika Serikat atas Veracruz</value>
+  </data>
+  <data name="coto_war" xml:space="preserve">
+    <value>Perang Coto</value>
+  </data>
+  <data name="leticia_war" xml:space="preserve">
+    <value>Perang Leticia</value>
+  </data>
+  <data name="chaco_war" xml:space="preserve">
+    <value>Perang Chaco</value>
+  </data>
+  <data name="second_italo_ethiopian_war" xml:space="preserve">
+    <value>Perang Italia-Ethiopia Kedua</value>
+  </data>
+  <data name="the_winter_war" xml:space="preserve">
+    <value>Perang Musim Dingin</value>
+  </data>
+  <data name="ecuadorian_peruvian_war" xml:space="preserve">
+    <value>Perang Ekuador-Peru</value>
+  </data>
+  <data name="cenepa_war" xml:space="preserve">
+    <value>Perang Cenepa</value>
+  </data>
+  <data name="the_x_invasion_of_y" xml:space="preserve">
+    <value>Invasi {0} atas {1}</value>
+  </data>
+  <data name="the_x_war_for_y" xml:space="preserve">
+    <value>Perang {0} untuk {1}</value>
+  </data>
+  <data name="the_x-y_war" xml:space="preserve">
+    <value>Perang {0} - {1}</value>
+  </data>
+  <data name="the_z_war" xml:space="preserve">
+    <value>Perang {0}</value>
+  </data>
 </root>

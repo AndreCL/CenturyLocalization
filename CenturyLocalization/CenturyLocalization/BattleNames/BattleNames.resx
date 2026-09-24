@@ -117,4 +117,32 @@
     <value>Battle of Obassa</value>
     <comment>Golden Stool War</comment>
   </data>
+  <data name="first_acre_revolt" xml:space="preserve">
+    <value>First Acrean Revolt</value>
+    <comment>Acre War</comment>
+  </data>
+  <data name="second_acre_revolt" xml:space="preserve">
+    <value>Second Acrean Revolt</value>
+    <comment>Acre War</comment>
+  </data>
+  <data name="battle_volta_empresa" xml:space="preserve">
+    <value>Battle of Volta da Empresa</value>
+    <comment>Acre War</comment>
+  </data>
+  <data name="third_acre_revolt" xml:space="preserve">
+    <value>Third Acrean Revolt</value>
+    <comment>Acre War</comment>
+  </data>
+  <data name="campaign_placido_castro" xml:space="preserve">
+    <value>Campaign of Placido de Castro</value>
+    <comment>Acre War</comment>
+  </data>
+  <data name="battle_of_xapuri" xml:space="preserve">
+    <value>Battle of Xapuri</value>
+    <comment>Acre War</comment>
+  </data>
+  <data name="siege_puerto_alfonso" xml:space="preserve">
+    <value>Siege of Puerto Alonso</value>
+    <comment>Acre War</comment>
+  </data>
 </root>

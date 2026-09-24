@@ -97,11 +97,74 @@ namespace CenturyLocalization.BattleNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Battle of Xapuri.
+        /// </summary>
+        internal static string battle_of_xapuri {
+            get {
+                return ResourceManager.GetString("battle_of_xapuri", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Battle of Volta da Empresa.
+        /// </summary>
+        internal static string battle_volta_empresa {
+            get {
+                return ResourceManager.GetString("battle_volta_empresa", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Campaign of Placido de Castro.
+        /// </summary>
+        internal static string campaign_placido_castro {
+            get {
+                return ResourceManager.GetString("campaign_placido_castro", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to First Acrean Revolt.
+        /// </summary>
+        internal static string first_acre_revolt {
+            get {
+                return ResourceManager.GetString("first_acre_revolt", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Second Acrean Revolt.
+        /// </summary>
+        internal static string second_acre_revolt {
+            get {
+                return ResourceManager.GetString("second_acre_revolt", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Second Battle of Kumasi.
         /// </summary>
         internal static string second_battle_of_kumasi {
             get {
                 return ResourceManager.GetString("second_battle_of_kumasi", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Siege of Puerto Alonso.
+        /// </summary>
+        internal static string siege_puerto_alfonso {
+            get {
+                return ResourceManager.GetString("siege_puerto_alfonso", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Third Acrean Revolt.
+        /// </summary>
+        internal static string third_acre_revolt {
+            get {
+                return ResourceManager.GetString("third_acre_revolt", resourceCulture);
             }
         }
     }

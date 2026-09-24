@@ -112,4 +112,25 @@
   <data name="battle_of_obassa" xml:space="preserve">
     <value>Obassa Savaşı</value>
   </data>
+  <data name="first_acre_revolt" xml:space="preserve">
+    <value>Birinci Acre İsyanı</value>
+  </data>
+  <data name="second_acre_revolt" xml:space="preserve">
+    <value>İkinci Acre İsyanı</value>
+  </data>
+  <data name="battle_volta_empresa" xml:space="preserve">
+    <value>Volta da Empresa Muharebesi</value>
+  </data>
+  <data name="third_acre_revolt" xml:space="preserve">
+    <value>Üçüncü Acre İsyanı</value>
+  </data>
+  <data name="campaign_placido_castro" xml:space="preserve">
+    <value>Placido de Castro Seferi</value>
+  </data>
+  <data name="battle_of_xapuri" xml:space="preserve">
+    <value>Xapuri Muharebesi</value>
+  </data>
+  <data name="siege_puerto_alfonso" xml:space="preserve">
+    <value>Puerto Alonso Kuşatması</value>
+  </data>
 </root>

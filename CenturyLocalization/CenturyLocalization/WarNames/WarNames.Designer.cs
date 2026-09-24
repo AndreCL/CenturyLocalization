@@ -106,6 +106,33 @@ namespace CenturyLocalization.WarNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Cenepa War.
+        /// </summary>
+        internal static string cenepa_war {
+            get {
+                return ResourceManager.GetString("cenepa_war", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Chaco War.
+        /// </summary>
+        internal static string chaco_war {
+            get {
+                return ResourceManager.GetString("chaco_war", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Coto War.
+        /// </summary>
+        internal static string coto_war {
+            get {
+                return ResourceManager.GetString("coto_war", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Dutch annexation of Aceh.
         /// </summary>
         internal static string dutch_annexation_aceh {
@@ -129,6 +156,15 @@ namespace CenturyLocalization.WarNames {
         internal static string dutch_venezuelan_crisis {
             get {
                 return ResourceManager.GetString("dutch_venezuelan_crisis", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ecuadorian–Peruvian War.
+        /// </summary>
+        internal static string ecuadorian_peruvian_war {
+            get {
+                return ResourceManager.GetString("ecuadorian_peruvian_war", resourceCulture);
             }
         }
         
@@ -214,6 +250,15 @@ namespace CenturyLocalization.WarNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Leticia War.
+        /// </summary>
+        internal static string leticia_war {
+            get {
+                return ResourceManager.GetString("leticia_war", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to The Portuguese conquest of Angoche.
         /// </summary>
         internal static string portuguese_conquest_angoche {
@@ -259,11 +304,74 @@ namespace CenturyLocalization.WarNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Second Italo-Ethiopian War.
+        /// </summary>
+        internal static string second_italo_ethiopian_war {
+            get {
+                return ResourceManager.GetString("second_italo_ethiopian_war", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to The Great War.
         /// </summary>
         internal static string the_great_war {
             get {
                 return ResourceManager.GetString("the_great_war", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The Winter War.
+        /// </summary>
+        internal static string the_winter_war {
+            get {
+                return ResourceManager.GetString("the_winter_war", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The {0} invasion of {1}.
+        /// </summary>
+        internal static string the_x_invasion_of_y {
+            get {
+                return ResourceManager.GetString("the_x_invasion_of_y", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The {0} war for {1}.
+        /// </summary>
+        internal static string the_x_war_for_y {
+            get {
+                return ResourceManager.GetString("the_x_war_for_y", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The {0} - {1} war.
+        /// </summary>
+        internal static string the_x_y_war {
+            get {
+                return ResourceManager.GetString("the_x-y_war", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The {0} war.
+        /// </summary>
+        internal static string the_z_war {
+            get {
+                return ResourceManager.GetString("the_z_war", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to United States occupation of Veracruz.
+        /// </summary>
+        internal static string us_occupation_veracruz {
+            get {
+                return ResourceManager.GetString("us_occupation_veracruz", resourceCulture);
             }
         }
         
