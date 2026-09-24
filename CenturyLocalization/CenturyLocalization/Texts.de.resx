@@ -716,4 +716,13 @@ Sobald die Weltspannung 100 % erreicht, wird ein Weltkrieg ausgelöst und der We
   <data name="war_goal_release_country" xml:space="preserve">
     <value>Veröffentlichungsland</value>
   </data>
+  <data name="no_ai_war" xml:space="preserve">
+    <value>Die KI erklärt dem menschlichen Spieler keine zufälligen Kriege (ausgenommen historische Kriege, Weltkriege, Infamie-Kriege und Unabhängigkeitskriege)</value>
+  </data>
+  <data name="daily_infamy_decrease_modifier" xml:space="preserve">
+    <value>Täglicher Infamie-Verringerungsmodifikator</value>
+  </data>
+  <data name="daily_warlevel_decrease_modifier" xml:space="preserve">
+    <value>Täglicher Kriegsstufen-Verringerungsmodifikator</value>
+  </data>
 </root>

@@ -716,4 +716,13 @@
   <data name="war_goal_release_country" xml:space="preserve">
     <value>بلد الإصدار</value>
   </data>
+  <data name="no_ai_war" xml:space="preserve">
+    <value>الذكاء الاصطناعي لن يعلن حروبًا عشوائية (باستثناء الحروب التاريخية والحروب العالمية وحروب السمعة السيئة وحروب الاستقلال) على اللاعب البشري</value>
+  </data>
+  <data name="daily_infamy_decrease_modifier" xml:space="preserve">
+    <value>معدّل تخفيض السمعة السيئة اليومي</value>
+  </data>
+  <data name="daily_warlevel_decrease_modifier" xml:space="preserve">
+    <value>معدّل تخفيض مستوى الحرب اليومي</value>
+  </data>
 </root>

@@ -735,4 +735,13 @@
   <data name="war_goal_release_country" xml:space="preserve">
     <value>Ülkeyi serbest bırakın</value>
   </data>
+  <data name="no_ai_war" xml:space="preserve">
+    <value>Yapay zeka insan oyuncuya karşı rastgele savaşlar ilan etmeyecek (tarihi savaşlar, dünya savaşları, rezalet savaşları ve bağımsızlık savaşları hariç)</value>
+  </data>
+  <data name="daily_infamy_decrease_modifier" xml:space="preserve">
+    <value>Günlük rezalet azaltma çarpanı</value>
+  </data>
+  <data name="daily_warlevel_decrease_modifier" xml:space="preserve">
+    <value>Günlük savaş seviyesi azaltma çarpanı</value>
+  </data>
 </root>

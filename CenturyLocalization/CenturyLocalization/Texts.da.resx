@@ -717,4 +717,13 @@ Når verdensspændingen når 100 %, udløses en verdenskrig, og værdien nulstil
   <data name="war_goal_release_country" xml:space="preserve">
     <value>Frigiv land</value>
   </data>
+  <data name="no_ai_war" xml:space="preserve">
+    <value>AI erklærer ikke tilfældige krige (undtagen historiske krige, verdenskrige, berygtethedskrige og uafhængighedskrige) mod den menneskelige spiller</value>
+  </data>
+  <data name="daily_infamy_decrease_modifier" xml:space="preserve">
+    <value>Daglig berygtethedsreduktionsmodifikator</value>
+  </data>
+  <data name="daily_warlevel_decrease_modifier" xml:space="preserve">
+    <value>Daglig krigsniveau-reduktionsmodifikator</value>
+  </data>
 </root>

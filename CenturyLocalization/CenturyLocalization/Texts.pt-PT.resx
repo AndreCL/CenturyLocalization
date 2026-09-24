@@ -714,4 +714,13 @@ Um novo ano chegou. Desejamos a vocês um feliz ano novo. Que este novo ano seja
   <data name="war_goal_release_country" xml:space="preserve">
     <value>Lançar país</value>
   </data>
+  <data name="no_ai_war" xml:space="preserve">
+    <value>A IA não declarará guerras aleatórias (excluindo guerras históricas, guerras mundiais, guerras de infâmia e guerras de independência) contra o jogador humano</value>
+  </data>
+  <data name="daily_infamy_decrease_modifier" xml:space="preserve">
+    <value>Modificador de redução diária de infâmia</value>
+  </data>
+  <data name="daily_warlevel_decrease_modifier" xml:space="preserve">
+    <value>Modificador de redução diária do nível de guerra</value>
+  </data>
 </root>

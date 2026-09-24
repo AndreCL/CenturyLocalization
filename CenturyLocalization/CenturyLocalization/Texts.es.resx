@@ -718,4 +718,13 @@ Una vez que la tensión mundial alcanza el 100 %, se desencadena una guerra mund
   <data name="war_goal_release_country" xml:space="preserve">
     <value>País de lanzamiento</value>
   </data>
+  <data name="no_ai_war" xml:space="preserve">
+    <value>La IA no declarará guerras aleatorias (excluyendo guerras históricas, guerras mundiales, guerras de infamia y guerras de independencia) contra el jugador humano</value>
+  </data>
+  <data name="daily_infamy_decrease_modifier" xml:space="preserve">
+    <value>Modificador de reducción diaria de infamia</value>
+  </data>
+  <data name="daily_warlevel_decrease_modifier" xml:space="preserve">
+    <value>Modificador de reducción diaria del nivel de guerra</value>
+  </data>
 </root>

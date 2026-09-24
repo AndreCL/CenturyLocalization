@@ -716,4 +716,13 @@ Wanneer de wereldspanning 100% bereikt, wordt een wereldoorlog ontketend en word
   <data name="war_goal_release_country" xml:space="preserve">
     <value>Land vrijgeven</value>
   </data>
+  <data name="no_ai_war" xml:space="preserve">
+    <value>AI zal geen willekeurige oorlogen verklaren (met uitzondering van historische oorlogen, wereldoorlogen, schande-oorlogen en onafhankelijkheidsoorlogen) tegen de menselijke speler</value>
+  </data>
+  <data name="daily_infamy_decrease_modifier" xml:space="preserve">
+    <value>Dagelijkse schande-verminderingsmodifier</value>
+  </data>
+  <data name="daily_warlevel_decrease_modifier" xml:space="preserve">
+    <value>Dagelijkse oorlogsniveau-verminderingsmodifier</value>
+  </data>
 </root>

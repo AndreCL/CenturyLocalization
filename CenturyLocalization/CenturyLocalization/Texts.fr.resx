@@ -736,4 +736,13 @@ Une fois que la tension mondiale atteint 100 %, une guerre mondiale est déclenc
   <data name="war_goal_release_country" xml:space="preserve">
     <value>Pays de dissémination</value>
   </data>
+  <data name="no_ai_war" xml:space="preserve">
+    <value>L'IA ne déclarera pas de guerres aléatoires (à l'exclusion des guerres historiques, des guerres mondiales, des guerres d'infamie et des guerres d'indépendance) contre le joueur humain</value>
+  </data>
+  <data name="daily_infamy_decrease_modifier" xml:space="preserve">
+    <value>Modificateur de réduction quotidienne de l'infamie</value>
+  </data>
+  <data name="daily_warlevel_decrease_modifier" xml:space="preserve">
+    <value>Modificateur de réduction quotidienne du niveau de guerre</value>
+  </data>
 </root>

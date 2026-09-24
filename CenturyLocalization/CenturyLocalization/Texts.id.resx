@@ -716,4 +716,13 @@ Ketika Ketegangan Dunia mencapai 100%, Perang Dunia akan dipicu dan nilainya dia
   <data name="war_goal_release_country" xml:space="preserve">
     <value>Lepaskan negara</value>
   </data>
+  <data name="no_ai_war" xml:space="preserve">
+    <value>AI tidak akan menyatakan perang acak (tidak termasuk perang historis, perang dunia, perang kehinaan, dan perang kemerdekaan) terhadap pemain manusia</value>
+  </data>
+  <data name="daily_infamy_decrease_modifier" xml:space="preserve">
+    <value>Pengubah penurunan kehinaan harian</value>
+  </data>
+  <data name="daily_warlevel_decrease_modifier" xml:space="preserve">
+    <value>Pengubah penurunan tingkat perang harian</value>
+  </data>
 </root>

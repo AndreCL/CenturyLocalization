@@ -394,11 +394,29 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Daily infamy decrease modifier.
+        /// </summary>
+        internal static string daily_infamy_decrease_modifier {
+            get {
+                return ResourceManager.GetString("daily_infamy_decrease_modifier", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Daily investment:.
         /// </summary>
         internal static string daily_investment {
             get {
                 return ResourceManager.GetString("daily_investment", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Daily war level decrease modifier.
+        /// </summary>
+        internal static string daily_warlevel_decrease_modifier {
+            get {
+                return ResourceManager.GetString("daily_warlevel_decrease_modifier", resourceCulture);
             }
         }
         
@@ -1184,6 +1202,15 @@ namespace CenturyLocalization {
         internal static string no {
             get {
                 return ResourceManager.GetString("no", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to AI won&apos;t declare random wars (excludes historical wars, world wars, infamy wars and independence wars) on human player.
+        /// </summary>
+        internal static string no_ai_war {
+            get {
+                return ResourceManager.GetString("no_ai_war", resourceCulture);
             }
         }
         

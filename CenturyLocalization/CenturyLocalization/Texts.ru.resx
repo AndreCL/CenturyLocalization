@@ -721,4 +721,13 @@
   <data name="war_goal_release_country" xml:space="preserve">
     <value>Страна выпуска</value>
   </data>
+  <data name="no_ai_war" xml:space="preserve">
+    <value>ИИ не будет объявлять случайные войны (за исключением исторических войн, мировых войн, войн за бесчестие и войн за независимость) человеческому игроку</value>
+  </data>
+  <data name="daily_infamy_decrease_modifier" xml:space="preserve">
+    <value>Модификатор ежедневного снижения бесчестия</value>
+  </data>
+  <data name="daily_warlevel_decrease_modifier" xml:space="preserve">
+    <value>Модификатор ежедневного снижения уровня войны</value>
+  </data>
 </root>

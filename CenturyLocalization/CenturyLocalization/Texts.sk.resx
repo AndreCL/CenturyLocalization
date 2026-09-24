@@ -734,4 +734,13 @@ Keď svetové napätie dosiahne 100%, spustí sa svetová vojna a resetuje sa.
   <data name="war_goal_release_country" xml:space="preserve">
     <value>Krajina vydania</value>
   </data>
+  <data name="no_ai_war" xml:space="preserve">
+    <value>UI nebude vyhlasovať náhodné vojny (okrem historických vojen, svetových vojen, vojen o hanbu a vojen za nezávislosť) proti ľudskému hráčovi</value>
+  </data>
+  <data name="daily_infamy_decrease_modifier" xml:space="preserve">
+    <value>Modifikátor denného zníženia hanby</value>
+  </data>
+  <data name="daily_warlevel_decrease_modifier" xml:space="preserve">
+    <value>Modifikátor denného zníženia úrovne vojny</value>
+  </data>
 </root>
