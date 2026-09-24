@@ -87,4 +87,16 @@
   <data name="the_iron_legion" xml:space="preserve">
     <value>Železná légia</value>
   </data>
+  <data name="fortress_mentality" xml:space="preserve">
+    <value>Pevnostná mentalita</value>
+  </data>
+  <data name="diplomatic_idealist" xml:space="preserve">
+    <value>Diplomatický Idealista</value>
+  </data>
+  <data name="international_pariah" xml:space="preserve">
+    <value>Medzinárodný Vyvrheľ</value>
+  </data>
+  <data name="beloved_nation" xml:space="preserve">
+    <value>Milovaný Národ</value>
+  </data>
 </root>

@@ -70,6 +70,15 @@ namespace CenturyLocalization.EndScreen {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Beloved Nation.
+        /// </summary>
+        internal static string beloved_nation {
+            get {
+                return ResourceManager.GetString("beloved_nation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Best trains and roads.
         /// </summary>
         internal static string best_trains_roads {
@@ -84,6 +93,15 @@ namespace CenturyLocalization.EndScreen {
         internal static string crossroads_cultures {
             get {
                 return ResourceManager.GetString("crossroads_cultures", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Diplomatic Idealist.
+        /// </summary>
+        internal static string diplomatic_idealist {
+            get {
+                return ResourceManager.GetString("diplomatic_idealist", resourceCulture);
             }
         }
         
@@ -124,6 +142,15 @@ namespace CenturyLocalization.EndScreen {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Fortress Mentality.
+        /// </summary>
+        internal static string fortress_mentality {
+            get {
+                return ResourceManager.GetString("fortress_mentality", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Your Nation was defeated after {0} years.
         /// </summary>
         internal static string gameover {
@@ -138,6 +165,15 @@ namespace CenturyLocalization.EndScreen {
         internal static string hordes_of_genghis_khan {
             get {
                 return ResourceManager.GetString("hordes_of_genghis_khan", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to International Pariah.
+        /// </summary>
+        internal static string international_pariah {
+            get {
+                return ResourceManager.GetString("international_pariah", resourceCulture);
             }
         }
         

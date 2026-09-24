@@ -87,4 +87,16 @@
   <data name="the_iron_legion" xml:space="preserve">
     <value>Die Eiserne Legion</value>
   </data>
+  <data name="fortress_mentality" xml:space="preserve">
+    <value>Festungsmentalität</value>
+  </data>
+  <data name="diplomatic_idealist" xml:space="preserve">
+    <value>Diplomatischer Idealist</value>
+  </data>
+  <data name="international_pariah" xml:space="preserve">
+    <value>Internationaler Paria</value>
+  </data>
+  <data name="beloved_nation" xml:space="preserve">
+    <value>Geliebte Nation</value>
+  </data>
 </root>

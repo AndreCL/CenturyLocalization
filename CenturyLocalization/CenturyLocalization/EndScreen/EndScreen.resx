@@ -192,4 +192,20 @@
   <data name="the_iron_legion" xml:space="preserve">
     <value>The Iron Legion</value>
   </data>
+  <data name="fortress_mentality" xml:space="preserve">
+    <value>Fortress Mentality</value>
+    <comment>Most negative toward everyone</comment>
+  </data>
+  <data name="diplomatic_idealist" xml:space="preserve">
+    <value>Diplomatic Idealist</value>
+    <comment>Most positive toward everyone</comment>
+  </data>
+  <data name="international_pariah" xml:space="preserve">
+    <value>International Pariah</value>
+    <comment>Viewed most negatively by others</comment>
+  </data>
+  <data name="beloved_nation" xml:space="preserve">
+    <value>Beloved Nation</value>
+    <comment>Viewed most positively by others</comment>
+  </data>
 </root>

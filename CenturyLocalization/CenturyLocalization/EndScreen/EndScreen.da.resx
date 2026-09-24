@@ -87,4 +87,16 @@
   <data name="the_iron_legion" xml:space="preserve">
     <value>Jernlegionen</value>
   </data>
+  <data name="fortress_mentality" xml:space="preserve">
+    <value>Fæstningsmentalitet</value>
+  </data>
+  <data name="diplomatic_idealist" xml:space="preserve">
+    <value>Diplomatisk Idealist</value>
+  </data>
+  <data name="international_pariah" xml:space="preserve">
+    <value>International Paria</value>
+  </data>
+  <data name="beloved_nation" xml:space="preserve">
+    <value>Elsket Nation</value>
+  </data>
 </root>

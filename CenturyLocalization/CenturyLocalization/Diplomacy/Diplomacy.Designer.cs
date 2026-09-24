@@ -158,5 +158,14 @@ namespace CenturyLocalization.Diplomacy {
                 return ResourceManager.GetString("diplomacy_relationship_change", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Diplomacy.
+        /// </summary>
+        internal static string diplomacy_title {
+            get {
+                return ResourceManager.GetString("diplomacy_title", resourceCulture);
+            }
+        }
     }
 }

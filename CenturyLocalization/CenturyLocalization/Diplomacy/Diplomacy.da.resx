@@ -130,4 +130,7 @@
   <data name="diplomacy_relationship_change" xml:space="preserve">
     <value>Relationsændring</value>
   </data>
+  <data name="diplomacy_title" xml:space="preserve">
+    <value>Diplomati</value>
+  </data>
 </root>

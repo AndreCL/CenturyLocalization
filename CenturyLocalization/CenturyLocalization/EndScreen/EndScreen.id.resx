@@ -87,4 +87,16 @@
   <data name="the_iron_legion" xml:space="preserve">
     <value>Legiun Besi</value>
   </data>
+  <data name="fortress_mentality" xml:space="preserve">
+    <value>Mentalitas Benteng</value>
+  </data>
+  <data name="diplomatic_idealist" xml:space="preserve">
+    <value>Idealis Diplomatik</value>
+  </data>
+  <data name="international_pariah" xml:space="preserve">
+    <value>Paria Internasional</value>
+  </data>
+  <data name="beloved_nation" xml:space="preserve">
+    <value>Bangsa yang Dicintai</value>
+  </data>
 </root>

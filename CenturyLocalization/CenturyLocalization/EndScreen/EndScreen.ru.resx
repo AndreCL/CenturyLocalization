@@ -87,4 +87,16 @@
   <data name="the_iron_legion" xml:space="preserve">
     <value>Железный Легион</value>
   </data>
+  <data name="fortress_mentality" xml:space="preserve">
+    <value>Менталитет Крепости</value>
+  </data>
+  <data name="diplomatic_idealist" xml:space="preserve">
+    <value>Дипломатический Идеалист</value>
+  </data>
+  <data name="international_pariah" xml:space="preserve">
+    <value>Международный Изгой</value>
+  </data>
+  <data name="beloved_nation" xml:space="preserve">
+    <value>Любимая Нация</value>
+  </data>
 </root>

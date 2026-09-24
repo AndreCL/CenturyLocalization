@@ -87,4 +87,16 @@
   <data name="the_iron_legion" xml:space="preserve">
     <value>Demir Lejyon</value>
   </data>
+  <data name="fortress_mentality" xml:space="preserve">
+    <value>Kale Zihniyeti</value>
+  </data>
+  <data name="diplomatic_idealist" xml:space="preserve">
+    <value>Diplomatik İdealist</value>
+  </data>
+  <data name="international_pariah" xml:space="preserve">
+    <value>Uluslararası Parya</value>
+  </data>
+  <data name="beloved_nation" xml:space="preserve">
+    <value>Sevilen Ulus</value>
+  </data>
 </root>
