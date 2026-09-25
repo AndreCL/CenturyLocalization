@@ -124,6 +124,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Your nation is spending an unsustainable amount of its budget on Airforce.
+        /// </summary>
+        internal static string airforce_expenses_too_high {
+            get {
+                return ResourceManager.GetString("airforce_expenses_too_high", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to All countries.
         /// </summary>
         internal static string all_countries {
@@ -183,6 +192,15 @@ namespace CenturyLocalization {
         internal static string army {
             get {
                 return ResourceManager.GetString("army", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Your nation is spending an unsustainable amount of its budget on Army.
+        /// </summary>
+        internal static string army_expenses_too_high {
+            get {
+                return ResourceManager.GetString("army_expenses_too_high", resourceCulture);
             }
         }
         
@@ -426,6 +444,15 @@ namespace CenturyLocalization {
         internal static string days {
             get {
                 return ResourceManager.GetString("days", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Your nation has too much debt! You are at risk of breakaway regions declaring independence!.
+        /// </summary>
+        internal static string debt_risk {
+            get {
+                return ResourceManager.GetString("debt_risk", resourceCulture);
             }
         }
         
@@ -1132,6 +1159,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Your nation is spending an unsustainable amount of its budget on Navy.
+        /// </summary>
+        internal static string navy_expenses_too_high {
+            get {
+                return ResourceManager.GetString("navy_expenses_too_high", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to navy school.
         /// </summary>
         internal static string navy_school {
@@ -1220,6 +1256,15 @@ namespace CenturyLocalization {
         internal static string no_longer_exists {
             get {
                 return ResourceManager.GetString("no_longer_exists", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Your nation has run out of citizens to recruit for armed forces and military factories.
+        /// </summary>
+        internal static string no_private_population {
+            get {
+                return ResourceManager.GetString("no_private_population", resourceCulture);
             }
         }
         

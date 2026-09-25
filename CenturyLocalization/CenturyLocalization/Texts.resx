@@ -744,4 +744,19 @@ Once the World Tension reaches 100%, a World War is triggered and it resets.
   <data name="daily_warlevel_decrease_modifier" xml:space="preserve">
     <value>Daily war level decrease modifier</value>
   </data>
+  <data name="debt_risk" xml:space="preserve">
+    <value>Your nation has too much debt! You are at risk of breakaway regions declaring independence!</value>
+  </data>
+  <data name="army_expenses_too_high" xml:space="preserve">
+    <value>Your nation is spending an unsustainable amount of its budget on Army</value>
+  </data>
+  <data name="navy_expenses_too_high" xml:space="preserve">
+    <value>Your nation is spending an unsustainable amount of its budget on Navy</value>
+  </data>
+  <data name="airforce_expenses_too_high" xml:space="preserve">
+    <value>Your nation is spending an unsustainable amount of its budget on Airforce</value>
+  </data>
+  <data name="no_private_population" xml:space="preserve">
+    <value>Your nation has run out of citizens to recruit for armed forces and military factories</value>
+  </data>
 </root>

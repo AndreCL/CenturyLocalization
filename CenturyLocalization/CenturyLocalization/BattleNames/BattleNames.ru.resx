@@ -133,4 +133,145 @@
   <data name="siege_puerto_alfonso" xml:space="preserve">
     <value>Осада Пуэрто-Алонсо</value>
   </data>
+  <data name="battle_of_senluo_temple" xml:space="preserve">
+    <value>Битва у храма Сэнло</value>
+  </data>
+  <data name="first_battle_of_tianjin" xml:space="preserve">
+    <value>Первое сражение за Тяньцзинь</value>
+  </data>
+  <data name="battle_of_langfang" xml:space="preserve">
+    <value>Битва за Ланфан</value>
+  </data>
+  <data name="siege_of_international_legations" xml:space="preserve">
+    <value>Осада международных миссий</value>
+  </data>
+  <data name="siege_of_north_cathedral" xml:space="preserve">
+    <value>Осада Северного собора</value>
+  </data>
+  <data name="battle_of_beicang" xml:space="preserve">
+    <value>Битва за Бэйцан</value>
+  </data>
+  <data name="battle_of_yangcun" xml:space="preserve">
+    <value>Битва за Янцунь</value>
+  </data>
+  <data name="capture_of_beijing" xml:space="preserve">
+    <value>Взятие Пекина</value>
+  </data>
+  <data name="battle_of_taku_forts" xml:space="preserve">
+    <value>Битва за форты Таку</value>
+  </data>
+  <data name="naval_bombardment_of_taku_forts" xml:space="preserve">
+    <value>Морской обстрел фортов Таку</value>
+  </data>
+  <data name="amphibious_landings_tianjin_dagu" xml:space="preserve">
+    <value>Высадка десанта у Тяньцзиня и Дагу</value>
+  </data>
+  <data name="battle_of_kraaipan" xml:space="preserve">
+    <value>Битва при Краайпане</value>
+  </data>
+  <data name="battle_of_talana_hill" xml:space="preserve">
+    <value>Битва при Талана-Хилл</value>
+  </data>
+  <data name="battle_of_elandslaagte" xml:space="preserve">
+    <value>Битва при Эландслаагте</value>
+  </data>
+  <data name="battle_of_rietfontein" xml:space="preserve">
+    <value>Битва при Ритфонтейне</value>
+  </data>
+  <data name="siege_of_ladysmith" xml:space="preserve">
+    <value>Осада Ледисмита</value>
+  </data>
+  <data name="battle_of_mafeking" xml:space="preserve">
+    <value>Битва при Мафекинге</value>
+  </data>
+  <data name="battle_of_kimberley" xml:space="preserve">
+    <value>Битва за Кимберли</value>
+  </data>
+  <data name="battle_of_modder_river" xml:space="preserve">
+    <value>Битва на реке Моддер</value>
+  </data>
+  <data name="battle_of_belmont" xml:space="preserve">
+    <value>Битва при Белмонте</value>
+  </data>
+  <data name="battle_of_graspan" xml:space="preserve">
+    <value>Битва при Граспане</value>
+  </data>
+  <data name="battle_of_enslin" xml:space="preserve">
+    <value>Битва при Энслине</value>
+  </data>
+  <data name="battle_of_stormberg" xml:space="preserve">
+    <value>Битва при Стормберге</value>
+  </data>
+  <data name="battle_of_magersfontein" xml:space="preserve">
+    <value>Битва при Магерсфонтейне</value>
+  </data>
+  <data name="battle_of_colenso" xml:space="preserve">
+    <value>Битва при Коленсо</value>
+  </data>
+  <data name="battle_of_platrand" xml:space="preserve">
+    <value>Битва при Платранде</value>
+  </data>
+  <data name="battle_of_spion_kop" xml:space="preserve">
+    <value>Битва при Спион-Копе</value>
+  </data>
+  <data name="battle_of_vaal_krantz" xml:space="preserve">
+    <value>Битва при Вааль-Кранце</value>
+  </data>
+  <data name="battle_of_tugela_heights" xml:space="preserve">
+    <value>Битва за высоты Тугелы</value>
+  </data>
+  <data name="relief_of_ladysmith" xml:space="preserve">
+    <value>Деблокада Ледисмита</value>
+  </data>
+  <data name="battle_of_paardeberg" xml:space="preserve">
+    <value>Битва при Паардеберге</value>
+  </data>
+  <data name="relief_of_kimberley" xml:space="preserve">
+    <value>Деблокада Кимберли</value>
+  </data>
+  <data name="battle_of_poplar_grove" xml:space="preserve">
+    <value>Битва при Поплар-Грове</value>
+  </data>
+  <data name="battle_of_driefontein" xml:space="preserve">
+    <value>Битва при Дрифонтейне</value>
+  </data>
+  <data name="capture_of_bloemfontein" xml:space="preserve">
+    <value>Взятие Блумфонтейна</value>
+  </data>
+  <data name="battle_of_karee" xml:space="preserve">
+    <value>Битва при Кари</value>
+  </data>
+  <data name="battle_of_houtnek" xml:space="preserve">
+    <value>Битва при Хаутнеке</value>
+  </data>
+  <data name="battle_of_sand_river" xml:space="preserve">
+    <value>Битва на реке Сэнд</value>
+  </data>
+  <data name="battle_of_johannesburg" xml:space="preserve">
+    <value>Битва за Йоханнесбург</value>
+  </data>
+  <data name="capture_of_pretoria" xml:space="preserve">
+    <value>Взятие Претории</value>
+  </data>
+  <data name="battle_of_diamond_hill" xml:space="preserve">
+    <value>Битва при Дайамонд-Хилл</value>
+  </data>
+  <data name="battle_of_bergendal" xml:space="preserve">
+    <value>Битва при Бергендале</value>
+  </data>
+  <data name="battle_of_nooitgedacht" xml:space="preserve">
+    <value>Битва при Нойтхедахте</value>
+  </data>
+  <data name="battle_of_groenkloof" xml:space="preserve">
+    <value>Битва при Грунклуфе</value>
+  </data>
+  <data name="battle_of_leliefontein" xml:space="preserve">
+    <value>Битва при Лелифонтейне</value>
+  </data>
+  <data name="battle_of_tweebosch" xml:space="preserve">
+    <value>Битва при Твебосче</value>
+  </data>
+  <data name="battle_of_rooiwal" xml:space="preserve">
+    <value>Битва при Руавале</value>
+  </data>
 </root>

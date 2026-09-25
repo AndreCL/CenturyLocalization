@@ -745,4 +745,19 @@ Une fois que la tension mondiale atteint 100 %, une guerre mondiale est déclenc
   <data name="daily_warlevel_decrease_modifier" xml:space="preserve">
     <value>Modificateur de réduction quotidienne du niveau de guerre</value>
   </data>
+  <data name="debt_risk" xml:space="preserve">
+    <value>Votre nation a trop de dettes ! Vous risquez que des régions séparatistes déclarent leur indépendance !</value>
+  </data>
+  <data name="army_expenses_too_high" xml:space="preserve">
+    <value>Votre nation dépense une part insoutenable de son budget pour l'Armée de terre</value>
+  </data>
+  <data name="navy_expenses_too_high" xml:space="preserve">
+    <value>Votre nation dépense une part insoutenable de son budget pour la Marine</value>
+  </data>
+  <data name="airforce_expenses_too_high" xml:space="preserve">
+    <value>Votre nation dépense une part insoutenable de son budget pour l'Armée de l'air</value>
+  </data>
+  <data name="no_private_population" xml:space="preserve">
+    <value>Votre nation n'a plus de citoyens à recruter pour les forces armées et les usines militaires</value>
+  </data>
 </root>

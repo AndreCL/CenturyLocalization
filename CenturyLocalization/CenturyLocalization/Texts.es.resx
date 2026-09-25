@@ -727,4 +727,19 @@ Una vez que la tensión mundial alcanza el 100 %, se desencadena una guerra mund
   <data name="daily_warlevel_decrease_modifier" xml:space="preserve">
     <value>Modificador de reducción diaria del nivel de guerra</value>
   </data>
+  <data name="debt_risk" xml:space="preserve">
+    <value>¡Tu nación tiene demasiada deuda! ¡Corres el riesgo de que regiones separatistas declaren su independencia!</value>
+  </data>
+  <data name="army_expenses_too_high" xml:space="preserve">
+    <value>Tu nación está gastando una cantidad insostenible de su presupuesto en el Ejército</value>
+  </data>
+  <data name="navy_expenses_too_high" xml:space="preserve">
+    <value>Tu nación está gastando una cantidad insostenible de su presupuesto en la Armada</value>
+  </data>
+  <data name="airforce_expenses_too_high" xml:space="preserve">
+    <value>Tu nación está gastando una cantidad insostenible de su presupuesto en la Fuerza Aérea</value>
+  </data>
+  <data name="no_private_population" xml:space="preserve">
+    <value>Tu nación se ha quedado sin ciudadanos para reclutar en las fuerzas armadas y las fábricas militares</value>
+  </data>
 </root>

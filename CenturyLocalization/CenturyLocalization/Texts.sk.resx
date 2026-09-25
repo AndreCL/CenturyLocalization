@@ -743,4 +743,19 @@ Keď svetové napätie dosiahne 100%, spustí sa svetová vojna a resetuje sa.
   <data name="daily_warlevel_decrease_modifier" xml:space="preserve">
     <value>Modifikátor denného zníženia úrovne vojny</value>
   </data>
+  <data name="debt_risk" xml:space="preserve">
+    <value>Váš národ má priveľký dlh! Hrozí vám, že odštiepenecké regióny vyhlásia nezávislosť!</value>
+  </data>
+  <data name="army_expenses_too_high" xml:space="preserve">
+    <value>Váš národ vynakladá neudržateľnú časť svojho rozpočtu na armádu</value>
+  </data>
+  <data name="navy_expenses_too_high" xml:space="preserve">
+    <value>Váš národ vynakladá neudržateľnú časť svojho rozpočtu na námorníctvo</value>
+  </data>
+  <data name="airforce_expenses_too_high" xml:space="preserve">
+    <value>Váš národ vynakladá neudržateľnú časť svojho rozpočtu na letectvo</value>
+  </data>
+  <data name="no_private_population" xml:space="preserve">
+    <value>Vášmu národu došli občania na nábor do ozbrojených síl a vojenských tovární</value>
+  </data>
 </root>

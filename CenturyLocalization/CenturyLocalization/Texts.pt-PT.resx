@@ -723,4 +723,19 @@ Um novo ano chegou. Desejamos a vocês um feliz ano novo. Que este novo ano seja
   <data name="daily_warlevel_decrease_modifier" xml:space="preserve">
     <value>Modificador de redução diária do nível de guerra</value>
   </data>
+  <data name="debt_risk" xml:space="preserve">
+    <value>A sua nação tem demasiada dívida! Corre o risco de regiões separatistas declararem independência!</value>
+  </data>
+  <data name="army_expenses_too_high" xml:space="preserve">
+    <value>A sua nação está a gastar uma quantia insustentável do seu orçamento com o Exército</value>
+  </data>
+  <data name="navy_expenses_too_high" xml:space="preserve">
+    <value>A sua nação está a gastar uma quantia insustentável do seu orçamento com a Marinha</value>
+  </data>
+  <data name="airforce_expenses_too_high" xml:space="preserve">
+    <value>A sua nação está a gastar uma quantia insustentável do seu orçamento com a Força Aérea</value>
+  </data>
+  <data name="no_private_population" xml:space="preserve">
+    <value>A sua nação ficou sem cidadãos para recrutar para as forças armadas e fábricas militares</value>
+  </data>
 </root>

@@ -744,4 +744,19 @@
   <data name="daily_warlevel_decrease_modifier" xml:space="preserve">
     <value>Günlük savaş seviyesi azaltma çarpanı</value>
   </data>
+  <data name="debt_risk" xml:space="preserve">
+    <value>Ulusunuzun borcu çok fazla! Ayrılıkçı bölgelerin bağımsızlık ilan etme riskiyle karşı karşıyasınız!</value>
+  </data>
+  <data name="army_expenses_too_high" xml:space="preserve">
+    <value>Ulusunuz bütçesinin sürdürülemez bir kısmını Kara Kuvvetleri'ne harcıyor</value>
+  </data>
+  <data name="navy_expenses_too_high" xml:space="preserve">
+    <value>Ulusunuz bütçesinin sürdürülemez bir kısmını Deniz Kuvvetleri'ne harcıyor</value>
+  </data>
+  <data name="airforce_expenses_too_high" xml:space="preserve">
+    <value>Ulusunuz bütçesinin sürdürülemez bir kısmını Hava Kuvvetleri'ne harcıyor</value>
+  </data>
+  <data name="no_private_population" xml:space="preserve">
+    <value>Ulusunuzun silahlı kuvvetlere ve askeri fabrikalara asker alacak vatandaşı kalmadı</value>
+  </data>
 </root>

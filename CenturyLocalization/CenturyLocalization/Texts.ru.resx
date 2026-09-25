@@ -730,4 +730,19 @@
   <data name="daily_warlevel_decrease_modifier" xml:space="preserve">
     <value>Модификатор ежедневного снижения уровня войны</value>
   </data>
+  <data name="debt_risk" xml:space="preserve">
+    <value>Ваша нация имеет слишком большой долг! Вы рискуете тем, что сепаратистские регионы объявят независимость!</value>
+  </data>
+  <data name="army_expenses_too_high" xml:space="preserve">
+    <value>Ваша нация тратит непосильную часть бюджета на армию</value>
+  </data>
+  <data name="navy_expenses_too_high" xml:space="preserve">
+    <value>Ваша нация тратит непосильную часть бюджета на флот</value>
+  </data>
+  <data name="airforce_expenses_too_high" xml:space="preserve">
+    <value>Ваша нация тратит непосильную часть бюджета на военно-воздушные силы</value>
+  </data>
+  <data name="no_private_population" xml:space="preserve">
+    <value>В вашей нации закончились граждане для набора в вооружённые силы и на военные заводы</value>
+  </data>
 </root>

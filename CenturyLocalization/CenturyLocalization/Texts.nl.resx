@@ -725,4 +725,19 @@ Wanneer de wereldspanning 100% bereikt, wordt een wereldoorlog ontketend en word
   <data name="daily_warlevel_decrease_modifier" xml:space="preserve">
     <value>Dagelijkse oorlogsniveau-verminderingsmodifier</value>
   </data>
+  <data name="debt_risk" xml:space="preserve">
+    <value>Uw natie heeft te veel schulden! U loopt het risico dat afvallige regio's onafhankelijkheid uitroepen!</value>
+  </data>
+  <data name="army_expenses_too_high" xml:space="preserve">
+    <value>Uw natie besteedt een onhoudbaar deel van haar budget aan het Leger</value>
+  </data>
+  <data name="navy_expenses_too_high" xml:space="preserve">
+    <value>Uw natie besteedt een onhoudbaar deel van haar budget aan de Marine</value>
+  </data>
+  <data name="airforce_expenses_too_high" xml:space="preserve">
+    <value>Uw natie besteedt een onhoudbaar deel van haar budget aan de Luchtmacht</value>
+  </data>
+  <data name="no_private_population" xml:space="preserve">
+    <value>Uw natie heeft geen burgers meer om te rekruteren voor de strijdkrachten en militaire fabrieken</value>
+  </data>
 </root>

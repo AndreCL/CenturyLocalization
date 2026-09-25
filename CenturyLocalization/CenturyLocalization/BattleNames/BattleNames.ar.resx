@@ -133,4 +133,145 @@
   <data name="siege_puerto_alfonso" xml:space="preserve">
     <value>حصار بويرتو ألونسو</value>
   </data>
+  <data name="battle_of_senluo_temple" xml:space="preserve">
+    <value>معركة معبد سينلوو</value>
+  </data>
+  <data name="first_battle_of_tianjin" xml:space="preserve">
+    <value>معركة تيانجين الأولى</value>
+  </data>
+  <data name="battle_of_langfang" xml:space="preserve">
+    <value>معركة لانغفانغ</value>
+  </data>
+  <data name="siege_of_international_legations" xml:space="preserve">
+    <value>حصار المفوضيات الدولية</value>
+  </data>
+  <data name="siege_of_north_cathedral" xml:space="preserve">
+    <value>حصار الكاتدرائية الشمالية</value>
+  </data>
+  <data name="battle_of_beicang" xml:space="preserve">
+    <value>معركة بيتشانغ</value>
+  </data>
+  <data name="battle_of_yangcun" xml:space="preserve">
+    <value>معركة يانغتشون</value>
+  </data>
+  <data name="capture_of_beijing" xml:space="preserve">
+    <value>الاستيلاء على بكين</value>
+  </data>
+  <data name="battle_of_taku_forts" xml:space="preserve">
+    <value>معركة حصون تاكو</value>
+  </data>
+  <data name="naval_bombardment_of_taku_forts" xml:space="preserve">
+    <value>القصف البحري لحصون تاكو</value>
+  </data>
+  <data name="amphibious_landings_tianjin_dagu" xml:space="preserve">
+    <value>الإنزالات البرمائية في تيانجين وداغو</value>
+  </data>
+  <data name="battle_of_kraaipan" xml:space="preserve">
+    <value>معركة كرايبان</value>
+  </data>
+  <data name="battle_of_talana_hill" xml:space="preserve">
+    <value>معركة تلانا هل</value>
+  </data>
+  <data name="battle_of_elandslaagte" xml:space="preserve">
+    <value>معركة إيلاندزلاختة</value>
+  </data>
+  <data name="battle_of_rietfontein" xml:space="preserve">
+    <value>معركة ريتفونتين</value>
+  </data>
+  <data name="siege_of_ladysmith" xml:space="preserve">
+    <value>حصار لاديسميث</value>
+  </data>
+  <data name="battle_of_mafeking" xml:space="preserve">
+    <value>معركة مافيكنغ</value>
+  </data>
+  <data name="battle_of_kimberley" xml:space="preserve">
+    <value>معركة كيمبرلي</value>
+  </data>
+  <data name="battle_of_modder_river" xml:space="preserve">
+    <value>معركة نهر مودر</value>
+  </data>
+  <data name="battle_of_belmont" xml:space="preserve">
+    <value>معركة بيلمونت</value>
+  </data>
+  <data name="battle_of_graspan" xml:space="preserve">
+    <value>معركة غراسبان</value>
+  </data>
+  <data name="battle_of_enslin" xml:space="preserve">
+    <value>معركة إنسلين</value>
+  </data>
+  <data name="battle_of_stormberg" xml:space="preserve">
+    <value>معركة ستورمبرغ</value>
+  </data>
+  <data name="battle_of_magersfontein" xml:space="preserve">
+    <value>معركة ماجرسفونتين</value>
+  </data>
+  <data name="battle_of_colenso" xml:space="preserve">
+    <value>معركة كولينسو</value>
+  </data>
+  <data name="battle_of_platrand" xml:space="preserve">
+    <value>معركة بلاتراند</value>
+  </data>
+  <data name="battle_of_spion_kop" xml:space="preserve">
+    <value>معركة سبيون كوب</value>
+  </data>
+  <data name="battle_of_vaal_krantz" xml:space="preserve">
+    <value>معركة فال كرانتس</value>
+  </data>
+  <data name="battle_of_tugela_heights" xml:space="preserve">
+    <value>معركة مرتفعات توجيلا</value>
+  </data>
+  <data name="relief_of_ladysmith" xml:space="preserve">
+    <value>فك الحصار عن لاديسميث</value>
+  </data>
+  <data name="battle_of_paardeberg" xml:space="preserve">
+    <value>معركة بارديبيرغ</value>
+  </data>
+  <data name="relief_of_kimberley" xml:space="preserve">
+    <value>فك الحصار عن كيمبرلي</value>
+  </data>
+  <data name="battle_of_poplar_grove" xml:space="preserve">
+    <value>معركة بوبلار غروف</value>
+  </data>
+  <data name="battle_of_driefontein" xml:space="preserve">
+    <value>معركة دريفونتين</value>
+  </data>
+  <data name="capture_of_bloemfontein" xml:space="preserve">
+    <value>الاستيلاء على بلومفونتين</value>
+  </data>
+  <data name="battle_of_karee" xml:space="preserve">
+    <value>معركة كاري</value>
+  </data>
+  <data name="battle_of_houtnek" xml:space="preserve">
+    <value>معركة هاوتنيك</value>
+  </data>
+  <data name="battle_of_sand_river" xml:space="preserve">
+    <value>معركة نهر ساند</value>
+  </data>
+  <data name="battle_of_johannesburg" xml:space="preserve">
+    <value>معركة جوهانسبرغ</value>
+  </data>
+  <data name="capture_of_pretoria" xml:space="preserve">
+    <value>الاستيلاء على بريتوريا</value>
+  </data>
+  <data name="battle_of_diamond_hill" xml:space="preserve">
+    <value>معركة تل الألماس</value>
+  </data>
+  <data name="battle_of_bergendal" xml:space="preserve">
+    <value>معركة برغندال</value>
+  </data>
+  <data name="battle_of_nooitgedacht" xml:space="preserve">
+    <value>معركة نويتجهاخت</value>
+  </data>
+  <data name="battle_of_groenkloof" xml:space="preserve">
+    <value>معركة غرونكلوف</value>
+  </data>
+  <data name="battle_of_leliefontein" xml:space="preserve">
+    <value>معركة ليليفونتين</value>
+  </data>
+  <data name="battle_of_tweebosch" xml:space="preserve">
+    <value>معركة تويبوش</value>
+  </data>
+  <data name="battle_of_rooiwal" xml:space="preserve">
+    <value>معركة رويوال</value>
+  </data>
 </root>

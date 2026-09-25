@@ -133,4 +133,145 @@
   <data name="siege_puerto_alfonso" xml:space="preserve">
     <value>Obliehanie Puerto Alonso</value>
   </data>
+  <data name="battle_of_senluo_temple" xml:space="preserve">
+    <value>Bitka pri chráme Senluo</value>
+  </data>
+  <data name="first_battle_of_tianjin" xml:space="preserve">
+    <value>Prvá bitka o Tiencin</value>
+  </data>
+  <data name="battle_of_langfang" xml:space="preserve">
+    <value>Bitka pri Langfangu</value>
+  </data>
+  <data name="siege_of_international_legations" xml:space="preserve">
+    <value>Obliehanie medzinárodných vyslanectiev</value>
+  </data>
+  <data name="siege_of_north_cathedral" xml:space="preserve">
+    <value>Obliehanie Severnej katedrály</value>
+  </data>
+  <data name="battle_of_beicang" xml:space="preserve">
+    <value>Bitka pri Beicangu</value>
+  </data>
+  <data name="battle_of_yangcun" xml:space="preserve">
+    <value>Bitka pri Jang-cune</value>
+  </data>
+  <data name="capture_of_beijing" xml:space="preserve">
+    <value>Dobytie Pekingu</value>
+  </data>
+  <data name="battle_of_taku_forts" xml:space="preserve">
+    <value>Bitka o pevnosti Taku</value>
+  </data>
+  <data name="naval_bombardment_of_taku_forts" xml:space="preserve">
+    <value>Námorné bombardovanie pevností Taku</value>
+  </data>
+  <data name="amphibious_landings_tianjin_dagu" xml:space="preserve">
+    <value>Výsadok obojživelných síl pri Tiencine a Ta-ku</value>
+  </data>
+  <data name="battle_of_kraaipan" xml:space="preserve">
+    <value>Bitka pri Kraaipane</value>
+  </data>
+  <data name="battle_of_talana_hill" xml:space="preserve">
+    <value>Bitka pri Talana Hill</value>
+  </data>
+  <data name="battle_of_elandslaagte" xml:space="preserve">
+    <value>Bitka pri Elandslaagte</value>
+  </data>
+  <data name="battle_of_rietfontein" xml:space="preserve">
+    <value>Bitka pri Rietfonteine</value>
+  </data>
+  <data name="siege_of_ladysmith" xml:space="preserve">
+    <value>Obliehanie Ladysmithu</value>
+  </data>
+  <data name="battle_of_mafeking" xml:space="preserve">
+    <value>Bitka pri Mafekingu</value>
+  </data>
+  <data name="battle_of_kimberley" xml:space="preserve">
+    <value>Bitka pri Kimberley</value>
+  </data>
+  <data name="battle_of_modder_river" xml:space="preserve">
+    <value>Bitka pri Modder River</value>
+  </data>
+  <data name="battle_of_belmont" xml:space="preserve">
+    <value>Bitka pri Belmonte</value>
+  </data>
+  <data name="battle_of_graspan" xml:space="preserve">
+    <value>Bitka pri Graspane</value>
+  </data>
+  <data name="battle_of_enslin" xml:space="preserve">
+    <value>Bitka pri Enslin</value>
+  </data>
+  <data name="battle_of_stormberg" xml:space="preserve">
+    <value>Bitka pri Stormbergu</value>
+  </data>
+  <data name="battle_of_magersfontein" xml:space="preserve">
+    <value>Bitka pri Magersfonteine</value>
+  </data>
+  <data name="battle_of_colenso" xml:space="preserve">
+    <value>Bitka pri Colense</value>
+  </data>
+  <data name="battle_of_platrand" xml:space="preserve">
+    <value>Bitka pri Platrande</value>
+  </data>
+  <data name="battle_of_spion_kop" xml:space="preserve">
+    <value>Bitka pri Spion Kope</value>
+  </data>
+  <data name="battle_of_vaal_krantz" xml:space="preserve">
+    <value>Bitka pri Vaal Krantz</value>
+  </data>
+  <data name="battle_of_tugela_heights" xml:space="preserve">
+    <value>Bitka o výšiny Tugela</value>
+  </data>
+  <data name="relief_of_ladysmith" xml:space="preserve">
+    <value>Oslobodenie Ladysmithu</value>
+  </data>
+  <data name="battle_of_paardeberg" xml:space="preserve">
+    <value>Bitka pri Paardebergu</value>
+  </data>
+  <data name="relief_of_kimberley" xml:space="preserve">
+    <value>Oslobodenie Kimberley</value>
+  </data>
+  <data name="battle_of_poplar_grove" xml:space="preserve">
+    <value>Bitka pri Poplar Grove</value>
+  </data>
+  <data name="battle_of_driefontein" xml:space="preserve">
+    <value>Bitka pri Driefonteine</value>
+  </data>
+  <data name="capture_of_bloemfontein" xml:space="preserve">
+    <value>Dobytie Bloemfonteinu</value>
+  </data>
+  <data name="battle_of_karee" xml:space="preserve">
+    <value>Bitka pri Karee</value>
+  </data>
+  <data name="battle_of_houtnek" xml:space="preserve">
+    <value>Bitka pri Houtneku</value>
+  </data>
+  <data name="battle_of_sand_river" xml:space="preserve">
+    <value>Bitka pri Sand River</value>
+  </data>
+  <data name="battle_of_johannesburg" xml:space="preserve">
+    <value>Bitka pri Johannesburgu</value>
+  </data>
+  <data name="capture_of_pretoria" xml:space="preserve">
+    <value>Dobytie Pretorie</value>
+  </data>
+  <data name="battle_of_diamond_hill" xml:space="preserve">
+    <value>Bitka pri Diamond Hill</value>
+  </data>
+  <data name="battle_of_bergendal" xml:space="preserve">
+    <value>Bitka pri Bergendale</value>
+  </data>
+  <data name="battle_of_nooitgedacht" xml:space="preserve">
+    <value>Bitka pri Nooitgedachte</value>
+  </data>
+  <data name="battle_of_groenkloof" xml:space="preserve">
+    <value>Bitka pri Groenkloofe</value>
+  </data>
+  <data name="battle_of_leliefontein" xml:space="preserve">
+    <value>Bitka pri Leliefonteine</value>
+  </data>
+  <data name="battle_of_tweebosch" xml:space="preserve">
+    <value>Bitka pri Tweebosch</value>
+  </data>
+  <data name="battle_of_rooiwal" xml:space="preserve">
+    <value>Bitka pri Rooiwal</value>
+  </data>
 </root>

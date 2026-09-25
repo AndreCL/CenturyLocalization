@@ -726,4 +726,19 @@ Når verdensspændingen når 100 %, udløses en verdenskrig, og værdien nulstil
   <data name="daily_warlevel_decrease_modifier" xml:space="preserve">
     <value>Daglig krigsniveau-reduktionsmodifikator</value>
   </data>
+  <data name="debt_risk" xml:space="preserve">
+    <value>Din nation har for meget gæld! Du risikerer, at løsrivelsesregioner erklærer uafhængighed!</value>
+  </data>
+  <data name="army_expenses_too_high" xml:space="preserve">
+    <value>Din nation bruger et uholdbart beløb af sit budget på hæren</value>
+  </data>
+  <data name="navy_expenses_too_high" xml:space="preserve">
+    <value>Din nation bruger et uholdbart beløb af sit budget på flåden</value>
+  </data>
+  <data name="airforce_expenses_too_high" xml:space="preserve">
+    <value>Din nation bruger et uholdbart beløb af sit budget på luftvåbnet</value>
+  </data>
+  <data name="no_private_population" xml:space="preserve">
+    <value>Din nation er løbet tør for borgere til at rekruttere til de væbnede styrker og militærfabrikker</value>
+  </data>
 </root>

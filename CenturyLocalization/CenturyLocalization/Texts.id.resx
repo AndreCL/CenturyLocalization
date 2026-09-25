@@ -725,4 +725,19 @@ Ketika Ketegangan Dunia mencapai 100%, Perang Dunia akan dipicu dan nilainya dia
   <data name="daily_warlevel_decrease_modifier" xml:space="preserve">
     <value>Pengubah penurunan tingkat perang harian</value>
   </data>
+  <data name="debt_risk" xml:space="preserve">
+    <value>Negara Anda memiliki utang yang terlalu banyak! Anda berisiko wilayah pemberontak menyatakan kemerdekaan!</value>
+  </data>
+  <data name="army_expenses_too_high" xml:space="preserve">
+    <value>Negara Anda menghabiskan anggaran yang tidak berkelanjutan untuk Angkatan Darat</value>
+  </data>
+  <data name="navy_expenses_too_high" xml:space="preserve">
+    <value>Negara Anda menghabiskan anggaran yang tidak berkelanjutan untuk Angkatan Laut</value>
+  </data>
+  <data name="airforce_expenses_too_high" xml:space="preserve">
+    <value>Negara Anda menghabiskan anggaran yang tidak berkelanjutan untuk Angkatan Udara</value>
+  </data>
+  <data name="no_private_population" xml:space="preserve">
+    <value>Negara Anda kehabisan warga untuk direkrut ke angkatan bersenjata dan pabrik militer</value>
+  </data>
 </root>

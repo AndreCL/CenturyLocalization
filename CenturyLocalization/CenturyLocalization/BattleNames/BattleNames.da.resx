@@ -133,4 +133,145 @@
   <data name="siege_puerto_alfonso" xml:space="preserve">
     <value>Belejringen af Puerto Alonso</value>
   </data>
+  <data name="battle_of_senluo_temple" xml:space="preserve">
+    <value>Slaget ved Senluo-templet</value>
+  </data>
+  <data name="first_battle_of_tianjin" xml:space="preserve">
+    <value>Første slag ved Tianjin</value>
+  </data>
+  <data name="battle_of_langfang" xml:space="preserve">
+    <value>Slaget ved Langfang</value>
+  </data>
+  <data name="siege_of_international_legations" xml:space="preserve">
+    <value>Belejringen af de internationale legationer</value>
+  </data>
+  <data name="siege_of_north_cathedral" xml:space="preserve">
+    <value>Belejringen af Nordkatedralen</value>
+  </data>
+  <data name="battle_of_beicang" xml:space="preserve">
+    <value>Slaget ved Beicang</value>
+  </data>
+  <data name="battle_of_yangcun" xml:space="preserve">
+    <value>Slaget ved Yangcun</value>
+  </data>
+  <data name="capture_of_beijing" xml:space="preserve">
+    <value>Erobringen af Beijing</value>
+  </data>
+  <data name="battle_of_taku_forts" xml:space="preserve">
+    <value>Slaget ved Taku-fortene</value>
+  </data>
+  <data name="naval_bombardment_of_taku_forts" xml:space="preserve">
+    <value>Flådebombardement af Taku-fortene</value>
+  </data>
+  <data name="amphibious_landings_tianjin_dagu" xml:space="preserve">
+    <value>Amfibielandgang ved Tianjin og Dagu</value>
+  </data>
+  <data name="battle_of_kraaipan" xml:space="preserve">
+    <value>Slaget ved Kraaipan</value>
+  </data>
+  <data name="battle_of_talana_hill" xml:space="preserve">
+    <value>Slaget ved Talana Hill</value>
+  </data>
+  <data name="battle_of_elandslaagte" xml:space="preserve">
+    <value>Slaget ved Elandslaagte</value>
+  </data>
+  <data name="battle_of_rietfontein" xml:space="preserve">
+    <value>Slaget ved Rietfontein</value>
+  </data>
+  <data name="siege_of_ladysmith" xml:space="preserve">
+    <value>Belejringen af Ladysmith</value>
+  </data>
+  <data name="battle_of_mafeking" xml:space="preserve">
+    <value>Slaget ved Mafeking</value>
+  </data>
+  <data name="battle_of_kimberley" xml:space="preserve">
+    <value>Slaget ved Kimberley</value>
+  </data>
+  <data name="battle_of_modder_river" xml:space="preserve">
+    <value>Slaget ved Modder River</value>
+  </data>
+  <data name="battle_of_belmont" xml:space="preserve">
+    <value>Slaget ved Belmont</value>
+  </data>
+  <data name="battle_of_graspan" xml:space="preserve">
+    <value>Slaget ved Graspan</value>
+  </data>
+  <data name="battle_of_enslin" xml:space="preserve">
+    <value>Slaget ved Enslin</value>
+  </data>
+  <data name="battle_of_stormberg" xml:space="preserve">
+    <value>Slaget ved Stormberg</value>
+  </data>
+  <data name="battle_of_magersfontein" xml:space="preserve">
+    <value>Slaget ved Magersfontein</value>
+  </data>
+  <data name="battle_of_colenso" xml:space="preserve">
+    <value>Slaget ved Colenso</value>
+  </data>
+  <data name="battle_of_platrand" xml:space="preserve">
+    <value>Slaget ved Platrand</value>
+  </data>
+  <data name="battle_of_spion_kop" xml:space="preserve">
+    <value>Slaget ved Spion Kop</value>
+  </data>
+  <data name="battle_of_vaal_krantz" xml:space="preserve">
+    <value>Slaget ved Vaal Krantz</value>
+  </data>
+  <data name="battle_of_tugela_heights" xml:space="preserve">
+    <value>Slaget ved Tugela Heights</value>
+  </data>
+  <data name="relief_of_ladysmith" xml:space="preserve">
+    <value>Undsætningen af Ladysmith</value>
+  </data>
+  <data name="battle_of_paardeberg" xml:space="preserve">
+    <value>Slaget ved Paardeberg</value>
+  </data>
+  <data name="relief_of_kimberley" xml:space="preserve">
+    <value>Undsætningen af Kimberley</value>
+  </data>
+  <data name="battle_of_poplar_grove" xml:space="preserve">
+    <value>Slaget ved Poplar Grove</value>
+  </data>
+  <data name="battle_of_driefontein" xml:space="preserve">
+    <value>Slaget ved Driefontein</value>
+  </data>
+  <data name="capture_of_bloemfontein" xml:space="preserve">
+    <value>Erobringen af Bloemfontein</value>
+  </data>
+  <data name="battle_of_karee" xml:space="preserve">
+    <value>Slaget ved Karee</value>
+  </data>
+  <data name="battle_of_houtnek" xml:space="preserve">
+    <value>Slaget ved Houtnek</value>
+  </data>
+  <data name="battle_of_sand_river" xml:space="preserve">
+    <value>Slaget ved Sand River</value>
+  </data>
+  <data name="battle_of_johannesburg" xml:space="preserve">
+    <value>Slaget ved Johannesburg</value>
+  </data>
+  <data name="capture_of_pretoria" xml:space="preserve">
+    <value>Erobringen af Pretoria</value>
+  </data>
+  <data name="battle_of_diamond_hill" xml:space="preserve">
+    <value>Slaget ved Diamond Hill</value>
+  </data>
+  <data name="battle_of_bergendal" xml:space="preserve">
+    <value>Slaget ved Bergendal</value>
+  </data>
+  <data name="battle_of_nooitgedacht" xml:space="preserve">
+    <value>Slaget ved Nooitgedacht</value>
+  </data>
+  <data name="battle_of_groenkloof" xml:space="preserve">
+    <value>Slaget ved Groenkloof</value>
+  </data>
+  <data name="battle_of_leliefontein" xml:space="preserve">
+    <value>Slaget ved Leliefontein</value>
+  </data>
+  <data name="battle_of_tweebosch" xml:space="preserve">
+    <value>Slaget ved Tweebosch</value>
+  </data>
+  <data name="battle_of_rooiwal" xml:space="preserve">
+    <value>Slaget ved Rooiwal</value>
+  </data>
 </root>

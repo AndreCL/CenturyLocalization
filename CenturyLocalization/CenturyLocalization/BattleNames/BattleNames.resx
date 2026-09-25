@@ -145,4 +145,192 @@
     <value>Siege of Puerto Alonso</value>
     <comment>Acre War</comment>
   </data>
+  <data name="battle_of_senluo_temple" xml:space="preserve">
+    <value>Battle of Senluo Temple</value>
+    <comment>Boxer Rebellion</comment>
+  </data>
+  <data name="first_battle_of_tianjin" xml:space="preserve">
+    <value>First Battle of Tianjin</value>
+    <comment>Boxer Rebellion</comment>
+  </data>
+  <data name="battle_of_langfang" xml:space="preserve">
+    <value>Battle of Langfang</value>
+    <comment>Boxer Rebellion</comment>
+  </data>
+  <data name="siege_of_international_legations" xml:space="preserve">
+    <value>Siege of the International Legations</value>
+    <comment>Boxer Rebellion</comment>
+  </data>
+  <data name="siege_of_north_cathedral" xml:space="preserve">
+    <value>Siege of the North Cathedral</value>
+    <comment>Boxer Rebellion</comment>
+  </data>
+  <data name="battle_of_beicang" xml:space="preserve">
+    <value>Battle of Beicang</value>
+    <comment>Boxer Rebellion</comment>
+  </data>
+  <data name="battle_of_yangcun" xml:space="preserve">
+    <value>Battle of Yangcun</value>
+    <comment>Boxer Rebellion</comment>
+  </data>
+  <data name="capture_of_beijing" xml:space="preserve">
+    <value>Capture of Beijing</value>
+    <comment>Boxer Rebellion</comment>
+  </data>
+  <data name="battle_of_taku_forts" xml:space="preserve">
+    <value>Battle of Taku Forts</value>
+    <comment>Boxer Rebellion</comment>
+  </data>
+  <data name="naval_bombardment_of_taku_forts" xml:space="preserve">
+    <value>Naval bombardment of Taku Forts</value>
+    <comment>Boxer Rebellion</comment>
+  </data>
+  <data name="amphibious_landings_tianjin_dagu" xml:space="preserve">
+    <value>Amphibious landings at Tianjin &amp; Dagu</value>
+    <comment>Boxer Rebellion</comment>
+  </data>
+  <data name="battle_of_kraaipan" xml:space="preserve">
+    <value>Battle of Kraaipan</value>
+    <comment>Second Boer War</comment>
+  </data>
+  <data name="battle_of_talana_hill" xml:space="preserve">
+    <value>Battle of Talana Hill</value>
+    <comment>Second Boer War</comment>
+  </data>
+  <data name="battle_of_elandslaagte" xml:space="preserve">
+    <value>Battle of Elandslaagte</value>
+    <comment>Second Boer War</comment>
+  </data>
+  <data name="battle_of_rietfontein" xml:space="preserve">
+    <value>Battle of Rietfontein</value>
+    <comment>Second Boer War</comment>
+  </data>
+  <data name="siege_of_ladysmith" xml:space="preserve">
+    <value>Siege of Ladysmith</value>
+    <comment>Second Boer War</comment>
+  </data>
+  <data name="battle_of_mafeking" xml:space="preserve">
+    <value>Battle of Mafeking</value>
+    <comment>Second Boer War</comment>
+  </data>
+  <data name="battle_of_kimberley" xml:space="preserve">
+    <value>Battle of Kimberley</value>
+    <comment>Second Boer War</comment>
+  </data>
+  <data name="battle_of_modder_river" xml:space="preserve">
+    <value>Battle of Modder River</value>
+    <comment>Second Boer War</comment>
+  </data>
+  <data name="battle_of_belmont" xml:space="preserve">
+    <value>Battle of Belmont</value>
+    <comment>Second Boer War</comment>
+  </data>
+  <data name="battle_of_graspan" xml:space="preserve">
+    <value>Battle of Graspan</value>
+    <comment>Second Boer War</comment>
+  </data>
+  <data name="battle_of_enslin" xml:space="preserve">
+    <value>Battle of Enslin</value>
+    <comment>Second Boer War</comment>
+  </data>
+  <data name="battle_of_stormberg" xml:space="preserve">
+    <value>Battle of Stormberg</value>
+    <comment>Second Boer War</comment>
+  </data>
+  <data name="battle_of_magersfontein" xml:space="preserve">
+    <value>Battle of Magersfontein</value>
+    <comment>Second Boer War</comment>
+  </data>
+  <data name="battle_of_colenso" xml:space="preserve">
+    <value>Battle of Colenso</value>
+    <comment>Second Boer War</comment>
+  </data>
+  <data name="battle_of_platrand" xml:space="preserve">
+    <value>Battle of Platrand</value>
+    <comment>Second Boer War</comment>
+  </data>
+  <data name="battle_of_spion_kop" xml:space="preserve">
+    <value>Battle of Spion Kop</value>
+    <comment>Second Boer War</comment>
+  </data>
+  <data name="battle_of_vaal_krantz" xml:space="preserve">
+    <value>Battle of Vaal Krantz</value>
+    <comment>Second Boer War</comment>
+  </data>
+  <data name="battle_of_tugela_heights" xml:space="preserve">
+    <value>Battle of Tugela Heights</value>
+    <comment>Second Boer War</comment>
+  </data>
+  <data name="relief_of_ladysmith" xml:space="preserve">
+    <value>Relief of Ladysmith</value>
+    <comment>Second Boer War</comment>
+  </data>
+  <data name="battle_of_paardeberg" xml:space="preserve">
+    <value>Battle of Paardeberg</value>
+    <comment>Second Boer War</comment>
+  </data>
+  <data name="relief_of_kimberley" xml:space="preserve">
+    <value>Relief of Kimberley</value>
+    <comment>Second Boer War</comment>
+  </data>
+  <data name="battle_of_poplar_grove" xml:space="preserve">
+    <value>Battle of Poplar Grove</value>
+    <comment>Second Boer War</comment>
+  </data>
+  <data name="battle_of_driefontein" xml:space="preserve">
+    <value>Battle of Driefontein</value>
+    <comment>Second Boer War</comment>
+  </data>
+  <data name="capture_of_bloemfontein" xml:space="preserve">
+    <value>Capture of Bloemfontein</value>
+    <comment>Second Boer War</comment>
+  </data>
+  <data name="battle_of_karee" xml:space="preserve">
+    <value>Battle of Karee</value>
+    <comment>Second Boer War</comment>
+  </data>
+  <data name="battle_of_houtnek" xml:space="preserve">
+    <value>Battle of Houtnek</value>
+    <comment>Second Boer War</comment>
+  </data>
+  <data name="battle_of_sand_river" xml:space="preserve">
+    <value>Battle of Sand River</value>
+    <comment>Second Boer War</comment>
+  </data>
+  <data name="battle_of_johannesburg" xml:space="preserve">
+    <value>Battle of Johannesburg</value>
+    <comment>Second Boer War</comment>
+  </data>
+  <data name="capture_of_pretoria" xml:space="preserve">
+    <value>Capture of Pretoria</value>
+    <comment>Second Boer War</comment>
+  </data>
+  <data name="battle_of_diamond_hill" xml:space="preserve">
+    <value>Battle of Diamond Hill</value>
+    <comment>Second Boer War</comment>
+  </data>
+  <data name="battle_of_bergendal" xml:space="preserve">
+    <value>Battle of Bergendal</value>
+    <comment>Second Boer War</comment>
+  </data>
+  <data name="battle_of_nooitgedacht" xml:space="preserve">
+    <value>Battle of Nooitgedacht</value>
+    <comment>Second Boer War</comment>
+  </data>
+  <data name="battle_of_groenkloof" xml:space="preserve">
+    <value>Battle of Groenkloof</value>
+    <comment>Second Boer War</comment>
+  </data>
+  <data name="battle_of_leliefontein" xml:space="preserve">
+    <value>Battle of Leliefontein</value>
+    <comment>Second Boer War</comment>
+  </data>
+  <data name="battle_of_tweebosch" xml:space="preserve">
+    <value>Battle of Tweebosch</value>
+    <comment>Second Boer War</comment>
+  </data>
+  <data name="battle_of_rooiwal" xml:space="preserve">
+    <value>Battle of Rooiwal</value>
+    <comment>Second Boer War</comment>
+  </data>
 </root>

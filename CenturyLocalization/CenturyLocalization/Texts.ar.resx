@@ -725,4 +725,19 @@
   <data name="daily_warlevel_decrease_modifier" xml:space="preserve">
     <value>معدّل تخفيض مستوى الحرب اليومي</value>
   </data>
+  <data name="debt_risk" xml:space="preserve">
+    <value>دولتك مثقلة بالديون بشكل مفرط! أنت معرض لخطر إعلان المناطق المنفصلة استقلالها!</value>
+  </data>
+  <data name="army_expenses_too_high" xml:space="preserve">
+    <value>دولتك تنفق مبلغًا غير مستدام من ميزانيتها على الجيش</value>
+  </data>
+  <data name="navy_expenses_too_high" xml:space="preserve">
+    <value>دولتك تنفق مبلغًا غير مستدام من ميزانيتها على البحرية</value>
+  </data>
+  <data name="airforce_expenses_too_high" xml:space="preserve">
+    <value>دولتك تنفق مبلغًا غير مستدام من ميزانيتها على القوات الجوية</value>
+  </data>
+  <data name="no_private_population" xml:space="preserve">
+    <value>نفدت دولتك من المواطنين لتجنيدهم في القوات المسلحة والمصانع العسكرية</value>
+  </data>
 </root>

@@ -725,4 +725,19 @@ Sobald die Weltspannung 100 % erreicht, wird ein Weltkrieg ausgelöst und der We
   <data name="daily_warlevel_decrease_modifier" xml:space="preserve">
     <value>Täglicher Kriegsstufen-Verringerungsmodifikator</value>
   </data>
+  <data name="debt_risk" xml:space="preserve">
+    <value>Ihre Nation hat zu hohe Schulden! Sie laufen Gefahr, dass abtrünnige Regionen ihre Unabhängigkeit erklären!</value>
+  </data>
+  <data name="army_expenses_too_high" xml:space="preserve">
+    <value>Ihre Nation gibt einen nicht tragbaren Anteil ihres Budgets für das Heer aus</value>
+  </data>
+  <data name="navy_expenses_too_high" xml:space="preserve">
+    <value>Ihre Nation gibt einen nicht tragbaren Anteil ihres Budgets für die Marine aus</value>
+  </data>
+  <data name="airforce_expenses_too_high" xml:space="preserve">
+    <value>Ihre Nation gibt einen nicht tragbaren Anteil ihres Budgets für die Luftwaffe aus</value>
+  </data>
+  <data name="no_private_population" xml:space="preserve">
+    <value>Ihrer Nation sind die Bürger ausgegangen, die für die Streitkräfte und Rüstungsfabriken rekrutiert werden können</value>
+  </data>
 </root>

@@ -133,4 +133,145 @@
   <data name="siege_puerto_alfonso" xml:space="preserve">
     <value>Pengepungan Puerto Alonso</value>
   </data>
+  <data name="battle_of_senluo_temple" xml:space="preserve">
+    <value>Pertempuran Kuil Senluo</value>
+  </data>
+  <data name="first_battle_of_tianjin" xml:space="preserve">
+    <value>Pertempuran Tianjin Pertama</value>
+  </data>
+  <data name="battle_of_langfang" xml:space="preserve">
+    <value>Pertempuran Langfang</value>
+  </data>
+  <data name="siege_of_international_legations" xml:space="preserve">
+    <value>Pengepungan Legasi Internasional</value>
+  </data>
+  <data name="siege_of_north_cathedral" xml:space="preserve">
+    <value>Pengepungan Katedral Utara</value>
+  </data>
+  <data name="battle_of_beicang" xml:space="preserve">
+    <value>Pertempuran Beicang</value>
+  </data>
+  <data name="battle_of_yangcun" xml:space="preserve">
+    <value>Pertempuran Yangcun</value>
+  </data>
+  <data name="capture_of_beijing" xml:space="preserve">
+    <value>Perebutan Beijing</value>
+  </data>
+  <data name="battle_of_taku_forts" xml:space="preserve">
+    <value>Pertempuran Benteng Taku</value>
+  </data>
+  <data name="naval_bombardment_of_taku_forts" xml:space="preserve">
+    <value>Pengeboman angkatan laut di Benteng Taku</value>
+  </data>
+  <data name="amphibious_landings_tianjin_dagu" xml:space="preserve">
+    <value>Pendaratan amfibi di Tianjin &amp; Dagu</value>
+  </data>
+  <data name="battle_of_kraaipan" xml:space="preserve">
+    <value>Pertempuran Kraaipan</value>
+  </data>
+  <data name="battle_of_talana_hill" xml:space="preserve">
+    <value>Pertempuran Talana Hill</value>
+  </data>
+  <data name="battle_of_elandslaagte" xml:space="preserve">
+    <value>Pertempuran Elandslaagte</value>
+  </data>
+  <data name="battle_of_rietfontein" xml:space="preserve">
+    <value>Pertempuran Rietfontein</value>
+  </data>
+  <data name="siege_of_ladysmith" xml:space="preserve">
+    <value>Pengepungan Ladysmith</value>
+  </data>
+  <data name="battle_of_mafeking" xml:space="preserve">
+    <value>Pertempuran Mafeking</value>
+  </data>
+  <data name="battle_of_kimberley" xml:space="preserve">
+    <value>Pertempuran Kimberley</value>
+  </data>
+  <data name="battle_of_modder_river" xml:space="preserve">
+    <value>Pertempuran Sungai Modder</value>
+  </data>
+  <data name="battle_of_belmont" xml:space="preserve">
+    <value>Pertempuran Belmont</value>
+  </data>
+  <data name="battle_of_graspan" xml:space="preserve">
+    <value>Pertempuran Graspan</value>
+  </data>
+  <data name="battle_of_enslin" xml:space="preserve">
+    <value>Pertempuran Enslin</value>
+  </data>
+  <data name="battle_of_stormberg" xml:space="preserve">
+    <value>Pertempuran Stormberg</value>
+  </data>
+  <data name="battle_of_magersfontein" xml:space="preserve">
+    <value>Pertempuran Magersfontein</value>
+  </data>
+  <data name="battle_of_colenso" xml:space="preserve">
+    <value>Pertempuran Colenso</value>
+  </data>
+  <data name="battle_of_platrand" xml:space="preserve">
+    <value>Pertempuran Platrand</value>
+  </data>
+  <data name="battle_of_spion_kop" xml:space="preserve">
+    <value>Pertempuran Spion Kop</value>
+  </data>
+  <data name="battle_of_vaal_krantz" xml:space="preserve">
+    <value>Pertempuran Vaal Krantz</value>
+  </data>
+  <data name="battle_of_tugela_heights" xml:space="preserve">
+    <value>Pertempuran Tugela Heights</value>
+  </data>
+  <data name="relief_of_ladysmith" xml:space="preserve">
+    <value>Pembebasan Ladysmith</value>
+  </data>
+  <data name="battle_of_paardeberg" xml:space="preserve">
+    <value>Pertempuran Paardeberg</value>
+  </data>
+  <data name="relief_of_kimberley" xml:space="preserve">
+    <value>Pembebasan Kimberley</value>
+  </data>
+  <data name="battle_of_poplar_grove" xml:space="preserve">
+    <value>Pertempuran Poplar Grove</value>
+  </data>
+  <data name="battle_of_driefontein" xml:space="preserve">
+    <value>Pertempuran Driefontein</value>
+  </data>
+  <data name="capture_of_bloemfontein" xml:space="preserve">
+    <value>Perebutan Bloemfontein</value>
+  </data>
+  <data name="battle_of_karee" xml:space="preserve">
+    <value>Pertempuran Karee</value>
+  </data>
+  <data name="battle_of_houtnek" xml:space="preserve">
+    <value>Pertempuran Houtnek</value>
+  </data>
+  <data name="battle_of_sand_river" xml:space="preserve">
+    <value>Pertempuran Sungai Sand</value>
+  </data>
+  <data name="battle_of_johannesburg" xml:space="preserve">
+    <value>Pertempuran Johannesburg</value>
+  </data>
+  <data name="capture_of_pretoria" xml:space="preserve">
+    <value>Perebutan Pretoria</value>
+  </data>
+  <data name="battle_of_diamond_hill" xml:space="preserve">
+    <value>Pertempuran Diamond Hill</value>
+  </data>
+  <data name="battle_of_bergendal" xml:space="preserve">
+    <value>Pertempuran Bergendal</value>
+  </data>
+  <data name="battle_of_nooitgedacht" xml:space="preserve">
+    <value>Pertempuran Nooitgedacht</value>
+  </data>
+  <data name="battle_of_groenkloof" xml:space="preserve">
+    <value>Pertempuran Groenkloof</value>
+  </data>
+  <data name="battle_of_leliefontein" xml:space="preserve">
+    <value>Pertempuran Leliefontein</value>
+  </data>
+  <data name="battle_of_tweebosch" xml:space="preserve">
+    <value>Pertempuran Tweebosch</value>
+  </data>
+  <data name="battle_of_rooiwal" xml:space="preserve">
+    <value>Pertempuran Rooiwal</value>
+  </data>
 </root>
