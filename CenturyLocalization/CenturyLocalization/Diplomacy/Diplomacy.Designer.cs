@@ -70,6 +70,15 @@ namespace CenturyLocalization.Diplomacy {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to At peace.
+        /// </summary>
+        internal static string diplomacy_effect_at_peace {
+            get {
+                return ResourceManager.GetString("diplomacy_effect_at_peace", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to At War.
         /// </summary>
         internal static string diplomacy_effect_at_war {

@@ -133,4 +133,7 @@
   <data name="diplomacy_title" xml:space="preserve">
     <value>Diplomati</value>
   </data>
+  <data name="diplomacy_effect_at_peace" xml:space="preserve">
+    <value>I fred</value>
+  </data>
 </root>

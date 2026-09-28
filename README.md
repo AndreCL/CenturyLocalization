@@ -35,6 +35,7 @@ Open source implementation of localization for Century
 * Create WarNames file
 * Create Texts file
 * Create BattleNames file
+* Create Diplomacy file
 * Add language to Localization._supportedCultureNames
 * Run unit tests
 
