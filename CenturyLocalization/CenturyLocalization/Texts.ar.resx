@@ -749,4 +749,10 @@
   <data name="high_infamy_war_risk" xml:space="preserve">
     <value>دولتك لديها سمعة سيئة مرتفعة جدًا! أنت معرض لخطر أن تكون هدفًا لحرب سمعة!</value>
   </data>
+  <data name="culture_diversity_risk" xml:space="preserve">
+    <value>ثقافتك الرئيسية في دولتك صغيرة جدًا! أنت معرض لخطر إعلان الثقافات استقلالها!</value>
+  </data>
+  <data name="religious_diversity_risk" xml:space="preserve">
+    <value>ديانتك الرئيسية في دولتك صغيرة جدًا! أنت معرض لخطر إعلان الديانات استقلالها!</value>
+  </data>
 </root>

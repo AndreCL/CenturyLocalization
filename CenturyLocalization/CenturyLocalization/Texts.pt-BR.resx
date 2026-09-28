@@ -747,4 +747,10 @@ Um novo ano chegou. Desejamos a vocês um feliz ano novo. Que este novo ano seja
   <data name="high_infamy_war_risk" xml:space="preserve">
     <value>Sua nação tem uma infâmia muito alta! Você corre o risco de ser alvo de uma guerra de infâmia!</value>
   </data>
+  <data name="culture_diversity_risk" xml:space="preserve">
+    <value>A cultura principal da sua nação é muito pequena! Você corre o risco de culturas declararem independência!</value>
+  </data>
+  <data name="religious_diversity_risk" xml:space="preserve">
+    <value>A religião principal da sua nação é muito pequena! Você corre o risco de religiões declararem independência!</value>
+  </data>
 </root>

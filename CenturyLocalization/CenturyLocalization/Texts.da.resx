@@ -750,4 +750,10 @@ Når verdensspændingen når 100 %, udløses en verdenskrig, og værdien nulstil
   <data name="high_infamy_war_risk" xml:space="preserve">
     <value>Din nation har for høj berygtethed! Du risikerer at blive målet for en berygtethedskrig!</value>
   </data>
+  <data name="culture_diversity_risk" xml:space="preserve">
+    <value>Din nations hovedkultur er for lille! Du risikerer, at kulturer erklærer uafhængighed!</value>
+  </data>
+  <data name="religious_diversity_risk" xml:space="preserve">
+    <value>Din nations hovedreligion er for lille! Du risikerer, at religioner erklærer uafhængighed!</value>
+  </data>
 </root>

@@ -403,6 +403,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Your nation has too small main culture! You are at risk of cultures declaring independence!.
+        /// </summary>
+        internal static string culture_diversity_risk {
+            get {
+                return ResourceManager.GetString("culture_diversity_risk", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Current.
         /// </summary>
         internal static string current {
@@ -1445,6 +1454,15 @@ namespace CenturyLocalization {
         internal static string ratio_more_than_one {
             get {
                 return ResourceManager.GetString("ratio_more_than_one", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Your nation has too small main religion! You are at risk of religions declaring independence!.
+        /// </summary>
+        internal static string religious_diversity_risk {
+            get {
+                return ResourceManager.GetString("religious_diversity_risk", resourceCulture);
             }
         }
         

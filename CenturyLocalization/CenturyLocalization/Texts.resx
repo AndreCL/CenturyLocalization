@@ -768,4 +768,10 @@ Once the World Tension reaches 100%, a World War is triggered and it resets.
   <data name="high_infamy_war_risk" xml:space="preserve">
     <value>Your nation has too high infamy! You are at risk of being the target of an infamy war!</value>
   </data>
+  <data name="culture_diversity_risk" xml:space="preserve">
+    <value>Your nation has too small main culture! You are at risk of cultures declaring independence!</value>
+  </data>
+  <data name="religious_diversity_risk" xml:space="preserve">
+    <value>Your nation has too small main religion! You are at risk of religions declaring independence!</value>
+  </data>
 </root>

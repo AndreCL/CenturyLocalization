@@ -767,4 +767,10 @@ Keď svetové napätie dosiahne 100%, spustí sa svetová vojna a resetuje sa.
   <data name="high_infamy_war_risk" xml:space="preserve">
     <value>Váš národ má priveľkedy vysokú hanbu! Hrozí vám, že sa stánete cieľom vojny za hanbu!</value>
   </data>
+  <data name="culture_diversity_risk" xml:space="preserve">
+    <value>Hlavná kultúra vášho národa je priveľa malá! Hrozí vám, že kultúry vyhlásia nezávislosť!</value>
+  </data>
+  <data name="religious_diversity_risk" xml:space="preserve">
+    <value>Hlavné náboženstvo vášho národa je priveľa malé! Hrozí vám, že náboženstvá vyhlásia nezávislosť!</value>
+  </data>
 </root>

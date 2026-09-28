@@ -754,4 +754,10 @@
   <data name="high_infamy_war_risk" xml:space="preserve">
     <value>У вашей нации слишком высокое бесчестие! Вы рискуете стать целью войны за бесчестие!</value>
   </data>
+  <data name="culture_diversity_risk" xml:space="preserve">
+    <value>Основная культура вашей нации слишком мала! Вы рискуете тем, что культуры объявят независимость!</value>
+  </data>
+  <data name="religious_diversity_risk" xml:space="preserve">
+    <value>Основная религия вашей нации слишком мала! Вы рискуете тем, что религии объявят независимость!</value>
+  </data>
 </root>

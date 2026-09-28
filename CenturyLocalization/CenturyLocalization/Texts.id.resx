@@ -749,4 +749,10 @@ Ketika Ketegangan Dunia mencapai 100%, Perang Dunia akan dipicu dan nilainya dia
   <data name="high_infamy_war_risk" xml:space="preserve">
     <value>Negara Anda memiliki kehinaan yang terlalu tinggi! Anda berisiko menjadi target perang kehinaan!</value>
   </data>
+  <data name="culture_diversity_risk" xml:space="preserve">
+    <value>Budaya utama negara Anda terlalu kecil! Anda berisiko budaya menyatakan kemerdekaan!</value>
+  </data>
+  <data name="religious_diversity_risk" xml:space="preserve">
+    <value>Agama utama negara Anda terlalu kecil! Anda berisiko agama menyatakan kemerdekaan!</value>
+  </data>
 </root>

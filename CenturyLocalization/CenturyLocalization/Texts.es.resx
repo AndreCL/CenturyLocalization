@@ -751,4 +751,10 @@ Una vez que la tensión mundial alcanza el 100 %, se desencadena una guerra mund
   <data name="high_infamy_war_risk" xml:space="preserve">
     <value>¡Tu nación tiene una infamia demasiado alta! ¡Corres el riesgo de ser el objetivo de una guerra por infamia!</value>
   </data>
+  <data name="culture_diversity_risk" xml:space="preserve">
+    <value>¡La cultura principal de tu nación es demasiado pequeña! ¡Corres el riesgo de que las culturas declaren su independencia!</value>
+  </data>
+  <data name="religious_diversity_risk" xml:space="preserve">
+    <value>¡La religión principal de tu nación es demasiado pequeña! ¡Corres el riesgo de que las religiones declaren su independencia!</value>
+  </data>
 </root>

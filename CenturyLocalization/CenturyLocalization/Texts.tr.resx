@@ -768,4 +768,10 @@
   <data name="high_infamy_war_risk" xml:space="preserve">
     <value>Ulusunuzun rezaleti çok yüksek! Bir rezalet savaşının hedefi olma riskiyle karşı karşıyasınız!</value>
   </data>
+  <data name="culture_diversity_risk" xml:space="preserve">
+    <value>Ulusunuzun ana kültürü çok küçük! Kültürlerin bağımsızlık ilan etme riskiyle karşı karşıyasınız!</value>
+  </data>
+  <data name="religious_diversity_risk" xml:space="preserve">
+    <value>Ulusunuzun ana dini çok küçük! Dinlerin bağımsızlık ilan etme riskiyle karşı karşıyasınız!</value>
+  </data>
 </root>
