@@ -740,4 +740,13 @@ Sobald die Weltspannung 100 % erreicht, wird ein Weltkrieg ausgelöst und der We
   <data name="no_private_population" xml:space="preserve">
     <value>Ihrer Nation sind die Bürger ausgegangen, die für die Streitkräfte und Rüstungsfabriken rekrutiert werden können</value>
   </data>
+  <data name="war_level_risk" xml:space="preserve">
+    <value>Ihre Nation hat eine zu hohe Kriegsstufe! Sie laufen Gefahr, dass abtrünnige Regionen ihre Unabhängigkeit erklären!</value>
+  </data>
+  <data name="worldwar_risk" xml:space="preserve">
+    <value>Ihre Nation hat eine zu hohe Infamie! Sie laufen Gefahr, Ziel eines Weltkriegs zu werden!</value>
+  </data>
+  <data name="high_infamy_war_risk" xml:space="preserve">
+    <value>Ihre Nation hat eine zu hohe Infamie! Sie laufen Gefahr, Ziel eines Infamie-Kriegs zu werden!</value>
+  </data>
 </root>

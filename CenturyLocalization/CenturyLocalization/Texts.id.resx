@@ -740,4 +740,13 @@ Ketika Ketegangan Dunia mencapai 100%, Perang Dunia akan dipicu dan nilainya dia
   <data name="no_private_population" xml:space="preserve">
     <value>Negara Anda kehabisan warga untuk direkrut ke angkatan bersenjata dan pabrik militer</value>
   </data>
+  <data name="war_level_risk" xml:space="preserve">
+    <value>Negara Anda memiliki tingkat perang yang terlalu tinggi! Anda berisiko wilayah pemberontak menyatakan kemerdekaan!</value>
+  </data>
+  <data name="worldwar_risk" xml:space="preserve">
+    <value>Negara Anda memiliki kehinaan yang terlalu tinggi! Anda berisiko menjadi target Perang Dunia!</value>
+  </data>
+  <data name="high_infamy_war_risk" xml:space="preserve">
+    <value>Negara Anda memiliki kehinaan yang terlalu tinggi! Anda berisiko menjadi target perang kehinaan!</value>
+  </data>
 </root>

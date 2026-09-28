@@ -808,6 +808,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Your nation has too high infamy! You are at risk of being the target of an infamy war!.
+        /// </summary>
+        internal static string high_infamy_war_risk {
+            get {
+                return ResourceManager.GetString("high_infamy_war_risk", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Historical.
         /// </summary>
         internal static string historical {
@@ -1818,6 +1827,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Your nation has too high war level! You are at risk of breakaway regions declaring independence!.
+        /// </summary>
+        internal static string war_level_risk {
+            get {
+                return ResourceManager.GetString("war_level_risk", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Warning.
         /// </summary>
         internal static string warning {
@@ -1901,6 +1919,15 @@ namespace CenturyLocalization {
         internal static string world_war_title {
             get {
                 return ResourceManager.GetString("world_war_title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Your nation has too high infamy! You are at risk of being the target of a World War!.
+        /// </summary>
+        internal static string worldwar_risk {
+            get {
+                return ResourceManager.GetString("worldwar_risk", resourceCulture);
             }
         }
         

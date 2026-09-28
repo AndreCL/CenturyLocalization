@@ -740,4 +740,13 @@
   <data name="no_private_population" xml:space="preserve">
     <value>نفدت دولتك من المواطنين لتجنيدهم في القوات المسلحة والمصانع العسكرية</value>
   </data>
+  <data name="war_level_risk" xml:space="preserve">
+    <value>دولتك لديها مستوى حرب مرتفع جدًا! أنت معرض لخطر إعلان المناطق المنفصلة استقلالها!</value>
+  </data>
+  <data name="worldwar_risk" xml:space="preserve">
+    <value>دولتك لديها سمعة سيئة مرتفعة جدًا! أنت معرض لخطر أن تكون هدفًا لحرب عالمية!</value>
+  </data>
+  <data name="high_infamy_war_risk" xml:space="preserve">
+    <value>دولتك لديها سمعة سيئة مرتفعة جدًا! أنت معرض لخطر أن تكون هدفًا لحرب سمعة!</value>
+  </data>
 </root>

@@ -759,4 +759,13 @@
   <data name="no_private_population" xml:space="preserve">
     <value>Ulusunuzun silahlı kuvvetlere ve askeri fabrikalara asker alacak vatandaşı kalmadı</value>
   </data>
+  <data name="war_level_risk" xml:space="preserve">
+    <value>Ulusunuzun savaş seviyesi çok yüksek! Ayrılıkçı bölgelerin bağımsızlık ilan etme riskiyle karşı karşıyasınız!</value>
+  </data>
+  <data name="worldwar_risk" xml:space="preserve">
+    <value>Ulusunuzun rezaleti çok yüksek! Bir Dünya Savaşı'nın hedefi olma riskiyle karşı karşıyasınız!</value>
+  </data>
+  <data name="high_infamy_war_risk" xml:space="preserve">
+    <value>Ulusunuzun rezaleti çok yüksek! Bir rezalet savaşının hedefi olma riskiyle karşı karşıyasınız!</value>
+  </data>
 </root>

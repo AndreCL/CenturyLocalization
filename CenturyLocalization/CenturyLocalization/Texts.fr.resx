@@ -760,4 +760,13 @@ Une fois que la tension mondiale atteint 100 %, une guerre mondiale est déclenc
   <data name="no_private_population" xml:space="preserve">
     <value>Votre nation n'a plus de citoyens à recruter pour les forces armées et les usines militaires</value>
   </data>
+  <data name="war_level_risk" xml:space="preserve">
+    <value>Votre nation a un niveau de guerre trop élevé ! Vous risquez que des régions séparatistes déclarent leur indépendance !</value>
+  </data>
+  <data name="worldwar_risk" xml:space="preserve">
+    <value>Votre nation a une infamie trop élevée ! Vous risquez d'être la cible d'une guerre mondiale !</value>
+  </data>
+  <data name="high_infamy_war_risk" xml:space="preserve">
+    <value>Votre nation a une infamie trop élevée ! Vous risquez d'être la cible d'une guerre d'infamie !</value>
+  </data>
 </root>

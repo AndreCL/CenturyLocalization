@@ -740,4 +740,13 @@ Wanneer de wereldspanning 100% bereikt, wordt een wereldoorlog ontketend en word
   <data name="no_private_population" xml:space="preserve">
     <value>Uw natie heeft geen burgers meer om te rekruteren voor de strijdkrachten en militaire fabrieken</value>
   </data>
+  <data name="war_level_risk" xml:space="preserve">
+    <value>Uw natie heeft een te hoog oorlogsniveau! U loopt het risico dat afvallige regio's onafhankelijkheid uitroepen!</value>
+  </data>
+  <data name="worldwar_risk" xml:space="preserve">
+    <value>Uw natie heeft een te hoge schande! U loopt het risico het doelwit te worden van een wereldoorlog!</value>
+  </data>
+  <data name="high_infamy_war_risk" xml:space="preserve">
+    <value>Uw natie heeft een te hoge schande! U loopt het risico het doelwit te worden van een schandeoorlog!</value>
+  </data>
 </root>

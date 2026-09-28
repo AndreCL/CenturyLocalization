@@ -738,4 +738,13 @@ Um novo ano chegou. Desejamos a vocês um feliz ano novo. Que este novo ano seja
   <data name="no_private_population" xml:space="preserve">
     <value>A sua nação ficou sem cidadãos para recrutar para as forças armadas e fábricas militares</value>
   </data>
+  <data name="war_level_risk" xml:space="preserve">
+    <value>A sua nação tem um nível de guerra demasiado elevado! Corre o risco de regiões separatistas declararem independência!</value>
+  </data>
+  <data name="worldwar_risk" xml:space="preserve">
+    <value>A sua nação tem uma infâmia demasiado elevada! Corre o risco de ser alvo de uma Guerra Mundial!</value>
+  </data>
+  <data name="high_infamy_war_risk" xml:space="preserve">
+    <value>A sua nação tem uma infâmia demasiado elevada! Corre o risco de ser alvo de uma guerra de infâmia!</value>
+  </data>
 </root>

@@ -741,4 +741,13 @@ Når verdensspændingen når 100 %, udløses en verdenskrig, og værdien nulstil
   <data name="no_private_population" xml:space="preserve">
     <value>Din nation er løbet tør for borgere til at rekruttere til de væbnede styrker og militærfabrikker</value>
   </data>
+  <data name="war_level_risk" xml:space="preserve">
+    <value>Din nation har for højt krigsniveau! Du risikerer, at løsrivelsesregioner erklærer uafhængighed!</value>
+  </data>
+  <data name="worldwar_risk" xml:space="preserve">
+    <value>Din nation har for høj berygtethed! Du risikerer at blive målet for en verdenskrig!</value>
+  </data>
+  <data name="high_infamy_war_risk" xml:space="preserve">
+    <value>Din nation har for høj berygtethed! Du risikerer at blive målet for en berygtethedskrig!</value>
+  </data>
 </root>

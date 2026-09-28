@@ -759,4 +759,13 @@ Once the World Tension reaches 100%, a World War is triggered and it resets.
   <data name="no_private_population" xml:space="preserve">
     <value>Your nation has run out of citizens to recruit for armed forces and military factories</value>
   </data>
+  <data name="war_level_risk" xml:space="preserve">
+    <value>Your nation has too high war level! You are at risk of breakaway regions declaring independence!</value>
+  </data>
+  <data name="worldwar_risk" xml:space="preserve">
+    <value>Your nation has too high infamy! You are at risk of being the target of a World War!</value>
+  </data>
+  <data name="high_infamy_war_risk" xml:space="preserve">
+    <value>Your nation has too high infamy! You are at risk of being the target of an infamy war!</value>
+  </data>
 </root>

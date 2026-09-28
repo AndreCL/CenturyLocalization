@@ -758,4 +758,13 @@ Keď svetové napätie dosiahne 100%, spustí sa svetová vojna a resetuje sa.
   <data name="no_private_population" xml:space="preserve">
     <value>Vášmu národu došli občania na nábor do ozbrojených síl a vojenských tovární</value>
   </data>
+  <data name="war_level_risk" xml:space="preserve">
+    <value>Váš národ má priveľakú úroveň vojny! Hrozí vám, že odštiepenecké regióny vyhlásia nezávislosť!</value>
+  </data>
+  <data name="worldwar_risk" xml:space="preserve">
+    <value>Váš národ má priveľkedy vysokú hanbu! Hrozí vám, že sa stánete cieľom svetovej vojny!</value>
+  </data>
+  <data name="high_infamy_war_risk" xml:space="preserve">
+    <value>Váš národ má priveľkedy vysokú hanbu! Hrozí vám, že sa stánete cieľom vojny za hanbu!</value>
+  </data>
 </root>

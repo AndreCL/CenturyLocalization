@@ -745,4 +745,13 @@
   <data name="no_private_population" xml:space="preserve">
     <value>В вашей нации закончились граждане для набора в вооружённые силы и на военные заводы</value>
   </data>
+  <data name="war_level_risk" xml:space="preserve">
+    <value>У вашей нации слишком высокий уровень войны! Вы рискуете тем, что сепаратистские регионы объявят независимость!</value>
+  </data>
+  <data name="worldwar_risk" xml:space="preserve">
+    <value>У вашей нации слишком высокое бесчестие! Вы рискуете стать целью Мировой войны!</value>
+  </data>
+  <data name="high_infamy_war_risk" xml:space="preserve">
+    <value>У вашей нации слишком высокое бесчестие! Вы рискуете стать целью войны за бесчестие!</value>
+  </data>
 </root>
