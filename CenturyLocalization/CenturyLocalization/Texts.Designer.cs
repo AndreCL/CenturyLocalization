@@ -1872,7 +1872,7 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The target country is much stronger than you. Are you sure you want to declare war?.
+        ///   Looks up a localized string similar to The target country is much stronger than you.
         /// </summary>
         internal static string warning_difficult_war {
             get {

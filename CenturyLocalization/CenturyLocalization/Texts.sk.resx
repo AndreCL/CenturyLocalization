@@ -729,7 +729,7 @@ Keď svetové napätie dosiahne 100%, spustí sa svetová vojna a resetuje sa.
     <value>Hustota zaľudnenia</value>
   </data>
   <data name="warning_difficult_war" xml:space="preserve">
-    <value>Cieľová krajina je oveľa silnejšia ako vy. Naozaj chcete vyhlásiť vojnu?</value>
+    <value>Cieľová krajina je oveľa silnejšia ako vy</value>
   </data>
   <data name="war_goal_release_country" xml:space="preserve">
     <value>Krajina vydania</value>
