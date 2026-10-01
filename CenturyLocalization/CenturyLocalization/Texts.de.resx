@@ -256,7 +256,7 @@
     <value>Infrastruktur</value>
   </data>
   <data name="infamy" xml:space="preserve">
-    <value>gesellschaftliche Verrohung</value>
+    <value>Infamie</value>
   </data>
   <data name="independentsince" xml:space="preserve">
     <value>Unabhängig seit</value>
@@ -654,7 +654,7 @@ Sobald die Weltspannung 100 % erreicht, wird ein Weltkrieg ausgelöst und der We
     <value>Kriegsziel hinzufügen</value>
   </data>
   <data name="cost_foreign_policy_switch" xml:space="preserve">
-    <value>Kosten für den Wechsel: {0} Schande</value>
+    <value>Kosten für den Wechsel: {0} Infamie</value>
   </data>
   <data name="switch_to" xml:space="preserve">
     <value>Wechseln Sie zu {0}</value>
@@ -666,7 +666,7 @@ Sobald die Weltspannung 100 % erreicht, wird ein Weltkrieg ausgelöst und der We
     <value>• Werde in Weltkriege gerufen</value>
   </data>
   <data name="can_get_called_into_wars_infamy" xml:space="preserve">
-    <value>• Werden Sie in Kriege gegen Länder mit großer Berühmtheit gerufen</value>
+    <value>• Werden Sie in Kriege gegen Länder mit großer Infamie gerufen</value>
   </data>
   <data name="can_declare_war_all" xml:space="preserve">
     <value>• Kann jeder Nation den Krieg erklären</value>
@@ -675,7 +675,7 @@ Sobald die Weltspannung 100 % erreicht, wird ein Weltkrieg ausgelöst und der We
     <value>• Lass dich nicht in Kriege verwickeln</value>
   </data>
   <data name="can_declare_war_above" xml:space="preserve">
-    <value>• Kann Nationen mit einer Schande über {0} den Krieg erklären</value>
+    <value>• Kann Nationen mit einer Infamie über {0} den Krieg erklären</value>
   </data>
   <data name="loading" xml:space="preserve">
     <value>Laden...</value>
@@ -757,5 +757,21 @@ Sobald die Weltspannung 100 % erreicht, wird ein Weltkrieg ausgelöst und der We
   </data>
   <data name="percent_of_daily_income" xml:space="preserve">
     <value>{0} des Tageseinkommens</value>
+  </data>
+  <data name="base_infamy_change" xml:space="preserve">
+    <value>Grundlegende Infamie-Änderung: {0}</value>
+  </data>
+  <data name="target_infamy" xml:space="preserve">
+    <value>Infamie-Stufe des Ziels: {0}</value>
+  </data>
+  <data name="relationship_with_target" xml:space="preserve">
+    <value>Beziehung zum Ziel: {0}</value>
+  </data>
+  <data name="total_infamy_change" xml:space="preserve">
+    <value>Gesamte Infamie-Änderung: {0}</value>
+  </data>
+  <data name="only_sea_war" xml:space="preserve">
+    <value>Nur Seekrieg: {0}</value>
+    <comment>{0} is the value</comment>
   </data>
 </root>

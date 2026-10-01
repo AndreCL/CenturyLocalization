@@ -268,7 +268,7 @@
     <value>Altyapı</value>
   </data>
   <data name="infamy" xml:space="preserve">
-    <value>Gaddarlık</value>
+    <value>Rezalet</value>
   </data>
   <data name="independentsince" xml:space="preserve">
     <value>Şu tarihten beri bağımsız:</value>
@@ -673,7 +673,7 @@
     <value>Savaş hedefi ekle</value>
   </data>
   <data name="cost_foreign_policy_switch" xml:space="preserve">
-    <value>Geçiş yapmanın maliyeti: {0} rezillik</value>
+    <value>Geçiş yapmanın maliyeti: {0} rezalet</value>
   </data>
   <data name="switch_to" xml:space="preserve">
     <value>{0}'a geç</value>
@@ -685,7 +685,7 @@
     <value>• Dünya savaşlarına çağrılın</value>
   </data>
   <data name="can_get_called_into_wars_infamy" xml:space="preserve">
-    <value>• Kötü şöhreti yüksek ülkelere karşı savaşlara çağrılın</value>
+    <value>• Rezaleti yüksek ülkelere karşı savaşlara çağrılın</value>
   </data>
   <data name="can_declare_war_all" xml:space="preserve">
     <value>• Herhangi bir ülkeye savaş ilan edebilir</value>
@@ -694,7 +694,7 @@
     <value>• Savaşlara çağrılmayın</value>
   </data>
   <data name="can_declare_war_above" xml:space="preserve">
-    <value>• Kötü şöhreti {0}'ın üzerinde olan uluslara savaş ilan edebilir</value>
+    <value>• Rezaleti {0}'ın üzerinde olan uluslara savaş ilan edebilir</value>
   </data>
   <data name="loading" xml:space="preserve">
     <value>Yükleniyor...</value>
@@ -776,5 +776,21 @@
   </data>
   <data name="percent_of_daily_income" xml:space="preserve">
     <value>Günlük gelirin {0} kadarı</value>
+  </data>
+  <data name="base_infamy_change" xml:space="preserve">
+    <value>Temel rezalet değişimi: {0}</value>
+  </data>
+  <data name="target_infamy" xml:space="preserve">
+    <value>Hedefin rezalet seviyesi: {0}</value>
+  </data>
+  <data name="relationship_with_target" xml:space="preserve">
+    <value>Hedefle ilişki: {0}</value>
+  </data>
+  <data name="total_infamy_change" xml:space="preserve">
+    <value>Toplam rezalet değişimi: {0}</value>
+  </data>
+  <data name="only_sea_war" xml:space="preserve">
+    <value>Yalnızca deniz savaşı: {0}</value>
+    <comment>{0} is the value</comment>
   </data>
 </root>

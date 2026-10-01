@@ -256,7 +256,7 @@
     <value>Infrastruktur</value>
   </data>
   <data name="infamy" xml:space="preserve">
-    <value>keburukan</value>
+    <value>Kehinaan</value>
   </data>
   <data name="independentsince" xml:space="preserve">
     <value>Merdeka Sejak</value>
@@ -408,7 +408,7 @@ Tahun baru telah tiba. Kami mengucapkan selamat tahun baru. Semoga waktu baru in
     <value>{war.Name} telah dimulai antara {war.Attackers[0].Name} dan {war.Defenders[0].Name}.</value>
   </data>
   <data name="defaultwar_message_infamy" xml:space="preserve">
-    <value>Setelah beberapa serangan dari {highInfamyCountry.Name}, {attacker1.Name} dan {attacker2.Name} telah menyatakan perang terhadap {highInfamyCountry.Name} yang terkenal.</value>
+    <value>Setelah beberapa serangan dari {highInfamyCountry.Name}, {attacker1.Name} dan {attacker2.Name} telah menyatakan perang terhadap {highInfamyCountry.Name} yang hina.</value>
   </data>
   <data name="policies" xml:space="preserve">
     <value>Kebijakan</value>
@@ -654,7 +654,7 @@ Ketika Ketegangan Dunia mencapai 100%, Perang Dunia akan dipicu dan nilainya dia
     <value>Tambahkan tujuan perang</value>
   </data>
   <data name="cost_foreign_policy_switch" xml:space="preserve">
-    <value>Biaya untuk beralih: {0} keburukan</value>
+    <value>Biaya untuk beralih: {0} kehinaan</value>
   </data>
   <data name="switch_to" xml:space="preserve">
     <value>Beralih ke {0}</value>
@@ -666,7 +666,7 @@ Ketika Ketegangan Dunia mencapai 100%, Perang Dunia akan dipicu dan nilainya dia
     <value>• Terpanggil dalam perang Dunia</value>
   </data>
   <data name="can_get_called_into_wars_infamy" xml:space="preserve">
-    <value>• Terpanggil berperang melawan negara-negara dengan tingkat keburukan yang tinggi</value>
+    <value>• Terpanggil berperang melawan negara-negara dengan tingkat kehinaan yang tinggi</value>
   </data>
   <data name="can_declare_war_all" xml:space="preserve">
     <value>• Dapat mendeklarasikan perang terhadap negara mana pun</value>
@@ -675,7 +675,7 @@ Ketika Ketegangan Dunia mencapai 100%, Perang Dunia akan dipicu dan nilainya dia
     <value>• Jangan terlibat dalam perang</value>
   </data>
   <data name="can_declare_war_above" xml:space="preserve">
-    <value>• Dapat mendeklarasikan perang terhadap negara dengan tingkat keburukan di atas {0}</value>
+    <value>• Dapat mendeklarasikan perang terhadap negara dengan tingkat kehinaan di atas {0}</value>
   </data>
   <data name="loading" xml:space="preserve">
     <value>Memuat...</value>
@@ -757,5 +757,21 @@ Ketika Ketegangan Dunia mencapai 100%, Perang Dunia akan dipicu dan nilainya dia
   </data>
   <data name="percent_of_daily_income" xml:space="preserve">
     <value>{0} dari pendapatan harian</value>
+  </data>
+  <data name="base_infamy_change" xml:space="preserve">
+    <value>Perubahan dasar kehinaan: {0}</value>
+  </data>
+  <data name="target_infamy" xml:space="preserve">
+    <value>Tingkat kehinaan target: {0}</value>
+  </data>
+  <data name="relationship_with_target" xml:space="preserve">
+    <value>Hubungan dengan target: {0}</value>
+  </data>
+  <data name="total_infamy_change" xml:space="preserve">
+    <value>Total perubahan kehinaan: {0}</value>
+  </data>
+  <data name="only_sea_war" xml:space="preserve">
+    <value>Hanya perang laut: {0}</value>
+    <comment>{0} is the value</comment>
   </data>
 </root>

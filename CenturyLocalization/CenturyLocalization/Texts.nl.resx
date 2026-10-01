@@ -256,7 +256,7 @@
     <value>Infrastructuur</value>
   </data>
   <data name="infamy" xml:space="preserve">
-    <value>Schande/Beruchtheid</value>
+    <value>Schande</value>
   </data>
   <data name="independentsince" xml:space="preserve">
     <value>Onafhankelijk sinds</value>
@@ -757,5 +757,21 @@ Wanneer de wereldspanning 100% bereikt, wordt een wereldoorlog ontketend en word
   </data>
   <data name="percent_of_daily_income" xml:space="preserve">
     <value>{0} van het dagelijkse inkomen</value>
+  </data>
+  <data name="base_infamy_change" xml:space="preserve">
+    <value>Basisverandering van schande: {0}</value>
+  </data>
+  <data name="target_infamy" xml:space="preserve">
+    <value>Schandeniveau van het doel: {0}</value>
+  </data>
+  <data name="relationship_with_target" xml:space="preserve">
+    <value>Relatie met het doel: {0}</value>
+  </data>
+  <data name="total_infamy_change" xml:space="preserve">
+    <value>Totale verandering van schande: {0}</value>
+  </data>
+  <data name="only_sea_war" xml:space="preserve">
+    <value>Alleen zeeoorlog: {0}</value>
+    <comment>{0} is the value</comment>
   </data>
 </root>

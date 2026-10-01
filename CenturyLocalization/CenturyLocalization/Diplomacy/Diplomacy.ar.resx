@@ -122,7 +122,7 @@
     <value>مجموعة ثقافية مختلفة</value>
   </data>
   <data name="diplomacy_effect_infamy" xml:space="preserve">
-    <value>سمعة سيئة</value>
+    <value>السمعة السيئة</value>
   </data>
   <data name="diplomacy_allies_in_war" xml:space="preserve">
     <value>حلفاء في الحرب</value>

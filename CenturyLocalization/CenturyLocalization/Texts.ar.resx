@@ -259,7 +259,7 @@
     <value>بنية تحتية</value>
   </data>
   <data name="infamy" xml:space="preserve">
-    <value>العنف</value>
+    <value>السمعة السيئة</value>
   </data>
   <data name="independentsince" xml:space="preserve">
     <value>حصلت على استقلالها</value>
@@ -408,7 +408,7 @@
     <value>{war.Name} قد بدأت بين {war.Attackers[0].Name} و {war.Defenders[0].Name}.</value>
   </data>
   <data name="defaultwar_message_infamy" xml:space="preserve">
-    <value>بعد عدة اعتداءات من {highInfamyCountry.Name}، أعلنت {attacker1.Name} و {attacker2.Name} الحرب على {highInfamyCountry.Name} الشهيرة.</value>
+    <value>بعد عدة اعتداءات من {highInfamyCountry.Name}، أعلنت {attacker1.Name} و {attacker2.Name} الحرب على {highInfamyCountry.Name} سيئة السمعة.</value>
   </data>
   <data name="policies" xml:space="preserve">
     <value>سياسات</value>
@@ -654,7 +654,7 @@
     <value>إضافة هدف الحرب</value>
   </data>
   <data name="cost_foreign_policy_switch" xml:space="preserve">
-    <value>تكلفة التبديل: {0} عار</value>
+    <value>تكلفة التبديل: {0} سمعة سيئة</value>
   </data>
   <data name="switch_to" xml:space="preserve">
     <value>التبديل إلى {0}</value>
@@ -675,7 +675,7 @@
     <value>• لا يتم استدعاؤك للمشاركة في الحروب</value>
   </data>
   <data name="can_declare_war_above" xml:space="preserve">
-    <value>• يمكن إعلان الحرب على الدول ذات الشهرة الأعلى من {0}</value>
+    <value>• يمكن إعلان الحرب على الدول ذات السمعة السيئة الأعلى من {0}</value>
   </data>
   <data name="loading" xml:space="preserve">
     <value>تحميل...</value>
@@ -747,7 +747,7 @@
     <value>دولتك لديها سمعة سيئة مرتفعة جدًا! أنت معرض لخطر أن تكون هدفًا لحرب عالمية!</value>
   </data>
   <data name="high_infamy_war_risk" xml:space="preserve">
-    <value>دولتك لديها سمعة سيئة مرتفعة جدًا! أنت معرض لخطر أن تكون هدفًا لحرب سمعة!</value>
+    <value>دولتك لديها سمعة سيئة مرتفعة جدًا! أنت معرض لخطر أن تكون هدفًا لحرب السمعة السيئة!</value>
   </data>
   <data name="culture_diversity_risk" xml:space="preserve">
     <value>ثقافتك الرئيسية في دولتك صغيرة جدًا! أنت معرض لخطر إعلان الثقافات استقلالها!</value>
@@ -757,5 +757,21 @@
   </data>
   <data name="percent_of_daily_income" xml:space="preserve">
     <value>{0} من الدخل اليومي</value>
+  </data>
+  <data name="base_infamy_change" xml:space="preserve">
+    <value>التغيير الأساسي في السمعة السيئة: {0}</value>
+  </data>
+  <data name="target_infamy" xml:space="preserve">
+    <value>مستوى السمعة السيئة للهدف: {0}</value>
+  </data>
+  <data name="relationship_with_target" xml:space="preserve">
+    <value>العلاقة مع الهدف: {0}</value>
+  </data>
+  <data name="total_infamy_change" xml:space="preserve">
+    <value>إجمالي التغيير في السمعة السيئة: {0}</value>
+  </data>
+  <data name="only_sea_war" xml:space="preserve">
+    <value>حرب بحرية فقط: {0}</value>
+    <comment>{0} is the value</comment>
   </data>
 </root>

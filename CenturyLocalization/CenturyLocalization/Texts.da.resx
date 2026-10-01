@@ -254,7 +254,7 @@
     <value>Infrastruktur</value>
   </data>
   <data name="infamy" xml:space="preserve">
-    <value>Skændsel</value>
+    <value>Berygtethed</value>
   </data>
   <data name="independentsince" xml:space="preserve">
     <value>Uafhængighedsdato</value>
@@ -655,7 +655,7 @@ Når verdensspændingen når 100 %, udløses en verdenskrig, og værdien nulstil
     <value>Tilføj krigsmål</value>
   </data>
   <data name="cost_foreign_policy_switch" xml:space="preserve">
-    <value>Pris for at skifte: {0} skændsel</value>
+    <value>Pris for at skifte: {0} berygtethed</value>
   </data>
   <data name="switch_to" xml:space="preserve">
     <value>Skift til {0}</value>
@@ -667,7 +667,7 @@ Når verdensspændingen når 100 %, udløses en verdenskrig, og værdien nulstil
     <value>• Bliv kaldt ind i verdenskrige</value>
   </data>
   <data name="can_get_called_into_wars_infamy" xml:space="preserve">
-    <value>• Bliv kaldt ind i krige mod lande med stor skændsel</value>
+    <value>• Bliv kaldt ind i krige mod lande med stor berygtethed</value>
   </data>
   <data name="can_declare_war_all" xml:space="preserve">
     <value>• Kan erklære krig mod enhver nation</value>
@@ -676,7 +676,7 @@ Når verdensspændingen når 100 %, udløses en verdenskrig, og værdien nulstil
     <value>• Bliv ikke kaldt ind i krige</value>
   </data>
   <data name="can_declare_war_above" xml:space="preserve">
-    <value>• Kan erklære krig mod nationer med skændsel over {0}</value>
+    <value>• Kan erklære krig mod nationer med berygtethed over {0}</value>
   </data>
   <data name="loading" xml:space="preserve">
     <value>Indlæser...</value>
@@ -758,5 +758,21 @@ Når verdensspændingen når 100 %, udløses en verdenskrig, og værdien nulstil
   </data>
   <data name="percent_of_daily_income" xml:space="preserve">
     <value>{0} af daglig indkomst</value>
+  </data>
+  <data name="base_infamy_change" xml:space="preserve">
+    <value>Grundlæggende ændring i berygtethed: {0}</value>
+  </data>
+  <data name="target_infamy" xml:space="preserve">
+    <value>Målets berygtethedsniveau: {0}</value>
+  </data>
+  <data name="relationship_with_target" xml:space="preserve">
+    <value>Forhold til målet: {0}</value>
+  </data>
+  <data name="total_infamy_change" xml:space="preserve">
+    <value>Samlet ændring i berygtethed: {0}</value>
+  </data>
+  <data name="only_sea_war" xml:space="preserve">
+    <value>Kun søkrig: {0}</value>
+    <comment>{0} is the value</comment>
   </data>
 </root>

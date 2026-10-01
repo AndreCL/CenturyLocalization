@@ -778,4 +778,20 @@ Une fois que la tension mondiale atteint 100 %, une guerre mondiale est déclenc
   <data name="percent_of_daily_income" xml:space="preserve">
     <value>{0} du revenu quotidien</value>
   </data>
+  <data name="base_infamy_change" xml:space="preserve">
+    <value>Variation de base de l'infamie : {0}</value>
+  </data>
+  <data name="target_infamy" xml:space="preserve">
+    <value>Niveau d'infamie de la cible : {0}</value>
+  </data>
+  <data name="relationship_with_target" xml:space="preserve">
+    <value>Relation avec la cible : {0}</value>
+  </data>
+  <data name="total_infamy_change" xml:space="preserve">
+    <value>Variation totale de l'infamie : {0}</value>
+  </data>
+  <data name="only_sea_war" xml:space="preserve">
+    <value>Guerre navale uniquement : {0}</value>
+    <comment>{0} is the value</comment>
+  </data>
 </root>

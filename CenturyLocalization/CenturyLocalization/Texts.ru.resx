@@ -659,7 +659,7 @@
     <value>Добавить цель войны</value>
   </data>
   <data name="cost_foreign_policy_switch" xml:space="preserve">
-    <value>Стоимость перехода: {0} позорной репутации.</value>
+    <value>Стоимость перехода: {0} бесчестья.</value>
   </data>
   <data name="switch_to" xml:space="preserve">
     <value>Переключиться на {0}</value>
@@ -671,7 +671,7 @@
     <value>• Вас призывают в мировые войны</value>
   </data>
   <data name="can_get_called_into_wars_infamy" xml:space="preserve">
-    <value>• Вас призывают воевать против стран с высокой репутацией</value>
+    <value>• Вас призывают воевать против стран с высоким бесчестьем</value>
   </data>
   <data name="can_declare_war_all" xml:space="preserve">
     <value>• Может объявить войну любой стране</value>
@@ -680,7 +680,7 @@
     <value>• Не участвуйте в войнах</value>
   </data>
   <data name="can_declare_war_above" xml:space="preserve">
-    <value>• Может объявить войну странам с позорной репутацией выше {0}</value>
+    <value>• Может объявить войну странам с бесчестьем выше {0}</value>
   </data>
   <data name="loading" xml:space="preserve">
     <value>Загрузка...</value>
@@ -762,5 +762,21 @@
   </data>
   <data name="percent_of_daily_income" xml:space="preserve">
     <value>{0} от дневного дохода</value>
+  </data>
+  <data name="base_infamy_change" xml:space="preserve">
+    <value>Базовое изменение бесчестья: {0}</value>
+  </data>
+  <data name="target_infamy" xml:space="preserve">
+    <value>Уровень бесчестья цели: {0}</value>
+  </data>
+  <data name="relationship_with_target" xml:space="preserve">
+    <value>Отношения с целью: {0}</value>
+  </data>
+  <data name="total_infamy_change" xml:space="preserve">
+    <value>Общее изменение бесчестья: {0}</value>
+  </data>
+  <data name="only_sea_war" xml:space="preserve">
+    <value>Только морская война: {0}</value>
+    <comment>{0} is the value</comment>
   </data>
 </root>

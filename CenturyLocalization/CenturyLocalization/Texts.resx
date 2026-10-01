@@ -778,4 +778,24 @@ Once the World Tension reaches 100%, a World War is triggered and it resets.
     <value>{0} of daily income</value>
     <comment>{0} is percentage</comment>
   </data>
+  <data name="base_infamy_change" xml:space="preserve">
+    <value>Base infamy change: {0}</value>
+    <comment>{0} is the value</comment>
+  </data>
+  <data name="target_infamy" xml:space="preserve">
+    <value>Target infamy level: {0}</value>
+    <comment>{0} is the value</comment>
+  </data>
+  <data name="relationship_with_target" xml:space="preserve">
+    <value>Relationship with target: {0}</value>
+    <comment>{0} is the value</comment>
+  </data>
+  <data name="total_infamy_change" xml:space="preserve">
+    <value>Total infamy change: {0}</value>
+    <comment>{0} is the value</comment>
+  </data>
+  <data name="only_sea_war" xml:space="preserve">
+    <value>Only sea war: {0}</value>
+    <comment>{0} is the value</comment>
+  </data>
 </root>

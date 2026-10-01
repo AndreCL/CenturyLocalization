@@ -250,6 +250,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Base infamy change: {0}.
+        /// </summary>
+        internal static string base_infamy_change {
+            get {
+                return ResourceManager.GetString("base_infamy_change", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Battles.
         /// </summary>
         internal static string battles {
@@ -1323,6 +1332,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Only sea war: {0}.
+        /// </summary>
+        internal static string only_sea_war {
+            get {
+                return ResourceManager.GetString("only_sea_war", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Open seas.
         /// </summary>
         internal static string open_seas {
@@ -1463,6 +1481,15 @@ namespace CenturyLocalization {
         internal static string ratio_more_than_one {
             get {
                 return ResourceManager.GetString("ratio_more_than_one", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Relationship with target: {0}.
+        /// </summary>
+        internal static string relationship_with_target {
+            get {
+                return ResourceManager.GetString("relationship_with_target", resourceCulture);
             }
         }
         
@@ -1710,6 +1737,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Target infamy level: {0}.
+        /// </summary>
+        internal static string target_infamy {
+            get {
+                return ResourceManager.GetString("target_infamy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Territory.
         /// </summary>
         internal static string territory {
@@ -1742,6 +1778,15 @@ namespace CenturyLocalization {
         internal static string total {
             get {
                 return ResourceManager.GetString("total", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Total infamy change: {0}.
+        /// </summary>
+        internal static string total_infamy_change {
+            get {
+                return ResourceManager.GetString("total_infamy_change", resourceCulture);
             }
         }
         

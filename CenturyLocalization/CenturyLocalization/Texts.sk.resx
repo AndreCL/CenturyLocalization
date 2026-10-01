@@ -267,7 +267,7 @@
     <value>Infraštruktúra</value>
   </data>
   <data name="infamy" xml:space="preserve">
-    <value>Zlá povesť</value>
+    <value>Hanba</value>
   </data>
   <data name="independentsince" xml:space="preserve">
     <value>Nezávislá od</value>
@@ -672,7 +672,7 @@ Keď svetové napätie dosiahne 100%, spustí sa svetová vojna a resetuje sa.
     <value>Pridajte vojnový cieľ</value>
   </data>
   <data name="cost_foreign_policy_switch" xml:space="preserve">
-    <value>Cena za prechod: {0} neslávne</value>
+    <value>Cena za prechod: {0} hanby</value>
   </data>
   <data name="switch_to" xml:space="preserve">
     <value>Prepnúť na {0}</value>
@@ -775,5 +775,21 @@ Keď svetové napätie dosiahne 100%, spustí sa svetová vojna a resetuje sa.
   </data>
   <data name="percent_of_daily_income" xml:space="preserve">
     <value>{0} denného príjmu</value>
+  </data>
+  <data name="base_infamy_change" xml:space="preserve">
+    <value>Základná zmena hanby: {0}</value>
+  </data>
+  <data name="target_infamy" xml:space="preserve">
+    <value>Úroveň hanby cieľa: {0}</value>
+  </data>
+  <data name="relationship_with_target" xml:space="preserve">
+    <value>Vzťah s cieľom: {0}</value>
+  </data>
+  <data name="total_infamy_change" xml:space="preserve">
+    <value>Celková zmena hanby: {0}</value>
+  </data>
+  <data name="only_sea_war" xml:space="preserve">
+    <value>Iba námorná vojna: {0}</value>
+    <comment>{0} is the value</comment>
   </data>
 </root>
