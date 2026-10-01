@@ -462,4 +462,7 @@
   <data name="czechoslovakia" xml:space="preserve">
     <value>Checoslovaquia</value>
   </data>
+  <data name="austria" xml:space="preserve">
+    <value>Austria</value>
+  </data>
 </root>

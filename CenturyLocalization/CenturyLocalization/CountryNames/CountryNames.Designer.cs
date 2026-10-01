@@ -196,6 +196,15 @@ namespace CenturyLocalization.CountryNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Austria.
+        /// </summary>
+        internal static string austria {
+            get {
+                return ResourceManager.GetString("austria", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Austria-Hungary.
         /// </summary>
         internal static string austria_hungary {
