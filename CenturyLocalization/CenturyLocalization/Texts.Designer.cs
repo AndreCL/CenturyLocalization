@@ -1350,6 +1350,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to {0} of daily income.
+        /// </summary>
+        internal static string percent_of_daily_income {
+            get {
+                return ResourceManager.GetString("percent_of_daily_income", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Pilots.
         /// </summary>
         internal static string pilots {

@@ -755,4 +755,7 @@ Sobald die Weltspannung 100 % erreicht, wird ein Weltkrieg ausgelöst und der We
   <data name="religious_diversity_risk" xml:space="preserve">
     <value>Die Hauptreligion Ihrer Nation ist zu klein! Sie laufen Gefahr, dass Religionen ihre Unabhängigkeit erklären!</value>
   </data>
+  <data name="percent_of_daily_income" xml:space="preserve">
+    <value>{0} des Tageseinkommens</value>
+  </data>
 </root>

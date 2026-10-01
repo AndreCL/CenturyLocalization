@@ -755,4 +755,7 @@
   <data name="religious_diversity_risk" xml:space="preserve">
     <value>ديانتك الرئيسية في دولتك صغيرة جدًا! أنت معرض لخطر إعلان الديانات استقلالها!</value>
   </data>
+  <data name="percent_of_daily_income" xml:space="preserve">
+    <value>{0} من الدخل اليومي</value>
+  </data>
 </root>

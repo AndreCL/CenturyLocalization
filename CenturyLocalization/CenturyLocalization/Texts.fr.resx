@@ -775,4 +775,7 @@ Une fois que la tension mondiale atteint 100 %, une guerre mondiale est déclenc
   <data name="religious_diversity_risk" xml:space="preserve">
     <value>La religion principale de votre nation est trop faible ! Vous risquez que des religions déclarent leur indépendance !</value>
   </data>
+  <data name="percent_of_daily_income" xml:space="preserve">
+    <value>{0} du revenu quotidien</value>
+  </data>
 </root>

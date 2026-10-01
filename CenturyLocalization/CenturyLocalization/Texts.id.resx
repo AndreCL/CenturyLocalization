@@ -755,4 +755,7 @@ Ketika Ketegangan Dunia mencapai 100%, Perang Dunia akan dipicu dan nilainya dia
   <data name="religious_diversity_risk" xml:space="preserve">
     <value>Agama utama negara Anda terlalu kecil! Anda berisiko agama menyatakan kemerdekaan!</value>
   </data>
+  <data name="percent_of_daily_income" xml:space="preserve">
+    <value>{0} dari pendapatan harian</value>
+  </data>
 </root>

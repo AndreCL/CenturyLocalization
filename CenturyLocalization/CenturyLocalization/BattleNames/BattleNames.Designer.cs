@@ -61,11 +61,146 @@ namespace CenturyLocalization.BattleNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Amphibious landings at Tianjin &amp; Dagu.
+        /// </summary>
+        internal static string amphibious_landings_tianjin_dagu {
+            get {
+                return ResourceManager.GetString("amphibious_landings_tianjin_dagu", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Battle of Beicang.
+        /// </summary>
+        internal static string battle_of_beicang {
+            get {
+                return ResourceManager.GetString("battle_of_beicang", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Battle of Bekwai.
         /// </summary>
         internal static string battle_of_bekwai {
             get {
                 return ResourceManager.GetString("battle_of_bekwai", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Battle of Belmont.
+        /// </summary>
+        internal static string battle_of_belmont {
+            get {
+                return ResourceManager.GetString("battle_of_belmont", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Battle of Bergendal.
+        /// </summary>
+        internal static string battle_of_bergendal {
+            get {
+                return ResourceManager.GetString("battle_of_bergendal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Battle of Colenso.
+        /// </summary>
+        internal static string battle_of_colenso {
+            get {
+                return ResourceManager.GetString("battle_of_colenso", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Battle of Diamond Hill.
+        /// </summary>
+        internal static string battle_of_diamond_hill {
+            get {
+                return ResourceManager.GetString("battle_of_diamond_hill", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Battle of Driefontein.
+        /// </summary>
+        internal static string battle_of_driefontein {
+            get {
+                return ResourceManager.GetString("battle_of_driefontein", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Battle of Elandslaagte.
+        /// </summary>
+        internal static string battle_of_elandslaagte {
+            get {
+                return ResourceManager.GetString("battle_of_elandslaagte", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Battle of Enslin.
+        /// </summary>
+        internal static string battle_of_enslin {
+            get {
+                return ResourceManager.GetString("battle_of_enslin", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Battle of Graspan.
+        /// </summary>
+        internal static string battle_of_graspan {
+            get {
+                return ResourceManager.GetString("battle_of_graspan", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Battle of Groenkloof.
+        /// </summary>
+        internal static string battle_of_groenkloof {
+            get {
+                return ResourceManager.GetString("battle_of_groenkloof", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Battle of Houtnek.
+        /// </summary>
+        internal static string battle_of_houtnek {
+            get {
+                return ResourceManager.GetString("battle_of_houtnek", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Battle of Johannesburg.
+        /// </summary>
+        internal static string battle_of_johannesburg {
+            get {
+                return ResourceManager.GetString("battle_of_johannesburg", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Battle of Karee.
+        /// </summary>
+        internal static string battle_of_karee {
+            get {
+                return ResourceManager.GetString("battle_of_karee", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Battle of Kimberley.
+        /// </summary>
+        internal static string battle_of_kimberley {
+            get {
+                return ResourceManager.GetString("battle_of_kimberley", resourceCulture);
             }
         }
         
@@ -79,11 +214,74 @@ namespace CenturyLocalization.BattleNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Battle of Kraaipan.
+        /// </summary>
+        internal static string battle_of_kraaipan {
+            get {
+                return ResourceManager.GetString("battle_of_kraaipan", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Battle of Kumasi.
         /// </summary>
         internal static string battle_of_kumasi {
             get {
                 return ResourceManager.GetString("battle_of_kumasi", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Battle of Langfang.
+        /// </summary>
+        internal static string battle_of_langfang {
+            get {
+                return ResourceManager.GetString("battle_of_langfang", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Battle of Leliefontein.
+        /// </summary>
+        internal static string battle_of_leliefontein {
+            get {
+                return ResourceManager.GetString("battle_of_leliefontein", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Battle of Mafeking.
+        /// </summary>
+        internal static string battle_of_mafeking {
+            get {
+                return ResourceManager.GetString("battle_of_mafeking", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Battle of Magersfontein.
+        /// </summary>
+        internal static string battle_of_magersfontein {
+            get {
+                return ResourceManager.GetString("battle_of_magersfontein", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Battle of Modder River.
+        /// </summary>
+        internal static string battle_of_modder_river {
+            get {
+                return ResourceManager.GetString("battle_of_modder_river", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Battle of Nooitgedacht.
+        /// </summary>
+        internal static string battle_of_nooitgedacht {
+            get {
+                return ResourceManager.GetString("battle_of_nooitgedacht", resourceCulture);
             }
         }
         
@@ -97,11 +295,146 @@ namespace CenturyLocalization.BattleNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Battle of Paardeberg.
+        /// </summary>
+        internal static string battle_of_paardeberg {
+            get {
+                return ResourceManager.GetString("battle_of_paardeberg", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Battle of Platrand.
+        /// </summary>
+        internal static string battle_of_platrand {
+            get {
+                return ResourceManager.GetString("battle_of_platrand", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Battle of Poplar Grove.
+        /// </summary>
+        internal static string battle_of_poplar_grove {
+            get {
+                return ResourceManager.GetString("battle_of_poplar_grove", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Battle of Rietfontein.
+        /// </summary>
+        internal static string battle_of_rietfontein {
+            get {
+                return ResourceManager.GetString("battle_of_rietfontein", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Battle of Rooiwal.
+        /// </summary>
+        internal static string battle_of_rooiwal {
+            get {
+                return ResourceManager.GetString("battle_of_rooiwal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Battle of Sand River.
+        /// </summary>
+        internal static string battle_of_sand_river {
+            get {
+                return ResourceManager.GetString("battle_of_sand_river", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Battle of Senluo Temple.
+        /// </summary>
+        internal static string battle_of_senluo_temple {
+            get {
+                return ResourceManager.GetString("battle_of_senluo_temple", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Battle of Spion Kop.
+        /// </summary>
+        internal static string battle_of_spion_kop {
+            get {
+                return ResourceManager.GetString("battle_of_spion_kop", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Battle of Stormberg.
+        /// </summary>
+        internal static string battle_of_stormberg {
+            get {
+                return ResourceManager.GetString("battle_of_stormberg", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Battle of Taku Forts.
+        /// </summary>
+        internal static string battle_of_taku_forts {
+            get {
+                return ResourceManager.GetString("battle_of_taku_forts", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Battle of Talana Hill.
+        /// </summary>
+        internal static string battle_of_talana_hill {
+            get {
+                return ResourceManager.GetString("battle_of_talana_hill", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Battle of Tugela Heights.
+        /// </summary>
+        internal static string battle_of_tugela_heights {
+            get {
+                return ResourceManager.GetString("battle_of_tugela_heights", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Battle of Tweebosch.
+        /// </summary>
+        internal static string battle_of_tweebosch {
+            get {
+                return ResourceManager.GetString("battle_of_tweebosch", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Battle of Vaal Krantz.
+        /// </summary>
+        internal static string battle_of_vaal_krantz {
+            get {
+                return ResourceManager.GetString("battle_of_vaal_krantz", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Battle of Xapuri.
         /// </summary>
         internal static string battle_of_xapuri {
             get {
                 return ResourceManager.GetString("battle_of_xapuri", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Battle of Yangcun.
+        /// </summary>
+        internal static string battle_of_yangcun {
+            get {
+                return ResourceManager.GetString("battle_of_yangcun", resourceCulture);
             }
         }
         
@@ -124,11 +457,74 @@ namespace CenturyLocalization.BattleNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Capture of Beijing.
+        /// </summary>
+        internal static string capture_of_beijing {
+            get {
+                return ResourceManager.GetString("capture_of_beijing", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Capture of Bloemfontein.
+        /// </summary>
+        internal static string capture_of_bloemfontein {
+            get {
+                return ResourceManager.GetString("capture_of_bloemfontein", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Capture of Pretoria.
+        /// </summary>
+        internal static string capture_of_pretoria {
+            get {
+                return ResourceManager.GetString("capture_of_pretoria", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to First Acrean Revolt.
         /// </summary>
         internal static string first_acre_revolt {
             get {
                 return ResourceManager.GetString("first_acre_revolt", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to First Battle of Tianjin.
+        /// </summary>
+        internal static string first_battle_of_tianjin {
+            get {
+                return ResourceManager.GetString("first_battle_of_tianjin", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Naval bombardment of Taku Forts.
+        /// </summary>
+        internal static string naval_bombardment_of_taku_forts {
+            get {
+                return ResourceManager.GetString("naval_bombardment_of_taku_forts", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Relief of Kimberley.
+        /// </summary>
+        internal static string relief_of_kimberley {
+            get {
+                return ResourceManager.GetString("relief_of_kimberley", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Relief of Ladysmith.
+        /// </summary>
+        internal static string relief_of_ladysmith {
+            get {
+                return ResourceManager.GetString("relief_of_ladysmith", resourceCulture);
             }
         }
         
@@ -147,6 +543,33 @@ namespace CenturyLocalization.BattleNames {
         internal static string second_battle_of_kumasi {
             get {
                 return ResourceManager.GetString("second_battle_of_kumasi", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Siege of the International Legations.
+        /// </summary>
+        internal static string siege_of_international_legations {
+            get {
+                return ResourceManager.GetString("siege_of_international_legations", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Siege of Ladysmith.
+        /// </summary>
+        internal static string siege_of_ladysmith {
+            get {
+                return ResourceManager.GetString("siege_of_ladysmith", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Siege of the North Cathedral.
+        /// </summary>
+        internal static string siege_of_north_cathedral {
+            get {
+                return ResourceManager.GetString("siege_of_north_cathedral", resourceCulture);
             }
         }
         

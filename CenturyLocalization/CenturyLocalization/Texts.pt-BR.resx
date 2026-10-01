@@ -753,4 +753,7 @@ Um novo ano chegou. Desejamos a vocês um feliz ano novo. Que este novo ano seja
   <data name="religious_diversity_risk" xml:space="preserve">
     <value>A religião principal da sua nação é muito pequena! Você corre o risco de religiões declararem independência!</value>
   </data>
+  <data name="percent_of_daily_income" xml:space="preserve">
+    <value>{0} da renda diária</value>
+  </data>
 </root>

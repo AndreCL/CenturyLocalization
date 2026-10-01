@@ -760,4 +760,7 @@
   <data name="religious_diversity_risk" xml:space="preserve">
     <value>Основная религия вашей нации слишком мала! Вы рискуете тем, что религии объявят независимость!</value>
   </data>
+  <data name="percent_of_daily_income" xml:space="preserve">
+    <value>{0} от дневного дохода</value>
+  </data>
 </root>

@@ -756,4 +756,7 @@ Når verdensspændingen når 100 %, udløses en verdenskrig, og værdien nulstil
   <data name="religious_diversity_risk" xml:space="preserve">
     <value>Din nations hovedreligion er for lille! Du risikerer, at religioner erklærer uafhængighed!</value>
   </data>
+  <data name="percent_of_daily_income" xml:space="preserve">
+    <value>{0} af daglig indkomst</value>
+  </data>
 </root>

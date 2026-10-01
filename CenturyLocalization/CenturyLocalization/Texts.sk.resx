@@ -773,4 +773,7 @@ Keď svetové napätie dosiahne 100%, spustí sa svetová vojna a resetuje sa.
   <data name="religious_diversity_risk" xml:space="preserve">
     <value>Hlavné náboženstvo vášho národa je priveľa malé! Hrozí vám, že náboženstvá vyhlásia nezávislosť!</value>
   </data>
+  <data name="percent_of_daily_income" xml:space="preserve">
+    <value>{0} denného príjmu</value>
+  </data>
 </root>

@@ -774,4 +774,8 @@ Once the World Tension reaches 100%, a World War is triggered and it resets.
   <data name="religious_diversity_risk" xml:space="preserve">
     <value>Your nation has too small main religion! You are at risk of religions declaring independence!</value>
   </data>
+  <data name="percent_of_daily_income" xml:space="preserve">
+    <value>{0} of daily income</value>
+    <comment>{0} is percentage</comment>
+  </data>
 </root>

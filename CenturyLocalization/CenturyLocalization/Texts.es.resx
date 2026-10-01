@@ -757,4 +757,7 @@ Una vez que la tensión mundial alcanza el 100 %, se desencadena una guerra mund
   <data name="religious_diversity_risk" xml:space="preserve">
     <value>¡La religión principal de tu nación es demasiado pequeña! ¡Corres el riesgo de que las religiones declaren su independencia!</value>
   </data>
+  <data name="percent_of_daily_income" xml:space="preserve">
+    <value>{0} del ingreso diario</value>
+  </data>
 </root>

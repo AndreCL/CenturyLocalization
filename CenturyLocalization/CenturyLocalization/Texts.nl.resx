@@ -755,4 +755,7 @@ Wanneer de wereldspanning 100% bereikt, wordt een wereldoorlog ontketend en word
   <data name="religious_diversity_risk" xml:space="preserve">
     <value>De hoofdreligie van uw natie is te klein! U loopt het risico dat religies onafhankelijkheid uitroepen!</value>
   </data>
+  <data name="percent_of_daily_income" xml:space="preserve">
+    <value>{0} van het dagelijkse inkomen</value>
+  </data>
 </root>
