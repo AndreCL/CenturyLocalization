@@ -145,4 +145,7 @@
   <data name="diplomacy_friends" xml:space="preserve">
     <value>Vrienden</value>
   </data>
+  <data name="diplomacy_wars" xml:space="preserve">
+    <value>Oorlogen</value>
+  </data>
 </root>

@@ -387,7 +387,7 @@
     <comment>Haber eventi için</comment>
   </data>
   <data name="world_war_message" xml:space="preserve">
-    <value>Aylar süren gerilimden sonra, süper güçler birbirlerine savaş açtı ve (war.Name) savaşı başladı!</value>
+    <value>Aylar süren gerilimden sonra, süper güçler birbirlerine savaş açtı ve {war.Name} savaşı başladı!</value>
     <comment>Haber eventi için</comment>
   </data>
   <data name="new_century_title" xml:space="preserve">

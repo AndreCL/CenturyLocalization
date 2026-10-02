@@ -214,7 +214,7 @@
     <value>Kleine Schiffe:</value>
   </data>
   <data name="mediumships" xml:space="preserve">
-    <value>Mittel große Schiffe:</value>
+    <value>Mittelgroße Schiffe:</value>
   </data>
   <data name="largeships" xml:space="preserve">
     <value>Große Schiffe:</value>
@@ -262,7 +262,7 @@
     <value>Unabhängig seit</value>
   </data>
   <data name="war_level" xml:space="preserve">
-    <value>Bürgerkriegsrisiko</value>
+    <value>Kriegsstufe</value>
   </data>
   <data name="daily_investment" xml:space="preserve">
     <value>Tägliche Investitionen:</value>
@@ -280,7 +280,7 @@
     <value>Punktzahl</value>
   </data>
   <data name="men_to_equipment" xml:space="preserve">
-    <value>Auszurüstende Männer:</value>
+    <value>Verhältnis Männer zu Ausrüstung:</value>
   </data>
   <data name="extra_equipment" xml:space="preserve">
     <value>Du hast überschüssige Ausstattung</value>
@@ -349,7 +349,7 @@
     <value>Zivile Verluste:</value>
   </data>
   <data name="equipment_loses" xml:space="preserve">
-    <value>Austrüstungs Verluste:</value>
+    <value>Ausrüstungsverluste:</value>
   </data>
   <data name="infrastructure_decrease" xml:space="preserve">
     <value>Vernichtete Infrastruktur:</value>
@@ -361,7 +361,7 @@
     <value>Trete der Facebookgruppe bei</value>
   </data>
   <data name="world_tension" xml:space="preserve">
-    <value>Weltanspannung</value>
+    <value>Weltspannung</value>
   </data>
   <data name="error_string_not_found" xml:space="preserve">
     <value>Text nicht gefunden</value>
@@ -708,7 +708,7 @@ Sobald die Weltspannung 100 % erreicht, wird ein Weltkrieg ausgelöst und der We
     <value>Das Zielland ist viel stärker als Sie</value>
   </data>
   <data name="war_goal_release_country" xml:space="preserve">
-    <value>Veröffentlichungsland</value>
+    <value>Land freigeben</value>
   </data>
   <data name="no_ai_war" xml:space="preserve">
     <value>Die KI erklärt dem menschlichen Spieler keine zufälligen Kriege (ausgenommen historische Kriege, Weltkriege, Infamie-Kriege und Unabhängigkeitskriege)</value>
