@@ -36,9 +36,13 @@ Open source implementation of localization for Century
 * Create Texts file
 * Create BattleNames file
 * Create Diplomacy file
+* Create AllianceNames file
 * Add language to Localization._supportedCultureNames
 * Run unit tests
 
 # Adding a localization category
-* Add to DataConsistencyTests (add resource names from each ResourceManager and add all resource names from each source)
+* Create the category folder with a base .resx (and its Designer.cs) and one .resx per language
+* Add the base .resx as an EmbeddedResource (ResXFileCodeGenerator) in CenturyLocalization.csproj
+* Add a ResourceManager field to Localization and include it in Localization.GetText
+* Add to DataConsistencyTests
 * Run unit tests

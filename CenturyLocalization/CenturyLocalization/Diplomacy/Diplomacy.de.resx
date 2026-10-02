@@ -136,4 +136,13 @@
   <data name="diplomacy_effect_at_peace" xml:space="preserve">
     <value>Im Frieden</value>
   </data>
+  <data name="diplomacy_allies" xml:space="preserve">
+    <value>Verbündete</value>
+  </data>
+  <data name="diplomacy_enemies" xml:space="preserve">
+    <value>Feinde</value>
+  </data>
+  <data name="diplomacy_friends" xml:space="preserve">
+    <value>Freunde</value>
+  </data>
 </root>

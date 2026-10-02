@@ -61,6 +61,15 @@ namespace CenturyLocalization.Diplomacy {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Allies.
+        /// </summary>
+        internal static string diplomacy_allies {
+            get {
+                return ResourceManager.GetString("diplomacy_allies", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Allies in war.
         /// </summary>
         internal static string diplomacy_allies_in_war {
@@ -156,6 +165,24 @@ namespace CenturyLocalization.Diplomacy {
         internal static string diplomacy_effect_same_religion {
             get {
                 return ResourceManager.GetString("diplomacy_effect_same_religion", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Enemies.
+        /// </summary>
+        internal static string diplomacy_enemies {
+            get {
+                return ResourceManager.GetString("diplomacy_enemies", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Friends.
+        /// </summary>
+        internal static string diplomacy_friends {
+            get {
+                return ResourceManager.GetString("diplomacy_friends", resourceCulture);
             }
         }
         

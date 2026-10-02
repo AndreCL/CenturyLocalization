@@ -14,6 +14,11 @@
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
     </Compile>
+    <Compile Update="AllianceNames\AllianceNames.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>AllianceNames.resx</DependentUpon>
+    </Compile>
     <Compile Update="CountryNames\CountryNames.Designer.cs">
       <DependentUpon>CountryNames.resx</DependentUpon>
       <DesignTime>True</DesignTime>
@@ -95,6 +100,10 @@
     <EmbeddedResource Update="WarNames\WarNames.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>WarNames.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="AllianceNames\AllianceNames.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>AllianceNames.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Update="BattleNames\BattleNames.resx">
       <Generator>ResXFileCodeGenerator</Generator>

@@ -136,4 +136,13 @@
   <data name="diplomacy_effect_at_peace" xml:space="preserve">
     <value>В мире</value>
   </data>
+  <data name="diplomacy_allies" xml:space="preserve">
+    <value>Союзники</value>
+  </data>
+  <data name="diplomacy_enemies" xml:space="preserve">
+    <value>Враги</value>
+  </data>
+  <data name="diplomacy_friends" xml:space="preserve">
+    <value>Друзья</value>
+  </data>
 </root>

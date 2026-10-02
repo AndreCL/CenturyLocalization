@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
-		Microsoft ResX Schema 
+		Microsoft ResX Schema
 
 		Version 1.3
 
@@ -17,16 +17,7 @@
 		<resheader name="version">1.3</resheader>
 		<resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
 		<resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
-		<data name="Name1">this is my long string</data>
-		<data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
-		<data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
-			[base64 mime encoded serialized .NET Framework object]
-		</data>
-		<data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-			[base64 mime encoded string representing a byte array form of the .NET Framework object]
-		</data>
-
-		There are any number of "resheader" rows that contain simple 
+There are any number of "resheader" rows that contain simple 
 		name/value pairs.
 
 		Each data row contains a name, and value. The row also contains a 
@@ -97,52 +88,16 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="diplomacy_effect_daily_drift" xml:space="preserve">
-	<value>Daily Drift</value>
+  <data name="dual_alliance" xml:space="preserve">
+    <value>Dual Alliance</value>
   </data>
-  <data name="diplomacy_effect_at_war" xml:space="preserve">
-	<value>At War</value>
+  <data name="triple_alliance" xml:space="preserve">
+    <value>Triple Alliance</value>
   </data>
-  <data name="diplomacy_effect_same_religion" xml:space="preserve">
-	<value>Same Religion</value>
+  <data name="franco_russian_alliance" xml:space="preserve">
+    <value>Franco-Russian Alliance</value>
   </data>
-  <data name="diplomacy_effect_different_religion" xml:space="preserve">
-	<value>Different Religion</value>
-  </data>
-  <data name="diplomacy_effect_same_culture" xml:space="preserve">
-	<value>Same Culture</value>
-  </data>
-  <data name="diplomacy_effect_different_culture" xml:space="preserve">
-	<value>Different Culture</value>
-  </data>
-  <data name="diplomacy_effect_same_culture_group" xml:space="preserve">
-	<value>Same Culture Group</value>
-  </data>
-  <data name="diplomacy_effect_different_culture_group" xml:space="preserve">
-	<value>Different Culture Group</value>
-  </data>
-  <data name="diplomacy_effect_infamy" xml:space="preserve">
-	<value>Infamy</value>
-  </data>
-  <data name="diplomacy_allies_in_war" xml:space="preserve">
-    <value>Allies in war</value>
-  </data>
-  <data name="diplomacy_relationship_change" xml:space="preserve">
-    <value>Relationship Change</value>
-  </data>
-  <data name="diplomacy_title" xml:space="preserve">
-    <value>Diplomacy</value>
-  </data>
-  <data name="diplomacy_effect_at_peace" xml:space="preserve">
-    <value>At peace</value>
-  </data>
-  <data name="diplomacy_allies" xml:space="preserve">
-    <value>Allies</value>
-  </data>
-  <data name="diplomacy_enemies" xml:space="preserve">
-    <value>Enemies</value>
-  </data>
-  <data name="diplomacy_friends" xml:space="preserve">
-    <value>Friends</value>
+  <data name="anglo_portuguese_alliance" xml:space="preserve">
+    <value>Anglo-Portuguese Alliance</value>
   </data>
 </root>
