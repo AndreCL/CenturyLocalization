@@ -469,4 +469,25 @@
   <data name="austria" xml:space="preserve">
     <value>Австрия</value>
   </data>
+  <data name="manipur" xml:space="preserve">
+    <value>Манипур</value>
+  </data>
+  <data name="vietnam" xml:space="preserve">
+    <value>Вьетнам</value>
+  </data>
+  <data name="cambodia" xml:space="preserve">
+    <value>Камбоджа</value>
+  </data>
+  <data name="malaysia" xml:space="preserve">
+    <value>Малайзия</value>
+  </data>
+  <data name="philippines" xml:space="preserve">
+    <value>Филиппины</value>
+  </data>
+  <data name="laos" xml:space="preserve">
+    <value>Лаос</value>
+  </data>
+  <data name="myanmar" xml:space="preserve">
+    <value>Мьянма</value>
+  </data>
 </root>

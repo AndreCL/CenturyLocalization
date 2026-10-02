@@ -295,6 +295,15 @@ namespace CenturyLocalization.CountryNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Cambodia.
+        /// </summary>
+        internal static string cambodia {
+            get {
+                return ResourceManager.GetString("cambodia", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Canada.
         /// </summary>
         internal static string canada {
@@ -637,6 +646,15 @@ namespace CenturyLocalization.CountryNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Laos.
+        /// </summary>
+        internal static string laos {
+            get {
+                return ResourceManager.GetString("laos", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Latvia.
         /// </summary>
         internal static string latvia {
@@ -682,11 +700,29 @@ namespace CenturyLocalization.CountryNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Malaysia.
+        /// </summary>
+        internal static string malaysia {
+            get {
+                return ResourceManager.GetString("malaysia", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Malta.
         /// </summary>
         internal static string malta {
             get {
                 return ResourceManager.GetString("malta", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Manipur.
+        /// </summary>
+        internal static string manipur {
+            get {
+                return ResourceManager.GetString("manipur", resourceCulture);
             }
         }
         
@@ -741,6 +777,15 @@ namespace CenturyLocalization.CountryNames {
         internal static string muscat_and_oman {
             get {
                 return ResourceManager.GetString("muscat_and_oman", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Myanmar.
+        /// </summary>
+        internal static string myanmar {
+            get {
+                return ResourceManager.GetString("myanmar", resourceCulture);
             }
         }
         
@@ -831,6 +876,15 @@ namespace CenturyLocalization.CountryNames {
         internal static string peru {
             get {
                 return ResourceManager.GetString("peru", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Philippines.
+        /// </summary>
+        internal static string philippines {
+            get {
+                return ResourceManager.GetString("philippines", resourceCulture);
             }
         }
         
@@ -1092,6 +1146,15 @@ namespace CenturyLocalization.CountryNames {
         internal static string venezuela {
             get {
                 return ResourceManager.GetString("venezuela", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Vietnam.
+        /// </summary>
+        internal static string vietnam {
+            get {
+                return ResourceManager.GetString("vietnam", resourceCulture);
             }
         }
         
