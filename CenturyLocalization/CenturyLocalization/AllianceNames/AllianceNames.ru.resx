@@ -119,4 +119,16 @@ There are any number of "resheader" rows that contain simple
   <data name="anglo_portuguese_alliance" xml:space="preserve">
     <value>Англо-португальский союз</value>
   </data>
+  <data name="central_powers" xml:space="preserve">
+    <value>Центральные державы</value>
+  </data>
+  <data name="allied_powers" xml:space="preserve">
+    <value>Союзные державы</value>
+  </data>
+  <data name="anglo_japanese_alliance" xml:space="preserve">
+    <value>Англо-японский союз</value>
+  </data>
+  <data name="entente_cordiale" xml:space="preserve">
+    <value>Сердечное согласие</value>
+  </data>
 </root>

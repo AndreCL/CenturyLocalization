@@ -119,4 +119,16 @@ There are any number of "resheader" rows that contain simple
   <data name="anglo_portuguese_alliance" xml:space="preserve">
     <value>İngiliz-Portekiz İttifakı</value>
   </data>
+  <data name="central_powers" xml:space="preserve">
+    <value>İttifak Devletleri</value>
+  </data>
+  <data name="allied_powers" xml:space="preserve">
+    <value>İtilaf Devletleri</value>
+  </data>
+  <data name="anglo_japanese_alliance" xml:space="preserve">
+    <value>İngiliz-Japon İttifakı</value>
+  </data>
+  <data name="entente_cordiale" xml:space="preserve">
+    <value>Samimi İttifak</value>
+  </data>
 </root>

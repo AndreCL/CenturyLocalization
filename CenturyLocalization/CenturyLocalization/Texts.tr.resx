@@ -543,12 +543,6 @@
   <data name="none" xml:space="preserve">
     <value>Hiç</value>
   </data>
-  <data name="central_powers" xml:space="preserve">
-    <value>İttifak Devletleri</value>
-  </data>
-  <data name="allied_powers" xml:space="preserve">
-    <value>İtilaf Devletleri</value>
-  </data>
   <data name="current" xml:space="preserve">
     <value>Şu an:</value>
   </data>

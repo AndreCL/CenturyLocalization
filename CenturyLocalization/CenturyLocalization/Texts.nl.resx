@@ -518,12 +518,6 @@ Een nieuw jaar is aangebroken. Wij wensen u een gelukkig nieuwjaar. Moge deze ni
   <data name="none" xml:space="preserve">
     <value>Geen</value>
   </data>
-  <data name="central_powers" xml:space="preserve">
-    <value>Centralen</value>
-  </data>
-  <data name="allied_powers" xml:space="preserve">
-    <value>Geallieerden</value>
-  </data>
   <data name="current" xml:space="preserve">
     <value>Huidig</value>
   </data>

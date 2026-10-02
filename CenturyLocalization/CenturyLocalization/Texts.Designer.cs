@@ -160,15 +160,6 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Allied Powers.
-        /// </summary>
-        internal static string allied_powers {
-            get {
-                return ResourceManager.GetString("allied_powers", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Century.
         /// </summary>
         internal static string ApplicationName {
@@ -336,15 +327,6 @@ namespace CenturyLocalization {
         internal static string cancel {
             get {
                 return ResourceManager.GetString("cancel", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Central Powers.
-        /// </summary>
-        internal static string central_powers {
-            get {
-                return ResourceManager.GetString("central_powers", resourceCulture);
             }
         }
         

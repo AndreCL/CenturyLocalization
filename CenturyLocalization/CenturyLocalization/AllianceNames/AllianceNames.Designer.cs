@@ -61,6 +61,24 @@ namespace CenturyLocalization.AllianceNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Allied Powers.
+        /// </summary>
+        internal static string allied_powers {
+            get {
+                return ResourceManager.GetString("allied_powers", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Anglo-Japanese Alliance.
+        /// </summary>
+        internal static string anglo_japanese_alliance {
+            get {
+                return ResourceManager.GetString("anglo_japanese_alliance", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Anglo-Portuguese Alliance.
         /// </summary>
         internal static string anglo_portuguese_alliance {
@@ -70,11 +88,29 @@ namespace CenturyLocalization.AllianceNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Central Powers.
+        /// </summary>
+        internal static string central_powers {
+            get {
+                return ResourceManager.GetString("central_powers", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Dual Alliance.
         /// </summary>
         internal static string dual_alliance {
             get {
                 return ResourceManager.GetString("dual_alliance", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Entente Cordiale.
+        /// </summary>
+        internal static string entente_cordiale {
+            get {
+                return ResourceManager.GetString("entente_cordiale", resourceCulture);
             }
         }
         

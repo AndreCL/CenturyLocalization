@@ -520,12 +520,6 @@ Un nuevo año está sobre nosotros. Les deseamos un feliz año nuevo. Que este n
   <data name="none" xml:space="preserve">
     <value>Ninguno</value>
   </data>
-  <data name="central_powers" xml:space="preserve">
-    <value>Potencias Centrales</value>
-  </data>
-  <data name="allied_powers" xml:space="preserve">
-    <value>Potencias Aliadas</value>
-  </data>
   <data name="current" xml:space="preserve">
     <value>Actual</value>
   </data>
