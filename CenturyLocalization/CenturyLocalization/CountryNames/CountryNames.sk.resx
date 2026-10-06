@@ -486,4 +486,10 @@
   <data name="myanmar" xml:space="preserve">
     <value>Mjanmarsko</value>
   </data>
+  <data name="israel" xml:space="preserve">
+    <value>Izrael</value>
+  </data>
+  <data name="khalistan" xml:space="preserve">
+    <value>Chalistán</value>
+  </data>
 </root>

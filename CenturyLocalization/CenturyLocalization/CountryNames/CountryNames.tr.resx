@@ -555,4 +555,10 @@
   <data name="myanmar" xml:space="preserve">
     <value>Myanmar</value>
   </data>
+  <data name="israel" xml:space="preserve">
+    <value>İsrail</value>
+  </data>
+  <data name="khalistan" xml:space="preserve">
+    <value>Halistan</value>
+  </data>
 </root>
