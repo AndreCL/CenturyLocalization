@@ -367,6 +367,60 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Consider reducing the number of air force equipment factories.
+        /// </summary>
+        internal static string consider_reducing_airforce_equipment_factories {
+            get {
+                return ResourceManager.GetString("consider_reducing_airforce_equipment_factories", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Consider reducing the number of air force schools.
+        /// </summary>
+        internal static string consider_reducing_airforce_schools {
+            get {
+                return ResourceManager.GetString("consider_reducing_airforce_schools", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Consider reducing the number of army equipment factories.
+        /// </summary>
+        internal static string consider_reducing_army_equipment_factories {
+            get {
+                return ResourceManager.GetString("consider_reducing_army_equipment_factories", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Consider reducing the number of army schools.
+        /// </summary>
+        internal static string consider_reducing_army_schools {
+            get {
+                return ResourceManager.GetString("consider_reducing_army_schools", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Consider reducing the number of docks.
+        /// </summary>
+        internal static string consider_reducing_docks {
+            get {
+                return ResourceManager.GetString("consider_reducing_docks", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Consider reducing the number of navy schools.
+        /// </summary>
+        internal static string consider_reducing_navy_schools {
+            get {
+                return ResourceManager.GetString("consider_reducing_navy_schools", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Continue game.
         /// </summary>
         internal static string Continuegame {
@@ -1191,6 +1245,60 @@ namespace CenturyLocalization {
         internal static string navy_schools {
             get {
                 return ResourceManager.GetString("navy_schools", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Consider building more air force equipment factories.
+        /// </summary>
+        internal static string need_more_airforce_equipment_factories {
+            get {
+                return ResourceManager.GetString("need_more_airforce_equipment_factories", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Consider building more air force schools.
+        /// </summary>
+        internal static string need_more_airforce_schools {
+            get {
+                return ResourceManager.GetString("need_more_airforce_schools", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Consider building more army equipment factories.
+        /// </summary>
+        internal static string need_more_army_equipment_factories {
+            get {
+                return ResourceManager.GetString("need_more_army_equipment_factories", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Consider building more army schools.
+        /// </summary>
+        internal static string need_more_army_schools {
+            get {
+                return ResourceManager.GetString("need_more_army_schools", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Consider building more docks.
+        /// </summary>
+        internal static string need_more_docks {
+            get {
+                return ResourceManager.GetString("need_more_docks", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Consider building more navy schools.
+        /// </summary>
+        internal static string need_more_navy_schools {
+            get {
+                return ResourceManager.GetString("need_more_navy_schools", resourceCulture);
             }
         }
         

@@ -768,4 +768,40 @@
     <value>حرب بحرية فقط: {0}</value>
     <comment>{0} is the value</comment>
   </data>
+  <data name="need_more_army_schools" xml:space="preserve">
+    <value>فكّر في بناء المزيد من المدارس العسكرية</value>
+  </data>
+  <data name="consider_reducing_army_schools" xml:space="preserve">
+    <value>فكّر في تقليل عدد المدارس العسكرية</value>
+  </data>
+  <data name="need_more_navy_schools" xml:space="preserve">
+    <value>فكّر في بناء المزيد من المدارس البحرية</value>
+  </data>
+  <data name="consider_reducing_navy_schools" xml:space="preserve">
+    <value>فكّر في تقليل عدد المدارس البحرية</value>
+  </data>
+  <data name="need_more_airforce_schools" xml:space="preserve">
+    <value>فكّر في بناء المزيد من المدارس الجوية</value>
+  </data>
+  <data name="consider_reducing_airforce_schools" xml:space="preserve">
+    <value>فكّر في تقليل عدد المدارس الجوية</value>
+  </data>
+  <data name="need_more_docks" xml:space="preserve">
+    <value>فكّر في بناء المزيد من الأرصفة</value>
+  </data>
+  <data name="consider_reducing_docks" xml:space="preserve">
+    <value>فكّر في تقليل عدد الأرصفة</value>
+  </data>
+  <data name="need_more_army_equipment_factories" xml:space="preserve">
+    <value>فكّر في بناء المزيد من مصانع معدات الجيش</value>
+  </data>
+  <data name="consider_reducing_army_equipment_factories" xml:space="preserve">
+    <value>فكّر في تقليل عدد مصانع معدات الجيش</value>
+  </data>
+  <data name="need_more_airforce_equipment_factories" xml:space="preserve">
+    <value>فكّر في بناء المزيد من مصانع معدات القوات الجوية</value>
+  </data>
+  <data name="consider_reducing_airforce_equipment_factories" xml:space="preserve">
+    <value>فكّر في تقليل عدد مصانع معدات القوات الجوية</value>
+  </data>
 </root>

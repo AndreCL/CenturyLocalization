@@ -768,4 +768,40 @@ Sobald die Weltspannung 100 % erreicht, wird ein Weltkrieg ausgelöst und der We
     <value>Nur Seekrieg: {0}</value>
     <comment>{0} is the value</comment>
   </data>
+  <data name="need_more_army_schools" xml:space="preserve">
+    <value>Erwägen Sie den Bau weiterer Militärschulen</value>
+  </data>
+  <data name="consider_reducing_army_schools" xml:space="preserve">
+    <value>Erwägen Sie, die Anzahl der Militärschulen zu verringern</value>
+  </data>
+  <data name="need_more_navy_schools" xml:space="preserve">
+    <value>Erwägen Sie den Bau weiterer Marineschulen</value>
+  </data>
+  <data name="consider_reducing_navy_schools" xml:space="preserve">
+    <value>Erwägen Sie, die Anzahl der Marineschulen zu verringern</value>
+  </data>
+  <data name="need_more_airforce_schools" xml:space="preserve">
+    <value>Erwägen Sie den Bau weiterer Pilotenschulen</value>
+  </data>
+  <data name="consider_reducing_airforce_schools" xml:space="preserve">
+    <value>Erwägen Sie, die Anzahl der Pilotenschulen zu verringern</value>
+  </data>
+  <data name="need_more_docks" xml:space="preserve">
+    <value>Erwägen Sie den Bau weiterer Häfen</value>
+  </data>
+  <data name="consider_reducing_docks" xml:space="preserve">
+    <value>Erwägen Sie, die Anzahl der Häfen zu verringern</value>
+  </data>
+  <data name="need_more_army_equipment_factories" xml:space="preserve">
+    <value>Erwägen Sie den Bau weiterer Armeeausrüstungsfabriken</value>
+  </data>
+  <data name="consider_reducing_army_equipment_factories" xml:space="preserve">
+    <value>Erwägen Sie, die Anzahl der Armeeausrüstungsfabriken zu verringern</value>
+  </data>
+  <data name="need_more_airforce_equipment_factories" xml:space="preserve">
+    <value>Erwägen Sie den Bau weiterer Luftwaffenausrüstungsfabriken</value>
+  </data>
+  <data name="consider_reducing_airforce_equipment_factories" xml:space="preserve">
+    <value>Erwägen Sie, die Anzahl der Luftwaffenausrüstungsfabriken zu verringern</value>
+  </data>
 </root>

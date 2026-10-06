@@ -768,4 +768,40 @@ Wanneer de wereldspanning 100% bereikt, wordt een wereldoorlog ontketend en word
     <value>Alleen zeeoorlog: {0}</value>
     <comment>{0} is the value</comment>
   </data>
+  <data name="need_more_army_schools" xml:space="preserve">
+    <value>Overweeg meer legerscholen te bouwen</value>
+  </data>
+  <data name="consider_reducing_army_schools" xml:space="preserve">
+    <value>Overweeg het aantal legerscholen te verminderen</value>
+  </data>
+  <data name="need_more_navy_schools" xml:space="preserve">
+    <value>Overweeg meer marinescholen te bouwen</value>
+  </data>
+  <data name="consider_reducing_navy_schools" xml:space="preserve">
+    <value>Overweeg het aantal marinescholen te verminderen</value>
+  </data>
+  <data name="need_more_airforce_schools" xml:space="preserve">
+    <value>Overweeg meer luchtmachtscholen te bouwen</value>
+  </data>
+  <data name="consider_reducing_airforce_schools" xml:space="preserve">
+    <value>Overweeg het aantal luchtmachtscholen te verminderen</value>
+  </data>
+  <data name="need_more_docks" xml:space="preserve">
+    <value>Overweeg meer dokken te bouwen</value>
+  </data>
+  <data name="consider_reducing_docks" xml:space="preserve">
+    <value>Overweeg het aantal dokken te verminderen</value>
+  </data>
+  <data name="need_more_army_equipment_factories" xml:space="preserve">
+    <value>Overweeg meer fabrieken voor legeruitrusting te bouwen</value>
+  </data>
+  <data name="consider_reducing_army_equipment_factories" xml:space="preserve">
+    <value>Overweeg het aantal fabrieken voor legeruitrusting te verminderen</value>
+  </data>
+  <data name="need_more_airforce_equipment_factories" xml:space="preserve">
+    <value>Overweeg meer fabrieken voor luchtmachtuitrusting te bouwen</value>
+  </data>
+  <data name="consider_reducing_airforce_equipment_factories" xml:space="preserve">
+    <value>Overweeg het aantal fabrieken voor luchtmachtuitrusting te verminderen</value>
+  </data>
 </root>

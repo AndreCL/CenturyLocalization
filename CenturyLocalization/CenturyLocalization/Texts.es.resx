@@ -770,4 +770,40 @@ Una vez que la tensión mundial alcanza el 100 %, se desencadena una guerra mund
     <value>Solo guerra naval: {0}</value>
     <comment>{0} is the value</comment>
   </data>
+  <data name="need_more_army_schools" xml:space="preserve">
+    <value>Considera construir más escuelas del ejército</value>
+  </data>
+  <data name="consider_reducing_army_schools" xml:space="preserve">
+    <value>Considera reducir el número de escuelas del ejército</value>
+  </data>
+  <data name="need_more_navy_schools" xml:space="preserve">
+    <value>Considera construir más escuelas navales</value>
+  </data>
+  <data name="consider_reducing_navy_schools" xml:space="preserve">
+    <value>Considera reducir el número de escuelas navales</value>
+  </data>
+  <data name="need_more_airforce_schools" xml:space="preserve">
+    <value>Considera construir más escuelas de la fuerza aérea</value>
+  </data>
+  <data name="consider_reducing_airforce_schools" xml:space="preserve">
+    <value>Considera reducir el número de escuelas de la fuerza aérea</value>
+  </data>
+  <data name="need_more_docks" xml:space="preserve">
+    <value>Considera construir más muelles</value>
+  </data>
+  <data name="consider_reducing_docks" xml:space="preserve">
+    <value>Considera reducir el número de muelles</value>
+  </data>
+  <data name="need_more_army_equipment_factories" xml:space="preserve">
+    <value>Considera construir más fábricas de equipo del ejército</value>
+  </data>
+  <data name="consider_reducing_army_equipment_factories" xml:space="preserve">
+    <value>Considera reducir el número de fábricas de equipo del ejército</value>
+  </data>
+  <data name="need_more_airforce_equipment_factories" xml:space="preserve">
+    <value>Considera construir más fábricas de equipo de la fuerza aérea</value>
+  </data>
+  <data name="consider_reducing_airforce_equipment_factories" xml:space="preserve">
+    <value>Considera reducir el número de fábricas de equipo de la fuerza aérea</value>
+  </data>
 </root>

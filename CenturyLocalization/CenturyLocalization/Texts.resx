@@ -792,4 +792,40 @@ Once the World Tension reaches 100%, a World War is triggered and it resets.
     <value>Only sea war: {0}</value>
     <comment>{0} is the value</comment>
   </data>
+  <data name="need_more_army_equipment_factories" xml:space="preserve">
+    <value>Consider building more army equipment factories</value>
+  </data>
+  <data name="need_more_docks" xml:space="preserve">
+    <value>Consider building more docks</value>
+  </data>
+  <data name="consider_reducing_army_schools" xml:space="preserve">
+    <value>Consider reducing the number of army schools</value>
+  </data>
+  <data name="need_more_army_schools" xml:space="preserve">
+    <value>Consider building more army schools</value>
+  </data>
+  <data name="consider_reducing_army_equipment_factories" xml:space="preserve">
+    <value>Consider reducing the number of army equipment factories</value>
+  </data>
+  <data name="consider_reducing_docks" xml:space="preserve">
+    <value>Consider reducing the number of docks</value>
+  </data>
+  <data name="need_more_airforce_equipment_factories" xml:space="preserve">
+    <value>Consider building more air force equipment factories</value>
+  </data>
+  <data name="consider_reducing_navy_schools" xml:space="preserve">
+    <value>Consider reducing the number of navy schools</value>
+  </data>
+  <data name="consider_reducing_airforce_schools" xml:space="preserve">
+    <value>Consider reducing the number of air force schools</value>
+  </data>
+  <data name="need_more_navy_schools" xml:space="preserve">
+    <value>Consider building more navy schools</value>
+  </data>
+  <data name="need_more_airforce_schools" xml:space="preserve">
+    <value>Consider building more air force schools</value>
+  </data>
+  <data name="consider_reducing_airforce_equipment_factories" xml:space="preserve">
+    <value>Consider reducing the number of air force equipment factories</value>
+  </data>
 </root>

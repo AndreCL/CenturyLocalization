@@ -788,4 +788,40 @@ Une fois que la tension mondiale atteint 100 %, une guerre mondiale est déclenc
     <value>Guerre navale uniquement : {0}</value>
     <comment>{0} is the value</comment>
   </data>
+  <data name="need_more_army_schools" xml:space="preserve">
+    <value>Envisagez de construire des écoles militaires supplémentaires</value>
+  </data>
+  <data name="consider_reducing_army_schools" xml:space="preserve">
+    <value>Envisagez de réduire le nombre des écoles militaires</value>
+  </data>
+  <data name="need_more_navy_schools" xml:space="preserve">
+    <value>Envisagez de construire des écoles navales supplémentaires</value>
+  </data>
+  <data name="consider_reducing_navy_schools" xml:space="preserve">
+    <value>Envisagez de réduire le nombre des écoles navales</value>
+  </data>
+  <data name="need_more_airforce_schools" xml:space="preserve">
+    <value>Envisagez de construire des écoles de l'armée de l'air supplémentaires</value>
+  </data>
+  <data name="consider_reducing_airforce_schools" xml:space="preserve">
+    <value>Envisagez de réduire le nombre des écoles de l'armée de l'air</value>
+  </data>
+  <data name="need_more_docks" xml:space="preserve">
+    <value>Envisagez de construire des chantiers navals supplémentaires</value>
+  </data>
+  <data name="consider_reducing_docks" xml:space="preserve">
+    <value>Envisagez de réduire le nombre des chantiers navals</value>
+  </data>
+  <data name="need_more_army_equipment_factories" xml:space="preserve">
+    <value>Envisagez de construire des usines d'équipement de l'armée supplémentaires</value>
+  </data>
+  <data name="consider_reducing_army_equipment_factories" xml:space="preserve">
+    <value>Envisagez de réduire le nombre des usines d'équipement de l'armée</value>
+  </data>
+  <data name="need_more_airforce_equipment_factories" xml:space="preserve">
+    <value>Envisagez de construire des usines d'équipement de l'armée de l'air supplémentaires</value>
+  </data>
+  <data name="consider_reducing_airforce_equipment_factories" xml:space="preserve">
+    <value>Envisagez de réduire le nombre des usines d'équipement de l'armée de l'air</value>
+  </data>
 </root>

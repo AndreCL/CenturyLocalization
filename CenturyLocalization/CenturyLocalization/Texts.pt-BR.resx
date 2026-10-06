@@ -766,4 +766,40 @@ Um novo ano chegou. Desejamos a vocês um feliz ano novo. Que este novo ano seja
     <value>Apenas guerra naval: {0}</value>
     <comment>{0} is the value</comment>
   </data>
+  <data name="need_more_army_schools" xml:space="preserve">
+    <value>Considere construir mais academias militares</value>
+  </data>
+  <data name="consider_reducing_army_schools" xml:space="preserve">
+    <value>Considere reduzir o número de academias militares</value>
+  </data>
+  <data name="need_more_navy_schools" xml:space="preserve">
+    <value>Considere construir mais escolas navais</value>
+  </data>
+  <data name="consider_reducing_navy_schools" xml:space="preserve">
+    <value>Considere reduzir o número de escolas navais</value>
+  </data>
+  <data name="need_more_airforce_schools" xml:space="preserve">
+    <value>Considere construir mais academias da força aérea</value>
+  </data>
+  <data name="consider_reducing_airforce_schools" xml:space="preserve">
+    <value>Considere reduzir o número de academias da força aérea</value>
+  </data>
+  <data name="need_more_docks" xml:space="preserve">
+    <value>Considere construir mais estaleiros</value>
+  </data>
+  <data name="consider_reducing_docks" xml:space="preserve">
+    <value>Considere reduzir o número de estaleiros</value>
+  </data>
+  <data name="need_more_army_equipment_factories" xml:space="preserve">
+    <value>Considere construir mais fábricas de equipamentos do exército</value>
+  </data>
+  <data name="consider_reducing_army_equipment_factories" xml:space="preserve">
+    <value>Considere reduzir o número de fábricas de equipamentos do exército</value>
+  </data>
+  <data name="need_more_airforce_equipment_factories" xml:space="preserve">
+    <value>Considere construir mais fábricas de equipamentos da força aérea</value>
+  </data>
+  <data name="consider_reducing_airforce_equipment_factories" xml:space="preserve">
+    <value>Considere reduzir o número de fábricas de equipamentos da força aérea</value>
+  </data>
 </root>

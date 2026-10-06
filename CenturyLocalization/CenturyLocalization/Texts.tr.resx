@@ -787,4 +787,40 @@
     <value>Yalnızca deniz savaşı: {0}</value>
     <comment>{0} is the value</comment>
   </data>
+  <data name="need_more_army_schools" xml:space="preserve">
+    <value>Daha fazla piyade okulu inşa etmeyi düşünün</value>
+  </data>
+  <data name="consider_reducing_army_schools" xml:space="preserve">
+    <value>Piyade okullarının sayısını azaltmayı düşünün</value>
+  </data>
+  <data name="need_more_navy_schools" xml:space="preserve">
+    <value>Daha fazla denizcilik okulu inşa etmeyi düşünün</value>
+  </data>
+  <data name="consider_reducing_navy_schools" xml:space="preserve">
+    <value>Denizcilik okullarının sayısını azaltmayı düşünün</value>
+  </data>
+  <data name="need_more_airforce_schools" xml:space="preserve">
+    <value>Daha fazla havacılık okulu inşa etmeyi düşünün</value>
+  </data>
+  <data name="consider_reducing_airforce_schools" xml:space="preserve">
+    <value>Havacılık okullarının sayısını azaltmayı düşünün</value>
+  </data>
+  <data name="need_more_docks" xml:space="preserve">
+    <value>Daha fazla liman inşa etmeyi düşünün</value>
+  </data>
+  <data name="consider_reducing_docks" xml:space="preserve">
+    <value>Limanların sayısını azaltmayı düşünün</value>
+  </data>
+  <data name="need_more_army_equipment_factories" xml:space="preserve">
+    <value>Daha fazla ordu ekipmanı fabrikası inşa etmeyi düşünün</value>
+  </data>
+  <data name="consider_reducing_army_equipment_factories" xml:space="preserve">
+    <value>Ordu ekipmanı fabrikalarının sayısını azaltmayı düşünün</value>
+  </data>
+  <data name="need_more_airforce_equipment_factories" xml:space="preserve">
+    <value>Daha fazla hava kuvvetleri ekipmanı fabrikası inşa etmeyi düşünün</value>
+  </data>
+  <data name="consider_reducing_airforce_equipment_factories" xml:space="preserve">
+    <value>Hava kuvvetleri ekipmanı fabrikalarının sayısını azaltmayı düşünün</value>
+  </data>
 </root>

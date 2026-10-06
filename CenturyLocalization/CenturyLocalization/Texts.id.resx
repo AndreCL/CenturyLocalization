@@ -768,4 +768,40 @@ Ketika Ketegangan Dunia mencapai 100%, Perang Dunia akan dipicu dan nilainya dia
     <value>Hanya perang laut: {0}</value>
     <comment>{0} is the value</comment>
   </data>
+  <data name="need_more_army_schools" xml:space="preserve">
+    <value>Pertimbangkan untuk membangun lebih banyak sekolah angkatan darat</value>
+  </data>
+  <data name="consider_reducing_army_schools" xml:space="preserve">
+    <value>Pertimbangkan untuk mengurangi jumlah sekolah angkatan darat</value>
+  </data>
+  <data name="need_more_navy_schools" xml:space="preserve">
+    <value>Pertimbangkan untuk membangun lebih banyak sekolah angkatan laut</value>
+  </data>
+  <data name="consider_reducing_navy_schools" xml:space="preserve">
+    <value>Pertimbangkan untuk mengurangi jumlah sekolah angkatan laut</value>
+  </data>
+  <data name="need_more_airforce_schools" xml:space="preserve">
+    <value>Pertimbangkan untuk membangun lebih banyak sekolah angkatan udara</value>
+  </data>
+  <data name="consider_reducing_airforce_schools" xml:space="preserve">
+    <value>Pertimbangkan untuk mengurangi jumlah sekolah angkatan udara</value>
+  </data>
+  <data name="need_more_docks" xml:space="preserve">
+    <value>Pertimbangkan untuk membangun lebih banyak dermaga</value>
+  </data>
+  <data name="consider_reducing_docks" xml:space="preserve">
+    <value>Pertimbangkan untuk mengurangi jumlah dermaga</value>
+  </data>
+  <data name="need_more_army_equipment_factories" xml:space="preserve">
+    <value>Pertimbangkan untuk membangun lebih banyak pabrik peralatan angkatan darat</value>
+  </data>
+  <data name="consider_reducing_army_equipment_factories" xml:space="preserve">
+    <value>Pertimbangkan untuk mengurangi jumlah pabrik peralatan angkatan darat</value>
+  </data>
+  <data name="need_more_airforce_equipment_factories" xml:space="preserve">
+    <value>Pertimbangkan untuk membangun lebih banyak pabrik peralatan angkatan udara</value>
+  </data>
+  <data name="consider_reducing_airforce_equipment_factories" xml:space="preserve">
+    <value>Pertimbangkan untuk mengurangi jumlah pabrik peralatan angkatan udara</value>
+  </data>
 </root>

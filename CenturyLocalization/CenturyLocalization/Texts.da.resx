@@ -769,4 +769,40 @@ Når verdensspændingen når 100 %, udløses en verdenskrig, og værdien nulstil
     <value>Kun søkrig: {0}</value>
     <comment>{0} is the value</comment>
   </data>
+  <data name="need_more_army_schools" xml:space="preserve">
+    <value>Overvej at bygge flere hærskoler</value>
+  </data>
+  <data name="consider_reducing_army_schools" xml:space="preserve">
+    <value>Overvej at reducere antallet af hærskoler</value>
+  </data>
+  <data name="need_more_navy_schools" xml:space="preserve">
+    <value>Overvej at bygge flere flådeskoler</value>
+  </data>
+  <data name="consider_reducing_navy_schools" xml:space="preserve">
+    <value>Overvej at reducere antallet af flådeskoler</value>
+  </data>
+  <data name="need_more_airforce_schools" xml:space="preserve">
+    <value>Overvej at bygge flere luftvåbenskoler</value>
+  </data>
+  <data name="consider_reducing_airforce_schools" xml:space="preserve">
+    <value>Overvej at reducere antallet af luftvåbenskoler</value>
+  </data>
+  <data name="need_more_docks" xml:space="preserve">
+    <value>Overvej at bygge flere doker</value>
+  </data>
+  <data name="consider_reducing_docks" xml:space="preserve">
+    <value>Overvej at reducere antallet af doker</value>
+  </data>
+  <data name="need_more_army_equipment_factories" xml:space="preserve">
+    <value>Overvej at bygge flere fabrikker til hærudstyr</value>
+  </data>
+  <data name="consider_reducing_army_equipment_factories" xml:space="preserve">
+    <value>Overvej at reducere antallet af fabrikker til hærudstyr</value>
+  </data>
+  <data name="need_more_airforce_equipment_factories" xml:space="preserve">
+    <value>Overvej at bygge flere fabrikker til luftvåbenudstyr</value>
+  </data>
+  <data name="consider_reducing_airforce_equipment_factories" xml:space="preserve">
+    <value>Overvej at reducere antallet af fabrikker til luftvåbenudstyr</value>
+  </data>
 </root>

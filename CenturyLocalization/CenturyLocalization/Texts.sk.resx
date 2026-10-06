@@ -786,4 +786,40 @@ Keď svetové napätie dosiahne 100%, spustí sa svetová vojna a resetuje sa.
     <value>Iba námorná vojna: {0}</value>
     <comment>{0} is the value</comment>
   </data>
+  <data name="need_more_army_schools" xml:space="preserve">
+    <value>Zvážte výstavbu ďalších vojenských škôl</value>
+  </data>
+  <data name="consider_reducing_army_schools" xml:space="preserve">
+    <value>Zvážte zníženie počtu vojenských škôl</value>
+  </data>
+  <data name="need_more_navy_schools" xml:space="preserve">
+    <value>Zvážte výstavbu ďalších námorných škôl</value>
+  </data>
+  <data name="consider_reducing_navy_schools" xml:space="preserve">
+    <value>Zvážte zníženie počtu námorných škôl</value>
+  </data>
+  <data name="need_more_airforce_schools" xml:space="preserve">
+    <value>Zvážte výstavbu ďalších leteckých škôl</value>
+  </data>
+  <data name="consider_reducing_airforce_schools" xml:space="preserve">
+    <value>Zvážte zníženie počtu leteckých škôl</value>
+  </data>
+  <data name="need_more_docks" xml:space="preserve">
+    <value>Zvážte výstavbu ďalších dokov</value>
+  </data>
+  <data name="consider_reducing_docks" xml:space="preserve">
+    <value>Zvážte zníženie počtu dokov</value>
+  </data>
+  <data name="need_more_army_equipment_factories" xml:space="preserve">
+    <value>Zvážte výstavbu ďalších tovární na armádne vybavenie</value>
+  </data>
+  <data name="consider_reducing_army_equipment_factories" xml:space="preserve">
+    <value>Zvážte zníženie počtu tovární na armádne vybavenie</value>
+  </data>
+  <data name="need_more_airforce_equipment_factories" xml:space="preserve">
+    <value>Zvážte výstavbu ďalších tovární na letecké vybavenie</value>
+  </data>
+  <data name="consider_reducing_airforce_equipment_factories" xml:space="preserve">
+    <value>Zvážte zníženie počtu tovární na letecké vybavenie</value>
+  </data>
 </root>
