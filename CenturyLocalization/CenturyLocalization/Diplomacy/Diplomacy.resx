@@ -148,4 +148,7 @@
   <data name="diplomacy_wars" xml:space="preserve">
     <value>Wars</value>
   </data>
+  <data name="leave_alliance" xml:space="preserve">
+    <value>Leave alliance</value>
+  </data>
 </root>

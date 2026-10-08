@@ -148,4 +148,7 @@
   <data name="diplomacy_wars" xml:space="preserve">
     <value>Savaşlar</value>
   </data>
+  <data name="leave_alliance" xml:space="preserve">
+    <value>İttifaktan ayrıl</value>
+  </data>
 </root>
