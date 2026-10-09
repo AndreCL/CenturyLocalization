@@ -221,5 +221,14 @@ namespace CenturyLocalization.Diplomacy {
                 return ResourceManager.GetString("leave_alliance", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to New alliance.
+        /// </summary>
+        internal static string new_alliance {
+            get {
+                return ResourceManager.GetString("new_alliance", resourceCulture);
+            }
+        }
     }
 }

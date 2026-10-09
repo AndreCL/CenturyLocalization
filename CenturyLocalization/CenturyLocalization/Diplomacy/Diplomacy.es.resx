@@ -151,4 +151,7 @@
   <data name="leave_alliance" xml:space="preserve">
     <value>Abandonar la alianza</value>
   </data>
+  <data name="new_alliance" xml:space="preserve">
+    <value>Nueva alianza</value>
+  </data>
 </root>
