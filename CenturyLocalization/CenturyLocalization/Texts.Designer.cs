@@ -1494,6 +1494,24 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Policy changes available: {0}.
+        /// </summary>
+        internal static string policy_changes {
+            get {
+                return ResourceManager.GetString("policy_changes", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Daily increase: {0}.
+        /// </summary>
+        internal static string policy_changes_daily_increase {
+            get {
+                return ResourceManager.GetString("policy_changes_daily_increase", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Population.
         /// </summary>
         internal static string population {

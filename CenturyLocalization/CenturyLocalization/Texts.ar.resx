@@ -813,4 +813,10 @@
   <data name="wars" xml:space="preserve">
     <value>الحروب</value>
   </data>
+  <data name="policy_changes" xml:space="preserve">
+    <value>تغييرات السياسات المتاحة: {0}</value>
+  </data>
+  <data name="policy_changes_daily_increase" xml:space="preserve">
+    <value>الزيادة اليومية: {0}</value>
+  </data>
 </root>
