@@ -823,4 +823,13 @@
   <data name="consider_reducing_airforce_equipment_factories" xml:space="preserve">
     <value>Hava kuvvetleri ekipmanı fabrikalarının sayısını azaltmayı düşünün</value>
   </data>
+  <data name="news" xml:space="preserve">
+    <value>Haberler</value>
+  </data>
+  <data name="world" xml:space="preserve">
+    <value>Dünya</value>
+  </data>
+  <data name="wars" xml:space="preserve">
+    <value>Savaşlar</value>
+  </data>
 </root>

@@ -802,4 +802,13 @@ Um novo ano chegou. Desejamos a vocês um feliz ano novo. Que este novo ano seja
   <data name="consider_reducing_airforce_equipment_factories" xml:space="preserve">
     <value>Considere reduzir o número de fábricas de equipamento da força aérea</value>
   </data>
+  <data name="news" xml:space="preserve">
+    <value>Notícias</value>
+  </data>
+  <data name="world" xml:space="preserve">
+    <value>Mundo</value>
+  </data>
+  <data name="wars" xml:space="preserve">
+    <value>Guerras</value>
+  </data>
 </root>

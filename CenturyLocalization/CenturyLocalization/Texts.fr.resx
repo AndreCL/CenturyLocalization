@@ -824,4 +824,13 @@ Une fois que la tension mondiale atteint 100 %, une guerre mondiale est déclenc
   <data name="consider_reducing_airforce_equipment_factories" xml:space="preserve">
     <value>Envisagez de réduire le nombre des usines d'équipement de l'armée de l'air</value>
   </data>
+  <data name="news" xml:space="preserve">
+    <value>Actualités</value>
+  </data>
+  <data name="world" xml:space="preserve">
+    <value>Monde</value>
+  </data>
+  <data name="wars" xml:space="preserve">
+    <value>Guerres</value>
+  </data>
 </root>

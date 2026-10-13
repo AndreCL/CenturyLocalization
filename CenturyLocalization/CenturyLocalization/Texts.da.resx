@@ -805,4 +805,13 @@ Når verdensspændingen når 100 %, udløses en verdenskrig, og værdien nulstil
   <data name="consider_reducing_airforce_equipment_factories" xml:space="preserve">
     <value>Overvej at reducere antallet af fabrikker til luftvåbenudstyr</value>
   </data>
+  <data name="news" xml:space="preserve">
+    <value>Nyheder</value>
+  </data>
+  <data name="world" xml:space="preserve">
+    <value>Verden</value>
+  </data>
+  <data name="wars" xml:space="preserve">
+    <value>Krige</value>
+  </data>
 </root>

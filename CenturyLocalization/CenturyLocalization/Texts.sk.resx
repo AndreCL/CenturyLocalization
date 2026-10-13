@@ -822,4 +822,13 @@ Keď svetové napätie dosiahne 100%, spustí sa svetová vojna a resetuje sa.
   <data name="consider_reducing_airforce_equipment_factories" xml:space="preserve">
     <value>Zvážte zníženie počtu tovární na letecké vybavenie</value>
   </data>
+  <data name="news" xml:space="preserve">
+    <value>Správy</value>
+  </data>
+  <data name="world" xml:space="preserve">
+    <value>Svet</value>
+  </data>
+  <data name="wars" xml:space="preserve">
+    <value>Vojny</value>
+  </data>
 </root>

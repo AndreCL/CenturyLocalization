@@ -806,4 +806,13 @@ Una vez que la tensión mundial alcanza el 100 %, se desencadena una guerra mund
   <data name="consider_reducing_airforce_equipment_factories" xml:space="preserve">
     <value>Considera reducir el número de fábricas de equipo de la fuerza aérea</value>
   </data>
+  <data name="news" xml:space="preserve">
+    <value>Noticias</value>
+  </data>
+  <data name="world" xml:space="preserve">
+    <value>Mundo</value>
+  </data>
+  <data name="wars" xml:space="preserve">
+    <value>Guerras</value>
+  </data>
 </root>

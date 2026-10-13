@@ -804,4 +804,13 @@ Sobald die Weltspannung 100 % erreicht, wird ein Weltkrieg ausgelöst und der We
   <data name="consider_reducing_airforce_equipment_factories" xml:space="preserve">
     <value>Erwägen Sie, die Anzahl der Luftwaffenausrüstungsfabriken zu verringern</value>
   </data>
+  <data name="news" xml:space="preserve">
+    <value>Nachrichten</value>
+  </data>
+  <data name="world" xml:space="preserve">
+    <value>Welt</value>
+  </data>
+  <data name="wars" xml:space="preserve">
+    <value>Kriege</value>
+  </data>
 </root>

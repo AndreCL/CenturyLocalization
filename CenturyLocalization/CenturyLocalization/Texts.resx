@@ -828,4 +828,13 @@ Once the World Tension reaches 100%, a World War is triggered and it resets.
   <data name="consider_reducing_airforce_equipment_factories" xml:space="preserve">
     <value>Consider reducing the number of air force equipment factories</value>
   </data>
+  <data name="news" xml:space="preserve">
+    <value>News</value>
+  </data>
+  <data name="world" xml:space="preserve">
+    <value>World</value>
+  </data>
+  <data name="wars" xml:space="preserve">
+    <value>Wars</value>
+  </data>
 </root>

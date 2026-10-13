@@ -1350,6 +1350,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to News.
+        /// </summary>
+        internal static string news {
+            get {
+                return ResourceManager.GetString("news", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to No.
         /// </summary>
         internal static string no {
@@ -2025,6 +2034,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Wars.
+        /// </summary>
+        internal static string wars {
+            get {
+                return ResourceManager.GetString("wars", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to {0} weeks.
         /// </summary>
         internal static string weeks {
@@ -2039,6 +2057,15 @@ namespace CenturyLocalization {
         internal static string welfare {
             get {
                 return ResourceManager.GetString("welfare", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to World.
+        /// </summary>
+        internal static string world {
+            get {
+                return ResourceManager.GetString("world", resourceCulture);
             }
         }
         

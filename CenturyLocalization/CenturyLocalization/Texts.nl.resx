@@ -804,4 +804,13 @@ Wanneer de wereldspanning 100% bereikt, wordt een wereldoorlog ontketend en word
   <data name="consider_reducing_airforce_equipment_factories" xml:space="preserve">
     <value>Overweeg het aantal fabrieken voor luchtmachtuitrusting te verminderen</value>
   </data>
+  <data name="news" xml:space="preserve">
+    <value>Nieuws</value>
+  </data>
+  <data name="world" xml:space="preserve">
+    <value>Wereld</value>
+  </data>
+  <data name="wars" xml:space="preserve">
+    <value>Oorlogen</value>
+  </data>
 </root>

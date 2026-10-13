@@ -809,4 +809,13 @@
   <data name="consider_reducing_airforce_equipment_factories" xml:space="preserve">
     <value>Подумайте о сокращении числа заводов авиационного оснащения</value>
   </data>
+  <data name="news" xml:space="preserve">
+    <value>Новости</value>
+  </data>
+  <data name="world" xml:space="preserve">
+    <value>Мир</value>
+  </data>
+  <data name="wars" xml:space="preserve">
+    <value>Войны</value>
+  </data>
 </root>
