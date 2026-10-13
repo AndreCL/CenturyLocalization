@@ -154,4 +154,16 @@
   <data name="new_alliance" xml:space="preserve">
     <value>Nová aliancia</value>
   </data>
+  <data name="dragged_into_war" xml:space="preserve">
+    <value>Vtiahnutý do vojny</value>
+  </data>
+  <data name="honored_alliance" xml:space="preserve">
+    <value>Dodržaná aliancia</value>
+  </data>
+  <data name="dishonored_alliance" xml:space="preserve">
+    <value>Porušená aliancia</value>
+  </data>
+  <data name="stay_out_of_war" xml:space="preserve">
+    <value>Zostať mimo vojny</value>
+  </data>
 </root>

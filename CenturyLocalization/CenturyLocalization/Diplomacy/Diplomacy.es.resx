@@ -154,4 +154,16 @@
   <data name="new_alliance" xml:space="preserve">
     <value>Nueva alianza</value>
   </data>
+  <data name="dragged_into_war" xml:space="preserve">
+    <value>Arrastrado a la guerra</value>
+  </data>
+  <data name="honored_alliance" xml:space="preserve">
+    <value>Alianza respetada</value>
+  </data>
+  <data name="dishonored_alliance" xml:space="preserve">
+    <value>Alianza incumplida</value>
+  </data>
+  <data name="stay_out_of_war" xml:space="preserve">
+    <value>Mantenerse al margen de la guerra</value>
+  </data>
 </root>

@@ -154,4 +154,16 @@
   <data name="new_alliance" xml:space="preserve">
     <value>Новый союз</value>
   </data>
+  <data name="dragged_into_war" xml:space="preserve">
+    <value>Втянут в войну</value>
+  </data>
+  <data name="honored_alliance" xml:space="preserve">
+    <value>Союз соблюдён</value>
+  </data>
+  <data name="dishonored_alliance" xml:space="preserve">
+    <value>Союз нарушен</value>
+  </data>
+  <data name="stay_out_of_war" xml:space="preserve">
+    <value>Остаться вне войны</value>
+  </data>
 </root>

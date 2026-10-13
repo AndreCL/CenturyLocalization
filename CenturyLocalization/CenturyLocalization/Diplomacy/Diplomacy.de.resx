@@ -154,4 +154,16 @@
   <data name="new_alliance" xml:space="preserve">
     <value>Neues Bündnis</value>
   </data>
+  <data name="dragged_into_war" xml:space="preserve">
+    <value>In den Krieg hineingezogen</value>
+  </data>
+  <data name="honored_alliance" xml:space="preserve">
+    <value>Bündnis eingehalten</value>
+  </data>
+  <data name="dishonored_alliance" xml:space="preserve">
+    <value>Bündnis gebrochen</value>
+  </data>
+  <data name="stay_out_of_war" xml:space="preserve">
+    <value>Aus dem Krieg heraushalten</value>
+  </data>
 </root>

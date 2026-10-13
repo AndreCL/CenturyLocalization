@@ -154,4 +154,16 @@
   <data name="new_alliance" xml:space="preserve">
     <value>Ny alliance</value>
   </data>
+  <data name="dragged_into_war" xml:space="preserve">
+    <value>Trukket ind i krig</value>
+  </data>
+  <data name="honored_alliance" xml:space="preserve">
+    <value>Overholdt alliance</value>
+  </data>
+  <data name="dishonored_alliance" xml:space="preserve">
+    <value>Brudt alliance</value>
+  </data>
+  <data name="stay_out_of_war" xml:space="preserve">
+    <value>Hold dig ude af krigen</value>
+  </data>
 </root>

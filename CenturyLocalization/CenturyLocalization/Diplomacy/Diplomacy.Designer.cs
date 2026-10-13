@@ -214,6 +214,33 @@ namespace CenturyLocalization.Diplomacy {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Dishonored alliance.
+        /// </summary>
+        internal static string dishonored_alliance {
+            get {
+                return ResourceManager.GetString("dishonored_alliance", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dragged into war.
+        /// </summary>
+        internal static string dragged_into_war {
+            get {
+                return ResourceManager.GetString("dragged_into_war", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Honored alliance.
+        /// </summary>
+        internal static string honored_alliance {
+            get {
+                return ResourceManager.GetString("honored_alliance", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Leave alliance.
         /// </summary>
         internal static string leave_alliance {
@@ -228,6 +255,15 @@ namespace CenturyLocalization.Diplomacy {
         internal static string new_alliance {
             get {
                 return ResourceManager.GetString("new_alliance", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Stay out of the war.
+        /// </summary>
+        internal static string stay_out_of_war {
+            get {
+                return ResourceManager.GetString("stay_out_of_war", resourceCulture);
             }
         }
     }
