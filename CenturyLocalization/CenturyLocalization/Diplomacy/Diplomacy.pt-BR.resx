@@ -166,4 +166,10 @@
   <data name="stay_out_of_war" xml:space="preserve">
     <value>Ficar fora da guerra</value>
   </data>
+  <data name="invite_alliance" xml:space="preserve">
+    <value>Convidar para a aliança</value>
+  </data>
+  <data name="offer_alliance" xml:space="preserve">
+    <value>Oferecer aliança</value>
+  </data>
 </root>

@@ -241,6 +241,15 @@ namespace CenturyLocalization.Diplomacy {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Invite to alliance.
+        /// </summary>
+        internal static string invite_alliance {
+            get {
+                return ResourceManager.GetString("invite_alliance", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Leave alliance.
         /// </summary>
         internal static string leave_alliance {
@@ -255,6 +264,15 @@ namespace CenturyLocalization.Diplomacy {
         internal static string new_alliance {
             get {
                 return ResourceManager.GetString("new_alliance", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Offer alliance.
+        /// </summary>
+        internal static string offer_alliance {
+            get {
+                return ResourceManager.GetString("offer_alliance", resourceCulture);
             }
         }
         
