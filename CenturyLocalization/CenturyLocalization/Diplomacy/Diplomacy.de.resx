@@ -172,4 +172,7 @@
   <data name="offer_alliance" xml:space="preserve">
     <value>Bündnis anbieten</value>
   </data>
+  <data name="rejected_alliance" xml:space="preserve">
+    <value>Bündnis abgelehnt</value>
+  </data>
 </root>

@@ -277,6 +277,15 @@ namespace CenturyLocalization.Diplomacy {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Rejected alliance.
+        /// </summary>
+        internal static string rejected_alliance {
+            get {
+                return ResourceManager.GetString("rejected_alliance", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Stay out of the war.
         /// </summary>
         internal static string stay_out_of_war {

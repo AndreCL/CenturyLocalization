@@ -172,4 +172,7 @@
   <data name="offer_alliance" xml:space="preserve">
     <value>عرض تحالف</value>
   </data>
+  <data name="rejected_alliance" xml:space="preserve">
+    <value>تحالف مرفوض</value>
+  </data>
 </root>
