@@ -61,6 +61,15 @@ namespace CenturyLocalization.Diplomacy {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Accept alliance invitation.
+        /// </summary>
+        internal static string accept_alliance_invitation {
+            get {
+                return ResourceManager.GetString("accept_alliance_invitation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Allies.
         /// </summary>
         internal static string diplomacy_allies {
@@ -250,6 +259,15 @@ namespace CenturyLocalization.Diplomacy {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Join alliance.
+        /// </summary>
+        internal static string join_alliance {
+            get {
+                return ResourceManager.GetString("join_alliance", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Leave alliance.
         /// </summary>
         internal static string leave_alliance {
@@ -273,6 +291,15 @@ namespace CenturyLocalization.Diplomacy {
         internal static string offer_alliance {
             get {
                 return ResourceManager.GetString("offer_alliance", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Reject alliance invitation.
+        /// </summary>
+        internal static string reject_alliance_invitation {
+            get {
+                return ResourceManager.GetString("reject_alliance_invitation", resourceCulture);
             }
         }
         

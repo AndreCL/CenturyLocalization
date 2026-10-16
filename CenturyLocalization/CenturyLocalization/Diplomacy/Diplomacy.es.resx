@@ -175,4 +175,13 @@
   <data name="rejected_alliance" xml:space="preserve">
     <value>Alianza rechazada</value>
   </data>
+  <data name="join_alliance" xml:space="preserve">
+    <value>Unirse a la alianza</value>
+  </data>
+  <data name="accept_alliance_invitation" xml:space="preserve">
+    <value>Aceptar invitación a la alianza</value>
+  </data>
+  <data name="reject_alliance_invitation" xml:space="preserve">
+    <value>Rechazar invitación a la alianza</value>
+  </data>
 </root>

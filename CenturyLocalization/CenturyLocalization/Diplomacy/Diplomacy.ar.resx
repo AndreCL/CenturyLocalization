@@ -175,4 +175,13 @@
   <data name="rejected_alliance" xml:space="preserve">
     <value>تحالف مرفوض</value>
   </data>
+  <data name="join_alliance" xml:space="preserve">
+    <value>الانضمام إلى التحالف</value>
+  </data>
+  <data name="accept_alliance_invitation" xml:space="preserve">
+    <value>قبول دعوة التحالف</value>
+  </data>
+  <data name="reject_alliance_invitation" xml:space="preserve">
+    <value>رفض دعوة التحالف</value>
+  </data>
 </root>
