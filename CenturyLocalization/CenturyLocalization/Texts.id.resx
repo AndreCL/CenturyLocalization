@@ -816,7 +816,10 @@ Ketika Ketegangan Dunia mencapai 100%, Perang Dunia akan dipicu dan nilainya dia
   <data name="policy_changes" xml:space="preserve">
     <value>Perubahan kebijakan tersedia: {0}</value>
   </data>
-  <data name="policy_changes_daily_increase" xml:space="preserve">
+  <data name="daily_increase" xml:space="preserve">
     <value>Peningkatan harian: {0}</value>
+  </data>
+  <data name="diplomatic_actions" xml:space="preserve">
+    <value>Tindakan diplomatik yang tersedia: {0}</value>
   </data>
 </root>

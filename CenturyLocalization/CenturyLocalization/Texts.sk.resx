@@ -834,7 +834,10 @@ Keď svetové napätie dosiahne 100%, spustí sa svetová vojna a resetuje sa.
   <data name="policy_changes" xml:space="preserve">
     <value>Dostupné zmeny politiky: {0}</value>
   </data>
-  <data name="policy_changes_daily_increase" xml:space="preserve">
+  <data name="daily_increase" xml:space="preserve">
     <value>Denný prírastok: {0}</value>
+  </data>
+  <data name="diplomatic_actions" xml:space="preserve">
+    <value>Dostupné diplomatické akcie: {0}</value>
   </data>
 </root>

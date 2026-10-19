@@ -814,7 +814,10 @@ Um novo ano chegou. Desejamos a vocês um feliz ano novo. Que este novo ano seja
   <data name="policy_changes" xml:space="preserve">
     <value>Alterações de política disponíveis: {0}</value>
   </data>
-  <data name="policy_changes_daily_increase" xml:space="preserve">
+  <data name="daily_increase" xml:space="preserve">
     <value>Aumento diário: {0}</value>
+  </data>
+  <data name="diplomatic_actions" xml:space="preserve">
+    <value>Ações diplomáticas disponíveis: {0}</value>
   </data>
 </root>

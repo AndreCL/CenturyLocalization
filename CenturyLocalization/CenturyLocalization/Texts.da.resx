@@ -817,7 +817,10 @@ Når verdensspændingen når 100 %, udløses en verdenskrig, og værdien nulstil
   <data name="policy_changes" xml:space="preserve">
     <value>Tilgængelige politikændringer: {0}</value>
   </data>
-  <data name="policy_changes_daily_increase" xml:space="preserve">
+  <data name="daily_increase" xml:space="preserve">
     <value>Daglig stigning: {0}</value>
+  </data>
+  <data name="diplomatic_actions" xml:space="preserve">
+    <value>Tilgængelige diplomatiske handlinger: {0}</value>
   </data>
 </root>

@@ -841,8 +841,12 @@ Once the World Tension reaches 100%, a World War is triggered and it resets.
     <value>Policy changes available: {0}</value>
     <comment>Where {0} is the available policy changes / the maximum available policy changes (example: 1/1)</comment>
   </data>
-  <data name="policy_changes_daily_increase" xml:space="preserve">
+  <data name="daily_increase" xml:space="preserve">
     <value>Daily increase: {0}</value>
     <comment>Where {0} is the daily increase in available policy changes</comment>
+  </data>
+  <data name="diplomatic_actions" xml:space="preserve">
+    <value>Diplomatic actions available: {0}</value>
+    <comment>Where {0} is the available diplomatic actions / the maximum available diplomatic actions (example: 1/1)</comment>
   </data>
 </root>

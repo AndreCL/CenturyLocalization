@@ -835,7 +835,10 @@
   <data name="policy_changes" xml:space="preserve">
     <value>Kullanılabilir politika değişiklikleri: {0}</value>
   </data>
-  <data name="policy_changes_daily_increase" xml:space="preserve">
+  <data name="daily_increase" xml:space="preserve">
     <value>Günlük artış: {0}</value>
+  </data>
+  <data name="diplomatic_actions" xml:space="preserve">
+    <value>Kullanılabilir diplomatik eylemler: {0}</value>
   </data>
 </root>

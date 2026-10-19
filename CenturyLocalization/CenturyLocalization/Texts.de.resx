@@ -816,7 +816,10 @@ Sobald die Weltspannung 100 % erreicht, wird ein Weltkrieg ausgelöst und der We
   <data name="policy_changes" xml:space="preserve">
     <value>Verfügbare Richtlinienänderungen: {0}</value>
   </data>
-  <data name="policy_changes_daily_increase" xml:space="preserve">
+  <data name="daily_increase" xml:space="preserve">
     <value>Tägliche Zunahme: {0}</value>
+  </data>
+  <data name="diplomatic_actions" xml:space="preserve">
+    <value>Verfügbare diplomatische Aktionen: {0}</value>
   </data>
 </root>

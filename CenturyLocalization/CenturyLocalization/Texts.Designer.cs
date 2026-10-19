@@ -466,6 +466,15 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Daily increase: {0}.
+        /// </summary>
+        internal static string daily_increase {
+            get {
+                return ResourceManager.GetString("daily_increase", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Daily infamy decrease modifier.
         /// </summary>
         internal static string daily_infamy_decrease_modifier {
@@ -588,6 +597,15 @@ namespace CenturyLocalization {
         internal static string difficulty_level {
             get {
                 return ResourceManager.GetString("difficulty_level", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Diplomatic actions available: {0}.
+        /// </summary>
+        internal static string diplomatic_actions {
+            get {
+                return ResourceManager.GetString("diplomatic_actions", resourceCulture);
             }
         }
         
@@ -1499,15 +1517,6 @@ namespace CenturyLocalization {
         internal static string policy_changes {
             get {
                 return ResourceManager.GetString("policy_changes", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Daily increase: {0}.
-        /// </summary>
-        internal static string policy_changes_daily_increase {
-            get {
-                return ResourceManager.GetString("policy_changes_daily_increase", resourceCulture);
             }
         }
         

@@ -818,7 +818,10 @@ Una vez que la tensión mundial alcanza el 100 %, se desencadena una guerra mund
   <data name="policy_changes" xml:space="preserve">
     <value>Cambios de política disponibles: {0}</value>
   </data>
-  <data name="policy_changes_daily_increase" xml:space="preserve">
+  <data name="daily_increase" xml:space="preserve">
     <value>Aumento diario: {0}</value>
+  </data>
+  <data name="diplomatic_actions" xml:space="preserve">
+    <value>Acciones diplomáticas disponibles: {0}</value>
   </data>
 </root>
