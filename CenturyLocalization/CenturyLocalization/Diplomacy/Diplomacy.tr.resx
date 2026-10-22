@@ -184,4 +184,10 @@
   <data name="reject_alliance_invitation" xml:space="preserve">
     <value>İttifak davetini reddet</value>
   </data>
+  <data name="sent_materiel_volunteers" xml:space="preserve">
+    <value>Askeri malzeme ve gönüllü gönderdi</value>
+  </data>
+  <data name="sent_materiel_volunteers_enemy" xml:space="preserve">
+    <value>Düşmana askeri malzeme ve gönüllü gönderdi</value>
+  </data>
 </root>

@@ -184,4 +184,10 @@
   <data name="reject_alliance_invitation" xml:space="preserve">
     <value>Uitnodiging voor alliantie afwijzen</value>
   </data>
+  <data name="sent_materiel_volunteers" xml:space="preserve">
+    <value>Militair materieel en vrijwilligers gestuurd</value>
+  </data>
+  <data name="sent_materiel_volunteers_enemy" xml:space="preserve">
+    <value>Militair materieel en vrijwilligers naar de vijand gestuurd</value>
+  </data>
 </root>

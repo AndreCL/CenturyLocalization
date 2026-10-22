@@ -313,6 +313,24 @@ namespace CenturyLocalization.Diplomacy {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Sent materiel and volunteers.
+        /// </summary>
+        internal static string sent_materiel_volunteers {
+            get {
+                return ResourceManager.GetString("sent_materiel_volunteers", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sent materiel and volunteers to enemy.
+        /// </summary>
+        internal static string sent_materiel_volunteers_enemy {
+            get {
+                return ResourceManager.GetString("sent_materiel_volunteers_enemy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Stay out of the war.
         /// </summary>
         internal static string stay_out_of_war {

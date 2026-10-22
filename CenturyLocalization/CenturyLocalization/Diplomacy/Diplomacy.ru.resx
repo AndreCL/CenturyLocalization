@@ -184,4 +184,10 @@
   <data name="reject_alliance_invitation" xml:space="preserve">
     <value>Отклонить приглашение в союз</value>
   </data>
+  <data name="sent_materiel_volunteers" xml:space="preserve">
+    <value>Отправил военное снаряжение и добровольцев</value>
+  </data>
+  <data name="sent_materiel_volunteers_enemy" xml:space="preserve">
+    <value>Отправил военное снаряжение и добровольцев врагу</value>
+  </data>
 </root>

@@ -184,4 +184,10 @@
   <data name="reject_alliance_invitation" xml:space="preserve">
     <value>Tolak undangan aliansi</value>
   </data>
+  <data name="sent_materiel_volunteers" xml:space="preserve">
+    <value>Mengirim perlengkapan militer dan sukarelawan</value>
+  </data>
+  <data name="sent_materiel_volunteers_enemy" xml:space="preserve">
+    <value>Mengirim perlengkapan militer dan sukarelawan kepada musuh</value>
+  </data>
 </root>

@@ -184,4 +184,10 @@
   <data name="reject_alliance_invitation" xml:space="preserve">
     <value>Bündniseinladung ablehnen</value>
   </data>
+  <data name="sent_materiel_volunteers" xml:space="preserve">
+    <value>Kriegsmaterial und Freiwillige entsandt</value>
+  </data>
+  <data name="sent_materiel_volunteers_enemy" xml:space="preserve">
+    <value>Kriegsmaterial und Freiwillige an den Feind entsandt</value>
+  </data>
 </root>

@@ -184,4 +184,10 @@
   <data name="reject_alliance_invitation" xml:space="preserve">
     <value>Reject alliance invitation</value>
   </data>
+  <data name="sent_materiel_volunteers" xml:space="preserve">
+    <value>Sent materiel and volunteers</value>
+  </data>
+  <data name="sent_materiel_volunteers_enemy" xml:space="preserve">
+    <value>Sent materiel and volunteers to enemy</value>
+  </data>
 </root>
