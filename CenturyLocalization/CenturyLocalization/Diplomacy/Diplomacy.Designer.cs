@@ -313,6 +313,15 @@ namespace CenturyLocalization.Diplomacy {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Sent aid.
+        /// </summary>
+        internal static string sent_aid {
+            get {
+                return ResourceManager.GetString("sent_aid", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Sent materiel and volunteers.
         /// </summary>
         internal static string sent_materiel_volunteers {

@@ -190,4 +190,7 @@
   <data name="sent_materiel_volunteers_enemy" xml:space="preserve">
     <value>إرسال عتاد عسكري ومتطوعين إلى العدو</value>
   </data>
+  <data name="sent_aid" xml:space="preserve">
+    <value>إرسال مساعدات</value>
+  </data>
 </root>

@@ -190,4 +190,7 @@
   <data name="sent_materiel_volunteers_enemy" xml:space="preserve">
     <value>Militair materieel en vrijwilligers naar de vijand gestuurd</value>
   </data>
+  <data name="sent_aid" xml:space="preserve">
+    <value>Hulp gestuurd</value>
+  </data>
 </root>
