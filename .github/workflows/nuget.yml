@@ -29,4 +29,4 @@ jobs:
       with:
         user: ${{ secrets.NUGET_USER }}
     - name: Publish the NuGet package
-      run: dotnet nuget push **/*.nupkg --api-key ${{ steps.login.outputs.NUGET_API_KEY }} --source
+      run: dotnet nuget push **/*.nupkg --api-key ${{ steps.login.outputs.NUGET_API_KEY }} --source https://api.nuget.org/v3/index.json --no-symbols
