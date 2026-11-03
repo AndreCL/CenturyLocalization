@@ -1,0 +1,1166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="province_aceh" xml:space="preserve">
+    <value>آتشيه</value>
+  </data>
+  <data name="province_acre" xml:space="preserve">
+    <value>أكري</value>
+  </data>
+  <data name="province_aden_protectorate" xml:space="preserve">
+    <value>محمية عدن</value>
+  </data>
+  <data name="province_afghanistan" xml:space="preserve">
+    <value>أفغانستان</value>
+  </data>
+  <data name="province_agadez" xml:space="preserve">
+    <value>أغاديز</value>
+  </data>
+  <data name="province_alaska" xml:space="preserve">
+    <value>ألاسكا</value>
+  </data>
+  <data name="province_albania" xml:space="preserve">
+    <value>ألبانيا</value>
+  </data>
+  <data name="province_alberta" xml:space="preserve">
+    <value>ألبرتا</value>
+  </data>
+  <data name="province_algeria" xml:space="preserve">
+    <value>الجزائر</value>
+  </data>
+  <data name="province_algerian_sahara_east" xml:space="preserve">
+    <value>الصحراء الجزائرية الشرقية</value>
+  </data>
+  <data name="province_algerian_sahara_west" xml:space="preserve">
+    <value>الصحراء الجزائرية الغربية</value>
+  </data>
+  <data name="province_alsace_lorraine" xml:space="preserve">
+    <value>الألزاس واللورين</value>
+  </data>
+  <data name="province_amazonas" xml:space="preserve">
+    <value>الأمازون</value>
+  </data>
+  <data name="province_anatolia" xml:space="preserve">
+    <value>الأناضول</value>
+  </data>
+  <data name="province_andorra" xml:space="preserve">
+    <value>أندورا</value>
+  </data>
+  <data name="province_anglo_egyptian_sudan" xml:space="preserve">
+    <value>السودان الإنجليزي المصري</value>
+  </data>
+  <data name="province_angoche" xml:space="preserve">
+    <value>أنغوش</value>
+  </data>
+  <data name="province_angola" xml:space="preserve">
+    <value>أنغولا</value>
+  </data>
+  <data name="province_ankole" xml:space="preserve">
+    <value>أنكولي</value>
+  </data>
+  <data name="province_arctic_archipelago" xml:space="preserve">
+    <value>الأرخبيل القطبي الشمالي</value>
+  </data>
+  <data name="province_armenia" xml:space="preserve">
+    <value>أرمينيا</value>
+  </data>
+  <data name="province_aro_confederacy" xml:space="preserve">
+    <value>اتحاد آرو</value>
+  </data>
+  <data name="province_ashanti" xml:space="preserve">
+    <value>أشانتي</value>
+  </data>
+  <data name="province_assam" xml:space="preserve">
+    <value>آسام</value>
+  </data>
+  <data name="province_aussa" xml:space="preserve">
+    <value>أوسا</value>
+  </data>
+  <data name="province_austria" xml:space="preserve">
+    <value>النمسا</value>
+  </data>
+  <data name="province_azawad" xml:space="preserve">
+    <value>أزواد</value>
+  </data>
+  <data name="province_azerbaijan" xml:space="preserve">
+    <value>أذربيجان</value>
+  </data>
+  <data name="province_baffin_island" xml:space="preserve">
+    <value>جزيرة بافين</value>
+  </data>
+  <data name="province_bahia" xml:space="preserve">
+    <value>باهيا</value>
+  </data>
+  <data name="province_baikal" xml:space="preserve">
+    <value>بايكال</value>
+  </data>
+  <data name="province_baja_california" xml:space="preserve">
+    <value>باجا كاليفورنيا</value>
+  </data>
+  <data name="province_bali" xml:space="preserve">
+    <value>بالي</value>
+  </data>
+  <data name="province_balochistan" xml:space="preserve">
+    <value>بلوشستان</value>
+  </data>
+  <data name="province_baluchistan" xml:space="preserve">
+    <value>بلوشستان</value>
+  </data>
+  <data name="province_basque_country" xml:space="preserve">
+    <value>بلاد الباسك</value>
+  </data>
+  <data name="province_basutoland" xml:space="preserve">
+    <value>باسوتولاند</value>
+  </data>
+  <data name="province_bechuanaland" xml:space="preserve">
+    <value>بيتشوانالاند</value>
+  </data>
+  <data name="province_belarus" xml:space="preserve">
+    <value>بيلاروس</value>
+  </data>
+  <data name="province_belgium" xml:space="preserve">
+    <value>بلجيكا</value>
+  </data>
+  <data name="province_bengal" xml:space="preserve">
+    <value>البنغال</value>
+  </data>
+  <data name="province_bhutan" xml:space="preserve">
+    <value>بوتان</value>
+  </data>
+  <data name="province_bihar" xml:space="preserve">
+    <value>بيهار</value>
+  </data>
+  <data name="province_bismarck_archipelago" xml:space="preserve">
+    <value>أرخبيل بسمارك</value>
+  </data>
+  <data name="province_bolivia" xml:space="preserve">
+    <value>بوليفيا</value>
+  </data>
+  <data name="province_bombay" xml:space="preserve">
+    <value>بومباي</value>
+  </data>
+  <data name="province_bosnia" xml:space="preserve">
+    <value>البوسنة</value>
+  </data>
+  <data name="province_british_columbia" xml:space="preserve">
+    <value>كولومبيا البريطانية</value>
+  </data>
+  <data name="province_british_guiana" xml:space="preserve">
+    <value>غويانا البريطانية</value>
+  </data>
+  <data name="province_british_somaliland" xml:space="preserve">
+    <value>الصومال البريطاني</value>
+  </data>
+  <data name="province_buenos_aires" xml:space="preserve">
+    <value>بوينس آيرس</value>
+  </data>
+  <data name="province_bulgaria" xml:space="preserve">
+    <value>بلغاريا</value>
+  </data>
+  <data name="province_burma" xml:space="preserve">
+    <value>بورما</value>
+  </data>
+  <data name="province_cabinda" xml:space="preserve">
+    <value>كابيندا</value>
+  </data>
+  <data name="province_california" xml:space="preserve">
+    <value>كاليفورنيا</value>
+  </data>
+  <data name="province_cambodia" xml:space="preserve">
+    <value>كمبوديا</value>
+  </data>
+  <data name="province_cape_colony" xml:space="preserve">
+    <value>مستعمرة الرأس</value>
+  </data>
+  <data name="province_catalonia" xml:space="preserve">
+    <value>كتالونيا</value>
+  </data>
+  <data name="province_ceara" xml:space="preserve">
+    <value>سيارا</value>
+  </data>
+  <data name="province_central_india" xml:space="preserve">
+    <value>وسط الهند</value>
+  </data>
+  <data name="province_central_mexico" xml:space="preserve">
+    <value>وسط المكسيك</value>
+  </data>
+  <data name="province_central_provinces" xml:space="preserve">
+    <value>الأقاليم الوسطى</value>
+  </data>
+  <data name="province_central_russia" xml:space="preserve">
+    <value>وسط روسيا</value>
+  </data>
+  <data name="province_ceylon" xml:space="preserve">
+    <value>سيلان</value>
+  </data>
+  <data name="province_chaco_boreal" xml:space="preserve">
+    <value>شاكو الشمالية</value>
+  </data>
+  <data name="province_champasak" xml:space="preserve">
+    <value>تشامباساك</value>
+  </data>
+  <data name="province_chiapas" xml:space="preserve">
+    <value>تشياباس</value>
+  </data>
+  <data name="province_chile" xml:space="preserve">
+    <value>تشيلي</value>
+  </data>
+  <data name="province_colombia" xml:space="preserve">
+    <value>كولومبيا</value>
+  </data>
+  <data name="province_cordoba" xml:space="preserve">
+    <value>كوردوبا</value>
+  </data>
+  <data name="province_costa_rica" xml:space="preserve">
+    <value>كوستاريكا</value>
+  </data>
+  <data name="province_croatia" xml:space="preserve">
+    <value>كرواتيا</value>
+  </data>
+  <data name="province_cuba" xml:space="preserve">
+    <value>كوبا</value>
+  </data>
+  <data name="province_cuyo" xml:space="preserve">
+    <value>كويو</value>
+  </data>
+  <data name="province_cyrenaica" xml:space="preserve">
+    <value>برقة</value>
+  </data>
+  <data name="province_czech_lands" xml:space="preserve">
+    <value>الأراضي التشيكية</value>
+  </data>
+  <data name="province_dahomey" xml:space="preserve">
+    <value>داهومي</value>
+  </data>
+  <data name="province_darfur" xml:space="preserve">
+    <value>دارفور</value>
+  </data>
+  <data name="province_denmark" xml:space="preserve">
+    <value>الدنمارك</value>
+  </data>
+  <data name="province_dhofar" xml:space="preserve">
+    <value>ظفار</value>
+  </data>
+  <data name="province_diyarbakir" xml:space="preserve">
+    <value>ديار بكر</value>
+  </data>
+  <data name="province_dominican_republic" xml:space="preserve">
+    <value>جمهورية الدومينيكان</value>
+  </data>
+  <data name="province_dutch_guiana" xml:space="preserve">
+    <value>غويانا الهولندية</value>
+  </data>
+  <data name="province_dzungaria" xml:space="preserve">
+    <value>جنغاريا</value>
+  </data>
+  <data name="province_east_bengal" xml:space="preserve">
+    <value>شرق البنغال</value>
+  </data>
+  <data name="province_east_galicia" xml:space="preserve">
+    <value>شرق غاليسيا</value>
+  </data>
+  <data name="province_east_prussia" xml:space="preserve">
+    <value>بروسيا الشرقية</value>
+  </data>
+  <data name="province_east_punjab" xml:space="preserve">
+    <value>شرق البنجاب</value>
+  </data>
+  <data name="province_east_thrace" xml:space="preserve">
+    <value>تراقيا الشرقية</value>
+  </data>
+  <data name="province_eastern_kazakhstan" xml:space="preserve">
+    <value>شرق كازاخستان</value>
+  </data>
+  <data name="province_eastern_sakha" xml:space="preserve">
+    <value>شرق ساخا</value>
+  </data>
+  <data name="province_ecuador" xml:space="preserve">
+    <value>الإكوادور</value>
+  </data>
+  <data name="province_egypt" xml:space="preserve">
+    <value>مصر</value>
+  </data>
+  <data name="province_el_bajio" xml:space="preserve">
+    <value>إل باخيو</value>
+  </data>
+  <data name="province_el_salvador" xml:space="preserve">
+    <value>السلفادور</value>
+  </data>
+  <data name="province_england" xml:space="preserve">
+    <value>إنجلترا</value>
+  </data>
+  <data name="province_epirus" xml:space="preserve">
+    <value>إبيروس</value>
+  </data>
+  <data name="province_equateur" xml:space="preserve">
+    <value>إكواتور</value>
+  </data>
+  <data name="province_equatoria" xml:space="preserve">
+    <value>الاستوائية</value>
+  </data>
+  <data name="province_eritrea" xml:space="preserve">
+    <value>إريتريا</value>
+  </data>
+  <data name="province_espirito_santo" xml:space="preserve">
+    <value>إسبيريتو سانتو</value>
+  </data>
+  <data name="province_estonia" xml:space="preserve">
+    <value>إستونيا</value>
+  </data>
+  <data name="province_ethiopia" xml:space="preserve">
+    <value>إثيوبيا</value>
+  </data>
+  <data name="province_finland" xml:space="preserve">
+    <value>فنلندا</value>
+  </data>
+  <data name="province_formosa" xml:space="preserve">
+    <value>فورموزا</value>
+  </data>
+  <data name="province_france_north" xml:space="preserve">
+    <value>شمال فرنسا</value>
+  </data>
+  <data name="province_france_south" xml:space="preserve">
+    <value>جنوب فرنسا</value>
+  </data>
+  <data name="province_french_chad" xml:space="preserve">
+    <value>تشاد الفرنسية</value>
+  </data>
+  <data name="province_french_congo" xml:space="preserve">
+    <value>الكونغو الفرنسية</value>
+  </data>
+  <data name="province_french_guiana" xml:space="preserve">
+    <value>غويانا الفرنسية</value>
+  </data>
+  <data name="province_french_somaliland" xml:space="preserve">
+    <value>الصومال الفرنسي</value>
+  </data>
+  <data name="province_french_sudan" xml:space="preserve">
+    <value>السودان الفرنسي</value>
+  </data>
+  <data name="province_fujian" xml:space="preserve">
+    <value>فوجيان</value>
+  </data>
+  <data name="province_gambia" xml:space="preserve">
+    <value>غامبيا</value>
+  </data>
+  <data name="province_gansu" xml:space="preserve">
+    <value>غانسو</value>
+  </data>
+  <data name="province_georgia" xml:space="preserve">
+    <value>جورجيا</value>
+  </data>
+  <data name="province_german_east_africa" xml:space="preserve">
+    <value>شرق أفريقيا الألماني</value>
+  </data>
+  <data name="province_german_south_west_africa" xml:space="preserve">
+    <value>جنوب غرب أفريقيا الألماني</value>
+  </data>
+  <data name="province_germany_north" xml:space="preserve">
+    <value>شمال ألمانيا</value>
+  </data>
+  <data name="province_germany_south" xml:space="preserve">
+    <value>جنوب ألمانيا</value>
+  </data>
+  <data name="province_goa" xml:space="preserve">
+    <value>غوا</value>
+  </data>
+  <data name="province_goias" xml:space="preserve">
+    <value>غوياس</value>
+  </data>
+  <data name="province_gold_coast_colony" xml:space="preserve">
+    <value>مستعمرة ساحل الذهب</value>
+  </data>
+  <data name="province_gran_chaco" xml:space="preserve">
+    <value>غران شاكو</value>
+  </data>
+  <data name="province_great_lakes" xml:space="preserve">
+    <value>البحيرات العظمى</value>
+  </data>
+  <data name="province_great_plains" xml:space="preserve">
+    <value>السهول العظمى</value>
+  </data>
+  <data name="province_greece" xml:space="preserve">
+    <value>اليونان</value>
+  </data>
+  <data name="province_greenland" xml:space="preserve">
+    <value>غرينلاند</value>
+  </data>
+  <data name="province_guangdong" xml:space="preserve">
+    <value>قوانغدونغ</value>
+  </data>
+  <data name="province_guangxi" xml:space="preserve">
+    <value>قوانغشي</value>
+  </data>
+  <data name="province_guatemala" xml:space="preserve">
+    <value>غواتيمالا</value>
+  </data>
+  <data name="province_guinea" xml:space="preserve">
+    <value>غينيا</value>
+  </data>
+  <data name="province_guizhou" xml:space="preserve">
+    <value>قويتشو</value>
+  </data>
+  <data name="province_gujarat" xml:space="preserve">
+    <value>غوجارات</value>
+  </data>
+  <data name="province_gulf_coast" xml:space="preserve">
+    <value>ساحل الخليج</value>
+  </data>
+  <data name="province_haiti" xml:space="preserve">
+    <value>هايتي</value>
+  </data>
+  <data name="province_hasa" xml:space="preserve">
+    <value>الأحساء</value>
+  </data>
+  <data name="province_hawaii" xml:space="preserve">
+    <value>هاواي</value>
+  </data>
+  <data name="province_henan" xml:space="preserve">
+    <value>خنان</value>
+  </data>
+  <data name="province_honduras" xml:space="preserve">
+    <value>هندوراس</value>
+  </data>
+  <data name="province_hubei" xml:space="preserve">
+    <value>هوبي</value>
+  </data>
+  <data name="province_hunan" xml:space="preserve">
+    <value>هونان</value>
+  </data>
+  <data name="province_hungary" xml:space="preserve">
+    <value>المجر</value>
+  </data>
+  <data name="province_hyderabad" xml:space="preserve">
+    <value>حيدر آباد</value>
+  </data>
+  <data name="province_iceland" xml:space="preserve">
+    <value>آيسلندا</value>
+  </data>
+  <data name="province_inner_mongolia" xml:space="preserve">
+    <value>منغوليا الداخلية</value>
+  </data>
+  <data name="province_iraq" xml:space="preserve">
+    <value>العراق</value>
+  </data>
+  <data name="province_ireland" xml:space="preserve">
+    <value>أيرلندا</value>
+  </data>
+  <data name="province_istanbul" xml:space="preserve">
+    <value>إسطنبول</value>
+  </data>
+  <data name="province_italian_somalia" xml:space="preserve">
+    <value>الصومال الإيطالي</value>
+  </data>
+  <data name="province_italy_north" xml:space="preserve">
+    <value>شمال إيطاليا</value>
+  </data>
+  <data name="province_italy_south" xml:space="preserve">
+    <value>جنوب إيطاليا</value>
+  </data>
+  <data name="province_ivory_coast" xml:space="preserve">
+    <value>ساحل العاج</value>
+  </data>
+  <data name="province_jammu_and_kashmir" xml:space="preserve">
+    <value>جامو وكشمير</value>
+  </data>
+  <data name="province_japan" xml:space="preserve">
+    <value>اليابان</value>
+  </data>
+  <data name="province_java" xml:space="preserve">
+    <value>جاوة</value>
+  </data>
+  <data name="province_jerusalem" xml:space="preserve">
+    <value>القدس</value>
+  </data>
+  <data name="province_jiangnan" xml:space="preserve">
+    <value>جيانغنان</value>
+  </data>
+  <data name="province_jiangxi" xml:space="preserve">
+    <value>جيانغشي</value>
+  </data>
+  <data name="province_jordan" xml:space="preserve">
+    <value>الأردن</value>
+  </data>
+  <data name="province_kaiser_wilhelmsland" xml:space="preserve">
+    <value>أرض القيصر فيلهلم</value>
+  </data>
+  <data name="province_kamchatka" xml:space="preserve">
+    <value>كامتشاتكا</value>
+  </data>
+  <data name="province_kamerun" xml:space="preserve">
+    <value>الكاميرون</value>
+  </data>
+  <data name="province_kasai" xml:space="preserve">
+    <value>كاساي</value>
+  </data>
+  <data name="province_kashgaria" xml:space="preserve">
+    <value>كاشغاريا</value>
+  </data>
+  <data name="province_katanga" xml:space="preserve">
+    <value>كاتانغا</value>
+  </data>
+  <data name="province_kazakhstan" xml:space="preserve">
+    <value>كازاخستان</value>
+  </data>
+  <data name="province_kenya" xml:space="preserve">
+    <value>كينيا</value>
+  </data>
+  <data name="province_kola" xml:space="preserve">
+    <value>كولا</value>
+  </data>
+  <data name="province_kordofan" xml:space="preserve">
+    <value>كردفان</value>
+  </data>
+  <data name="province_korea" xml:space="preserve">
+    <value>كوريا</value>
+  </data>
+  <data name="province_kosovo" xml:space="preserve">
+    <value>كوسوفو</value>
+  </data>
+  <data name="province_kyrgyzstan" xml:space="preserve">
+    <value>قيرغيزستان</value>
+  </data>
+  <data name="province_la_pampa" xml:space="preserve">
+    <value>لا بامبا</value>
+  </data>
+  <data name="province_labrador" xml:space="preserve">
+    <value>لابرادور</value>
+  </data>
+  <data name="province_laos" xml:space="preserve">
+    <value>لاوس</value>
+  </data>
+  <data name="province_latvia" xml:space="preserve">
+    <value>لاتفيا</value>
+  </data>
+  <data name="province_lebanon" xml:space="preserve">
+    <value>لبنان</value>
+  </data>
+  <data name="province_lesser_sunda_islands" xml:space="preserve">
+    <value>جزر سوندا الصغرى</value>
+  </data>
+  <data name="province_liberia" xml:space="preserve">
+    <value>ليبيريا</value>
+  </data>
+  <data name="province_liechtenstein" xml:space="preserve">
+    <value>ليختنشتاين</value>
+  </data>
+  <data name="province_lithuania" xml:space="preserve">
+    <value>ليتوانيا</value>
+  </data>
+  <data name="province_lower_congo" xml:space="preserve">
+    <value>الكونغو السفلى</value>
+  </data>
+  <data name="province_lower_mississippi" xml:space="preserve">
+    <value>المسيسيبي الأدنى</value>
+  </data>
+  <data name="province_luxembourg" xml:space="preserve">
+    <value>لوكسمبورغ</value>
+  </data>
+  <data name="province_macau" xml:space="preserve">
+    <value>ماكاو</value>
+  </data>
+  <data name="province_madagascar" xml:space="preserve">
+    <value>مدغشقر</value>
+  </data>
+  <data name="province_madras" xml:space="preserve">
+    <value>مدراس</value>
+  </data>
+  <data name="province_malaya" xml:space="preserve">
+    <value>ملايا</value>
+  </data>
+  <data name="province_malta" xml:space="preserve">
+    <value>مالطا</value>
+  </data>
+  <data name="province_manchuria" xml:space="preserve">
+    <value>منشوريا</value>
+  </data>
+  <data name="province_maniema" xml:space="preserve">
+    <value>مانيما</value>
+  </data>
+  <data name="province_manipur" xml:space="preserve">
+    <value>مانيبور</value>
+  </data>
+  <data name="province_manitoba" xml:space="preserve">
+    <value>مانيتوبا</value>
+  </data>
+  <data name="province_maranhao" xml:space="preserve">
+    <value>مارانهاو</value>
+  </data>
+  <data name="province_maritimes" xml:space="preserve">
+    <value>المقاطعات البحرية</value>
+  </data>
+  <data name="province_mato_grosso" xml:space="preserve">
+    <value>ماتو غروسو</value>
+  </data>
+  <data name="province_mauritania" xml:space="preserve">
+    <value>موريتانيا</value>
+  </data>
+  <data name="province_mesopotamia" xml:space="preserve">
+    <value>ميزوبوتاميا</value>
+  </data>
+  <data name="province_mid_atlantic" xml:space="preserve">
+    <value>وسط الأطلسي</value>
+  </data>
+  <data name="province_mid_south" xml:space="preserve">
+    <value>الجنوب الأوسط</value>
+  </data>
+  <data name="province_minas_gerais" xml:space="preserve">
+    <value>ميناس جيرايس</value>
+  </data>
+  <data name="province_moluccas" xml:space="preserve">
+    <value>جزر الملوك</value>
+  </data>
+  <data name="province_monaco" xml:space="preserve">
+    <value>موناكو</value>
+  </data>
+  <data name="province_mongolia" xml:space="preserve">
+    <value>منغوليا</value>
+  </data>
+  <data name="province_montenegro" xml:space="preserve">
+    <value>الجبل الأسود</value>
+  </data>
+  <data name="province_morocco" xml:space="preserve">
+    <value>المغرب</value>
+  </data>
+  <data name="province_mozambique" xml:space="preserve">
+    <value>موزمبيق</value>
+  </data>
+  <data name="province_muscat_and_oman" xml:space="preserve">
+    <value>مسقط وعُمان</value>
+  </data>
+  <data name="province_mysore" xml:space="preserve">
+    <value>ميسور</value>
+  </data>
+  <data name="province_natal" xml:space="preserve">
+    <value>ناتال</value>
+  </data>
+  <data name="province_nejd" xml:space="preserve">
+    <value>نجد</value>
+  </data>
+  <data name="province_nepal" xml:space="preserve">
+    <value>نيبال</value>
+  </data>
+  <data name="province_netherlands" xml:space="preserve">
+    <value>هولندا</value>
+  </data>
+  <data name="province_new_england" xml:space="preserve">
+    <value>نيو إنغلاند</value>
+  </data>
+  <data name="province_new_south_wales" xml:space="preserve">
+    <value>نيو ساوث ويلز</value>
+  </data>
+  <data name="province_new_zealand" xml:space="preserve">
+    <value>نيوزيلندا</value>
+  </data>
+  <data name="province_newfoundland" xml:space="preserve">
+    <value>نيوفاوندلاند</value>
+  </data>
+  <data name="province_nicaragua" xml:space="preserve">
+    <value>نيكاراغوا</value>
+  </data>
+  <data name="province_north_central_mexico" xml:space="preserve">
+    <value>شمال وسط المكسيك</value>
+  </data>
+  <data name="province_north_west_frontier" xml:space="preserve">
+    <value>إقليم الحدود الشمالية الغربية</value>
+  </data>
+  <data name="province_northeast_mexico" xml:space="preserve">
+    <value>شمال شرق المكسيك</value>
+  </data>
+  <data name="province_northern_patagonia" xml:space="preserve">
+    <value>شمال باتاغونيا</value>
+  </data>
+  <data name="province_northern_rhodesia" xml:space="preserve">
+    <value>روديسيا الشمالية</value>
+  </data>
+  <data name="province_northern_russia" xml:space="preserve">
+    <value>شمال روسيا</value>
+  </data>
+  <data name="province_northern_sumatra" xml:space="preserve">
+    <value>شمال سومطرة</value>
+  </data>
+  <data name="province_northern_territory_centre" xml:space="preserve">
+    <value>الإقليم الشمالي (الوسط)</value>
+  </data>
+  <data name="province_northern_territory_top_end" xml:space="preserve">
+    <value>الإقليم الشمالي (الطرف الأقصى)</value>
+  </data>
+  <data name="province_northwest_argentina" xml:space="preserve">
+    <value>شمال غرب الأرجنتين</value>
+  </data>
+  <data name="province_northwest_mexico" xml:space="preserve">
+    <value>شمال غرب المكسيك</value>
+  </data>
+  <data name="province_northwest_territories" xml:space="preserve">
+    <value>الأقاليم الشمالية الغربية</value>
+  </data>
+  <data name="province_norway" xml:space="preserve">
+    <value>النرويج</value>
+  </data>
+  <data name="province_nubia" xml:space="preserve">
+    <value>النوبة</value>
+  </data>
+  <data name="province_nyasaland" xml:space="preserve">
+    <value>نياسالاند</value>
+  </data>
+  <data name="province_oklahoma" xml:space="preserve">
+    <value>أوكلاهوما</value>
+  </data>
+  <data name="province_ontario" xml:space="preserve">
+    <value>أونتاريو</value>
+  </data>
+  <data name="province_orange_free_state" xml:space="preserve">
+    <value>دولة أورانج الحرة</value>
+  </data>
+  <data name="province_orientale" xml:space="preserve">
+    <value>أورينتال</value>
+  </data>
+  <data name="province_oriente" xml:space="preserve">
+    <value>أورينتي</value>
+  </data>
+  <data name="province_orissa" xml:space="preserve">
+    <value>أوريسا</value>
+  </data>
+  <data name="province_ottoman_arabia" xml:space="preserve">
+    <value>الجزيرة العربية العثمانية</value>
+  </data>
+  <data name="province_ottoman_macedonia" xml:space="preserve">
+    <value>مقدونيا العثمانية</value>
+  </data>
+  <data name="province_pacific_northwest" xml:space="preserve">
+    <value>شمال غرب المحيط الهادئ</value>
+  </data>
+  <data name="province_panama" xml:space="preserve">
+    <value>بنما</value>
+  </data>
+  <data name="province_papua" xml:space="preserve">
+    <value>بابوا</value>
+  </data>
+  <data name="province_para" xml:space="preserve">
+    <value>بارا</value>
+  </data>
+  <data name="province_paraguay" xml:space="preserve">
+    <value>باراغواي</value>
+  </data>
+  <data name="province_parana" xml:space="preserve">
+    <value>بارانا</value>
+  </data>
+  <data name="province_pernambuco" xml:space="preserve">
+    <value>بيرنامبوكو</value>
+  </data>
+  <data name="province_persia" xml:space="preserve">
+    <value>بلاد فارس</value>
+  </data>
+  <data name="province_peru" xml:space="preserve">
+    <value>بيرو</value>
+  </data>
+  <data name="province_philippines" xml:space="preserve">
+    <value>الفلبين</value>
+  </data>
+  <data name="province_pomerelia" xml:space="preserve">
+    <value>بوميريليا</value>
+  </data>
+  <data name="province_portugal" xml:space="preserve">
+    <value>البرتغال</value>
+  </data>
+  <data name="province_portuguese_guinea" xml:space="preserve">
+    <value>غينيا البرتغالية</value>
+  </data>
+  <data name="province_portuguese_timor" xml:space="preserve">
+    <value>تيمور البرتغالية</value>
+  </data>
+  <data name="province_posen" xml:space="preserve">
+    <value>بوزن</value>
+  </data>
+  <data name="province_quebec" xml:space="preserve">
+    <value>كيبك</value>
+  </data>
+  <data name="province_queensland_north" xml:space="preserve">
+    <value>شمال كوينزلاند</value>
+  </data>
+  <data name="province_queensland_south" xml:space="preserve">
+    <value>جنوب كوينزلاند</value>
+  </data>
+  <data name="province_rajputana" xml:space="preserve">
+    <value>راجبوتانا</value>
+  </data>
+  <data name="province_rio_de_janeiro" xml:space="preserve">
+    <value>ريو دي جانيرو</value>
+  </data>
+  <data name="province_rio_grande_do_sul" xml:space="preserve">
+    <value>ريو غراندي دو سول</value>
+  </data>
+  <data name="province_rio_muni" xml:space="preserve">
+    <value>ريو موني</value>
+  </data>
+  <data name="province_rocky_mountains" xml:space="preserve">
+    <value>جبال روكي</value>
+  </data>
+  <data name="province_romania" xml:space="preserve">
+    <value>رومانيا</value>
+  </data>
+  <data name="province_rub_al_khali" xml:space="preserve">
+    <value>الربع الخالي</value>
+  </data>
+  <data name="province_russian_far_east" xml:space="preserve">
+    <value>الشرق الأقصى الروسي</value>
+  </data>
+  <data name="province_russian_poland" xml:space="preserve">
+    <value>بولندا الروسية</value>
+  </data>
+  <data name="province_saint_petersburg" xml:space="preserve">
+    <value>سانت بطرسبرغ</value>
+  </data>
+  <data name="province_sakha" xml:space="preserve">
+    <value>ساخا</value>
+  </data>
+  <data name="province_san_marino" xml:space="preserve">
+    <value>سان مارينو</value>
+  </data>
+  <data name="province_santa_catarina" xml:space="preserve">
+    <value>سانتا كاتارينا</value>
+  </data>
+  <data name="province_santa_fe" xml:space="preserve">
+    <value>سانتا في</value>
+  </data>
+  <data name="province_sao_paulo" xml:space="preserve">
+    <value>ساو باولو</value>
+  </data>
+  <data name="province_saskatchewan" xml:space="preserve">
+    <value>ساسكاتشوان</value>
+  </data>
+  <data name="province_scotland" xml:space="preserve">
+    <value>اسكتلندا</value>
+  </data>
+  <data name="province_senegal" xml:space="preserve">
+    <value>السنغال</value>
+  </data>
+  <data name="province_serbia" xml:space="preserve">
+    <value>صربيا</value>
+  </data>
+  <data name="province_shaanxi" xml:space="preserve">
+    <value>شنشي</value>
+  </data>
+  <data name="province_shandong" xml:space="preserve">
+    <value>شاندونغ</value>
+  </data>
+  <data name="province_shanxi" xml:space="preserve">
+    <value>شانشي</value>
+  </data>
+  <data name="province_siam" xml:space="preserve">
+    <value>سيام</value>
+  </data>
+  <data name="province_sichuan" xml:space="preserve">
+    <value>سيتشوان</value>
+  </data>
+  <data name="province_sierra_leone" xml:space="preserve">
+    <value>سيراليون</value>
+  </data>
+  <data name="province_sind" xml:space="preserve">
+    <value>السند</value>
+  </data>
+  <data name="province_slovakia" xml:space="preserve">
+    <value>سلوفاكيا</value>
+  </data>
+  <data name="province_slovenia" xml:space="preserve">
+    <value>سلوفينيا</value>
+  </data>
+  <data name="province_sokoto_caliphate" xml:space="preserve">
+    <value>خلافة سوكوتو</value>
+  </data>
+  <data name="province_south_atlantic" xml:space="preserve">
+    <value>جنوب الأطلسي</value>
+  </data>
+  <data name="province_south_australia" xml:space="preserve">
+    <value>جنوب أستراليا</value>
+  </data>
+  <data name="province_south_sakhalin" xml:space="preserve">
+    <value>جنوب سخالين</value>
+  </data>
+  <data name="province_south_east_borneo" xml:space="preserve">
+    <value>جنوب شرق بورنيو</value>
+  </data>
+  <data name="province_southern_angola" xml:space="preserve">
+    <value>جنوب أنغولا</value>
+  </data>
+  <data name="province_southern_dobruja" xml:space="preserve">
+    <value>جنوب دوبروجا</value>
+  </data>
+  <data name="province_southern_mexico" xml:space="preserve">
+    <value>جنوب المكسيك</value>
+  </data>
+  <data name="province_southern_nigeria" xml:space="preserve">
+    <value>جنوب نيجيريا</value>
+  </data>
+  <data name="province_southern_patagonia" xml:space="preserve">
+    <value>جنوب باتاغونيا</value>
+  </data>
+  <data name="province_southern_rhodesia" xml:space="preserve">
+    <value>روديسيا الجنوبية</value>
+  </data>
+  <data name="province_southern_russia" xml:space="preserve">
+    <value>جنوب روسيا</value>
+  </data>
+  <data name="province_southern_sumatra" xml:space="preserve">
+    <value>جنوب سومطرة</value>
+  </data>
+  <data name="province_southwest" xml:space="preserve">
+    <value>الجنوب الغربي</value>
+  </data>
+  <data name="province_spain" xml:space="preserve">
+    <value>إسبانيا</value>
+  </data>
+  <data name="province_spanish_sahara" xml:space="preserve">
+    <value>الصحراء الإسبانية</value>
+  </data>
+  <data name="province_sulawesi" xml:space="preserve">
+    <value>سولاويزي</value>
+  </data>
+  <data name="province_sweden" xml:space="preserve">
+    <value>السويد</value>
+  </data>
+  <data name="province_switzerland" xml:space="preserve">
+    <value>سويسرا</value>
+  </data>
+  <data name="province_syria" xml:space="preserve">
+    <value>سوريا</value>
+  </data>
+  <data name="province_tajikistan" xml:space="preserve">
+    <value>طاجيكستان</value>
+  </data>
+  <data name="province_tasmania" xml:space="preserve">
+    <value>تسمانيا</value>
+  </data>
+  <data name="province_tatarstan" xml:space="preserve">
+    <value>تتارستان</value>
+  </data>
+  <data name="province_texas" xml:space="preserve">
+    <value>تكساس</value>
+  </data>
+  <data name="province_tibesti" xml:space="preserve">
+    <value>تيبستي</value>
+  </data>
+  <data name="province_tibet" xml:space="preserve">
+    <value>التبت</value>
+  </data>
+  <data name="province_togo" xml:space="preserve">
+    <value>توغو</value>
+  </data>
+  <data name="province_tomsk" xml:space="preserve">
+    <value>تومسك</value>
+  </data>
+  <data name="province_transvaal" xml:space="preserve">
+    <value>ترانسفال</value>
+  </data>
+  <data name="province_transylvania" xml:space="preserve">
+    <value>ترانسيلفانيا</value>
+  </data>
+  <data name="province_tripolitania" xml:space="preserve">
+    <value>طرابلس الغرب</value>
+  </data>
+  <data name="province_tunisia" xml:space="preserve">
+    <value>تونس</value>
+  </data>
+  <data name="province_turkmenistan" xml:space="preserve">
+    <value>تركمانستان</value>
+  </data>
+  <data name="province_ubangi_shari" xml:space="preserve">
+    <value>أوبانغي شاري</value>
+  </data>
+  <data name="province_uganda" xml:space="preserve">
+    <value>أوغندا</value>
+  </data>
+  <data name="province_ukraine" xml:space="preserve">
+    <value>أوكرانيا</value>
+  </data>
+  <data name="province_united_provinces" xml:space="preserve">
+    <value>الأقاليم المتحدة</value>
+  </data>
+  <data name="province_urals" xml:space="preserve">
+    <value>الأورال</value>
+  </data>
+  <data name="province_uruguay" xml:space="preserve">
+    <value>الأوروغواي</value>
+  </data>
+  <data name="province_uzbekistan" xml:space="preserve">
+    <value>أوزبكستان</value>
+  </data>
+  <data name="province_venezuela" xml:space="preserve">
+    <value>فنزويلا</value>
+  </data>
+  <data name="province_victoria" xml:space="preserve">
+    <value>فيكتوريا</value>
+  </data>
+  <data name="province_vietnam" xml:space="preserve">
+    <value>فيتنام</value>
+  </data>
+  <data name="province_volga" xml:space="preserve">
+    <value>الفولغا</value>
+  </data>
+  <data name="province_wales" xml:space="preserve">
+    <value>ويلز</value>
+  </data>
+  <data name="province_west_borneo" xml:space="preserve">
+    <value>غرب بورنيو</value>
+  </data>
+  <data name="province_west_galicia" xml:space="preserve">
+    <value>غرب غاليسيا</value>
+  </data>
+  <data name="province_west_punjab" xml:space="preserve">
+    <value>غرب البنجاب</value>
+  </data>
+  <data name="province_west_thrace" xml:space="preserve">
+    <value>تراقيا الغربية</value>
+  </data>
+  <data name="province_western_australia_central" xml:space="preserve">
+    <value>غرب أستراليا (الوسط)</value>
+  </data>
+  <data name="province_western_australia_north" xml:space="preserve">
+    <value>غرب أستراليا (الشمال)</value>
+  </data>
+  <data name="province_western_australia_south" xml:space="preserve">
+    <value>غرب أستراليا (الجنوب)</value>
+  </data>
+  <data name="province_western_kazakhstan" xml:space="preserve">
+    <value>غرب كازاخستان</value>
+  </data>
+  <data name="province_western_mexico" xml:space="preserve">
+    <value>غرب المكسيك</value>
+  </data>
+  <data name="province_western_new_guinea" xml:space="preserve">
+    <value>غرب غينيا الجديدة</value>
+  </data>
+  <data name="province_western_sakha" xml:space="preserve">
+    <value>غرب ساخا</value>
+  </data>
+  <data name="province_western_siberia" xml:space="preserve">
+    <value>غرب سيبيريا</value>
+  </data>
+  <data name="province_yenisei" xml:space="preserve">
+    <value>ينيسي</value>
+  </data>
+  <data name="province_yorubaland" xml:space="preserve">
+    <value>أرض اليوروبا</value>
+  </data>
+  <data name="province_yucatan" xml:space="preserve">
+    <value>يوكاتان</value>
+  </data>
+  <data name="province_yukon" xml:space="preserve">
+    <value>يوكون</value>
+  </data>
+  <data name="province_yunnan" xml:space="preserve">
+    <value>يونان</value>
+  </data>
+  <data name="province_zhejiang" xml:space="preserve">
+    <value>تشجيانغ</value>
+  </data>
+  <data name="province_zhili" xml:space="preserve">
+    <value>زيلي</value>
+  </data>
+</root>

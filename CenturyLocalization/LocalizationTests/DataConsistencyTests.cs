@@ -7,6 +7,7 @@ using CenturyLocalization.Diplomacy;
 using CenturyLocalization.EndScreen;
 using CenturyLocalization.Events;
 using CenturyLocalization.PopulationAttributes;
+using CenturyLocalization.ProvinceNames;
 using CenturyLocalization.WarNames;
 using System.Collections;
 using System.Collections.Generic;
@@ -33,6 +34,7 @@ public class DataConsistencyTests
         var battleNamesResourceNames = GetResourceNames(BattleNames.ResourceManager);
         var diplomacyResourceNames = GetResourceNames(Diplomacy.ResourceManager);
         var allianceNamesResourceNames = GetResourceNames(AllianceNames.ResourceManager);
+        var provinceNamesResourceNames = GetResourceNames(ProvinceNames.ResourceManager);
 
 		// Create a dictionary to track resource names and their sources
 		var resourceNameSources = new Dictionary<string, List<string>>();
@@ -48,6 +50,7 @@ public class DataConsistencyTests
 		AddResourceNamesFromSource(resourceNameSources, battleNamesResourceNames, "BattleNames");
 		AddResourceNamesFromSource(resourceNameSources, diplomacyResourceNames, "Diplomacy");
 		AddResourceNamesFromSource(resourceNameSources, allianceNamesResourceNames, "AllianceNames");
+		AddResourceNamesFromSource(resourceNameSources, provinceNamesResourceNames, "ProvinceNames");
 
 		// Find duplicates
 		var duplicates = resourceNameSources
