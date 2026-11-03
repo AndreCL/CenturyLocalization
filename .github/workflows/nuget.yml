@@ -6,6 +6,9 @@ on:
 jobs:
   deployment:
     runs-on: ubuntu-latest
+    permissions:
+      id-token: write
+      contents: read
     steps:
     - name: Check out the repository
       uses: actions/checkout@v4
@@ -20,5 +23,10 @@ jobs:
       with:
         name: CenturyLocalization
         path: CenturyLocalization/CenturyLocalization/bin/Release/CenturyLocalization.${{ github.event.release.tag_name }}.nupkg
+    - name: NuGet login (OIDC)
+      uses: NuGet/login@v1
+      id: login
+      with:
+        user: ${{ secrets.NUGET_USER }}
     - name: Publish the NuGet package
-      run: dotnet nuget push **/*.nupkg --api-key ${{ secrets.NUGET_API_KEY }} --source https://api.nuget.org/v3/index.json --no-symbols
+      run: dotnet nuget push **/*.nupkg --api-key ${{ steps.login.outputs.NUGET_API_KEY }} --source
