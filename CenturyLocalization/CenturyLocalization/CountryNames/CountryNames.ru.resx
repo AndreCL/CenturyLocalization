@@ -496,4 +496,28 @@
   <data name="khalistan" xml:space="preserve">
     <value>Халистан</value>
   </data>
+  <data name="england" xml:space="preserve">
+    <value>Англия</value>
+  </data>
+  <data name="scotland" xml:space="preserve">
+    <value>Шотландия</value>
+  </data>
+  <data name="wales" xml:space="preserve">
+    <value>Уэльс</value>
+  </data>
+  <data name="lebanon" xml:space="preserve">
+    <value>Ливан</value>
+  </data>
+  <data name="jordan" xml:space="preserve">
+    <value>Иордания</value>
+  </data>
+  <data name="iraq" xml:space="preserve">
+    <value>Ирак</value>
+  </data>
+  <data name="syria" xml:space="preserve">
+    <value>Сирия</value>
+  </data>
+  <data name="yugoslavia" xml:space="preserve">
+    <value>Югославия</value>
+  </data>
 </root>

@@ -1299,4 +1299,8 @@ There are any number of "resheader" rows that contain simple
   <data name="province_zhili" xml:space="preserve">
     <value>Zhili</value>
   </data>
+  <data name="province_austrian_littoral" xml:space="preserve">
+    <value>Austrian Littoral</value>
+    <comment>The Austrian crownland of the Kuestenland around 1900: Trieste, Istria and Gorizia on the northern Adriatic. Use the historical name in your language if there is one</comment>
+  </data>
 </root>

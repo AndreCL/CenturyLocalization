@@ -1144,4 +1144,7 @@ There are any number of "resheader" rows that contain simple
   <data name="province_zhili" xml:space="preserve">
     <value>Zhili</value>
   </data>
+  <data name="province_austrian_littoral" xml:space="preserve">
+    <value>Littoral autrichien</value>
+  </data>
 </root>

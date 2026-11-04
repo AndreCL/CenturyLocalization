@@ -457,6 +457,15 @@ namespace CenturyLocalization.CountryNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to England.
+        /// </summary>
+        internal static string england {
+            get {
+                return ResourceManager.GetString("england", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Estonia.
         /// </summary>
         internal static string estonia {
@@ -583,6 +592,15 @@ namespace CenturyLocalization.CountryNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Iraq.
+        /// </summary>
+        internal static string iraq {
+            get {
+                return ResourceManager.GetString("iraq", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Ireland.
         /// </summary>
         internal static string ireland {
@@ -615,6 +633,15 @@ namespace CenturyLocalization.CountryNames {
         internal static string japan {
             get {
                 return ResourceManager.GetString("japan", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Jordan.
+        /// </summary>
+        internal static string jordan {
+            get {
+                return ResourceManager.GetString("jordan", resourceCulture);
             }
         }
         
@@ -678,6 +705,15 @@ namespace CenturyLocalization.CountryNames {
         internal static string latvia {
             get {
                 return ResourceManager.GetString("latvia", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Lebanon.
+        /// </summary>
+        internal static string lebanon {
+            get {
+                return ResourceManager.GetString("lebanon", resourceCulture);
             }
         }
         
@@ -961,6 +997,15 @@ namespace CenturyLocalization.CountryNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Scotland.
+        /// </summary>
+        internal static string scotland {
+            get {
+                return ResourceManager.GetString("scotland", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Serbia.
         /// </summary>
         internal static string serbia {
@@ -1047,6 +1092,15 @@ namespace CenturyLocalization.CountryNames {
         internal static string switzerland {
             get {
                 return ResourceManager.GetString("switzerland", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Syria.
+        /// </summary>
+        internal static string syria {
+            get {
+                return ResourceManager.GetString("syria", resourceCulture);
             }
         }
         
@@ -1177,11 +1231,29 @@ namespace CenturyLocalization.CountryNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Wales.
+        /// </summary>
+        internal static string wales {
+            get {
+                return ResourceManager.GetString("wales", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Yorubaland.
         /// </summary>
         internal static string yorubaland {
             get {
                 return ResourceManager.GetString("yorubaland", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Yugoslavia.
+        /// </summary>
+        internal static string yugoslavia {
+            get {
+                return ResourceManager.GetString("yugoslavia", resourceCulture);
             }
         }
     }

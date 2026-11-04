@@ -295,6 +295,15 @@ namespace CenturyLocalization.ProvinceNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Austrian Littoral.
+        /// </summary>
+        internal static string province_austrian_littoral {
+            get {
+                return ResourceManager.GetString("province_austrian_littoral", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Azawad.
         /// </summary>
         internal static string province_azawad {

@@ -493,4 +493,36 @@
   <data name="khalistan" xml:space="preserve">
     <value>Khalistan</value>
   </data>
+  <data name="england" xml:space="preserve">
+    <value>England</value>
+    <comment>Country made of the English provinces when the United Kingdom breaks up. The United Kingdom takes this name once it has lost Scotland and Wales</comment>
+  </data>
+  <data name="scotland" xml:space="preserve">
+    <value>Scotland</value>
+    <comment>Country that can break out of the United Kingdom</comment>
+  </data>
+  <data name="wales" xml:space="preserve">
+    <value>Wales</value>
+    <comment>Country that can break out of the United Kingdom</comment>
+  </data>
+  <data name="lebanon" xml:space="preserve">
+    <value>Lebanon</value>
+    <comment>Country that can break out of the Ottoman Empire (Mount Lebanon and the coast)</comment>
+  </data>
+  <data name="jordan" xml:space="preserve">
+    <value>Jordan</value>
+    <comment>Country that can break out of the Ottoman Empire (Transjordan)</comment>
+  </data>
+  <data name="iraq" xml:space="preserve">
+    <value>Iraq</value>
+    <comment>Country that can break out of the Ottoman Empire (Mesopotamia)</comment>
+  </data>
+  <data name="syria" xml:space="preserve">
+    <value>Syria</value>
+    <comment>Country that can break out of the Ottoman Empire</comment>
+  </data>
+  <data name="yugoslavia" xml:space="preserve">
+    <value>Yugoslavia</value>
+    <comment>Name of Serbia in the game once it holds Bosnia, Croatia and Slovenia (the union of the South Slavs after the Great War). Use the usual name of the state in your language</comment>
+  </data>
 </root>
