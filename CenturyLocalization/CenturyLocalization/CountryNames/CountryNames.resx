@@ -533,4 +533,16 @@
     <value>Czech Republic</value>
     <comment>Country made of the Czech Lands alone (the other template, czechoslovakia, is the Czech Lands and Slovakia). Use the usual short name of the state in your language</comment>
   </data>
+  <data name="hejaz" xml:space="preserve">
+    <value>Hejaz</value>
+    <comment>The Kingdom of Hejaz, proclaimed in 1916 in the Arab Revolt. Use the usual name of the kingdom in your language</comment>
+  </data>
+  <data name="saudi_arabia" xml:space="preserve">
+    <value>Saudi Arabia</value>
+    <comment>The country made of the central and eastern provinces of Arabia (Nejd, Hasa and the Rub al Khali)</comment>
+  </data>
+  <data name="yemen" xml:space="preserve">
+    <value>Yemen</value>
+    <comment>The Kingdom of Yemen, independent of the Ottomans in 1918</comment>
+  </data>
 </root>

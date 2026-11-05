@@ -1274,5 +1274,32 @@ namespace CenturyLocalization.CountryNames {
                 return ResourceManager.GetString("yugoslavia", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Hejaz.
+        /// </summary>
+        internal static string hejaz {
+            get {
+                return ResourceManager.GetString("hejaz", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Saudi Arabia.
+        /// </summary>
+        internal static string saudi_arabia {
+            get {
+                return ResourceManager.GetString("saudi_arabia", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Yemen.
+        /// </summary>
+        internal static string yemen {
+            get {
+                return ResourceManager.GetString("yemen", resourceCulture);
+            }
+        }
     }
 }

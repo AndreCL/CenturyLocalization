@@ -522,4 +522,13 @@
   <data name="czech_republic" xml:space="preserve">
     <value>التشيك</value>
   </data>
+  <data name="hejaz" xml:space="preserve">
+    <value>الحجاز</value>
+  </data>
+  <data name="saudi_arabia" xml:space="preserve">
+    <value>السعودية</value>
+  </data>
+  <data name="yemen" xml:space="preserve">
+    <value>اليمن</value>
+  </data>
 </root>

@@ -3326,5 +3326,50 @@ namespace CenturyLocalization.ProvinceNames {
                 return ResourceManager.GetString("province_venezuela_interior", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Vardar Macedonia.
+        /// </summary>
+        internal static string province_vardar_macedonia {
+            get {
+                return ResourceManager.GetString("province_vardar_macedonia", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Aegean Macedonia.
+        /// </summary>
+        internal static string province_aegean_macedonia {
+            get {
+                return ResourceManager.GetString("province_aegean_macedonia", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Pirin Macedonia.
+        /// </summary>
+        internal static string province_pirin_macedonia {
+            get {
+                return ResourceManager.GetString("province_pirin_macedonia", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Hejaz.
+        /// </summary>
+        internal static string province_hejaz {
+            get {
+                return ResourceManager.GetString("province_hejaz", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Yemen.
+        /// </summary>
+        internal static string province_yemen {
+            get {
+                return ResourceManager.GetString("province_yemen", resourceCulture);
+            }
+        }
     }
 }

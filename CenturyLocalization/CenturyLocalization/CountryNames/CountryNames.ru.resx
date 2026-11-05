@@ -526,4 +526,13 @@
   <data name="czech_republic" xml:space="preserve">
     <value>Чехия</value>
   </data>
+  <data name="hejaz" xml:space="preserve">
+    <value>Хиджаз</value>
+  </data>
+  <data name="saudi_arabia" xml:space="preserve">
+    <value>Саудовская Аравия</value>
+  </data>
+  <data name="yemen" xml:space="preserve">
+    <value>Йемен</value>
+  </data>
 </root>

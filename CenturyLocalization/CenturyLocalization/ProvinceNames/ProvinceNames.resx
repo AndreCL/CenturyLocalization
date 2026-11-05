@@ -1343,4 +1343,24 @@ There are any number of "resheader" rows that contain simple
     <value>Venezuela Interior</value>
     <comment>The Llanos and Guayana of Venezuela south of the Orinoco; the coast with Caracas is the province Venezuela</comment>
   </data>
+  <data name="province_vardar_macedonia" xml:space="preserve">
+    <value>Vardar Macedonia</value>
+    <comment>The part of the region of Macedonia along the river Vardar, around Skopje and Bitola: today North Macedonia. It was Ottoman until 1912 and then Serbian. Renamed from &quot;Ottoman Macedonia&quot;</comment>
+  </data>
+  <data name="province_aegean_macedonia" xml:space="preserve">
+    <value>Aegean Macedonia</value>
+    <comment>The southern part of the region of Macedonia around Thessaloniki, Kavala and Serres, on the Aegean Sea: today the Greek region of Macedonia</comment>
+  </data>
+  <data name="province_pirin_macedonia" xml:space="preserve">
+    <value>Pirin Macedonia</value>
+    <comment>The north-eastern part of the region of Macedonia in the Pirin mountains around Blagoevgrad: today in Bulgaria</comment>
+  </data>
+  <data name="province_hejaz" xml:space="preserve">
+    <value>Hejaz</value>
+    <comment>The western coast of Arabia with Mecca, Medina and Jeddah. Renamed from &quot;Ottoman Arabia&quot;</comment>
+  </data>
+  <data name="province_yemen" xml:space="preserve">
+    <value>Yemen</value>
+    <comment>The south-west of the Arabian peninsula around Sana&apos;a and Hodeida, an Ottoman province until 1918</comment>
+  </data>
 </root>

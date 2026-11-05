@@ -1196,4 +1196,19 @@ There are any number of "resheader" rows that contain simple
   <data name="province_venezuela_interior" xml:space="preserve">
     <value>Interior da Venezuela</value>
   </data>
+  <data name="province_vardar_macedonia" xml:space="preserve">
+    <value>Macedónia do Vardar</value>
+  </data>
+  <data name="province_aegean_macedonia" xml:space="preserve">
+    <value>Macedónia Egeia</value>
+  </data>
+  <data name="province_pirin_macedonia" xml:space="preserve">
+    <value>Macedónia do Pirin</value>
+  </data>
+  <data name="province_hejaz" xml:space="preserve">
+    <value>Hejaz</value>
+  </data>
+  <data name="province_yemen" xml:space="preserve">
+    <value>Iémen</value>
+  </data>
 </root>
