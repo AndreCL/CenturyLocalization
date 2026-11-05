@@ -885,4 +885,32 @@ Once the World Tension reaches 100%, a World War is triggered and it resets.
     <value>Province {0}</value>
     <comment>Name of a province that has no name in the game; {0} is its number. Should not be seen</comment>
   </data>
+  <data name="map_layers" xml:space="preserve">
+    <value>Map layers</value>
+    <comment>Title of the list of layers that opens from the floating button of the map tab. Also the content description of that button (for screen readers)</comment>
+  </data>
+  <data name="map_layer_political" xml:space="preserve">
+    <value>Political</value>
+    <comment>Name of the default layer: every province in the color of its country</comment>
+  </data>
+  <data name="map_layer_relations" xml:space="preserve">
+    <value>Relations</value>
+    <comment>Name of the layer that colors every country by its relation to the player&apos;s country (friendly to hostile, with allies and enemies)</comment>
+  </data>
+  <data name="map_legend_state_religion" xml:space="preserve">
+    <value>Stripes: the religion of the state</value>
+    <comment>Line under the legend of the religion layer: provinces are colored by their largest religion, and stripes show the religion of the state that rules them</comment>
+  </data>
+  <data name="map_legend_your_country" xml:space="preserve">
+    <value>Your country</value>
+    <comment>Legend line of the Relations layer for the provinces of the player&apos;s own country</comment>
+  </data>
+  <data name="map" xml:space="preserve">
+    <value>Map</value>
+    <comment>The map tab of the game and the first tab of the screen where the player chooses a country</comment>
+  </data>
+  <data name="list" xml:space="preserve">
+    <value>List</value>
+    <comment>The second tab of the screen where the player chooses a country (the list of countries)</comment>
+  </data>
 </root>

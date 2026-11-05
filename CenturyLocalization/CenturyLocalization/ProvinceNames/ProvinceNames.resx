@@ -1363,4 +1363,48 @@ There are any number of "resheader" rows that contain simple
     <value>Yemen</value>
     <comment>The south-west of the Arabian peninsula around Sana&apos;a and Hodeida, an Ottoman province until 1918</comment>
   </data>
+  <data name="province_santa_cruz" xml:space="preserve">
+    <value>Santa Cruz</value>
+    <comment>The Bolivian department of Santa Cruz (Santa Cruz de la Sierra), in the eastern lowlands</comment>
+  </data>
+  <data name="province_beni" xml:space="preserve">
+    <value>Beni</value>
+    <comment>The Bolivian department of Beni (Trinidad), in the northern Amazon lowlands</comment>
+  </data>
+  <data name="province_loreto" xml:space="preserve">
+    <value>Loreto</value>
+    <comment>The Peruvian region of Loreto (Iquitos), in the Amazon</comment>
+  </data>
+  <data name="province_ucayali" xml:space="preserve">
+    <value>Ucayali</value>
+    <comment>The Peruvian region of Ucayali (Pucallpa), on the Ucayali river</comment>
+  </data>
+  <data name="province_madre_de_dios" xml:space="preserve">
+    <value>Madre de Dios</value>
+    <comment>The Peruvian region of Madre de Dios (Puerto Maldonado) in the south-east Amazon</comment>
+  </data>
+  <data name="province_colombian_andes" xml:space="preserve">
+    <value>Colombian Andes</value>
+    <comment>The Andean region of Colombia with Bogota, Medellin and Bucaramanga (Region Andina). The capital province of Colombia</comment>
+  </data>
+  <data name="province_colombian_pacific" xml:space="preserve">
+    <value>Colombian Pacific</value>
+    <comment>The Pacific region of Colombia (Region Pacifica): Choco, Valle del Cauca, Cauca and Narino</comment>
+  </data>
+  <data name="province_colombian_caribbean" xml:space="preserve">
+    <value>Colombian Caribbean</value>
+    <comment>The Caribbean region of Colombia (Region Caribe): Barranquilla, Cartagena, Santa Marta and La Guajira</comment>
+  </data>
+  <data name="province_colombian_orinoquia" xml:space="preserve">
+    <value>Colombian Orinoquia</value>
+    <comment>The eastern plains of Colombia (Orinoquia, the Llanos): Meta, Casanare, Arauca and Vichada</comment>
+  </data>
+  <data name="province_colombian_amazonia" xml:space="preserve">
+    <value>Colombian Amazonia</value>
+    <comment>The Amazon region of Colombia (Amazonia): Amazonas, Caqueta, Putumayo, Guaviare, Guainia and Vaupes</comment>
+  </data>
+  <data name="province_guayana_region" xml:space="preserve">
+    <value>Guayana Region</value>
+    <comment>The Guayana region of Venezuela (Bolivar, Amazonas and Delta Amacuro states, Ciudad Bolivar), south of the Orinoco. Not the country of Guyana</comment>
+  </data>
 </root>

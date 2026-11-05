@@ -847,4 +847,25 @@ Um novo ano chegou. Desejamos a vocês um feliz ano novo. Que este novo ano seja
   <data name="province_dialog_province_number" xml:space="preserve">
     <value>Província {0}</value>
   </data>
+  <data name="map_layers" xml:space="preserve">
+    <value>Camadas do mapa</value>
+  </data>
+  <data name="map_layer_political" xml:space="preserve">
+    <value>Político</value>
+  </data>
+  <data name="map_layer_relations" xml:space="preserve">
+    <value>Relações</value>
+  </data>
+  <data name="map_legend_state_religion" xml:space="preserve">
+    <value>Riscas: a religião do estado</value>
+  </data>
+  <data name="map_legend_your_country" xml:space="preserve">
+    <value>O seu país</value>
+  </data>
+  <data name="map" xml:space="preserve">
+    <value>Mapa</value>
+  </data>
+  <data name="list" xml:space="preserve">
+    <value>Lista</value>
+  </data>
 </root>

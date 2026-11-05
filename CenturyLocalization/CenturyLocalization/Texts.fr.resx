@@ -869,4 +869,25 @@ Une fois que la tension mondiale atteint 100 %, une guerre mondiale est déclenc
   <data name="province_dialog_province_number" xml:space="preserve">
     <value>Province {0}</value>
   </data>
+  <data name="map_layers" xml:space="preserve">
+    <value>Calques de la carte</value>
+  </data>
+  <data name="map_layer_political" xml:space="preserve">
+    <value>Politique</value>
+  </data>
+  <data name="map_layer_relations" xml:space="preserve">
+    <value>Relations</value>
+  </data>
+  <data name="map_legend_state_religion" xml:space="preserve">
+    <value>Rayures : la religion de l&apos;État</value>
+  </data>
+  <data name="map_legend_your_country" xml:space="preserve">
+    <value>Votre pays</value>
+  </data>
+  <data name="map" xml:space="preserve">
+    <value>Carte</value>
+  </data>
+  <data name="list" xml:space="preserve">
+    <value>Liste</value>
+  </data>
 </root>

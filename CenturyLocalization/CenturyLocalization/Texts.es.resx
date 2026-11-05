@@ -851,4 +851,25 @@ Una vez que la tensión mundial alcanza el 100 %, se desencadena una guerra mund
   <data name="province_dialog_province_number" xml:space="preserve">
     <value>Provincia {0}</value>
   </data>
+  <data name="map_layers" xml:space="preserve">
+    <value>Capas del mapa</value>
+  </data>
+  <data name="map_layer_political" xml:space="preserve">
+    <value>Político</value>
+  </data>
+  <data name="map_layer_relations" xml:space="preserve">
+    <value>Relaciones</value>
+  </data>
+  <data name="map_legend_state_religion" xml:space="preserve">
+    <value>Rayas: la religión del estado</value>
+  </data>
+  <data name="map_legend_your_country" xml:space="preserve">
+    <value>Tu país</value>
+  </data>
+  <data name="map" xml:space="preserve">
+    <value>Mapa</value>
+  </data>
+  <data name="list" xml:space="preserve">
+    <value>Lista</value>
+  </data>
 </root>

@@ -3371,5 +3371,104 @@ namespace CenturyLocalization.ProvinceNames {
                 return ResourceManager.GetString("province_yemen", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Santa Cruz.
+        /// </summary>
+        internal static string province_santa_cruz {
+            get {
+                return ResourceManager.GetString("province_santa_cruz", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Beni.
+        /// </summary>
+        internal static string province_beni {
+            get {
+                return ResourceManager.GetString("province_beni", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Loreto.
+        /// </summary>
+        internal static string province_loreto {
+            get {
+                return ResourceManager.GetString("province_loreto", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ucayali.
+        /// </summary>
+        internal static string province_ucayali {
+            get {
+                return ResourceManager.GetString("province_ucayali", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Madre de Dios.
+        /// </summary>
+        internal static string province_madre_de_dios {
+            get {
+                return ResourceManager.GetString("province_madre_de_dios", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Colombian Andes.
+        /// </summary>
+        internal static string province_colombian_andes {
+            get {
+                return ResourceManager.GetString("province_colombian_andes", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Colombian Pacific.
+        /// </summary>
+        internal static string province_colombian_pacific {
+            get {
+                return ResourceManager.GetString("province_colombian_pacific", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Colombian Caribbean.
+        /// </summary>
+        internal static string province_colombian_caribbean {
+            get {
+                return ResourceManager.GetString("province_colombian_caribbean", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Colombian Orinoquia.
+        /// </summary>
+        internal static string province_colombian_orinoquia {
+            get {
+                return ResourceManager.GetString("province_colombian_orinoquia", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Colombian Amazonia.
+        /// </summary>
+        internal static string province_colombian_amazonia {
+            get {
+                return ResourceManager.GetString("province_colombian_amazonia", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Guayana Region.
+        /// </summary>
+        internal static string province_guayana_region {
+            get {
+                return ResourceManager.GetString("province_guayana_region", resourceCulture);
+            }
+        }
     }
 }

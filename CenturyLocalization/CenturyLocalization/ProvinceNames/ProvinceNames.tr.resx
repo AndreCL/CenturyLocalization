@@ -1211,4 +1211,37 @@ There are any number of "resheader" rows that contain simple
   <data name="province_yemen" xml:space="preserve">
     <value>Yemen</value>
   </data>
+  <data name="province_santa_cruz" xml:space="preserve">
+    <value>Santa Cruz</value>
+  </data>
+  <data name="province_beni" xml:space="preserve">
+    <value>Beni</value>
+  </data>
+  <data name="province_loreto" xml:space="preserve">
+    <value>Loreto</value>
+  </data>
+  <data name="province_ucayali" xml:space="preserve">
+    <value>Ucayali</value>
+  </data>
+  <data name="province_madre_de_dios" xml:space="preserve">
+    <value>Madre de Dios</value>
+  </data>
+  <data name="province_colombian_andes" xml:space="preserve">
+    <value>Kolombiya Andları</value>
+  </data>
+  <data name="province_colombian_pacific" xml:space="preserve">
+    <value>Kolombiya Pasifik Bölgesi</value>
+  </data>
+  <data name="province_colombian_caribbean" xml:space="preserve">
+    <value>Kolombiya Karayip Bölgesi</value>
+  </data>
+  <data name="province_colombian_orinoquia" xml:space="preserve">
+    <value>Kolombiya Orinokya</value>
+  </data>
+  <data name="province_colombian_amazonia" xml:space="preserve">
+    <value>Kolombiya Amazonu</value>
+  </data>
+  <data name="province_guayana_region" xml:space="preserve">
+    <value>Guayana Bölgesi</value>
+  </data>
 </root>

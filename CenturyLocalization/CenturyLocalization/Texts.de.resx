@@ -849,4 +849,25 @@ Sobald die Weltspannung 100 % erreicht, wird ein Weltkrieg ausgelöst und der We
   <data name="province_dialog_province_number" xml:space="preserve">
     <value>Provinz {0}</value>
   </data>
+  <data name="map_layers" xml:space="preserve">
+    <value>Kartenebenen</value>
+  </data>
+  <data name="map_layer_political" xml:space="preserve">
+    <value>Politisch</value>
+  </data>
+  <data name="map_layer_relations" xml:space="preserve">
+    <value>Beziehungen</value>
+  </data>
+  <data name="map_legend_state_religion" xml:space="preserve">
+    <value>Streifen: Religion des Staates</value>
+  </data>
+  <data name="map_legend_your_country" xml:space="preserve">
+    <value>Dein Land</value>
+  </data>
+  <data name="map" xml:space="preserve">
+    <value>Karte</value>
+  </data>
+  <data name="list" xml:space="preserve">
+    <value>Liste</value>
+  </data>
 </root>

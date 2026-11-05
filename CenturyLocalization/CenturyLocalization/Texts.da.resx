@@ -850,4 +850,25 @@ Når verdensspændingen når 100 %, udløses en verdenskrig, og værdien nulstil
   <data name="province_dialog_province_number" xml:space="preserve">
     <value>Provins {0}</value>
   </data>
+  <data name="map_layers" xml:space="preserve">
+    <value>Kortlag</value>
+  </data>
+  <data name="map_layer_political" xml:space="preserve">
+    <value>Politisk</value>
+  </data>
+  <data name="map_layer_relations" xml:space="preserve">
+    <value>Forhold</value>
+  </data>
+  <data name="map_legend_state_religion" xml:space="preserve">
+    <value>Striber: statens religion</value>
+  </data>
+  <data name="map_legend_your_country" xml:space="preserve">
+    <value>Dit land</value>
+  </data>
+  <data name="map" xml:space="preserve">
+    <value>Kort</value>
+  </data>
+  <data name="list" xml:space="preserve">
+    <value>Liste</value>
+  </data>
 </root>

@@ -868,4 +868,25 @@
   <data name="province_dialog_province_number" xml:space="preserve">
     <value>Eyalet {0}</value>
   </data>
+  <data name="map_layers" xml:space="preserve">
+    <value>Harita katmanları</value>
+  </data>
+  <data name="map_layer_political" xml:space="preserve">
+    <value>Siyasi</value>
+  </data>
+  <data name="map_layer_relations" xml:space="preserve">
+    <value>İlişkiler</value>
+  </data>
+  <data name="map_legend_state_religion" xml:space="preserve">
+    <value>Çizgiler: devletin dini</value>
+  </data>
+  <data name="map_legend_your_country" xml:space="preserve">
+    <value>Ülkeniz</value>
+  </data>
+  <data name="map" xml:space="preserve">
+    <value>Harita</value>
+  </data>
+  <data name="list" xml:space="preserve">
+    <value>Liste</value>
+  </data>
 </root>

@@ -849,4 +849,25 @@ Ketika Ketegangan Dunia mencapai 100%, Perang Dunia akan dipicu dan nilainya dia
   <data name="province_dialog_province_number" xml:space="preserve">
     <value>Provinsi {0}</value>
   </data>
+  <data name="map_layers" xml:space="preserve">
+    <value>Lapisan peta</value>
+  </data>
+  <data name="map_layer_political" xml:space="preserve">
+    <value>Politik</value>
+  </data>
+  <data name="map_layer_relations" xml:space="preserve">
+    <value>Hubungan</value>
+  </data>
+  <data name="map_legend_state_religion" xml:space="preserve">
+    <value>Garis: agama negara</value>
+  </data>
+  <data name="map_legend_your_country" xml:space="preserve">
+    <value>Negara Anda</value>
+  </data>
+  <data name="map" xml:space="preserve">
+    <value>Peta</value>
+  </data>
+  <data name="list" xml:space="preserve">
+    <value>Daftar</value>
+  </data>
 </root>

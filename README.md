@@ -38,6 +38,7 @@ Open source implementation of localization for Century
 * Create Diplomacy file
 * Create AllianceNames file
 * Create ProvinceNames file
+* Create CultureNames file
 * Add language to Localization._supportedCultureNames
 * Run unit tests
 

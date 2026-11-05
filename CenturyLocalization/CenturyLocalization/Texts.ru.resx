@@ -854,4 +854,25 @@
   <data name="province_dialog_province_number" xml:space="preserve">
     <value>Провинция {0}</value>
   </data>
+  <data name="map_layers" xml:space="preserve">
+    <value>Слои карты</value>
+  </data>
+  <data name="map_layer_political" xml:space="preserve">
+    <value>Политическая</value>
+  </data>
+  <data name="map_layer_relations" xml:space="preserve">
+    <value>Отношения</value>
+  </data>
+  <data name="map_legend_state_religion" xml:space="preserve">
+    <value>Полосы: религия государства</value>
+  </data>
+  <data name="map_legend_your_country" xml:space="preserve">
+    <value>Ваша страна</value>
+  </data>
+  <data name="map" xml:space="preserve">
+    <value>Карта</value>
+  </data>
+  <data name="list" xml:space="preserve">
+    <value>Список</value>
+  </data>
 </root>

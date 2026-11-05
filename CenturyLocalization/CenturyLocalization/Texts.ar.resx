@@ -849,4 +849,25 @@
   <data name="province_dialog_province_number" xml:space="preserve">
     <value>المقاطعة {0}</value>
   </data>
+  <data name="map_layers" xml:space="preserve">
+    <value>طبقات الخريطة</value>
+  </data>
+  <data name="map_layer_political" xml:space="preserve">
+    <value>سياسية</value>
+  </data>
+  <data name="map_layer_relations" xml:space="preserve">
+    <value>العلاقات</value>
+  </data>
+  <data name="map_legend_state_religion" xml:space="preserve">
+    <value>الخطوط: دين الدولة</value>
+  </data>
+  <data name="map_legend_your_country" xml:space="preserve">
+    <value>بلدك</value>
+  </data>
+  <data name="map" xml:space="preserve">
+    <value>الخريطة</value>
+  </data>
+  <data name="list" xml:space="preserve">
+    <value>القائمة</value>
+  </data>
 </root>

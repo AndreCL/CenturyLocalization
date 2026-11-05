@@ -2245,5 +2245,68 @@ namespace CenturyLocalization {
                 return ResourceManager.GetString("yes", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Map layers.
+        /// </summary>
+        internal static string map_layers {
+            get {
+                return ResourceManager.GetString("map_layers", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Political.
+        /// </summary>
+        internal static string map_layer_political {
+            get {
+                return ResourceManager.GetString("map_layer_political", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Relations.
+        /// </summary>
+        internal static string map_layer_relations {
+            get {
+                return ResourceManager.GetString("map_layer_relations", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Stripes: the religion of the state.
+        /// </summary>
+        internal static string map_legend_state_religion {
+            get {
+                return ResourceManager.GetString("map_legend_state_religion", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Your country.
+        /// </summary>
+        internal static string map_legend_your_country {
+            get {
+                return ResourceManager.GetString("map_legend_your_country", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Map.
+        /// </summary>
+        internal static string map {
+            get {
+                return ResourceManager.GetString("map", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to List.
+        /// </summary>
+        internal static string list {
+            get {
+                return ResourceManager.GetString("list", resourceCulture);
+            }
+        }
     }
 }

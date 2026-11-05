@@ -23,6 +23,7 @@ namespace CenturyLocalization
         private readonly ResourceManager _diplomacyManager;
         private readonly ResourceManager _allianceNamesManager;
         private readonly ResourceManager _provinceNamesManager;
+        private readonly ResourceManager _cultureNamesManager;
 
         public Localization()
         {
@@ -37,6 +38,7 @@ namespace CenturyLocalization
             _diplomacyManager = Diplomacy.Diplomacy.ResourceManager;
             _allianceNamesManager = AllianceNames.AllianceNames.ResourceManager;
             _provinceNamesManager = ProvinceNames.ProvinceNames.ResourceManager;
+            _cultureNamesManager = CultureNames.CultureNames.ResourceManager;
             CurrentLanguage = CultureInfo.CurrentUICulture;
         }
 
@@ -58,6 +60,7 @@ namespace CenturyLocalization
                 _diplomacyManager.GetString(name, cultureInfo) ??
                 _allianceNamesManager.GetString(name, cultureInfo) ??
                 _provinceNamesManager.GetString(name, cultureInfo) ??
+                _cultureNamesManager.GetString(name, cultureInfo) ??
                 _resourceManager.GetString("error_string_not_found", cultureInfo);
         }
 

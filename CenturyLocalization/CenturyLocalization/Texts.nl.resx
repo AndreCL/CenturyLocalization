@@ -849,4 +849,25 @@ Wanneer de wereldspanning 100% bereikt, wordt een wereldoorlog ontketend en word
   <data name="province_dialog_province_number" xml:space="preserve">
     <value>Provincie {0}</value>
   </data>
+  <data name="map_layers" xml:space="preserve">
+    <value>Kaartlagen</value>
+  </data>
+  <data name="map_layer_political" xml:space="preserve">
+    <value>Politiek</value>
+  </data>
+  <data name="map_layer_relations" xml:space="preserve">
+    <value>Betrekkingen</value>
+  </data>
+  <data name="map_legend_state_religion" xml:space="preserve">
+    <value>Strepen: de religie van de staat</value>
+  </data>
+  <data name="map_legend_your_country" xml:space="preserve">
+    <value>Jouw land</value>
+  </data>
+  <data name="map" xml:space="preserve">
+    <value>Kaart</value>
+  </data>
+  <data name="list" xml:space="preserve">
+    <value>Lijst</value>
+  </data>
 </root>

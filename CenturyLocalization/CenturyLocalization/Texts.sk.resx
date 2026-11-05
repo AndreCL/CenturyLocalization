@@ -867,4 +867,25 @@ Keď svetové napätie dosiahne 100%, spustí sa svetová vojna a resetuje sa.
   <data name="province_dialog_province_number" xml:space="preserve">
     <value>Provincia {0}</value>
   </data>
+  <data name="map_layers" xml:space="preserve">
+    <value>Vrstvy mapy</value>
+  </data>
+  <data name="map_layer_political" xml:space="preserve">
+    <value>Politická</value>
+  </data>
+  <data name="map_layer_relations" xml:space="preserve">
+    <value>Vzťahy</value>
+  </data>
+  <data name="map_legend_state_religion" xml:space="preserve">
+    <value>Pruhy: náboženstvo štátu</value>
+  </data>
+  <data name="map_legend_your_country" xml:space="preserve">
+    <value>Vaša krajina</value>
+  </data>
+  <data name="map" xml:space="preserve">
+    <value>Mapa</value>
+  </data>
+  <data name="list" xml:space="preserve">
+    <value>Zoznam</value>
+  </data>
 </root>
