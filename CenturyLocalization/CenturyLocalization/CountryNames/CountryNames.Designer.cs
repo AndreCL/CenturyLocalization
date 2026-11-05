@@ -403,6 +403,15 @@ namespace CenturyLocalization.CountryNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Czech Republic.
+        /// </summary>
+        internal static string czech_republic {
+            get {
+                return ResourceManager.GetString("czech_republic", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Czechoslovakia.
         /// </summary>
         internal static string czechoslovakia {
@@ -898,6 +907,15 @@ namespace CenturyLocalization.CountryNames {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Palestine.
+        /// </summary>
+        internal static string palestine {
+            get {
+                return ResourceManager.GetString("palestine", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Panama.
         /// </summary>
         internal static string panama {
@@ -1254,15 +1272,6 @@ namespace CenturyLocalization.CountryNames {
         internal static string yugoslavia {
             get {
                 return ResourceManager.GetString("yugoslavia", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Palestine.
-        /// </summary>
-        internal static string palestine {
-            get {
-                return ResourceManager.GetString("palestine", resourceCulture);
             }
         }
     }

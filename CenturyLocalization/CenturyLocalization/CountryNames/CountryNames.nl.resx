@@ -519,4 +519,7 @@
   <data name="palestine" xml:space="preserve">
     <value>Palestina</value>
   </data>
+  <data name="czech_republic" xml:space="preserve">
+    <value>Tsjechië</value>
+  </data>
 </root>

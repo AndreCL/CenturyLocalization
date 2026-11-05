@@ -529,4 +529,8 @@
     <value>Palestine</value>
     <comment>Country made of the Jerusalem province (the other country of the same province is Israel). Use the usual name of the country in your language</comment>
   </data>
+  <data name="czech_republic" xml:space="preserve">
+    <value>Czech Republic</value>
+    <comment>Country made of the Czech Lands alone (the other template, czechoslovakia, is the Czech Lands and Slovakia). Use the usual short name of the state in your language</comment>
+  </data>
 </root>
