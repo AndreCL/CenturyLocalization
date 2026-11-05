@@ -1557,6 +1557,87 @@ namespace CenturyLocalization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Coastal {0}.
+        /// </summary>
+        internal static string province_dialog_coastal_length {
+            get {
+                return ResourceManager.GetString("province_dialog_coastal_length", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to (going home).
+        /// </summary>
+        internal static string province_dialog_going_home {
+            get {
+                return ResourceManager.GetString("province_dialog_going_home", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Landlocked.
+        /// </summary>
+        internal static string province_dialog_landlocked {
+            get {
+                return ResourceManager.GetString("province_dialog_landlocked", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Local forces of {0}.
+        /// </summary>
+        internal static string province_dialog_local_forces {
+            get {
+                return ResourceManager.GetString("province_dialog_local_forces", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Neighbours.
+        /// </summary>
+        internal static string province_dialog_neighbours {
+            get {
+                return ResourceManager.GetString("province_dialog_neighbours", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Occupied {0}%.
+        /// </summary>
+        internal static string province_dialog_occupied_percent {
+            get {
+                return ResourceManager.GetString("province_dialog_occupied_percent", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Occupier.
+        /// </summary>
+        internal static string province_dialog_occupier {
+            get {
+                return ResourceManager.GetString("province_dialog_occupier", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Owner.
+        /// </summary>
+        internal static string province_dialog_owner {
+            get {
+                return ResourceManager.GetString("province_dialog_owner", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Province {0}.
+        /// </summary>
+        internal static string province_dialog_province_number {
+            get {
+                return ResourceManager.GetString("province_dialog_province_number", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Random.
         /// </summary>
         internal static string random {

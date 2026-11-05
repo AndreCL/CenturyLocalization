@@ -822,4 +822,31 @@ Ketika Ketegangan Dunia mencapai 100%, Perang Dunia akan dipicu dan nilainya dia
   <data name="diplomatic_actions" xml:space="preserve">
     <value>Tindakan diplomatik yang tersedia: {0}</value>
   </data>
+  <data name="province_dialog_owner" xml:space="preserve">
+    <value>Pemilik</value>
+  </data>
+  <data name="province_dialog_neighbours" xml:space="preserve">
+    <value>Tetangga</value>
+  </data>
+  <data name="province_dialog_occupier" xml:space="preserve">
+    <value>Penduduk</value>
+  </data>
+  <data name="province_dialog_coastal_length" xml:space="preserve">
+    <value>Pesisir {0}</value>
+  </data>
+  <data name="province_dialog_landlocked" xml:space="preserve">
+    <value>Tanpa pesisir</value>
+  </data>
+  <data name="province_dialog_occupied_percent" xml:space="preserve">
+    <value>Diduduki {0}%</value>
+  </data>
+  <data name="province_dialog_local_forces" xml:space="preserve">
+    <value>Pasukan lokal {0}</value>
+  </data>
+  <data name="province_dialog_going_home" xml:space="preserve">
+    <value>(pulang)</value>
+  </data>
+  <data name="province_dialog_province_number" xml:space="preserve">
+    <value>Provinsi {0}</value>
+  </data>
 </root>

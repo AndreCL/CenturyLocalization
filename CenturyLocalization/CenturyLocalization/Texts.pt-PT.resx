@@ -820,4 +820,31 @@ Um novo ano chegou. Desejamos a vocês um feliz ano novo. Que este novo ano seja
   <data name="diplomatic_actions" xml:space="preserve">
     <value>Ações diplomáticas disponíveis: {0}</value>
   </data>
+  <data name="province_dialog_owner" xml:space="preserve">
+    <value>Proprietário</value>
+  </data>
+  <data name="province_dialog_neighbours" xml:space="preserve">
+    <value>Vizinhos</value>
+  </data>
+  <data name="province_dialog_occupier" xml:space="preserve">
+    <value>Ocupante</value>
+  </data>
+  <data name="province_dialog_coastal_length" xml:space="preserve">
+    <value>Costa {0}</value>
+  </data>
+  <data name="province_dialog_landlocked" xml:space="preserve">
+    <value>Sem litoral</value>
+  </data>
+  <data name="province_dialog_occupied_percent" xml:space="preserve">
+    <value>Ocupado {0}%</value>
+  </data>
+  <data name="province_dialog_local_forces" xml:space="preserve">
+    <value>Forças locais de {0}</value>
+  </data>
+  <data name="province_dialog_going_home" xml:space="preserve">
+    <value>(a regressar a casa)</value>
+  </data>
+  <data name="province_dialog_province_number" xml:space="preserve">
+    <value>Província {0}</value>
+  </data>
 </root>

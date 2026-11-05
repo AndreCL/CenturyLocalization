@@ -841,4 +841,31 @@
   <data name="diplomatic_actions" xml:space="preserve">
     <value>Kullanılabilir diplomatik eylemler: {0}</value>
   </data>
+  <data name="province_dialog_owner" xml:space="preserve">
+    <value>Sahip</value>
+  </data>
+  <data name="province_dialog_neighbours" xml:space="preserve">
+    <value>Komşular</value>
+  </data>
+  <data name="province_dialog_occupier" xml:space="preserve">
+    <value>İşgalci</value>
+  </data>
+  <data name="province_dialog_coastal_length" xml:space="preserve">
+    <value>Kıyı {0}</value>
+  </data>
+  <data name="province_dialog_landlocked" xml:space="preserve">
+    <value>Denize kıyısı yok</value>
+  </data>
+  <data name="province_dialog_occupied_percent" xml:space="preserve">
+    <value>%{0} işgal altında</value>
+  </data>
+  <data name="province_dialog_local_forces" xml:space="preserve">
+    <value>{0} yerel kuvvetleri</value>
+  </data>
+  <data name="province_dialog_going_home" xml:space="preserve">
+    <value>(eve dönüyor)</value>
+  </data>
+  <data name="province_dialog_province_number" xml:space="preserve">
+    <value>Eyalet {0}</value>
+  </data>
 </root>

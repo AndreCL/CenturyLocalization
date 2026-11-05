@@ -823,4 +823,31 @@ Når verdensspændingen når 100 %, udløses en verdenskrig, og værdien nulstil
   <data name="diplomatic_actions" xml:space="preserve">
     <value>Tilgængelige diplomatiske handlinger: {0}</value>
   </data>
+  <data name="province_dialog_owner" xml:space="preserve">
+    <value>Ejer</value>
+  </data>
+  <data name="province_dialog_neighbours" xml:space="preserve">
+    <value>Naboer</value>
+  </data>
+  <data name="province_dialog_occupier" xml:space="preserve">
+    <value>Besætter</value>
+  </data>
+  <data name="province_dialog_coastal_length" xml:space="preserve">
+    <value>Kyst {0}</value>
+  </data>
+  <data name="province_dialog_landlocked" xml:space="preserve">
+    <value>Uden kyst</value>
+  </data>
+  <data name="province_dialog_occupied_percent" xml:space="preserve">
+    <value>Besat {0}%</value>
+  </data>
+  <data name="province_dialog_local_forces" xml:space="preserve">
+    <value>Lokale styrker fra {0}</value>
+  </data>
+  <data name="province_dialog_going_home" xml:space="preserve">
+    <value>(på vej hjem)</value>
+  </data>
+  <data name="province_dialog_province_number" xml:space="preserve">
+    <value>Provins {0}</value>
+  </data>
 </root>

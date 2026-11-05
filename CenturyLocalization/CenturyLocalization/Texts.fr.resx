@@ -842,4 +842,31 @@ Une fois que la tension mondiale atteint 100 %, une guerre mondiale est déclenc
   <data name="diplomatic_actions" xml:space="preserve">
     <value>Actions diplomatiques disponibles : {0}</value>
   </data>
+  <data name="province_dialog_owner" xml:space="preserve">
+    <value>Propriétaire</value>
+  </data>
+  <data name="province_dialog_neighbours" xml:space="preserve">
+    <value>Voisins</value>
+  </data>
+  <data name="province_dialog_occupier" xml:space="preserve">
+    <value>Occupant</value>
+  </data>
+  <data name="province_dialog_coastal_length" xml:space="preserve">
+    <value>Côte {0}</value>
+  </data>
+  <data name="province_dialog_landlocked" xml:space="preserve">
+    <value>Sans accès à la mer</value>
+  </data>
+  <data name="province_dialog_occupied_percent" xml:space="preserve">
+    <value>Occupé à {0}%</value>
+  </data>
+  <data name="province_dialog_local_forces" xml:space="preserve">
+    <value>Forces locales de {0}</value>
+  </data>
+  <data name="province_dialog_going_home" xml:space="preserve">
+    <value>(retourne chez lui)</value>
+  </data>
+  <data name="province_dialog_province_number" xml:space="preserve">
+    <value>Province {0}</value>
+  </data>
 </root>

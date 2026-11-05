@@ -822,4 +822,31 @@ Sobald die Weltspannung 100 % erreicht, wird ein Weltkrieg ausgelöst und der We
   <data name="diplomatic_actions" xml:space="preserve">
     <value>Verfügbare diplomatische Aktionen: {0}</value>
   </data>
+  <data name="province_dialog_owner" xml:space="preserve">
+    <value>Besitzer</value>
+  </data>
+  <data name="province_dialog_neighbours" xml:space="preserve">
+    <value>Nachbarn</value>
+  </data>
+  <data name="province_dialog_occupier" xml:space="preserve">
+    <value>Besatzer</value>
+  </data>
+  <data name="province_dialog_coastal_length" xml:space="preserve">
+    <value>Küste {0}</value>
+  </data>
+  <data name="province_dialog_landlocked" xml:space="preserve">
+    <value>Ohne Meereszugang</value>
+  </data>
+  <data name="province_dialog_occupied_percent" xml:space="preserve">
+    <value>Besetzt {0}%</value>
+  </data>
+  <data name="province_dialog_local_forces" xml:space="preserve">
+    <value>Lokale Streitkräfte von {0}</value>
+  </data>
+  <data name="province_dialog_going_home" xml:space="preserve">
+    <value>(auf dem Heimweg)</value>
+  </data>
+  <data name="province_dialog_province_number" xml:space="preserve">
+    <value>Provinz {0}</value>
+  </data>
 </root>

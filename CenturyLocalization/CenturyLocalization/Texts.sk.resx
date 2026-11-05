@@ -840,4 +840,31 @@ Keď svetové napätie dosiahne 100%, spustí sa svetová vojna a resetuje sa.
   <data name="diplomatic_actions" xml:space="preserve">
     <value>Dostupné diplomatické akcie: {0}</value>
   </data>
+  <data name="province_dialog_owner" xml:space="preserve">
+    <value>Vlastník</value>
+  </data>
+  <data name="province_dialog_neighbours" xml:space="preserve">
+    <value>Susedia</value>
+  </data>
+  <data name="province_dialog_occupier" xml:space="preserve">
+    <value>Okupant</value>
+  </data>
+  <data name="province_dialog_coastal_length" xml:space="preserve">
+    <value>Pobrežie {0}</value>
+  </data>
+  <data name="province_dialog_landlocked" xml:space="preserve">
+    <value>Bez prístupu k moru</value>
+  </data>
+  <data name="province_dialog_occupied_percent" xml:space="preserve">
+    <value>Okupované {0}%</value>
+  </data>
+  <data name="province_dialog_local_forces" xml:space="preserve">
+    <value>Miestne sily {0}</value>
+  </data>
+  <data name="province_dialog_going_home" xml:space="preserve">
+    <value>(vracia sa domov)</value>
+  </data>
+  <data name="province_dialog_province_number" xml:space="preserve">
+    <value>Provincia {0}</value>
+  </data>
 </root>

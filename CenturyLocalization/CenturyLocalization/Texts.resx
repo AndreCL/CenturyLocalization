@@ -849,4 +849,40 @@ Once the World Tension reaches 100%, a World War is triggered and it resets.
     <value>Diplomatic actions available: {0}</value>
     <comment>Where {0} is the available diplomatic actions / the maximum available diplomatic actions (example: 1/1)</comment>
   </data>
+  <data name="province_dialog_owner" xml:space="preserve">
+    <value>Owner</value>
+    <comment>Heading above the flag and name of the country that owns the province</comment>
+  </data>
+  <data name="province_dialog_neighbours" xml:space="preserve">
+    <value>Neighbours</value>
+    <comment>Heading of the list of the provinces next to this one (flag of the owner and name of each; a tap opens that province)</comment>
+  </data>
+  <data name="province_dialog_occupier" xml:space="preserve">
+    <value>Occupier</value>
+    <comment>Heading above the flag and name of the country that occupies the province (or part of it)</comment>
+  </data>
+  <data name="province_dialog_coastal_length" xml:space="preserve">
+    <value>Coastal {0}</value>
+    <comment>The province lies on the sea, with the length of its coast; shown beside the coast icon; {0} is the length with its unit, for example 7,300km</comment>
+  </data>
+  <data name="province_dialog_landlocked" xml:space="preserve">
+    <value>Landlocked</value>
+    <comment>The province has no coast. Shown beside the no-coast icon</comment>
+  </data>
+  <data name="province_dialog_occupied_percent" xml:space="preserve">
+    <value>Occupied {0}%</value>
+    <comment>Not shown: what a screen reader says for the bar that shows how much of the province the occupier holds. {0} is a number such as 45.5</comment>
+  </data>
+  <data name="province_dialog_local_forces" xml:space="preserve">
+    <value>Local forces of {0}</value>
+    <comment>First row of the list of armies in the province: the forces that belong to the province itself, before the armies that came from other provinces. {0} is the name of the province</comment>
+  </data>
+  <data name="province_dialog_going_home" xml:space="preserve">
+    <value>(going home)</value>
+    <comment>After an army in that list that is on its way back to its home province</comment>
+  </data>
+  <data name="province_dialog_province_number" xml:space="preserve">
+    <value>Province {0}</value>
+    <comment>Name of a province that has no name in the game; {0} is its number. Should not be seen</comment>
+  </data>
 </root>

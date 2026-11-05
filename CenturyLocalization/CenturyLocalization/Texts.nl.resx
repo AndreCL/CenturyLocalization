@@ -822,4 +822,31 @@ Wanneer de wereldspanning 100% bereikt, wordt een wereldoorlog ontketend en word
   <data name="diplomatic_actions" xml:space="preserve">
     <value>Beschikbare diplomatieke acties: {0}</value>
   </data>
+  <data name="province_dialog_owner" xml:space="preserve">
+    <value>Eigenaar</value>
+  </data>
+  <data name="province_dialog_neighbours" xml:space="preserve">
+    <value>Buren</value>
+  </data>
+  <data name="province_dialog_occupier" xml:space="preserve">
+    <value>Bezetter</value>
+  </data>
+  <data name="province_dialog_coastal_length" xml:space="preserve">
+    <value>Kust {0}</value>
+  </data>
+  <data name="province_dialog_landlocked" xml:space="preserve">
+    <value>Zonder kust</value>
+  </data>
+  <data name="province_dialog_occupied_percent" xml:space="preserve">
+    <value>Bezet {0}%</value>
+  </data>
+  <data name="province_dialog_local_forces" xml:space="preserve">
+    <value>Lokale troepen van {0}</value>
+  </data>
+  <data name="province_dialog_going_home" xml:space="preserve">
+    <value>(op weg naar huis)</value>
+  </data>
+  <data name="province_dialog_province_number" xml:space="preserve">
+    <value>Provincie {0}</value>
+  </data>
 </root>

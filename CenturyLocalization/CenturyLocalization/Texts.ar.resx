@@ -822,4 +822,31 @@
   <data name="diplomatic_actions" xml:space="preserve">
     <value>الإجراءات الدبلوماسية المتاحة: {0}</value>
   </data>
+  <data name="province_dialog_owner" xml:space="preserve">
+    <value>المالك</value>
+  </data>
+  <data name="province_dialog_neighbours" xml:space="preserve">
+    <value>الجيران</value>
+  </data>
+  <data name="province_dialog_occupier" xml:space="preserve">
+    <value>المحتل</value>
+  </data>
+  <data name="province_dialog_coastal_length" xml:space="preserve">
+    <value>طول الساحل {0}</value>
+  </data>
+  <data name="province_dialog_landlocked" xml:space="preserve">
+    <value>بلا منفذ بحري</value>
+  </data>
+  <data name="province_dialog_occupied_percent" xml:space="preserve">
+    <value>محتل {0}%</value>
+  </data>
+  <data name="province_dialog_local_forces" xml:space="preserve">
+    <value>القوات المحلية لـ{0}</value>
+  </data>
+  <data name="province_dialog_going_home" xml:space="preserve">
+    <value>(في طريق العودة)</value>
+  </data>
+  <data name="province_dialog_province_number" xml:space="preserve">
+    <value>المقاطعة {0}</value>
+  </data>
 </root>

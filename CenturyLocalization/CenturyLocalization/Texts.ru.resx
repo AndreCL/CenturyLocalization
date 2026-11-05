@@ -827,4 +827,31 @@
   <data name="diplomatic_actions" xml:space="preserve">
     <value>Доступные дипломатические действия: {0}</value>
   </data>
+  <data name="province_dialog_owner" xml:space="preserve">
+    <value>Владелец</value>
+  </data>
+  <data name="province_dialog_neighbours" xml:space="preserve">
+    <value>Соседи</value>
+  </data>
+  <data name="province_dialog_occupier" xml:space="preserve">
+    <value>Оккупант</value>
+  </data>
+  <data name="province_dialog_coastal_length" xml:space="preserve">
+    <value>Побережье {0}</value>
+  </data>
+  <data name="province_dialog_landlocked" xml:space="preserve">
+    <value>Без выхода к морю</value>
+  </data>
+  <data name="province_dialog_occupied_percent" xml:space="preserve">
+    <value>Оккупировано {0}%</value>
+  </data>
+  <data name="province_dialog_local_forces" xml:space="preserve">
+    <value>Местные силы {0}</value>
+  </data>
+  <data name="province_dialog_going_home" xml:space="preserve">
+    <value>(возвращается домой)</value>
+  </data>
+  <data name="province_dialog_province_number" xml:space="preserve">
+    <value>Провинция {0}</value>
+  </data>
 </root>
