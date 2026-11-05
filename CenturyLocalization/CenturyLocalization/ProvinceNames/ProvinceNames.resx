@@ -1303,4 +1303,44 @@ There are any number of "resheader" rows that contain simple
     <value>Austrian Littoral</value>
     <comment>The Austrian crownland of the Kuestenland around 1900: Trieste, Istria and Gorizia on the northern Adriatic. Use the historical name in your language if there is one</comment>
   </data>
+  <data name="province_italy_central" xml:space="preserve">
+    <value>Italy Central</value>
+    <comment>Province of Italy around 1900: Tuscany, Umbria, the Marche, Lazio with Rome, and the Abruzzi. The capital of the country. The other Italian provinces are Italy North and Italy South</comment>
+  </data>
+  <data name="province_sardinia" xml:space="preserve">
+    <value>Sardinia</value>
+    <comment>The island of Sardinia, a province of Italy</comment>
+  </data>
+  <data name="province_corsica" xml:space="preserve">
+    <value>Corsica</value>
+    <comment>The island of Corsica, a province of France</comment>
+  </data>
+  <data name="province_hong_kong" xml:space="preserve">
+    <value>Hong Kong</value>
+    <comment>The British colony of Hong Kong on the south coast of China</comment>
+  </data>
+  <data name="province_bolivia_lowlands" xml:space="preserve">
+    <value>Bolivia Lowlands</value>
+    <comment>The eastern lowlands of Bolivia (Santa Cruz, Beni and Pando); the rest of the country is the province Bolivia</comment>
+  </data>
+  <data name="province_chile_north" xml:space="preserve">
+    <value>Chile North</value>
+    <comment>The north of Chile (Tarapaca, Antofagasta, Atacama and Coquimbo); the middle of the country is the province Chile</comment>
+  </data>
+  <data name="province_chile_south" xml:space="preserve">
+    <value>Chile South</value>
+    <comment>The south of Chile (from the Araucania to Tierra del Fuego)</comment>
+  </data>
+  <data name="province_peru_highlands" xml:space="preserve">
+    <value>Peru Highlands</value>
+    <comment>The Andes and the Amazon of Peru; the coast with Lima is the province Peru</comment>
+  </data>
+  <data name="province_colombia_llanos" xml:space="preserve">
+    <value>Colombia Llanos</value>
+    <comment>The plains and the Amazon east of the Andes in Colombia; the rest of the country is the province Colombia</comment>
+  </data>
+  <data name="province_venezuela_interior" xml:space="preserve">
+    <value>Venezuela Interior</value>
+    <comment>The Llanos and Guayana of Venezuela south of the Orinoco; the coast with Caracas is the province Venezuela</comment>
+  </data>
 </root>

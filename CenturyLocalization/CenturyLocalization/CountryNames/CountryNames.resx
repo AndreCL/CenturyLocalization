@@ -525,4 +525,8 @@
     <value>Yugoslavia</value>
     <comment>Name of Serbia in the game once it holds Bosnia, Croatia and Slovenia (the union of the South Slavs after the Great War). Use the usual name of the state in your language</comment>
   </data>
+  <data name="palestine" xml:space="preserve">
+    <value>Palestine</value>
+    <comment>Country made of the Jerusalem province (the other country of the same province is Israel). Use the usual name of the country in your language</comment>
+  </data>
 </root>

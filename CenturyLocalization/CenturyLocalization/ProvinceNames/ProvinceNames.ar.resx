@@ -1166,4 +1166,34 @@ There are any number of "resheader" rows that contain simple
   <data name="province_austrian_littoral" xml:space="preserve">
     <value>الساحل النمساوي</value>
   </data>
+  <data name="province_italy_central" xml:space="preserve">
+    <value>إيطاليا الوسطى</value>
+  </data>
+  <data name="province_sardinia" xml:space="preserve">
+    <value>سردينيا</value>
+  </data>
+  <data name="province_corsica" xml:space="preserve">
+    <value>كورسيكا</value>
+  </data>
+  <data name="province_hong_kong" xml:space="preserve">
+    <value>هونغ كونغ</value>
+  </data>
+  <data name="province_bolivia_lowlands" xml:space="preserve">
+    <value>أراضي بوليفيا المنخفضة</value>
+  </data>
+  <data name="province_chile_north" xml:space="preserve">
+    <value>شمال تشيلي</value>
+  </data>
+  <data name="province_chile_south" xml:space="preserve">
+    <value>جنوب تشيلي</value>
+  </data>
+  <data name="province_peru_highlands" xml:space="preserve">
+    <value>مرتفعات بيرو</value>
+  </data>
+  <data name="province_colombia_llanos" xml:space="preserve">
+    <value>سهول كولومبيا (اللانوس)</value>
+  </data>
+  <data name="province_venezuela_interior" xml:space="preserve">
+    <value>داخل فنزويلا</value>
+  </data>
 </root>

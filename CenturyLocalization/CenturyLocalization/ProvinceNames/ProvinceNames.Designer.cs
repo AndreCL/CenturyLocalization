@@ -3236,5 +3236,95 @@ namespace CenturyLocalization.ProvinceNames {
                 return ResourceManager.GetString("province_zhili", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Italy Central.
+        /// </summary>
+        internal static string province_italy_central {
+            get {
+                return ResourceManager.GetString("province_italy_central", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sardinia.
+        /// </summary>
+        internal static string province_sardinia {
+            get {
+                return ResourceManager.GetString("province_sardinia", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Corsica.
+        /// </summary>
+        internal static string province_corsica {
+            get {
+                return ResourceManager.GetString("province_corsica", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Hong Kong.
+        /// </summary>
+        internal static string province_hong_kong {
+            get {
+                return ResourceManager.GetString("province_hong_kong", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Bolivia Lowlands.
+        /// </summary>
+        internal static string province_bolivia_lowlands {
+            get {
+                return ResourceManager.GetString("province_bolivia_lowlands", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Chile North.
+        /// </summary>
+        internal static string province_chile_north {
+            get {
+                return ResourceManager.GetString("province_chile_north", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Chile South.
+        /// </summary>
+        internal static string province_chile_south {
+            get {
+                return ResourceManager.GetString("province_chile_south", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Peru Highlands.
+        /// </summary>
+        internal static string province_peru_highlands {
+            get {
+                return ResourceManager.GetString("province_peru_highlands", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Colombia Llanos.
+        /// </summary>
+        internal static string province_colombia_llanos {
+            get {
+                return ResourceManager.GetString("province_colombia_llanos", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Venezuela Interior.
+        /// </summary>
+        internal static string province_venezuela_interior {
+            get {
+                return ResourceManager.GetString("province_venezuela_interior", resourceCulture);
+            }
+        }
     }
 }

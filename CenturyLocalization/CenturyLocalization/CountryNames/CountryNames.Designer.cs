@@ -1256,5 +1256,14 @@ namespace CenturyLocalization.CountryNames {
                 return ResourceManager.GetString("yugoslavia", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Palestine.
+        /// </summary>
+        internal static string palestine {
+            get {
+                return ResourceManager.GetString("palestine", resourceCulture);
+            }
+        }
     }
 }

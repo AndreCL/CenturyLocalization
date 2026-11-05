@@ -516,4 +516,7 @@
   <data name="yugoslavia" xml:space="preserve">
     <value>Jugoslávia</value>
   </data>
+  <data name="palestine" xml:space="preserve">
+    <value>Palestina</value>
+  </data>
 </root>
