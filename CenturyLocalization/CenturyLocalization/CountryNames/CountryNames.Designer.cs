@@ -1301,5 +1301,815 @@ namespace CenturyLocalization.CountryNames {
                 return ResourceManager.GetString("yemen", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Egypt.
+        /// </summary>
+        internal static string egypt {
+            get {
+                return ResourceManager.GetString("egypt", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sudan.
+        /// </summary>
+        internal static string sudan {
+            get {
+                return ResourceManager.GetString("sudan", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to South Sudan.
+        /// </summary>
+        internal static string south_sudan {
+            get {
+                return ResourceManager.GetString("south_sudan", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Kenya.
+        /// </summary>
+        internal static string kenya {
+            get {
+                return ResourceManager.GetString("kenya", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Uganda.
+        /// </summary>
+        internal static string uganda {
+            get {
+                return ResourceManager.GetString("uganda", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Malawi.
+        /// </summary>
+        internal static string malawi {
+            get {
+                return ResourceManager.GetString("malawi", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Zambia.
+        /// </summary>
+        internal static string zambia {
+            get {
+                return ResourceManager.GetString("zambia", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Zimbabwe.
+        /// </summary>
+        internal static string zimbabwe {
+            get {
+                return ResourceManager.GetString("zimbabwe", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Botswana.
+        /// </summary>
+        internal static string botswana {
+            get {
+                return ResourceManager.GetString("botswana", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Lesotho.
+        /// </summary>
+        internal static string lesotho {
+            get {
+                return ResourceManager.GetString("lesotho", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to South Africa.
+        /// </summary>
+        internal static string south_africa {
+            get {
+                return ResourceManager.GetString("south_africa", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Gambia.
+        /// </summary>
+        internal static string gambia {
+            get {
+                return ResourceManager.GetString("gambia", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sierra Leone.
+        /// </summary>
+        internal static string sierra_leone {
+            get {
+                return ResourceManager.GetString("sierra_leone", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ghana.
+        /// </summary>
+        internal static string ghana {
+            get {
+                return ResourceManager.GetString("ghana", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Nigeria.
+        /// </summary>
+        internal static string nigeria {
+            get {
+                return ResourceManager.GetString("nigeria", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Somaliland.
+        /// </summary>
+        internal static string somaliland {
+            get {
+                return ResourceManager.GetString("somaliland", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Algeria.
+        /// </summary>
+        internal static string algeria {
+            get {
+                return ResourceManager.GetString("algeria", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Tunisia.
+        /// </summary>
+        internal static string tunisia {
+            get {
+                return ResourceManager.GetString("tunisia", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Senegal.
+        /// </summary>
+        internal static string senegal {
+            get {
+                return ResourceManager.GetString("senegal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Guinea.
+        /// </summary>
+        internal static string guinea {
+            get {
+                return ResourceManager.GetString("guinea", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Mauritania.
+        /// </summary>
+        internal static string mauritania {
+            get {
+                return ResourceManager.GetString("mauritania", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Mali.
+        /// </summary>
+        internal static string mali {
+            get {
+                return ResourceManager.GetString("mali", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cote d&apos;Ivoire.
+        /// </summary>
+        internal static string ivory_coast {
+            get {
+                return ResourceManager.GetString("ivory_coast", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Benin.
+        /// </summary>
+        internal static string benin {
+            get {
+                return ResourceManager.GetString("benin", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Chad.
+        /// </summary>
+        internal static string chad {
+            get {
+                return ResourceManager.GetString("chad", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Central African Republic.
+        /// </summary>
+        internal static string central_african_republic {
+            get {
+                return ResourceManager.GetString("central_african_republic", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Republic of the Congo.
+        /// </summary>
+        internal static string republic_of_the_congo {
+            get {
+                return ResourceManager.GetString("republic_of_the_congo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Madagascar.
+        /// </summary>
+        internal static string madagascar {
+            get {
+                return ResourceManager.GetString("madagascar", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Djibouti.
+        /// </summary>
+        internal static string djibouti {
+            get {
+                return ResourceManager.GetString("djibouti", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Libya.
+        /// </summary>
+        internal static string libya {
+            get {
+                return ResourceManager.GetString("libya", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Eritrea.
+        /// </summary>
+        internal static string eritrea {
+            get {
+                return ResourceManager.GetString("eritrea", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Somalia.
+        /// </summary>
+        internal static string somalia {
+            get {
+                return ResourceManager.GetString("somalia", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Togo.
+        /// </summary>
+        internal static string togo {
+            get {
+                return ResourceManager.GetString("togo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cameroon.
+        /// </summary>
+        internal static string cameroon {
+            get {
+                return ResourceManager.GetString("cameroon", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Namibia.
+        /// </summary>
+        internal static string namibia {
+            get {
+                return ResourceManager.GetString("namibia", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Tanzania.
+        /// </summary>
+        internal static string tanzania {
+            get {
+                return ResourceManager.GetString("tanzania", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Equatorial Guinea.
+        /// </summary>
+        internal static string equatorial_guinea {
+            get {
+                return ResourceManager.GetString("equatorial_guinea", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sahrawi Arab Democratic Republic.
+        /// </summary>
+        internal static string sahrawi_republic {
+            get {
+                return ResourceManager.GetString("sahrawi_republic", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Angola.
+        /// </summary>
+        internal static string angola {
+            get {
+                return ResourceManager.GetString("angola", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Mozambique.
+        /// </summary>
+        internal static string mozambique {
+            get {
+                return ResourceManager.GetString("mozambique", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Guinea-Bissau.
+        /// </summary>
+        internal static string guinea_bissau {
+            get {
+                return ResourceManager.GetString("guinea_bissau", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Guyana.
+        /// </summary>
+        internal static string guyana {
+            get {
+                return ResourceManager.GetString("guyana", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Suriname.
+        /// </summary>
+        internal static string suriname {
+            get {
+                return ResourceManager.GetString("suriname", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to India.
+        /// </summary>
+        internal static string india {
+            get {
+                return ResourceManager.GetString("india", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Pakistan.
+        /// </summary>
+        internal static string pakistan {
+            get {
+                return ResourceManager.GetString("pakistan", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sri Lanka.
+        /// </summary>
+        internal static string sri_lanka {
+            get {
+                return ResourceManager.GetString("sri_lanka", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Indonesia.
+        /// </summary>
+        internal static string indonesia {
+            get {
+                return ResourceManager.GetString("indonesia", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Timor-Leste.
+        /// </summary>
+        internal static string timor_leste {
+            get {
+                return ResourceManager.GetString("timor_leste", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Papua New Guinea.
+        /// </summary>
+        internal static string papua_new_guinea {
+            get {
+                return ResourceManager.GetString("papua_new_guinea", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Taiwan.
+        /// </summary>
+        internal static string taiwan {
+            get {
+                return ResourceManager.GetString("taiwan", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to New Zealand.
+        /// </summary>
+        internal static string new_zealand {
+            get {
+                return ResourceManager.GetString("new_zealand", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Bosnia and Herzegovina.
+        /// </summary>
+        internal static string bosnia_and_herzegovina {
+            get {
+                return ResourceManager.GetString("bosnia_and_herzegovina", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to North Macedonia.
+        /// </summary>
+        internal static string north_macedonia {
+            get {
+                return ResourceManager.GetString("north_macedonia", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Kosovo.
+        /// </summary>
+        internal static string kosovo {
+            get {
+                return ResourceManager.GetString("kosovo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to North Korea.
+        /// </summary>
+        internal static string north_korea {
+            get {
+                return ResourceManager.GetString("north_korea", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to South Korea.
+        /// </summary>
+        internal static string south_korea {
+            get {
+                return ResourceManager.GetString("south_korea", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Gabon.
+        /// </summary>
+        internal static string gabon {
+            get {
+                return ResourceManager.GetString("gabon", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Rwanda.
+        /// </summary>
+        internal static string rwanda {
+            get {
+                return ResourceManager.GetString("rwanda", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Burundi.
+        /// </summary>
+        internal static string burundi {
+            get {
+                return ResourceManager.GetString("burundi", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Burkina Faso.
+        /// </summary>
+        internal static string burkina_faso {
+            get {
+                return ResourceManager.GetString("burkina_faso", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Niger.
+        /// </summary>
+        internal static string niger {
+            get {
+                return ResourceManager.GetString("niger", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Gaza.
+        /// </summary>
+        internal static string gaza {
+            get {
+                return ResourceManager.GetString("gaza", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Houthi Yemen.
+        /// </summary>
+        internal static string houthi_yemen {
+            get {
+                return ResourceManager.GetString("houthi_yemen", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Puntland.
+        /// </summary>
+        internal static string puntland {
+            get {
+                return ResourceManager.GetString("puntland", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ambazonia.
+        /// </summary>
+        internal static string ambazonia {
+            get {
+                return ResourceManager.GetString("ambazonia", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Chinland.
+        /// </summary>
+        internal static string chinland {
+            get {
+                return ResourceManager.GetString("chinland", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Kawthoolei.
+        /// </summary>
+        internal static string kawthoolei {
+            get {
+                return ResourceManager.GetString("kawthoolei", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wa State.
+        /// </summary>
+        internal static string wa_state {
+            get {
+                return ResourceManager.GetString("wa_state", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Moldova.
+        /// </summary>
+        internal static string moldova {
+            get {
+                return ResourceManager.GetString("moldova", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Transnistria.
+        /// </summary>
+        internal static string transnistria {
+            get {
+                return ResourceManager.GetString("transnistria", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Abkhazia.
+        /// </summary>
+        internal static string abkhazia {
+            get {
+                return ResourceManager.GetString("abkhazia", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to South Ossetia.
+        /// </summary>
+        internal static string south_ossetia {
+            get {
+                return ResourceManager.GetString("south_ossetia", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Kuwait.
+        /// </summary>
+        internal static string kuwait {
+            get {
+                return ResourceManager.GetString("kuwait", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Qatar.
+        /// </summary>
+        internal static string qatar {
+            get {
+                return ResourceManager.GetString("qatar", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to United Arab Emirates.
+        /// </summary>
+        internal static string united_arab_emirates {
+            get {
+                return ResourceManager.GetString("united_arab_emirates", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Jamaica.
+        /// </summary>
+        internal static string jamaica {
+            get {
+                return ResourceManager.GetString("jamaica", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Bahamas.
+        /// </summary>
+        internal static string bahamas {
+            get {
+                return ResourceManager.GetString("bahamas", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Belize.
+        /// </summary>
+        internal static string belize {
+            get {
+                return ResourceManager.GetString("belize", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Eswatini.
+        /// </summary>
+        internal static string eswatini {
+            get {
+                return ResourceManager.GetString("eswatini", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Fiji.
+        /// </summary>
+        internal static string fiji {
+            get {
+                return ResourceManager.GetString("fiji", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Vanuatu.
+        /// </summary>
+        internal static string vanuatu {
+            get {
+                return ResourceManager.GetString("vanuatu", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Solomon Islands.
+        /// </summary>
+        internal static string solomon_islands {
+            get {
+                return ResourceManager.GetString("solomon_islands", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cyprus.
+        /// </summary>
+        internal static string cyprus {
+            get {
+                return ResourceManager.GetString("cyprus", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Northern Cyprus.
+        /// </summary>
+        internal static string northern_cyprus {
+            get {
+                return ResourceManager.GetString("northern_cyprus", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Brunei.
+        /// </summary>
+        internal static string brunei {
+            get {
+                return ResourceManager.GetString("brunei", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Trinidad and Tobago.
+        /// </summary>
+        internal static string trinidad_and_tobago {
+            get {
+                return ResourceManager.GetString("trinidad_and_tobago", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cabo Verde.
+        /// </summary>
+        internal static string cabo_verde {
+            get {
+                return ResourceManager.GetString("cabo_verde", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Comoros.
+        /// </summary>
+        internal static string comoros {
+            get {
+                return ResourceManager.GetString("comoros", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Mauritius.
+        /// </summary>
+        internal static string mauritius {
+            get {
+                return ResourceManager.GetString("mauritius", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Samoa.
+        /// </summary>
+        internal static string samoa {
+            get {
+                return ResourceManager.GetString("samoa", resourceCulture);
+            }
+        }
     }
 }

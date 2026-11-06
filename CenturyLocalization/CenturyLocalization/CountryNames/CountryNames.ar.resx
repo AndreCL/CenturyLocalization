@@ -531,4 +531,274 @@
   <data name="yemen" xml:space="preserve">
     <value>اليمن</value>
   </data>
+  <data name="egypt" xml:space="preserve">
+    <value>مصر</value>
+  </data>
+  <data name="sudan" xml:space="preserve">
+    <value>السودان</value>
+  </data>
+  <data name="south_sudan" xml:space="preserve">
+    <value>جنوب السودان</value>
+  </data>
+  <data name="kenya" xml:space="preserve">
+    <value>كينيا</value>
+  </data>
+  <data name="uganda" xml:space="preserve">
+    <value>أوغندا</value>
+  </data>
+  <data name="malawi" xml:space="preserve">
+    <value>ملاوي</value>
+  </data>
+  <data name="zambia" xml:space="preserve">
+    <value>زامبيا</value>
+  </data>
+  <data name="zimbabwe" xml:space="preserve">
+    <value>زيمبابوي</value>
+  </data>
+  <data name="botswana" xml:space="preserve">
+    <value>بوتسوانا</value>
+  </data>
+  <data name="lesotho" xml:space="preserve">
+    <value>ليسوتو</value>
+  </data>
+  <data name="south_africa" xml:space="preserve">
+    <value>جنوب أفريقيا</value>
+  </data>
+  <data name="gambia" xml:space="preserve">
+    <value>غامبيا</value>
+  </data>
+  <data name="sierra_leone" xml:space="preserve">
+    <value>سيراليون</value>
+  </data>
+  <data name="ghana" xml:space="preserve">
+    <value>غانا</value>
+  </data>
+  <data name="nigeria" xml:space="preserve">
+    <value>نيجيريا</value>
+  </data>
+  <data name="somaliland" xml:space="preserve">
+    <value>أرض الصومال</value>
+  </data>
+  <data name="algeria" xml:space="preserve">
+    <value>الجزائر</value>
+  </data>
+  <data name="tunisia" xml:space="preserve">
+    <value>تونس</value>
+  </data>
+  <data name="senegal" xml:space="preserve">
+    <value>السنغال</value>
+  </data>
+  <data name="guinea" xml:space="preserve">
+    <value>غينيا</value>
+  </data>
+  <data name="mauritania" xml:space="preserve">
+    <value>موريتانيا</value>
+  </data>
+  <data name="mali" xml:space="preserve">
+    <value>مالي</value>
+  </data>
+  <data name="ivory_coast" xml:space="preserve">
+    <value>ساحل العاج</value>
+  </data>
+  <data name="benin" xml:space="preserve">
+    <value>بنين</value>
+  </data>
+  <data name="chad" xml:space="preserve">
+    <value>تشاد</value>
+  </data>
+  <data name="central_african_republic" xml:space="preserve">
+    <value>جمهورية أفريقيا الوسطى</value>
+  </data>
+  <data name="republic_of_the_congo" xml:space="preserve">
+    <value>جمهورية الكونغو</value>
+  </data>
+  <data name="madagascar" xml:space="preserve">
+    <value>مدغشقر</value>
+  </data>
+  <data name="djibouti" xml:space="preserve">
+    <value>جيبوتي</value>
+  </data>
+  <data name="libya" xml:space="preserve">
+    <value>ليبيا</value>
+  </data>
+  <data name="eritrea" xml:space="preserve">
+    <value>إريتريا</value>
+  </data>
+  <data name="somalia" xml:space="preserve">
+    <value>الصومال</value>
+  </data>
+  <data name="togo" xml:space="preserve">
+    <value>توغو</value>
+  </data>
+  <data name="cameroon" xml:space="preserve">
+    <value>الكاميرون</value>
+  </data>
+  <data name="namibia" xml:space="preserve">
+    <value>ناميبيا</value>
+  </data>
+  <data name="tanzania" xml:space="preserve">
+    <value>تنزانيا</value>
+  </data>
+  <data name="equatorial_guinea" xml:space="preserve">
+    <value>غينيا الاستوائية</value>
+  </data>
+  <data name="sahrawi_republic" xml:space="preserve">
+    <value>الجمهورية العربية الصحراوية الديمقراطية</value>
+  </data>
+  <data name="angola" xml:space="preserve">
+    <value>أنغولا</value>
+  </data>
+  <data name="mozambique" xml:space="preserve">
+    <value>موزمبيق</value>
+  </data>
+  <data name="guinea_bissau" xml:space="preserve">
+    <value>غينيا بيساو</value>
+  </data>
+  <data name="guyana" xml:space="preserve">
+    <value>غيانا</value>
+  </data>
+  <data name="suriname" xml:space="preserve">
+    <value>سورينام</value>
+  </data>
+  <data name="india" xml:space="preserve">
+    <value>الهند</value>
+  </data>
+  <data name="pakistan" xml:space="preserve">
+    <value>باكستان</value>
+  </data>
+  <data name="sri_lanka" xml:space="preserve">
+    <value>سريلانكا</value>
+  </data>
+  <data name="indonesia" xml:space="preserve">
+    <value>إندونيسيا</value>
+  </data>
+  <data name="timor_leste" xml:space="preserve">
+    <value>تيمور الشرقية</value>
+  </data>
+  <data name="papua_new_guinea" xml:space="preserve">
+    <value>بابوا غينيا الجديدة</value>
+  </data>
+  <data name="taiwan" xml:space="preserve">
+    <value>تايوان</value>
+  </data>
+  <data name="new_zealand" xml:space="preserve">
+    <value>نيوزيلندا</value>
+  </data>
+  <data name="bosnia_and_herzegovina" xml:space="preserve">
+    <value>البوسنة والهرسك</value>
+  </data>
+  <data name="north_macedonia" xml:space="preserve">
+    <value>مقدونيا الشمالية</value>
+  </data>
+  <data name="kosovo" xml:space="preserve">
+    <value>كوسوفو</value>
+  </data>
+  <data name="north_korea" xml:space="preserve">
+    <value>كوريا الشمالية</value>
+  </data>
+  <data name="south_korea" xml:space="preserve">
+    <value>كوريا الجنوبية</value>
+  </data>
+  <data name="gabon" xml:space="preserve">
+    <value>الغابون</value>
+  </data>
+  <data name="rwanda" xml:space="preserve">
+    <value>رواندا</value>
+  </data>
+  <data name="burundi" xml:space="preserve">
+    <value>بوروندي</value>
+  </data>
+  <data name="burkina_faso" xml:space="preserve">
+    <value>بوركينا فاسو</value>
+  </data>
+  <data name="niger" xml:space="preserve">
+    <value>النيجر</value>
+  </data>
+  <data name="gaza" xml:space="preserve">
+    <value>غزة</value>
+  </data>
+  <data name="houthi_yemen" xml:space="preserve">
+    <value>اليمن الحوثي</value>
+  </data>
+  <data name="puntland" xml:space="preserve">
+    <value>بونتلاند</value>
+  </data>
+  <data name="ambazonia" xml:space="preserve">
+    <value>أمبازونيا</value>
+  </data>
+  <data name="chinland" xml:space="preserve">
+    <value>تشينلاند</value>
+  </data>
+  <data name="kawthoolei" xml:space="preserve">
+    <value>كاوثولي</value>
+  </data>
+  <data name="wa_state" xml:space="preserve">
+    <value>ولاية وا</value>
+  </data>
+  <data name="moldova" xml:space="preserve">
+    <value>مولدوفا</value>
+  </data>
+  <data name="transnistria" xml:space="preserve">
+    <value>ترانسنيستريا</value>
+  </data>
+  <data name="abkhazia" xml:space="preserve">
+    <value>أبخازيا</value>
+  </data>
+  <data name="south_ossetia" xml:space="preserve">
+    <value>أوسيتيا الجنوبية</value>
+  </data>
+  <data name="kuwait" xml:space="preserve">
+    <value>الكويت</value>
+  </data>
+  <data name="qatar" xml:space="preserve">
+    <value>قطر</value>
+  </data>
+  <data name="united_arab_emirates" xml:space="preserve">
+    <value>الإمارات العربية المتحدة</value>
+  </data>
+  <data name="jamaica" xml:space="preserve">
+    <value>جامايكا</value>
+  </data>
+  <data name="bahamas" xml:space="preserve">
+    <value>جزر البهاما</value>
+  </data>
+  <data name="belize" xml:space="preserve">
+    <value>بليز</value>
+  </data>
+  <data name="eswatini" xml:space="preserve">
+    <value>إسواتيني</value>
+  </data>
+  <data name="fiji" xml:space="preserve">
+    <value>فيجي</value>
+  </data>
+  <data name="vanuatu" xml:space="preserve">
+    <value>فانواتو</value>
+  </data>
+  <data name="solomon_islands" xml:space="preserve">
+    <value>جزر سليمان</value>
+  </data>
+  <data name="cyprus" xml:space="preserve">
+    <value>قبرص</value>
+  </data>
+  <data name="northern_cyprus" xml:space="preserve">
+    <value>شمال قبرص</value>
+  </data>
+  <data name="brunei" xml:space="preserve">
+    <value>بروناي</value>
+  </data>
+  <data name="trinidad_and_tobago" xml:space="preserve">
+    <value>ترينيداد وتوباغو</value>
+  </data>
+  <data name="cabo_verde" xml:space="preserve">
+    <value>الرأس الأخضر</value>
+  </data>
+  <data name="comoros" xml:space="preserve">
+    <value>جزر القمر</value>
+  </data>
+  <data name="mauritius" xml:space="preserve">
+    <value>موريشيوس</value>
+  </data>
+  <data name="samoa" xml:space="preserve">
+    <value>ساموا</value>
+  </data>
 </root>

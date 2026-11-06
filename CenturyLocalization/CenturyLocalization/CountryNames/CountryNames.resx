@@ -545,4 +545,364 @@
     <value>Yemen</value>
     <comment>The Kingdom of Yemen, independent of the Ottomans in 1918</comment>
   </data>
+  <data name="egypt" xml:space="preserve">
+    <value>Egypt</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="sudan" xml:space="preserve">
+    <value>Sudan</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="south_sudan" xml:space="preserve">
+    <value>South Sudan</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="kenya" xml:space="preserve">
+    <value>Kenya</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="uganda" xml:space="preserve">
+    <value>Uganda</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="malawi" xml:space="preserve">
+    <value>Malawi</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="zambia" xml:space="preserve">
+    <value>Zambia</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="zimbabwe" xml:space="preserve">
+    <value>Zimbabwe</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="botswana" xml:space="preserve">
+    <value>Botswana</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="lesotho" xml:space="preserve">
+    <value>Lesotho</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="south_africa" xml:space="preserve">
+    <value>South Africa</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="gambia" xml:space="preserve">
+    <value>Gambia</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="sierra_leone" xml:space="preserve">
+    <value>Sierra Leone</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="ghana" xml:space="preserve">
+    <value>Ghana</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="nigeria" xml:space="preserve">
+    <value>Nigeria</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="somaliland" xml:space="preserve">
+    <value>Somaliland</value>
+    <comment>Name of a self-declared or break-away country: the name it is commonly known by</comment>
+  </data>
+  <data name="algeria" xml:space="preserve">
+    <value>Algeria</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="tunisia" xml:space="preserve">
+    <value>Tunisia</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="senegal" xml:space="preserve">
+    <value>Senegal</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="guinea" xml:space="preserve">
+    <value>Guinea</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="mauritania" xml:space="preserve">
+    <value>Mauritania</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="mali" xml:space="preserve">
+    <value>Mali</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="ivory_coast" xml:space="preserve">
+    <value>Cote d&apos;Ivoire</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="benin" xml:space="preserve">
+    <value>Benin</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="chad" xml:space="preserve">
+    <value>Chad</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="central_african_republic" xml:space="preserve">
+    <value>Central African Republic</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="republic_of_the_congo" xml:space="preserve">
+    <value>Republic of the Congo</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="madagascar" xml:space="preserve">
+    <value>Madagascar</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="djibouti" xml:space="preserve">
+    <value>Djibouti</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="libya" xml:space="preserve">
+    <value>Libya</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="eritrea" xml:space="preserve">
+    <value>Eritrea</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="somalia" xml:space="preserve">
+    <value>Somalia</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="togo" xml:space="preserve">
+    <value>Togo</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="cameroon" xml:space="preserve">
+    <value>Cameroon</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="namibia" xml:space="preserve">
+    <value>Namibia</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="tanzania" xml:space="preserve">
+    <value>Tanzania</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="equatorial_guinea" xml:space="preserve">
+    <value>Equatorial Guinea</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="sahrawi_republic" xml:space="preserve">
+    <value>Sahrawi Arab Democratic Republic</value>
+    <comment>Name of a self-declared or break-away country: the name it is commonly known by</comment>
+  </data>
+  <data name="angola" xml:space="preserve">
+    <value>Angola</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="mozambique" xml:space="preserve">
+    <value>Mozambique</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="guinea_bissau" xml:space="preserve">
+    <value>Guinea-Bissau</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="guyana" xml:space="preserve">
+    <value>Guyana</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="suriname" xml:space="preserve">
+    <value>Suriname</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="india" xml:space="preserve">
+    <value>India</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="pakistan" xml:space="preserve">
+    <value>Pakistan</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="sri_lanka" xml:space="preserve">
+    <value>Sri Lanka</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="indonesia" xml:space="preserve">
+    <value>Indonesia</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="timor_leste" xml:space="preserve">
+    <value>Timor-Leste</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="papua_new_guinea" xml:space="preserve">
+    <value>Papua New Guinea</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="taiwan" xml:space="preserve">
+    <value>Taiwan</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="new_zealand" xml:space="preserve">
+    <value>New Zealand</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="bosnia_and_herzegovina" xml:space="preserve">
+    <value>Bosnia and Herzegovina</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="north_macedonia" xml:space="preserve">
+    <value>North Macedonia</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="kosovo" xml:space="preserve">
+    <value>Kosovo</value>
+    <comment>Name of a self-declared or break-away country: the name it is commonly known by</comment>
+  </data>
+  <data name="north_korea" xml:space="preserve">
+    <value>North Korea</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="south_korea" xml:space="preserve">
+    <value>South Korea</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="gabon" xml:space="preserve">
+    <value>Gabon</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="rwanda" xml:space="preserve">
+    <value>Rwanda</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="burundi" xml:space="preserve">
+    <value>Burundi</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="burkina_faso" xml:space="preserve">
+    <value>Burkina Faso</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="niger" xml:space="preserve">
+    <value>Niger</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="gaza" xml:space="preserve">
+    <value>Gaza</value>
+    <comment>Name of a self-declared or break-away country: the name it is commonly known by</comment>
+  </data>
+  <data name="houthi_yemen" xml:space="preserve">
+    <value>Houthi Yemen</value>
+    <comment>Name of a self-declared or break-away country: the name it is commonly known by</comment>
+  </data>
+  <data name="puntland" xml:space="preserve">
+    <value>Puntland</value>
+    <comment>Name of a self-declared or break-away country: the name it is commonly known by</comment>
+  </data>
+  <data name="ambazonia" xml:space="preserve">
+    <value>Ambazonia</value>
+    <comment>Name of a self-declared or break-away country: the name it is commonly known by</comment>
+  </data>
+  <data name="chinland" xml:space="preserve">
+    <value>Chinland</value>
+    <comment>Name of a self-declared or break-away country: the name it is commonly known by</comment>
+  </data>
+  <data name="kawthoolei" xml:space="preserve">
+    <value>Kawthoolei</value>
+    <comment>Name of a self-declared or break-away country: the name it is commonly known by</comment>
+  </data>
+  <data name="wa_state" xml:space="preserve">
+    <value>Wa State</value>
+    <comment>Name of a self-declared or break-away country: the name it is commonly known by</comment>
+  </data>
+  <data name="moldova" xml:space="preserve">
+    <value>Moldova</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="transnistria" xml:space="preserve">
+    <value>Transnistria</value>
+    <comment>Name of a self-declared or break-away country: the name it is commonly known by</comment>
+  </data>
+  <data name="abkhazia" xml:space="preserve">
+    <value>Abkhazia</value>
+    <comment>Name of a self-declared or break-away country: the name it is commonly known by</comment>
+  </data>
+  <data name="south_ossetia" xml:space="preserve">
+    <value>South Ossetia</value>
+    <comment>Name of a self-declared or break-away country: the name it is commonly known by</comment>
+  </data>
+  <data name="kuwait" xml:space="preserve">
+    <value>Kuwait</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="qatar" xml:space="preserve">
+    <value>Qatar</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="united_arab_emirates" xml:space="preserve">
+    <value>United Arab Emirates</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="jamaica" xml:space="preserve">
+    <value>Jamaica</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="bahamas" xml:space="preserve">
+    <value>Bahamas</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="belize" xml:space="preserve">
+    <value>Belize</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="eswatini" xml:space="preserve">
+    <value>Eswatini</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="fiji" xml:space="preserve">
+    <value>Fiji</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="vanuatu" xml:space="preserve">
+    <value>Vanuatu</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="solomon_islands" xml:space="preserve">
+    <value>Solomon Islands</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="cyprus" xml:space="preserve">
+    <value>Cyprus</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="northern_cyprus" xml:space="preserve">
+    <value>Northern Cyprus</value>
+    <comment>Name of a self-declared or break-away country: the name it is commonly known by</comment>
+  </data>
+  <data name="brunei" xml:space="preserve">
+    <value>Brunei</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="trinidad_and_tobago" xml:space="preserve">
+    <value>Trinidad and Tobago</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="cabo_verde" xml:space="preserve">
+    <value>Cabo Verde</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="comoros" xml:space="preserve">
+    <value>Comoros</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="mauritius" xml:space="preserve">
+    <value>Mauritius</value>
+    <comment>Name of the country</comment>
+  </data>
+  <data name="samoa" xml:space="preserve">
+    <value>Samoa</value>
+    <comment>Name of the country</comment>
+  </data>
 </root>
