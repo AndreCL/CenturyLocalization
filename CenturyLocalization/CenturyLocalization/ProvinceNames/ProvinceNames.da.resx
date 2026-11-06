@@ -1244,4 +1244,121 @@ There are any number of "resheader" rows that contain simple
   <data name="province_guayana_region" xml:space="preserve">
     <value>Guayana-regionen</value>
   </data>
+  <data name="province_jammu" xml:space="preserve">
+    <value>Jammu</value>
+  </data>
+  <data name="province_kashmir" xml:space="preserve">
+    <value>Kashmir</value>
+  </data>
+  <data name="province_north_korea" xml:space="preserve">
+    <value>Nordkorea</value>
+  </data>
+  <data name="province_south_korea" xml:space="preserve">
+    <value>Sydkorea</value>
+  </data>
+  <data name="province_rwanda" xml:space="preserve">
+    <value>Rwanda</value>
+  </data>
+  <data name="province_burundi" xml:space="preserve">
+    <value>Burundi</value>
+  </data>
+  <data name="province_gabon" xml:space="preserve">
+    <value>Gabon</value>
+  </data>
+  <data name="province_upper_volta" xml:space="preserve">
+    <value>Øvre Volta</value>
+  </data>
+  <data name="province_zinder" xml:space="preserve">
+    <value>Zinder</value>
+  </data>
+  <data name="province_gaza" xml:space="preserve">
+    <value>Gaza</value>
+  </data>
+  <data name="province_saada" xml:space="preserve">
+    <value>Saada</value>
+  </data>
+  <data name="province_puntland" xml:space="preserve">
+    <value>Puntland</value>
+  </data>
+  <data name="province_southern_cameroons" xml:space="preserve">
+    <value>Sydcameroun</value>
+  </data>
+  <data name="province_chin_hills" xml:space="preserve">
+    <value>Chinbjergene</value>
+  </data>
+  <data name="province_karen_state" xml:space="preserve">
+    <value>Karen-staten</value>
+  </data>
+  <data name="province_wa_states" xml:space="preserve">
+    <value>Wa-staterne</value>
+  </data>
+  <data name="province_bessarabia" xml:space="preserve">
+    <value>Bessarabien</value>
+  </data>
+  <data name="province_transnistria" xml:space="preserve">
+    <value>Transnistrien</value>
+  </data>
+  <data name="province_abkhazia" xml:space="preserve">
+    <value>Abkhasien</value>
+  </data>
+  <data name="province_south_ossetia" xml:space="preserve">
+    <value>Sydossetien</value>
+  </data>
+  <data name="province_kuwait" xml:space="preserve">
+    <value>Kuwait</value>
+  </data>
+  <data name="province_qatar" xml:space="preserve">
+    <value>Qatar</value>
+  </data>
+  <data name="province_trucial_coast" xml:space="preserve">
+    <value>Trucial-kysten</value>
+  </data>
+  <data name="province_jamaica" xml:space="preserve">
+    <value>Jamaica</value>
+  </data>
+  <data name="province_bahamas" xml:space="preserve">
+    <value>Bahamas</value>
+  </data>
+  <data name="province_british_honduras" xml:space="preserve">
+    <value>Britisk Honduras</value>
+  </data>
+  <data name="province_swaziland" xml:space="preserve">
+    <value>Swaziland</value>
+  </data>
+  <data name="province_fiji" xml:space="preserve">
+    <value>Fiji</value>
+  </data>
+  <data name="province_new_hebrides" xml:space="preserve">
+    <value>Nye Hebrider</value>
+  </data>
+  <data name="province_solomon_islands" xml:space="preserve">
+    <value>Salomonøerne</value>
+  </data>
+  <data name="province_cyprus" xml:space="preserve">
+    <value>Cypern</value>
+  </data>
+  <data name="province_northern_cyprus" xml:space="preserve">
+    <value>Nordcypern</value>
+  </data>
+  <data name="province_brunei" xml:space="preserve">
+    <value>Brunei</value>
+  </data>
+  <data name="province_trinidad_and_tobago" xml:space="preserve">
+    <value>Trinidad og Tobago</value>
+  </data>
+  <data name="province_cape_verde" xml:space="preserve">
+    <value>Kap Verde</value>
+  </data>
+  <data name="province_comoros" xml:space="preserve">
+    <value>Comorerne</value>
+  </data>
+  <data name="province_mauritius" xml:space="preserve">
+    <value>Mauritius</value>
+  </data>
+  <data name="province_samoa" xml:space="preserve">
+    <value>Samoa</value>
+  </data>
+  <data name="province_kawar" xml:space="preserve">
+    <value>Kawar</value>
+  </data>
 </root>

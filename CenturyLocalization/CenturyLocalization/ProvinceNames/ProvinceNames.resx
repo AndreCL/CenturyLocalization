@@ -1407,4 +1407,160 @@ There are any number of "resheader" rows that contain simple
     <value>Guayana Region</value>
     <comment>The Guayana region of Venezuela (Bolivar, Amazonas and Delta Amacuro states, Ciudad Bolivar), south of the Orinoco. Not the country of Guyana</comment>
   </data>
+  <data name="province_jammu" xml:space="preserve">
+    <value>Jammu</value>
+    <comment>The Hindu-majority south and the Ladakh east of the former princely state of Jammu and Kashmir (a region of India in the game)</comment>
+  </data>
+  <data name="province_kashmir" xml:space="preserve">
+    <value>Kashmir</value>
+    <comment>The Kashmir valley, Gilgit-Baltistan, Poonch and Mirpur of the former princely state of Jammu and Kashmir (a region of Pakistan in the game)</comment>
+  </data>
+  <data name="province_north_korea" xml:space="preserve">
+    <value>North Korea</value>
+    <comment>The northern half of Korea, north of the demarcation line</comment>
+  </data>
+  <data name="province_south_korea" xml:space="preserve">
+    <value>South Korea</value>
+    <comment>The southern half of Korea, with Seoul</comment>
+  </data>
+  <data name="province_rwanda" xml:space="preserve">
+    <value>Rwanda</value>
+    <comment>Region of the former German East Africa (Ruanda)</comment>
+  </data>
+  <data name="province_burundi" xml:space="preserve">
+    <value>Burundi</value>
+    <comment>Region of the former German East Africa (Urundi)</comment>
+  </data>
+  <data name="province_gabon" xml:space="preserve">
+    <value>Gabon</value>
+    <comment>Region of the former French Congo, the west</comment>
+  </data>
+  <data name="province_upper_volta" xml:space="preserve">
+    <value>Upper Volta</value>
+    <comment>Region of the former French Sudan, the colonial name of the land of Burkina Faso</comment>
+  </data>
+  <data name="province_zinder" xml:space="preserve">
+    <value>Zinder</value>
+    <comment>Region of the former Sokoto Caliphate and French Niger: the south of Niger, named after the city of Zinder</comment>
+  </data>
+  <data name="province_gaza" xml:space="preserve">
+    <value>Gaza</value>
+    <comment>The Gaza strip, on the coast of the Eastern Mediterranean</comment>
+  </data>
+  <data name="province_saada" xml:space="preserve">
+    <value>Saada</value>
+    <comment>The highlands of north Yemen, named after the city of Saada</comment>
+  </data>
+  <data name="province_puntland" xml:space="preserve">
+    <value>Puntland</value>
+    <comment>The north-east of the former Italian Somalia</comment>
+  </data>
+  <data name="province_southern_cameroons" xml:space="preserve">
+    <value>Southern Cameroons</value>
+    <comment>The English-speaking west of the former Kamerun</comment>
+  </data>
+  <data name="province_chin_hills" xml:space="preserve">
+    <value>Chin Hills</value>
+    <comment>The Chin Hills in the west of Burma</comment>
+  </data>
+  <data name="province_karen_state" xml:space="preserve">
+    <value>Karen State</value>
+    <comment>The Karen (Kayin) land in the east of Burma, on the border with Thailand</comment>
+  </data>
+  <data name="province_wa_states" xml:space="preserve">
+    <value>Wa States</value>
+    <comment>The hills of the Wa people in the north-east of Burma, on the border with China</comment>
+  </data>
+  <data name="province_bessarabia" xml:space="preserve">
+    <value>Bessarabia</value>
+    <comment>The historical region between the Prut and the Dniester rivers (most of today&apos;s Moldova)</comment>
+  </data>
+  <data name="province_transnistria" xml:space="preserve">
+    <value>Transnistria</value>
+    <comment>The strip east of the Dniester river (name of the region, not of the Second World War occupation zone)</comment>
+  </data>
+  <data name="province_abkhazia" xml:space="preserve">
+    <value>Abkhazia</value>
+    <comment>Region on the Black Sea coast in the north-west of Georgia</comment>
+  </data>
+  <data name="province_south_ossetia" xml:space="preserve">
+    <value>South Ossetia</value>
+    <comment>Region in the north of Georgia, on the border with Russia</comment>
+  </data>
+  <data name="province_kuwait" xml:space="preserve">
+    <value>Kuwait</value>
+    <comment>The coast at the head of the Persian Gulf</comment>
+  </data>
+  <data name="province_qatar" xml:space="preserve">
+    <value>Qatar</value>
+    <comment>The Qatar peninsula in the Persian Gulf</comment>
+  </data>
+  <data name="province_trucial_coast" xml:space="preserve">
+    <value>Trucial Coast</value>
+    <comment>The coast of the Persian Gulf of the Trucial States (today the United Arab Emirates): the historical British name</comment>
+  </data>
+  <data name="province_jamaica" xml:space="preserve">
+    <value>Jamaica</value>
+    <comment>The island of Jamaica in the Caribbean</comment>
+  </data>
+  <data name="province_bahamas" xml:space="preserve">
+    <value>Bahamas</value>
+    <comment>The island group of the Bahamas in the Atlantic</comment>
+  </data>
+  <data name="province_british_honduras" xml:space="preserve">
+    <value>British Honduras</value>
+    <comment>The historical British colony on the Caribbean coast of Central America (today Belize)</comment>
+  </data>
+  <data name="province_swaziland" xml:space="preserve">
+    <value>Swaziland</value>
+    <comment>The inland kingdom between South Africa and Mozambique (today Eswatini): the colonial name</comment>
+  </data>
+  <data name="province_fiji" xml:space="preserve">
+    <value>Fiji</value>
+    <comment>The island group of Fiji in the Pacific</comment>
+  </data>
+  <data name="province_new_hebrides" xml:space="preserve">
+    <value>New Hebrides</value>
+    <comment>The island group in the Pacific that is Vanuatu today: the historical name</comment>
+  </data>
+  <data name="province_solomon_islands" xml:space="preserve">
+    <value>Solomon Islands</value>
+    <comment>The island group of the Solomon Islands in the Pacific</comment>
+  </data>
+  <data name="province_cyprus" xml:space="preserve">
+    <value>Cyprus</value>
+    <comment>The southern, Greek part of the island of Cyprus</comment>
+  </data>
+  <data name="province_northern_cyprus" xml:space="preserve">
+    <value>Northern Cyprus</value>
+    <comment>The northern, Turkish part of the island of Cyprus</comment>
+  </data>
+  <data name="province_brunei" xml:space="preserve">
+    <value>Brunei</value>
+    <comment>The sultanate on the north coast of Borneo</comment>
+  </data>
+  <data name="province_trinidad_and_tobago" xml:space="preserve">
+    <value>Trinidad and Tobago</value>
+    <comment>The islands of Trinidad and Tobago in the Caribbean</comment>
+  </data>
+  <data name="province_cape_verde" xml:space="preserve">
+    <value>Cape Verde</value>
+    <comment>The island group of Cape Verde (Cabo Verde) in the Atlantic: the English name, as the map uses it for 1900</comment>
+  </data>
+  <data name="province_comoros" xml:space="preserve">
+    <value>Comoros</value>
+    <comment>The island group of the Comoros between Africa and Madagascar</comment>
+  </data>
+  <data name="province_mauritius" xml:space="preserve">
+    <value>Mauritius</value>
+    <comment>The island of Mauritius in the Indian Ocean</comment>
+  </data>
+  <data name="province_samoa" xml:space="preserve">
+    <value>Samoa</value>
+    <comment>The islands of Samoa in the Pacific (German Samoa in 1900)</comment>
+  </data>
+  <data name="province_kawar" xml:space="preserve">
+    <value>Kawar</value>
+    <comment>The oases of Kawar (Bilma and Djado) in the north-east of Niger, in the Sahara</comment>
+  </data>
 </root>
