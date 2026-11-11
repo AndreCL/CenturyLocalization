@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms</value></resheader>
+  <data name="settings" xml:space="preserve"><value>Настройки</value></data>
+  <data name="select_language" xml:space="preserve"><value>Выберите язык</value></data>
+  <data name="settings_max_events_title" xml:space="preserve"><value>Максимальное количество сохранённых событий</value></data>
+  <data name="settings_keep_events_title" xml:space="preserve"><value>Хранить события в течение</value></data>
+  <data name="settings_max_battles_title" xml:space="preserve"><value>Максимальное количество сохранённых сражений на войну</value></data>
+  <data name="settings_keep_battles_title" xml:space="preserve"><value>Хранить сражения в течение</value></data>
+  <data name="settings_events_warning" xml:space="preserve"><value>Внимание: сохранение большего числа событий увеличивает время сохранения и загрузки, размер сохранений и расход памяти</value></data>
+  <data name="settings_battles_warning" xml:space="preserve"><value>Внимание: сохранение большего числа сражений увеличивает время сохранения и загрузки, размер сохранений и расход памяти</value></data>
+  <data name="settings_default_choice" xml:space="preserve"><value>{choice} (По умолчанию)</value></data>
+  <data name="battle_details_not_stored" xml:space="preserve"><value>Подробности этого сражения больше не сохраняются</value></data>
+  <data name="settings_time_1_week" xml:space="preserve"><value>1 неделя</value></data>
+  <data name="settings_time_1_month" xml:space="preserve"><value>1 месяц</value></data>
+  <data name="settings_time_1_year" xml:space="preserve"><value>1 год</value></data>
+  <data name="settings_time_2_years" xml:space="preserve"><value>2 года</value></data>
+  <data name="settings_time_4_years" xml:space="preserve"><value>4 года</value></data>
+  <data name="settings_time_8_years" xml:space="preserve"><value>8 лет</value></data>
+  <data name="settings_time_16_years" xml:space="preserve"><value>16 лет</value></data>
+</root>

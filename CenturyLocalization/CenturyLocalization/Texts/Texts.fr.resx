@@ -117,35 +117,46 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="error_string_not_found" xml:space="preserve">
+    <value>Texte introuvable</value>
+    <comment>Used when a string is not found</comment>
+  </data>
   <data name="unittest_both" xml:space="preserve">
-    <value>Ok_In</value>
+    <value>Ok_fr</value>
+    <comment>IGNORE Used for unit tests</comment>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="unittest_onlyen" xml:space="preserve">
+    <value>Ok_fr</value>
+    <comment>IGNORE Used for unit tests</comment>
   </data>
   <data name="ApplicationName" xml:space="preserve">
     <value>Century</value>
+    <comment>Name of the game</comment>
   </data>
   <data name="yes" xml:space="preserve">
-    <value>Iya</value>
+    <value>Oui</value>
   </data>
   <data name="no" xml:space="preserve">
-    <value>Tidak</value>
+    <value>Non</value>
   </data>
   <data name="close" xml:space="preserve">
-    <value>Tutup</value>
+    <value>Fermer</value>
   </data>
   <data name="Newgame" xml:space="preserve">
-    <value>Permainan Baru</value>
+    <value>Nouvelle partie</value>
   </data>
   <data name="Continuegame" xml:space="preserve">
-    <value>Lanjutkan Permainan</value>
+    <value>Continuer la partie</value>
   </data>
   <data name="sendemail" xml:space="preserve">
-    <value>Kirim E-Mail</value>
+    <value>Envoyer un e-mail</value>
   </data>
   <data name="changelog" xml:space="preserve">
-    <value>Catatan Perubahan</value>
+    <value>Journal des modifications</value>
   </data>
   <data name="feedback" xml:space="preserve">
-    <value>Kirim Umpan Balik Anda</value>
+    <value>Soumettre vos commentaires</value>
   </data>
   <data name="discord" xml:space="preserve">
     <value>Discord</value>
@@ -154,720 +165,723 @@
     <value>Facebook</value>
   </data>
   <data name="discordjoin" xml:space="preserve">
-    <value>Bergabung Ke Server Discord</value>
+    <value>Rejoindre le serveur Discord</value>
   </data>
   <data name="getversion" xml:space="preserve">
-    <value>Mengambil Versi</value>
+    <value>Récupération de la version</value>
   </data>
   <data name="delete" xml:space="preserve">
-    <value>Menghapus</value>
+    <value>Supprimer</value>
   </data>
   <data name="warning" xml:space="preserve">
-    <value>Peringatan</value>
+    <value>Avertissement</value>
   </data>
   <data name="message_delete_save" xml:space="preserve">
-    <value>Apakah Anda Yakin Ingin Menghapus Game Tersimpan Ini?</value>
+    <value>Êtes-vous sûr de vouloir supprimer cette sauvegarde ?</value>
   </data>
   <data name="Instructions1" xml:space="preserve">
-    <value>Pilih Sebuah Negara</value>
+    <value>Sélectionnez un pays</value>
   </data>
   <data name="startdate" xml:space="preserve">
-    <value>Tanggal Mulai</value>
+    <value>Date de début :</value>
   </data>
   <data name="enddate" xml:space="preserve">
-    <value>Tanggal Akhir</value>
+    <value>Date de fin :</value>
   </data>
   <data name="country" xml:space="preserve">
-    <value>Negara</value>
+    <value>Pays</value>
   </data>
   <data name="rank" xml:space="preserve">
-    <value>Peringkat</value>
+    <value>Rang</value>
   </data>
   <data name="illiteracy" xml:space="preserve">
-    <value>Buta Huruf:</value>
+    <value>Analphabétisme :</value>
   </data>
   <data name="largestreligion" xml:space="preserve">
-    <value>Agama Terbesar:</value>
+    <value>Religion principale :</value>
   </data>
   <data name="largestculture" xml:space="preserve">
-    <value>Budaya Terbesar:</value>
+    <value>Culture principale :</value>
   </data>
   <data name="army" xml:space="preserve">
-    <value>Tentara</value>
+    <value>Armée</value>
   </data>
   <data name="soldiers" xml:space="preserve">
-    <value>Prajurit</value>
+    <value>Soldats</value>
   </data>
   <data name="rifles" xml:space="preserve">
-    <value>Senapan:</value>
+    <value>Fusils :</value>
   </data>
   <data name="tanks" xml:space="preserve">
-    <value>Tank:</value>
+    <value>Chars :</value>
   </data>
   <data name="navy" xml:space="preserve">
-    <value>Angkatan laut</value>
+    <value>Marine</value>
   </data>
   <data name="sailors" xml:space="preserve">
-    <value>Pelaut</value>
+    <value>Marins</value>
   </data>
   <data name="smallships" xml:space="preserve">
-    <value>Kapal Kecil:</value>
+    <value>Petits navires :</value>
   </data>
   <data name="mediumships" xml:space="preserve">
-    <value>Kapal Sedang:</value>
+    <value>Navires moyens :</value>
   </data>
   <data name="largeships" xml:space="preserve">
-    <value>Kapal Besar:</value>
+    <value>Grands navires :</value>
   </data>
   <data name="airforce" xml:space="preserve">
-    <value>Angkatan Udara</value>
+    <value>Force aérienne</value>
   </data>
   <data name="pilots" xml:space="preserve">
-    <value>Pilot</value>
+    <value>Pilotes</value>
   </data>
   <data name="fighters" xml:space="preserve">
-    <value>Pesawat Tempur:</value>
+    <value>Chasseurs :</value>
   </data>
   <data name="bombers" xml:space="preserve">
-    <value>Pesawat Pengebom:</value>
+    <value>Bombardiers :</value>
   </data>
   <data name="start" xml:space="preserve">
-    <value>Mulai</value>
+    <value>Démarrer</value>
   </data>
   <data name="declarewar" xml:space="preserve">
-    <value>Deklarasi Perang</value>
+    <value>Déclarer la guerre</value>
   </data>
   <data name="poverty" xml:space="preserve">
-    <value>Kemiskinan</value>
+    <value>Pauvreté</value>
   </data>
   <data name="healthcare" xml:space="preserve">
-    <value>Cakupan Layanan Kesehatan</value>
+    <value>Couverture de santé</value>
   </data>
   <data name="money" xml:space="preserve">
-    <value>Uang</value>
+    <value>Argent</value>
   </data>
   <data name="population" xml:space="preserve">
-    <value>Populasi</value>
+    <value>Population</value>
   </data>
   <data name="area" xml:space="preserve">
-    <value>Area</value>
+    <value>Superficie</value>
   </data>
   <data name="infrastructure" xml:space="preserve">
-    <value>Infrastruktur</value>
+    <value>Infrastructure</value>
   </data>
   <data name="infamy" xml:space="preserve">
-    <value>Kehinaan</value>
+    <value>Infamie</value>
   </data>
   <data name="independentsince" xml:space="preserve">
-    <value>Merdeka Sejak</value>
+    <value>Indépendant depuis</value>
   </data>
   <data name="war_level" xml:space="preserve">
-    <value>Tingkat Perang</value>
+    <value>Niveau de guerre</value>
   </data>
   <data name="daily_investment" xml:space="preserve">
-    <value>Investasi Harian:</value>
+    <value>Investissement quotidien :</value>
   </data>
   <data name="one_time_investment" xml:space="preserve">
-    <value>Investasi Satu Kali:</value>
+    <value>Investissement unique :</value>
   </data>
   <data name="filter_wars" xml:space="preserve">
-    <value>Filter Perang</value>
+    <value>Filtrer les guerres</value>
   </data>
   <data name="war" xml:space="preserve">
-    <value>Perang</value>
+    <value>Guerre</value>
   </data>
   <data name="score" xml:space="preserve">
-    <value>Skor</value>
+    <value>Score</value>
   </data>
   <data name="men_to_equipment" xml:space="preserve">
-    <value>Rasio Pria Terhadap Peralatan:</value>
+    <value>Ratio hommes/équipement :</value>
   </data>
   <data name="extra_equipment" xml:space="preserve">
-    <value>Anda Memiliki Peralatan Tambahan</value>
+    <value>Vous avez du matériel excédentaire</value>
   </data>
   <data name="extra_men" xml:space="preserve">
-    <value>Anda Memiliki Pria Yang Tidak Dilengkapi</value>
+    <value>Vous avez des hommes sans équipement</value>
   </data>
   <data name="army_school" xml:space="preserve">
-    <value>Sekolah Angkatan Darat</value>
+    <value>école militaire</value>
   </data>
   <data name="army_schools" xml:space="preserve">
-    <value>Sekolah Angkatan Darat</value>
+    <value>écoles militaires</value>
   </data>
   <data name="navy_school" xml:space="preserve">
-    <value>Sekolah Angkatan Laut</value>
+    <value>école navale</value>
   </data>
   <data name="navy_schools" xml:space="preserve">
-    <value>Sekolah Angkatan Laut</value>
+    <value>écoles navales</value>
   </data>
   <data name="air_school" xml:space="preserve">
-    <value>Sekolah Angkatan Udara</value>
+    <value>école de l'armée de l'air</value>
   </data>
   <data name="air_schools" xml:space="preserve">
-    <value>Sekolah Angkatan Udara</value>
+    <value>écoles de l'armée de l'air</value>
   </data>
   <data name="factory" xml:space="preserve">
-    <value>Pabrik</value>
+    <value>usine</value>
   </data>
   <data name="factories" xml:space="preserve">
-    <value>Pabrik</value>
+    <value>usines</value>
   </data>
   <data name="dock" xml:space="preserve">
-    <value>Dermaga</value>
+    <value>chantier naval</value>
   </data>
   <data name="docks" xml:space="preserve">
-    <value>Dermaga</value>
+    <value>chantiers navals</value>
   </data>
   <data name="attackers" xml:space="preserve">
-    <value>Penyerang</value>
+    <value>Attaquants :</value>
+    <comment>Plural</comment>
   </data>
   <data name="defenders" xml:space="preserve">
-    <value>Pelindung</value>
+    <value>Défenseurs :</value>
+    <comment>Plural</comment>
   </data>
   <data name="attacker" xml:space="preserve">
-    <value>Penyerang</value>
+    <value>Attaquant :</value>
+    <comment>Singular</comment>
   </data>
   <data name="defender" xml:space="preserve">
-    <value>Pelindung</value>
+    <value>Défenseur :</value>
+    <comment>Singular</comment>
   </data>
   <data name="attacker_victory" xml:space="preserve">
-    <value>Kemenangan Penyerang</value>
+    <value>Victoire des attaquants</value>
   </data>
   <data name="tie" xml:space="preserve">
-    <value>Seri</value>
+    <value>Égalité</value>
   </data>
   <data name="defender_victory" xml:space="preserve">
-    <value>Kemenangan Pelindung</value>
+    <value>Victoire des défenseurs</value>
   </data>
   <data name="no_longer_exists" xml:space="preserve">
-    <value>Negara yang Dipilih Tidak Ada Lagi</value>
+    <value>Le pays sélectionné n'existe plus</value>
   </data>
   <data name="military_loses" xml:space="preserve">
-    <value>Kerugian Militer:</value>
+    <value>Pertes militaires :</value>
   </data>
   <data name="civilian_loses" xml:space="preserve">
-    <value>Kerugian Warga Sipil: </value>
+    <value>Pertes civiles :</value>
   </data>
   <data name="equipment_loses" xml:space="preserve">
-    <value>Kerugian Peralatan:</value>
+    <value>Pertes en équipement :</value>
   </data>
   <data name="infrastructure_decrease" xml:space="preserve">
-    <value>Kerugian Infrastruktur:</value>
+    <value>Perte d'infrastructure :</value>
   </data>
   <data name="invest" xml:space="preserve">
-    <value>Menginvestasikan</value>
+    <value>Investir</value>
   </data>
   <data name="facebookjoin" xml:space="preserve">
-    <value>Bergabunglah Dengan Grup Facebook</value>
+    <value>Rejoindre le groupe Facebook</value>
   </data>
   <data name="world_tension" xml:space="preserve">
-    <value>Ketegangan Dunia</value>
-  </data>
-  <data name="error_string_not_found" xml:space="preserve">
-    <value>Teks tidak ditemukan</value>
+    <value>Tension mondiale</value>
   </data>
   <data name="battles" xml:space="preserve">
-    <value>Pertempuran</value>
+    <value>Batailles</value>
   </data>
   <data name="world_war_title" xml:space="preserve">
-    <value>Dunia sedang berperang!</value>
+    <value>Le monde est en guerre !</value>
+    <comment>For the news paper event</comment>
   </data>
   <data name="world_war_message" xml:space="preserve">
-    <value>Setelah berbulan-bulan ketegangan tinggi, kekuatan besar telah berperang. {war.Name} telah dimulai.</value>
+    <value>Après des mois de fortes tensions, les grandes puissances sont entrées en guerre. {war.Name} a commencé.</value>
+    <comment>For the news paper event</comment>
   </data>
   <data name="new_century_title" xml:space="preserve">
-    <value>Selamat Abad Baru!</value>
+    <value>Bonne entrée dans le nouveau siècle !</value>
+    <comment>For the news paper event</comment>
   </data>
   <data name="new_century_message" xml:space="preserve">
-    <value>Pembaca yang terhormat,
-Abad baru telah tiba. Kami mengucapkan selamat tahun baru. Semoga waktu baru ini damai.</value>
+    <value>Chers lecteurs,
+Un nouveau siècle s'ouvre à nous. Nous vous souhaitons une bonne année. Que cette nouvelle ère soit paisible.</value>
+    <comment>For the news paper event</comment>
   </data>
   <data name="new_year_title" xml:space="preserve">
-    <value>Selamat tahun baru!</value>
+    <value>Bonne année !</value>
+    <comment>For the news paper event</comment>
   </data>
   <data name="new_year_message" xml:space="preserve">
-    <value>Pembaca yang terhormat,
-Tahun baru telah tiba. Kami mengucapkan selamat tahun baru. Semoga waktu baru ini damai.</value>
+    <value>Chers lecteurs,
+Une nouvelle année s'ouvre à nous. Nous vous souhaitons une bonne année. Que cette nouvelle ère soit paisible.</value>
+    <comment>For the news paper event</comment>
   </data>
   <data name="inconclusive_title" xml:space="preserve">
-    <value>{warToRemove.Name} berakhir tanpa kesimpulan</value>
+    <value>{warToRemove.Name} se termine de manière indécise</value>
   </data>
   <data name="inconclusive_message" xml:space="preserve">
-    <value>Karena salah satu negara yang terlibat tidak lagi ada, {warToRemove.Name} berakhir tanpa kesimpulan</value>
+    <value>L'un des pays impliqués n'existant plus, {warToRemove.Name} s'est terminé de manière indécise</value>
   </data>
   <data name="victoria_title" xml:space="preserve">
-    <value>Ratu Victoria meninggal</value>
+    <value>La reine Victoria est morte</value>
   </data>
   <data name="victoria_message" xml:space="preserve">
-    <value>Edward VII menjadi Raja Inggris dan India setelah kematian Ratu Victoria</value>
+    <value>Édouard VII devient roi d'Angleterre et des Indes après la mort de la reine Victoria</value>
   </data>
   <data name="defaultwar_title" xml:space="preserve">
-    <value>Perang!</value>
+    <value>Guerre !</value>
   </data>
   <data name="defaultwar_message" xml:space="preserve">
-    <value>{war.Name} telah dimulai antara {war.Attackers[0].Name} dan {war.Defenders[0].Name}.</value>
+    <value>{war.Name} a commencé entre {war.Attackers[0].Name} et {war.Defenders[0].Name}.</value>
   </data>
   <data name="defaultwar_message_infamy" xml:space="preserve">
-    <value>Setelah beberapa serangan dari {highInfamyCountry.Name}, {attacker1.Name} dan {attacker2.Name} telah menyatakan perang terhadap {highInfamyCountry.Name} yang hina.</value>
+    <value>Suite aux multiples agressions de {highInfamyCountry.Name}, {attacker1.Name} et {attacker2.Name} ont déclaré la guerre à l'infame {highInfamyCountry.Name}.</value>
   </data>
   <data name="policies" xml:space="preserve">
-    <value>Kebijakan</value>
+    <value>Politiques</value>
   </data>
   <data name="foreignPolicy" xml:space="preserve">
-    <value>Kebijakan luar negeri</value>
+    <value>Politique étrangère</value>
   </data>
   <data name="interventionist" xml:space="preserve">
-    <value>Intervensi</value>
+    <value>Interventionniste</value>
   </data>
   <data name="isolationist" xml:space="preserve">
-    <value>Isolationis</value>
+    <value>Isolationniste</value>
   </data>
   <data name="losses" xml:space="preserve">
-    <value>Kerugian</value>
+    <value>Pertes</value>
   </data>
   <data name="military_expenses" xml:space="preserve">
-    <value>Pengeluaran militer</value>
+    <value>Dépenses militaires</value>
   </data>
   <data name="other" xml:space="preserve">
-    <value>Lain</value>
+    <value>Autre</value>
   </data>
   <data name="expenses" xml:space="preserve">
-    <value>Pengeluaran</value>
+    <value>Dépenses</value>
   </data>
   <data name="income" xml:space="preserve">
-    <value>Pendapatan</value>
+    <value>Revenus</value>
   </data>
   <data name="investments" xml:space="preserve">
-    <value>Investasi</value>
+    <value>Investissements</value>
   </data>
   <data name="territory" xml:space="preserve">
-    <value>Wilayah</value>
+    <value>Territoire</value>
   </data>
   <data name="military" xml:space="preserve">
-    <value>Militer</value>
+    <value>Militaire</value>
   </data>
   <data name="welfare" xml:space="preserve">
-    <value>Kesejahteraan</value>
+    <value>Aide sociale</value>
   </data>
   <data name="all_news" xml:space="preserve">
-    <value>Semua berita</value>
+    <value>Toutes les nouvelles</value>
   </data>
   <data name="my_news" xml:space="preserve">
-    <value>Berita saya</value>
+    <value>Mes nouvelles</value>
   </data>
   <data name="all_wars" xml:space="preserve">
-    <value>Semua perang</value>
+    <value>Toutes les guerres</value>
   </data>
   <data name="my_wars" xml:space="preserve">
-    <value>Perang saya</value>
+    <value>Mes guerres</value>
   </data>
   <data name="join_attackers" xml:space="preserve">
-    <value>Bergabung dengan penyerang</value>
+    <value>Rejoindre les attaquants</value>
   </data>
   <data name="join_defenders" xml:space="preserve">
-    <value>Bergabung dengan para pembela</value>
+    <value>Rejoindre les défenseurs</value>
   </data>
   <data name="foreign_investment" xml:space="preserve">
-    <value>Mencari investasi asing (Iklan hadiah)</value>
+    <value>Chercher des investissements étrangers (publicité récompensée)</value>
   </data>
   <data name="diplomatic_campaign" xml:space="preserve">
-    <value>Kampanye diplomatik (Iklan hadiah)</value>
+    <value>Campagne diplomatique (publicité récompensée)</value>
   </data>
   <data name="propaganda_campaign" xml:space="preserve">
-    <value>Kampanye propaganda (Iklan hadiah)</value>
+    <value>Campagne de propagande (publicité récompensée)</value>
   </data>
   <data name="total" xml:space="preserve">
     <value>Total</value>
   </data>
   <data name="years" xml:space="preserve">
-    <value>{0} tahun</value>
+    <value>{0} ans</value>
   </data>
   <data name="months" xml:space="preserve">
-    <value>{0} bulan</value>
+    <value>{0} mois</value>
   </data>
   <data name="weeks" xml:space="preserve">
-    <value>{0} minggu</value>
+    <value>{0} semaines</value>
   </data>
   <data name="days" xml:space="preserve">
-    <value>{0} hari</value>
+    <value>{0} jours</value>
   </data>
   <data name="independence" xml:space="preserve">
-    <value>Kemerdekaan</value>
+    <value>Indépendance</value>
   </data>
   <data name="all_countries" xml:space="preserve">
-    <value>Semua negara</value>
+    <value>Tous les pays</value>
   </data>
   <data name="a_new_nation_rises" xml:space="preserve">
-    <value>Sebuah negara baru bangkit</value>
+    <value>Une nouvelle nation se lève</value>
   </data>
   <data name="incompatible_save_deleted" xml:space="preserve">
-    <value>Simpanan tidak kompatibel dihapus</value>
+    <value>Sauvegarde incompatible supprimée</value>
   </data>
   <data name="gameover_save_deleted" xml:space="preserve">
-    <value>Permainan berakhir, simpanan dihapus</value>
+    <value>Sauvegarde de fin de partie supprimée</value>
   </data>
   <data name="rank_by_score" xml:space="preserve">
-    <value>Peringkat berdasarkan skor</value>
+    <value>Classer par score</value>
   </data>
   <data name="send_missionaries" xml:space="preserve">
-    <value>Kirim misionaris</value>
+    <value>Envoyer des missionnaires</value>
   </data>
   <data name="send_material_volunteers" xml:space="preserve">
-    <value>Kirim perlengkapan dan relawan</value>
+    <value>Envoyer du matériel et des volontaires</value>
   </data>
   <data name="none" xml:space="preserve">
-    <value>Tidak ada</value>
+    <value>Aucun</value>
   </data>
   <data name="current" xml:space="preserve">
-    <value>Saat Ini</value>
+    <value>Actuel</value>
   </data>
   <data name="world_tension_description" xml:space="preserve">
-    <value>Mewakili tingkat ketakutan dan kecemasan secara keseluruhan yang ada di antara negara-negara di dunia.
-Angka yang ditampilkan dapat berada antara 0% dan 100%, dan secara alami menurun sangat lambat seiring waktu.
-Nilai ini meningkat karena beberapa faktor seperti deklarasi perang, dan sedikit oleh setiap perang yang sedang berlangsung.
-Ketika Ketegangan Dunia mencapai 100%, Perang Dunia akan dipicu dan nilainya diatur ulang.</value>
-  </data>
-  <data name="settings" xml:space="preserve">
-    <value>Pengaturan</value>
-  </data>
-  <data name="select_language" xml:space="preserve">
-    <value>Pilih bahasa</value>
+    <value>Représente le niveau global de peur et d'anxiété qui existe parmi les nations du monde.  
+
+Le nombre affiché peut être compris entre 0 % et 100 %. Il diminue naturellement très lentement au fil du temps. 
+Il est augmenté par plusieurs facteurs tels que les guerres déclarées et légèrement par chaque guerre en cours. 
+Une fois que la tension mondiale atteint 100 %, une guerre mondiale est déclenchée et elle se réinitialise.
+
+</value>
   </data>
   <data name="started_date" xml:space="preserve">
-    <value>Dimulai: {0}</value>
+    <value>Commencé le : {0}</value>
   </data>
   <data name="state" xml:space="preserve">
-    <value>Negeri</value>
+    <value>État</value>
+    <comment>State employees</comment>
   </data>
   <data name="private" xml:space="preserve">
-    <value>Swasta</value>
+    <value>Privé</value>
+    <comment>Private sector employees</comment>
   </data>
   <data name="select_game_mode" xml:space="preserve">
-    <value>Pilih mode permainan</value>
+    <value>Sélectionner le mode de jeu</value>
   </data>
   <data name="historical" xml:space="preserve">
-    <value>Historis</value>
+    <value>Historique</value>
   </data>
   <data name="historical_description" xml:space="preserve">
-    <value>Mainkan simulasi abad ke‑20 dengan negara, perang, dan peristiwa bersejarah</value>
+    <value>Jouez une simulation du XXe siècle, avec des nations, des guerres et des événements historiques</value>
   </data>
   <data name="random" xml:space="preserve">
-    <value>Acak</value>
+    <value>Aléatoire</value>
   </data>
   <data name="random_description" xml:space="preserve">
-    <value>Mainkan di dunia yang dihasilkan secara acak dengan negara, perang, dan peristiwa acak</value>
+    <value>Jouez dans un monde généré aléatoirement avec des pays, des guerres et des événements aléatoires</value>
   </data>
   <data name="war_goal_none" xml:space="preserve">
-    <value>Tidak ada</value>
+    <value>Aucun</value>
   </data>
   <data name="war_goal_economic" xml:space="preserve">
-    <value>Ekonomi</value>
+    <value>Économique</value>
   </data>
   <data name="war_goal_conquer_land" xml:space="preserve">
-    <value>Menaklukkan wilayah</value>
+    <value>Conquérir des terres</value>
   </data>
   <data name="war_goal_annex_country" xml:space="preserve">
-    <value>Menganeksasi negara</value>
+    <value>Annexer un pays</value>
   </data>
   <data name="war_goal_join_country" xml:space="preserve">
-    <value>Bergabung dengan negara</value>
+    <value>Rejoindre un pays</value>
   </data>
   <data name="small_independent_mission" xml:space="preserve">
-    <value>Kirim misi kecil independen</value>
+    <value>Envoyer une petite mission indépendante</value>
   </data>
   <data name="large_state_mission" xml:space="preserve">
-    <value>Kirim misi besar yang disponsori negara</value>
-  </data>
-  <data name="ok" xml:space="preserve">
-    <value>Oke</value>
+    <value>Envoyer une grande mission parrainée par l'État</value>
   </data>
   <data name="cancel" xml:space="preserve">
-    <value>Batal</value>
+    <value>Annuler</value>
+  </data>
+  <data name="ok" xml:space="preserve">
+    <value>Ok</value>
   </data>
   <data name="difficulty_level" xml:space="preserve">
-    <value>Tingkat kesulitan</value>
+    <value>Niveau de difficulté</value>
   </data>
   <data name="easy" xml:space="preserve">
-    <value>Mudah</value>
+    <value>Facile</value>
   </data>
   <data name="normal" xml:space="preserve">
     <value>Normal</value>
   </data>
   <data name="hard" xml:space="preserve">
-    <value>Sulit</value>
+    <value>Difficile</value>
   </data>
   <data name="birth_rate_modifier" xml:space="preserve">
-    <value>Pengubah tingkat kelahiran</value>
+    <value>Modificateur de taux de natalité</value>
   </data>
   <data name="territory_income_modifier" xml:space="preserve">
-    <value>Pengubah pendapatan wilayah</value>
+    <value>Modificateur de revenus territoriaux</value>
   </data>
   <data name="leaving_game" xml:space="preserve">
-    <value>Anda akan keluar dari permainan</value>
+    <value>Vous êtes sur le point de quitter la partie</value>
   </data>
   <data name="end_game" xml:space="preserve">
-    <value>Anda telah mencapai akhir permainan</value>
+    <value>Vous avez atteint la fin du jeu</value>
   </data>
   <data name="extend_game_prompt" xml:space="preserve">
-    <value>Apakah Anda ingin melanjutkan bermain?</value>
+    <value>Souhaitez-vous continuer à jouer ?</value>
   </data>
   <data name="extend_game" xml:space="preserve">
-    <value>Ya, biarkan saya bermain 10 tahun lagi</value>
+    <value>Oui, laissez-moi jouer encore 10 ans</value>
   </data>
   <data name="dont_extend_game" xml:space="preserve">
-    <value>Tidak, bawa saya ke hasil</value>
-  </data>
-  <data name="unittest_onlyen" xml:space="preserve">
-    <value>Ok_In</value>
+    <value>Non, emmenez-moi aux résultats</value>
   </data>
   <data name="send_volunteers" xml:space="preserve">
-    <value>Kirim sukarelawan</value>
+    <value>Envoyer des bénévoles</value>
   </data>
   <data name="send_expeditionary_land_force" xml:space="preserve">
-    <value>Kirim pasukan darat ekspedisi</value>
+    <value>Envoyer une force terrestre expéditionnaire</value>
   </data>
   <data name="send_land_equipment" xml:space="preserve">
-    <value>Kirim peralatan darat</value>
+    <value>Envoyer du matériel terrestre</value>
   </data>
   <data name="send_expeditionary_air_force" xml:space="preserve">
-    <value>Kirim angkatan udara ekspedisi</value>
+    <value>Envoyer une force aérienne expéditionnaire</value>
   </data>
   <data name="send_air_equipment" xml:space="preserve">
-    <value>Kirim peralatan udara</value>
+    <value>Envoyer du matériel aérien</value>
   </data>
   <data name="send_economic_help" xml:space="preserve">
-    <value>Kirim bantuan ekonomi</value>
+    <value>Envoyer une aide économique</value>
   </data>
   <data name="send" xml:space="preserve">
-    <value>Mengirim</value>
+    <value>Envoyer</value>
   </data>
   <data name="warning_settings_changes" xml:space="preserve">
-    <value>Peringatan! Game ini dirancang untuk bekerja dengan pengaturan di bawah ini yang disetel ke default. Mengubahnya dapat menyebabkan masalah tak terduga dalam game</value>
+    <value>Avertissement! Le jeu est conçu pour fonctionner avec les paramètres ci-dessous définis par défaut. Les modifier peut provoquer des problèmes inattendus dans le jeu</value>
   </data>
   <data name="add_war_goal_button" xml:space="preserve">
-    <value>Tambahkan tujuan perang</value>
+    <value>Ajouter un objectif de guerre</value>
   </data>
   <data name="cost_foreign_policy_switch" xml:space="preserve">
-    <value>Biaya untuk beralih: {0} kehinaan</value>
+    <value>Coût du changement : {0} infamie</value>
   </data>
   <data name="switch_to" xml:space="preserve">
-    <value>Beralih ke {0}</value>
+    <value>Passer à {0}</value>
   </data>
   <data name="can_get_called_into_wars" xml:space="preserve">
-    <value>• Terpanggil berperang untuk membela negara baru</value>
+    <value>• Soyez appelé à participer à des guerres pour défendre de nouvelles nations</value>
   </data>
   <data name="can_get_called_into_world_wars" xml:space="preserve">
-    <value>• Terpanggil dalam perang Dunia</value>
+    <value>• Soyez appelé dans les guerres mondiales</value>
   </data>
   <data name="can_get_called_into_wars_infamy" xml:space="preserve">
-    <value>• Terpanggil berperang melawan negara-negara dengan tingkat kehinaan yang tinggi</value>
+    <value>• Soyez appelé à participer à des guerres contre des pays à forte infamie</value>
   </data>
   <data name="can_declare_war_all" xml:space="preserve">
-    <value>• Dapat mendeklarasikan perang terhadap negara mana pun</value>
+    <value>• Peut déclarer la guerre à n'importe quelle nation</value>
   </data>
   <data name="dont_get_called_into_wars" xml:space="preserve">
-    <value>• Jangan terlibat dalam perang</value>
+    <value>• Ne vous laissez pas appeler à la guerre</value>
   </data>
   <data name="can_declare_war_above" xml:space="preserve">
-    <value>• Dapat mendeklarasikan perang terhadap negara dengan tingkat kehinaan di atas {0}</value>
+    <value>• Peut déclarer la guerre aux nations dont l'infamie est supérieure à {0}</value>
   </data>
   <data name="loading" xml:space="preserve">
-    <value>Memuat...</value>
+    <value>Chargement...</value>
   </data>
   <data name="ratio_more_than_one" xml:space="preserve">
-    <value>Jika rasio &gt; 1:</value>
+    <value>Si rapport &gt; 1 :</value>
   </data>
   <data name="ratio_less_than_one" xml:space="preserve">
-    <value>Jika rasio &lt; 1:</value>
+    <value>Si rapport &lt; 1 :</value>
   </data>
   <data name="open_seas" xml:space="preserve">
-    <value>Laut terbuka</value>
+    <value>Mers ouvertes</value>
   </data>
   <data name="land_battle" xml:space="preserve">
-    <value>Pertempuran darat</value>
+    <value>Bataille terrestre</value>
   </data>
   <data name="sea_battle" xml:space="preserve">
-    <value>Pertempuran laut</value>
+    <value>Bataille navale</value>
   </data>
   <data name="air_battle" xml:space="preserve">
-    <value>Pertempuran udara</value>
+    <value>Bataille aérienne</value>
   </data>
   <data name="open_seas_battle" xml:space="preserve">
-    <value>Pertempuran laut terbuka</value>
+    <value>Bataille en haute mer</value>
   </data>
   <data name="coastal_bombardment" xml:space="preserve">
-    <value>Pengeboman pesisir</value>
+    <value>Bombardement côtier</value>
   </data>
   <data name="naval_blockade" xml:space="preserve">
-    <value>Blokade laut</value>
+    <value>Blocus naval</value>
   </data>
   <data name="population_density" xml:space="preserve">
-    <value>Kepadatan penduduk</value>
+    <value>Densité de population</value>
   </data>
   <data name="warning_difficult_war" xml:space="preserve">
-    <value>Negara target jauh lebih kuat darimu</value>
+    <value>Le pays cible est beaucoup plus fort que vous</value>
   </data>
   <data name="war_goal_release_country" xml:space="preserve">
-    <value>Lepaskan negara</value>
+    <value>Pays de dissémination</value>
   </data>
   <data name="no_ai_war" xml:space="preserve">
-    <value>AI tidak akan menyatakan perang acak (tidak termasuk perang historis, perang dunia, perang kehinaan, dan perang kemerdekaan) terhadap pemain manusia</value>
+    <value>L'IA ne déclarera pas de guerres aléatoires (à l'exclusion des guerres historiques, des guerres mondiales, des guerres d'infamie et des guerres d'indépendance) contre le joueur humain</value>
   </data>
   <data name="daily_infamy_decrease_modifier" xml:space="preserve">
-    <value>Pengubah penurunan kehinaan harian</value>
+    <value>Modificateur de réduction quotidienne de l'infamie</value>
   </data>
   <data name="daily_warlevel_decrease_modifier" xml:space="preserve">
-    <value>Pengubah penurunan tingkat perang harian</value>
+    <value>Modificateur de réduction quotidienne du niveau de guerre</value>
   </data>
   <data name="debt_risk" xml:space="preserve">
-    <value>Negara Anda memiliki utang yang terlalu banyak! Anda berisiko wilayah pemberontak menyatakan kemerdekaan!</value>
+    <value>Votre nation a trop de dettes ! Vous risquez que des régions séparatistes déclarent leur indépendance !</value>
   </data>
   <data name="army_expenses_too_high" xml:space="preserve">
-    <value>Negara Anda menghabiskan anggaran yang tidak berkelanjutan untuk Angkatan Darat</value>
+    <value>Votre nation dépense une part insoutenable de son budget pour l'Armée de terre</value>
   </data>
   <data name="navy_expenses_too_high" xml:space="preserve">
-    <value>Negara Anda menghabiskan anggaran yang tidak berkelanjutan untuk Angkatan Laut</value>
+    <value>Votre nation dépense une part insoutenable de son budget pour la Marine</value>
   </data>
   <data name="airforce_expenses_too_high" xml:space="preserve">
-    <value>Negara Anda menghabiskan anggaran yang tidak berkelanjutan untuk Angkatan Udara</value>
+    <value>Votre nation dépense une part insoutenable de son budget pour l'Armée de l'air</value>
   </data>
   <data name="no_private_population" xml:space="preserve">
-    <value>Negara Anda kehabisan warga untuk direkrut ke angkatan bersenjata dan pabrik militer</value>
+    <value>Votre nation n'a plus de citoyens à recruter pour les forces armées et les usines militaires</value>
   </data>
   <data name="war_level_risk" xml:space="preserve">
-    <value>Negara Anda memiliki tingkat perang yang terlalu tinggi! Anda berisiko wilayah pemberontak menyatakan kemerdekaan!</value>
+    <value>Votre nation a un niveau de guerre trop élevé ! Vous risquez que des régions séparatistes déclarent leur indépendance !</value>
   </data>
   <data name="worldwar_risk" xml:space="preserve">
-    <value>Negara Anda memiliki kehinaan yang terlalu tinggi! Anda berisiko menjadi target Perang Dunia!</value>
+    <value>Votre nation a une infamie trop élevée ! Vous risquez d'être la cible d'une guerre mondiale !</value>
   </data>
   <data name="high_infamy_war_risk" xml:space="preserve">
-    <value>Negara Anda memiliki kehinaan yang terlalu tinggi! Anda berisiko menjadi target perang kehinaan!</value>
+    <value>Votre nation a une infamie trop élevée ! Vous risquez d'être la cible d'une guerre d'infamie !</value>
   </data>
   <data name="culture_diversity_risk" xml:space="preserve">
-    <value>Budaya utama negara Anda terlalu kecil! Anda berisiko budaya menyatakan kemerdekaan!</value>
+    <value>La culture principale de votre nation est trop faible ! Vous risquez que des cultures déclarent leur indépendance !</value>
   </data>
   <data name="religious_diversity_risk" xml:space="preserve">
-    <value>Agama utama negara Anda terlalu kecil! Anda berisiko agama menyatakan kemerdekaan!</value>
+    <value>La religion principale de votre nation est trop faible ! Vous risquez que des religions déclarent leur indépendance !</value>
   </data>
   <data name="percent_of_daily_income" xml:space="preserve">
-    <value>{0} dari pendapatan harian</value>
+    <value>{0} du revenu quotidien</value>
   </data>
   <data name="base_infamy_change" xml:space="preserve">
-    <value>Perubahan dasar kehinaan: {0}</value>
+    <value>Variation de base de l'infamie : {0}</value>
   </data>
   <data name="target_infamy" xml:space="preserve">
-    <value>Tingkat kehinaan target: {0}</value>
+    <value>Niveau d'infamie de la cible : {0}</value>
   </data>
   <data name="relationship_with_target" xml:space="preserve">
-    <value>Hubungan dengan target: {0}</value>
+    <value>Relation avec la cible : {0}</value>
   </data>
   <data name="total_infamy_change" xml:space="preserve">
-    <value>Total perubahan kehinaan: {0}</value>
+    <value>Variation totale de l'infamie : {0}</value>
   </data>
   <data name="only_sea_war" xml:space="preserve">
-    <value>Hanya perang laut: {0}</value>
+    <value>Guerre navale uniquement : {0}</value>
     <comment>{0} is the value</comment>
   </data>
   <data name="need_more_army_schools" xml:space="preserve">
-    <value>Pertimbangkan untuk membangun lebih banyak sekolah angkatan darat</value>
+    <value>Envisagez de construire des écoles militaires supplémentaires</value>
   </data>
   <data name="consider_reducing_army_schools" xml:space="preserve">
-    <value>Pertimbangkan untuk mengurangi jumlah sekolah angkatan darat</value>
+    <value>Envisagez de réduire le nombre des écoles militaires</value>
   </data>
   <data name="need_more_navy_schools" xml:space="preserve">
-    <value>Pertimbangkan untuk membangun lebih banyak sekolah angkatan laut</value>
+    <value>Envisagez de construire des écoles navales supplémentaires</value>
   </data>
   <data name="consider_reducing_navy_schools" xml:space="preserve">
-    <value>Pertimbangkan untuk mengurangi jumlah sekolah angkatan laut</value>
+    <value>Envisagez de réduire le nombre des écoles navales</value>
   </data>
   <data name="need_more_airforce_schools" xml:space="preserve">
-    <value>Pertimbangkan untuk membangun lebih banyak sekolah angkatan udara</value>
+    <value>Envisagez de construire des écoles de l'armée de l'air supplémentaires</value>
   </data>
   <data name="consider_reducing_airforce_schools" xml:space="preserve">
-    <value>Pertimbangkan untuk mengurangi jumlah sekolah angkatan udara</value>
+    <value>Envisagez de réduire le nombre des écoles de l'armée de l'air</value>
   </data>
   <data name="need_more_docks" xml:space="preserve">
-    <value>Pertimbangkan untuk membangun lebih banyak dermaga</value>
+    <value>Envisagez de construire des chantiers navals supplémentaires</value>
   </data>
   <data name="consider_reducing_docks" xml:space="preserve">
-    <value>Pertimbangkan untuk mengurangi jumlah dermaga</value>
+    <value>Envisagez de réduire le nombre des chantiers navals</value>
   </data>
   <data name="need_more_army_equipment_factories" xml:space="preserve">
-    <value>Pertimbangkan untuk membangun lebih banyak pabrik peralatan angkatan darat</value>
+    <value>Envisagez de construire des usines d'équipement de l'armée supplémentaires</value>
   </data>
   <data name="consider_reducing_army_equipment_factories" xml:space="preserve">
-    <value>Pertimbangkan untuk mengurangi jumlah pabrik peralatan angkatan darat</value>
+    <value>Envisagez de réduire le nombre des usines d'équipement de l'armée</value>
   </data>
   <data name="need_more_airforce_equipment_factories" xml:space="preserve">
-    <value>Pertimbangkan untuk membangun lebih banyak pabrik peralatan angkatan udara</value>
+    <value>Envisagez de construire des usines d'équipement de l'armée de l'air supplémentaires</value>
   </data>
   <data name="consider_reducing_airforce_equipment_factories" xml:space="preserve">
-    <value>Pertimbangkan untuk mengurangi jumlah pabrik peralatan angkatan udara</value>
+    <value>Envisagez de réduire le nombre des usines d'équipement de l'armée de l'air</value>
   </data>
   <data name="news" xml:space="preserve">
-    <value>Berita</value>
+    <value>Actualités</value>
   </data>
   <data name="world" xml:space="preserve">
-    <value>Dunia</value>
+    <value>Monde</value>
   </data>
   <data name="wars" xml:space="preserve">
-    <value>Perang</value>
+    <value>Guerres</value>
   </data>
   <data name="policy_changes" xml:space="preserve">
-    <value>Perubahan kebijakan tersedia: {0}</value>
+    <value>Changements de politique disponibles : {0}</value>
   </data>
   <data name="daily_increase" xml:space="preserve">
-    <value>Peningkatan harian: {0}</value>
+    <value>Augmentation quotidienne : {0}</value>
   </data>
   <data name="diplomatic_actions" xml:space="preserve">
-    <value>Tindakan diplomatik yang tersedia: {0}</value>
+    <value>Actions diplomatiques disponibles : {0}</value>
   </data>
   <data name="province_dialog_owner" xml:space="preserve">
-    <value>Pemilik</value>
+    <value>Propriétaire</value>
   </data>
   <data name="province_dialog_neighbours" xml:space="preserve">
-    <value>Tetangga</value>
+    <value>Voisins</value>
   </data>
   <data name="province_dialog_occupier" xml:space="preserve">
-    <value>Penduduk</value>
+    <value>Occupant</value>
   </data>
   <data name="province_dialog_coastal_length" xml:space="preserve">
-    <value>Pesisir {0}</value>
+    <value>Côte {0}</value>
   </data>
   <data name="province_dialog_landlocked" xml:space="preserve">
-    <value>Tanpa pesisir</value>
+    <value>Sans accès à la mer</value>
   </data>
   <data name="province_dialog_occupied_percent" xml:space="preserve">
-    <value>Diduduki {0}%</value>
+    <value>Occupé à {0}%</value>
   </data>
   <data name="province_dialog_local_forces" xml:space="preserve">
-    <value>Pasukan lokal {0}</value>
+    <value>Forces locales de {0}</value>
   </data>
   <data name="province_dialog_going_home" xml:space="preserve">
-    <value>(pulang)</value>
+    <value>(retourne chez lui)</value>
   </data>
   <data name="province_dialog_province_number" xml:space="preserve">
-    <value>Provinsi {0}</value>
+    <value>Province {0}</value>
   </data>
   <data name="map_layers" xml:space="preserve">
-    <value>Lapisan peta</value>
+    <value>Calques de la carte</value>
   </data>
   <data name="map_layer_political" xml:space="preserve">
-    <value>Politik</value>
+    <value>Politique</value>
   </data>
   <data name="map_layer_relations" xml:space="preserve">
-    <value>Hubungan</value>
+    <value>Relations</value>
   </data>
   <data name="map_legend_state_religion" xml:space="preserve">
-    <value>Garis: agama negara</value>
+    <value>Rayures : la religion de l&apos;État</value>
   </data>
   <data name="map_legend_your_country" xml:space="preserve">
-    <value>Negara Anda</value>
+    <value>Votre pays</value>
   </data>
   <data name="map" xml:space="preserve">
-    <value>Peta</value>
+    <value>Carte</value>
   </data>
   <data name="list" xml:space="preserve">
-    <value>Daftar</value>
+    <value>Liste</value>
   </data>
 </root>

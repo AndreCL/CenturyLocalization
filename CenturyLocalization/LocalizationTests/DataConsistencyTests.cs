@@ -7,9 +7,11 @@ using CenturyLocalization.CultureNames;
 using CenturyLocalization.Diplomacy;
 using CenturyLocalization.EndScreen;
 using CenturyLocalization.Events;
+using CenturyLocalization.GameSettings;
 using CenturyLocalization.PopulationAttributes;
 using CenturyLocalization.ProvinceNames;
 using CenturyLocalization.WarNames;
+using TextsResources = CenturyLocalization.Texts.Texts;
 using System.Collections;
 using System.Collections.Generic;
 using System.Globalization;
@@ -25,7 +27,7 @@ public class DataConsistencyTests
     public void CheckForDuplicateResourceNames()
     {
         // Get all resource names from each ResourceManager
-        var textsResourceNames = GetResourceNames(Texts.ResourceManager);
+        var textsResourceNames = GetResourceNames(TextsResources.ResourceManager);
         var countryNamesResourceNames = GetResourceNames(CountryNames.ResourceManager);
         var actionsResourceNames = GetResourceNames(Actions.ResourceManager);
         var endScreenResourceNames = GetResourceNames(EndScreen.ResourceManager);
@@ -37,6 +39,7 @@ public class DataConsistencyTests
         var allianceNamesResourceNames = GetResourceNames(AllianceNames.ResourceManager);
         var provinceNamesResourceNames = GetResourceNames(ProvinceNames.ResourceManager);
         var cultureNamesResourceNames = GetResourceNames(CultureNames.ResourceManager);
+        var gameSettingsResourceNames = GetResourceNames(GameSettings.ResourceManager);
 
 		// Create a dictionary to track resource names and their sources
 		var resourceNameSources = new Dictionary<string, List<string>>();
@@ -54,6 +57,7 @@ public class DataConsistencyTests
 		AddResourceNamesFromSource(resourceNameSources, allianceNamesResourceNames, "AllianceNames");
 		AddResourceNamesFromSource(resourceNameSources, provinceNamesResourceNames, "ProvinceNames");
 		AddResourceNamesFromSource(resourceNameSources, cultureNamesResourceNames, "CultureNames");
+		AddResourceNamesFromSource(resourceNameSources, gameSettingsResourceNames, "GameSettings");
 
 		// Find duplicates
 		var duplicates = resourceNameSources

@@ -9,6 +9,11 @@
     <RepositoryUrl>https://github.com/AndreCL/CenturyLocalization</RepositoryUrl>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Update="GameSettings\GameSettings.Designer.cs">
+      <DependentUpon>GameSettings.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
     <Compile Update="Actions\Actions.Designer.cs">
       <DependentUpon>Actions.resx</DependentUpon>
       <DesignTime>True</DesignTime>
@@ -49,12 +54,12 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>PopulationAttributes.resx</DependentUpon>
     </Compile>
-    <Compile Update="Texts.sk.Designer.cs">
+    <Compile Update="Texts\Texts.sk.Designer.cs">
       <DependentUpon>Texts.sk.resx</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
     </Compile>
-    <Compile Update="Texts.Designer.cs">
+    <Compile Update="Texts\Texts.Designer.cs">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
       <DependentUpon>Texts.resx</DependentUpon>
@@ -71,6 +76,22 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Update="GameSettings\GameSettings.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GameSettings.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="GameSettings\GameSettings.ar.resx" />
+    <EmbeddedResource Update="GameSettings\GameSettings.da.resx" />
+    <EmbeddedResource Update="GameSettings\GameSettings.de.resx" />
+    <EmbeddedResource Update="GameSettings\GameSettings.es.resx" />
+    <EmbeddedResource Update="GameSettings\GameSettings.fr.resx" />
+    <EmbeddedResource Update="GameSettings\GameSettings.id.resx" />
+    <EmbeddedResource Update="GameSettings\GameSettings.nl.resx" />
+    <EmbeddedResource Update="GameSettings\GameSettings.pt-BR.resx" />
+    <EmbeddedResource Update="GameSettings\GameSettings.pt-PT.resx" />
+    <EmbeddedResource Update="GameSettings\GameSettings.ru.resx" />
+    <EmbeddedResource Update="GameSettings\GameSettings.sk.resx" />
+    <EmbeddedResource Update="GameSettings\GameSettings.tr.resx" />
     <EmbeddedResource Update="Actions\Actions.fr.resx" />
     <EmbeddedResource Update="Actions\Actions.da.resx" />
     <EmbeddedResource Update="Actions\Actions.es.resx" />
@@ -97,15 +118,22 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>PopulationAttributes.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Update="Texts.fr.resx" />
-    <EmbeddedResource Update="Texts.sk.resx" />
-    <EmbeddedResource Update="Texts.da.resx" />
-    <EmbeddedResource Update="Texts.ru.resx" />
-    <EmbeddedResource Update="Texts.es.resx" />
-    <EmbeddedResource Update="Texts.resx">
+    <EmbeddedResource Update="Texts\Texts.ar.resx" />
+    <EmbeddedResource Update="Texts\Texts.da.resx" />
+    <EmbeddedResource Update="Texts\Texts.de.resx" />
+    <EmbeddedResource Update="Texts\Texts.es.resx" />
+    <EmbeddedResource Update="Texts\Texts.fr.resx" />
+    <EmbeddedResource Update="Texts\Texts.id.resx" />
+    <EmbeddedResource Update="Texts\Texts.nl.resx" />
+    <EmbeddedResource Update="Texts\Texts.pt-BR.resx" />
+    <EmbeddedResource Update="Texts\Texts.pt-PT.resx" />
+    <EmbeddedResource Update="Texts\Texts.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Texts.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Update="Texts\Texts.ru.resx" />
+    <EmbeddedResource Update="Texts\Texts.sk.resx" />
+    <EmbeddedResource Update="Texts\Texts.tr.resx" />
     <EmbeddedResource Update="WarNames\WarNames.fr.resx" />
     <EmbeddedResource Update="WarNames\WarNames.resx">
       <Generator>ResXFileCodeGenerator</Generator>

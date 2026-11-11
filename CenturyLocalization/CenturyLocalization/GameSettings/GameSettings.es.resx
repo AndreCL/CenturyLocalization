@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms</value></resheader>
+  <data name="settings" xml:space="preserve"><value>Configuración</value></data>
+  <data name="select_language" xml:space="preserve"><value>Seleccionar idioma</value></data>
+  <data name="settings_max_events_title" xml:space="preserve"><value>Cantidad máxima de eventos guardados</value></data>
+  <data name="settings_keep_events_title" xml:space="preserve"><value>Guardar eventos durante</value></data>
+  <data name="settings_max_battles_title" xml:space="preserve"><value>Cantidad máxima de batallas guardadas por guerra</value></data>
+  <data name="settings_keep_battles_title" xml:space="preserve"><value>Guardar batallas durante</value></data>
+  <data name="settings_events_warning" xml:space="preserve"><value>Advertencia: Guardar más eventos aumenta los tiempos de guardado y carga, el tamaño de las partidas guardadas y el uso de memoria</value></data>
+  <data name="settings_battles_warning" xml:space="preserve"><value>Advertencia: Guardar más batallas aumenta los tiempos de guardado y carga, el tamaño de las partidas guardadas y el uso de memoria</value></data>
+  <data name="settings_default_choice" xml:space="preserve"><value>{choice} (Predeterminado)</value></data>
+  <data name="battle_details_not_stored" xml:space="preserve"><value>Los detalles de esta batalla ya no se guardan</value></data>
+  <data name="settings_time_1_week" xml:space="preserve"><value>1 semana</value></data>
+  <data name="settings_time_1_month" xml:space="preserve"><value>1 mes</value></data>
+  <data name="settings_time_1_year" xml:space="preserve"><value>1 año</value></data>
+  <data name="settings_time_2_years" xml:space="preserve"><value>2 años</value></data>
+  <data name="settings_time_4_years" xml:space="preserve"><value>4 años</value></data>
+  <data name="settings_time_8_years" xml:space="preserve"><value>8 años</value></data>
+  <data name="settings_time_16_years" xml:space="preserve"><value>16 años</value></data>
+</root>

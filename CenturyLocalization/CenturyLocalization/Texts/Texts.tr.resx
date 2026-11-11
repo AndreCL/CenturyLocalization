@@ -117,35 +117,46 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="error_string_not_found" xml:space="preserve">
+    <value>Hata: Yazı Değeri (String) Bulunamadı</value>
+    <comment>"String" değeri bulunamadığı zaman kullanılır</comment>
+  </data>
   <data name="unittest_both" xml:space="preserve">
-    <value>Ok_de</value>
+    <value>OK_tr</value>
+    <comment>GÖRMEZDEN GEL Ünite test etmek için kulanılır</comment>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="unittest_onlyen" xml:space="preserve">
+    <value>OK_tr</value>
+    <comment>GÖRMEZDEN GEL Ünite test etmek için kulanılır</comment>
   </data>
   <data name="ApplicationName" xml:space="preserve">
     <value>Century</value>
+    <comment>Oyunun Adı</comment>
   </data>
   <data name="yes" xml:space="preserve">
-    <value>Ja</value>
+    <value>Evet</value>
   </data>
   <data name="no" xml:space="preserve">
-    <value>Nein</value>
+    <value>Hayır</value>
   </data>
   <data name="close" xml:space="preserve">
-    <value>Schließen</value>
+    <value>Kapat</value>
   </data>
   <data name="Newgame" xml:space="preserve">
-    <value>Neues Spiel</value>
+    <value>Yeni Oyun</value>
   </data>
   <data name="Continuegame" xml:space="preserve">
-    <value>Spiel fortsetzen</value>
+    <value>Devam Et</value>
   </data>
   <data name="sendemail" xml:space="preserve">
-    <value>E-mail schicken</value>
+    <value>E-mail Gönder</value>
   </data>
   <data name="changelog" xml:space="preserve">
-    <value>Changelog</value>
+    <value>Güncelleme Günlüğü</value>
   </data>
   <data name="feedback" xml:space="preserve">
-    <value>Feedback abgeben</value>
+    <value>Geridönüş Gönder</value>
   </data>
   <data name="discord" xml:space="preserve">
     <value>Discord</value>
@@ -154,718 +165,720 @@
     <value>Facebook</value>
   </data>
   <data name="discordjoin" xml:space="preserve">
-    <value>Discord Server beitreten</value>
+    <value>Discord sunucusuna katıl!</value>
   </data>
   <data name="getversion" xml:space="preserve">
-    <value>Version abrufen</value>
+    <value>Versiyon Çekiliyor</value>
   </data>
   <data name="delete" xml:space="preserve">
-    <value>Löschen</value>
+    <value>Sil</value>
   </data>
   <data name="warning" xml:space="preserve">
-    <value>Warnung</value>
+    <value>Uyarı</value>
   </data>
   <data name="message_delete_save" xml:space="preserve">
-    <value>Bist du dir sicher dieses gespeicherte Spiel zu löschen?</value>
+    <value>Bu kaydı silmek istediğinize emin misiniz?</value>
   </data>
   <data name="Instructions1" xml:space="preserve">
-    <value>Wähle ein Land</value>
+    <value>Bir ülke seçin</value>
   </data>
   <data name="startdate" xml:space="preserve">
-    <value>Start Datum:</value>
+    <value>Başlangıç Tarihi</value>
   </data>
   <data name="enddate" xml:space="preserve">
-    <value>End Datum:</value>
+    <value>Bitiş Tarihi:</value>
   </data>
   <data name="country" xml:space="preserve">
-    <value>Land</value>
+    <value>Ülke</value>
   </data>
   <data name="rank" xml:space="preserve">
-    <value>Rang</value>
+    <value>Rank</value>
   </data>
   <data name="illiteracy" xml:space="preserve">
-    <value>Analphabetismus:</value>
+    <value>Okuma-yazma bilmeme oranı:</value>
   </data>
   <data name="largestreligion" xml:space="preserve">
-    <value>Größte Religion:</value>
+    <value>En büyük din:</value>
   </data>
   <data name="largestculture" xml:space="preserve">
-    <value>Größte Kultur:</value>
+    <value>En büyük kültür:</value>
   </data>
   <data name="army" xml:space="preserve">
-    <value>Armee</value>
+    <value>Kara Kuvvetleri</value>
   </data>
   <data name="soldiers" xml:space="preserve">
-    <value>Soldaten</value>
+    <value>Asker</value>
   </data>
   <data name="rifles" xml:space="preserve">
-    <value>Gewehre:</value>
+    <value>Silah:</value>
   </data>
   <data name="tanks" xml:space="preserve">
-    <value>Panzer:</value>
+    <value>Tank:</value>
   </data>
   <data name="navy" xml:space="preserve">
-    <value>Flotte</value>
+    <value>Deniz Kuvvetleri</value>
   </data>
   <data name="sailors" xml:space="preserve">
-    <value>Matrosen</value>
+    <value>Denizci</value>
   </data>
   <data name="smallships" xml:space="preserve">
-    <value>Kleine Schiffe:</value>
+    <value>Küçük gemi:</value>
   </data>
   <data name="mediumships" xml:space="preserve">
-    <value>Mittelgroße Schiffe:</value>
+    <value>Orta Gemi:</value>
   </data>
   <data name="largeships" xml:space="preserve">
-    <value>Große Schiffe:</value>
+    <value>Büyük gemi:</value>
   </data>
   <data name="airforce" xml:space="preserve">
-    <value>Luftwaffe</value>
+    <value>Hava Kuvvetleri</value>
   </data>
   <data name="pilots" xml:space="preserve">
-    <value>Piloten</value>
+    <value>Pilot</value>
   </data>
   <data name="fighters" xml:space="preserve">
-    <value>Jagdflugzeuge:</value>
+    <value>Savaş Uçağı:</value>
   </data>
   <data name="bombers" xml:space="preserve">
-    <value>Bomber:</value>
+    <value>Bombardıman Uçağı:</value>
   </data>
   <data name="start" xml:space="preserve">
-    <value>Start</value>
+    <value>Başlat</value>
   </data>
   <data name="declarewar" xml:space="preserve">
-    <value>Krieg erklären</value>
+    <value>Savaş İlan Et</value>
   </data>
   <data name="poverty" xml:space="preserve">
-    <value>Armut</value>
+    <value>Yoksulluk</value>
   </data>
   <data name="healthcare" xml:space="preserve">
-    <value>Gesundheitswesen</value>
+    <value>Sağlık Kalitesi</value>
   </data>
   <data name="money" xml:space="preserve">
-    <value>Geld</value>
+    <value>Para</value>
   </data>
   <data name="population" xml:space="preserve">
-    <value>Bevölkerung</value>
+    <value>Popülasyon</value>
   </data>
   <data name="area" xml:space="preserve">
-    <value>Gebiet</value>
+    <value>Yüzey Alanı</value>
+    <comment>Ülkenin Yüzey Ölçümü</comment>
   </data>
   <data name="infrastructure" xml:space="preserve">
-    <value>Infrastruktur</value>
+    <value>Altyapı</value>
   </data>
   <data name="infamy" xml:space="preserve">
-    <value>Infamie</value>
+    <value>Rezalet</value>
   </data>
   <data name="independentsince" xml:space="preserve">
-    <value>Unabhängig seit</value>
+    <value>Şu tarihten beri bağımsız:</value>
   </data>
   <data name="war_level" xml:space="preserve">
-    <value>Kriegsstufe</value>
+    <value>Savaş Seviyesi</value>
   </data>
   <data name="daily_investment" xml:space="preserve">
-    <value>Tägliche Investitionen:</value>
+    <value>Günlük Yatırım:</value>
   </data>
   <data name="one_time_investment" xml:space="preserve">
-    <value>Einmalige Investition:</value>
+    <value>Tek Seferlik Yatırım:</value>
   </data>
   <data name="filter_wars" xml:space="preserve">
-    <value>Kriege filtern</value>
+    <value>Savaşları Filtrele</value>
   </data>
   <data name="war" xml:space="preserve">
-    <value>Krieg</value>
+    <value>Savaş</value>
   </data>
   <data name="score" xml:space="preserve">
-    <value>Punktzahl</value>
+    <value>Skor</value>
   </data>
   <data name="men_to_equipment" xml:space="preserve">
-    <value>Verhältnis Männer zu Ausrüstung:</value>
+    <value>Piyade-Ekipman oranı</value>
   </data>
   <data name="extra_equipment" xml:space="preserve">
-    <value>Du hast überschüssige Ausstattung</value>
+    <value>Eksta ekipmanın var</value>
   </data>
   <data name="extra_men" xml:space="preserve">
-    <value>Du hast unausgerüstete Männer</value>
+    <value>Ektra piyaden var</value>
   </data>
   <data name="army_school" xml:space="preserve">
-    <value>Militärschule</value>
+    <value>Piyade okulu</value>
   </data>
   <data name="army_schools" xml:space="preserve">
-    <value>Militärschulen</value>
+    <value>Piyade okullarıı</value>
   </data>
   <data name="navy_school" xml:space="preserve">
-    <value>Marineschule</value>
+    <value>Denizcilik okulu</value>
   </data>
   <data name="navy_schools" xml:space="preserve">
-    <value>Marineschulen</value>
+    <value>Denizcilik okulları</value>
   </data>
   <data name="air_school" xml:space="preserve">
-    <value>Pilotenschule</value>
+    <value>Havacılık okulu</value>
   </data>
   <data name="air_schools" xml:space="preserve">
-    <value>Pilotenschulen</value>
+    <value>Havacılık okulları</value>
   </data>
   <data name="factory" xml:space="preserve">
-    <value>Fabrik</value>
+    <value>Fabrika</value>
   </data>
   <data name="factories" xml:space="preserve">
-    <value>Fabriken</value>
+    <value>Fabrikalar</value>
   </data>
   <data name="dock" xml:space="preserve">
-    <value>Hafen</value>
+    <value>Liman</value>
   </data>
   <data name="docks" xml:space="preserve">
-    <value>Häfen</value>
+    <value>Limanlar</value>
   </data>
   <data name="attackers" xml:space="preserve">
-    <value>Angreifer:</value>
+    <value>Taaruz:</value>
+    <comment>Çoğul</comment>
   </data>
   <data name="defenders" xml:space="preserve">
-    <value>Verteidiger:</value>
+    <value>Müdafa:</value>
+    <comment>Çoğul</comment>
   </data>
   <data name="attacker" xml:space="preserve">
-    <value>Angreifer:</value>
+    <value>Taaruz:</value>
+    <comment>Tekil</comment>
   </data>
   <data name="defender" xml:space="preserve">
-    <value>Verteidiger:</value>
+    <value>Müdafa:</value>
+    <comment>Tekil</comment>
   </data>
   <data name="attacker_victory" xml:space="preserve">
-    <value>Sieg der Angreifer</value>
+    <value>Ofansif Taraf Kazandı</value>
   </data>
   <data name="tie" xml:space="preserve">
-    <value>Unentschieden</value>
+    <value>Berabere</value>
   </data>
   <data name="defender_victory" xml:space="preserve">
-    <value>Sieg der Verteidiger</value>
+    <value>Defansif Taraf Kazandı</value>
   </data>
   <data name="no_longer_exists" xml:space="preserve">
-    <value>Die ausgewählte Nation existiert nicht mehr</value>
+    <value>Seçilen ülke artık yok</value>
   </data>
   <data name="military_loses" xml:space="preserve">
-    <value>Militärische Verluste:</value>
+    <value>Askeri kayıplar:</value>
   </data>
   <data name="civilian_loses" xml:space="preserve">
-    <value>Zivile Verluste:</value>
+    <value>Sivil kayıplar:</value>
   </data>
   <data name="equipment_loses" xml:space="preserve">
-    <value>Ausrüstungsverluste:</value>
+    <value>Ekipman kaybı:</value>
   </data>
   <data name="infrastructure_decrease" xml:space="preserve">
-    <value>Vernichtete Infrastruktur:</value>
+    <value>Altyapı kaybı:</value>
   </data>
   <data name="invest" xml:space="preserve">
-    <value>Investieren</value>
+    <value>Yatırım</value>
   </data>
   <data name="facebookjoin" xml:space="preserve">
-    <value>Trete der Facebookgruppe bei</value>
+    <value>Facebook grubuna katıl!</value>
   </data>
   <data name="world_tension" xml:space="preserve">
-    <value>Weltspannung</value>
-  </data>
-  <data name="error_string_not_found" xml:space="preserve">
-    <value>Text nicht gefunden</value>
+    <value>Dünya Kargaşası</value>
   </data>
   <data name="battles" xml:space="preserve">
-    <value>Kämpfe</value>
+    <value>Muharabeler</value>
   </data>
   <data name="world_war_title" xml:space="preserve">
-    <value>Die Welt ist im Krieg!</value>
+    <value>Dünya Savaşı!</value>
+    <comment>Haber eventi için</comment>
   </data>
   <data name="world_war_message" xml:space="preserve">
-    <value>Nach Monaten hoher Spannungen sind die Großmächte in den Krieg gezogen. {war.Name} hat begonnen.</value>
+    <value>Aylar süren gerilimden sonra, süper güçler birbirlerine savaş açtı ve {war.Name} savaşı başladı!</value>
+    <comment>Haber eventi için</comment>
   </data>
   <data name="new_century_title" xml:space="preserve">
-    <value>Frohes neues Jahrhundert!</value>
+    <value>Yeni 10 Yıl!</value>
+    <comment>Haber eventi için</comment>
   </data>
   <data name="new_century_message" xml:space="preserve">
-    <value>Liebe Leser,
-Ein neues Jahrhundert steht bevor. Wir wünschen Ihnen ein frohes neues Jahr. Möge diese neue Zeit friedlich sein.</value>
+    <value>Sevgili okuyucular, yeni bir on yıla daha girdik. Hepinize yeni yıl dileriz. Umarız bu on yıl barış içinde geçer.</value>
+    <comment>Haber eventi için</comment>
   </data>
   <data name="new_year_title" xml:space="preserve">
-    <value>Frohes neues Jahr!</value>
+    <value>Mutlu Yıllar!</value>
+    <comment>Haber eventi için</comment>
   </data>
   <data name="new_year_message" xml:space="preserve">
-    <value>Liebe Leser,
-Ein neues Jahr steht bevor. Wir wünschen Ihnen ein frohes neues Jahr. Möge diese neue Zeit friedlich sein.</value>
+    <value>Sevgili okuyucular, yeni yılınız kutlu olsun! Umarız bu sene, bir öncekine kıyasla daha barışçıl geçer.</value>
+    <comment>Haber eventi için</comment>
   </data>
   <data name="inconclusive_title" xml:space="preserve">
-    <value>{warToRemove.Name} endet ergebnislos</value>
+    <value>{warToRemove.Name} Erken Bitti!</value>
+    <comment>Haber eventi için</comment>
   </data>
   <data name="inconclusive_message" xml:space="preserve">
-    <value>Da eines der beteiligten Länder nicht mehr existiert, endete {warToRemove.Name} ergebnislos</value>
+    <value>Savaşta olan ülkelerden biri artık var olmadığı için {warToRemove.Name} erken sona erdi.</value>
+    <comment>Haber eventi için</comment>
   </data>
   <data name="victoria_title" xml:space="preserve">
-    <value>Königin Victoria tot</value>
+    <value>Kraliçe Viktoria Öldü!</value>
+    <comment>Haber eventi için</comment>
   </data>
   <data name="victoria_message" xml:space="preserve">
-    <value>Edward VII wird nach dem Tod von Königin Victoria König von England und Indien</value>
+    <value>Edward VII İngiltere'nin ve Hindistan'nın yeni kralı oldu.</value>
+    <comment>Haber eventi için</comment>
   </data>
   <data name="defaultwar_title" xml:space="preserve">
-    <value>Krieg!</value>
+    <value>SAVAAAAŞ!!!</value>
+    <comment>Haber eventi için</comment>
   </data>
   <data name="defaultwar_message" xml:space="preserve">
-    <value>{war.Name} hat begonnen zwischen {war.Attackers[0].Name} und {war.Defenders[0].Name}.</value>
+    <value>{war.Attackers[0].Name} ve {war.Defenders[0].Name} arasında {war.Name} başladı!</value>
+    <comment>Haber eventi için</comment>
   </data>
   <data name="defaultwar_message_infamy" xml:space="preserve">
-    <value>Nach mehreren Aggressionen von {highInfamyCountry.Name} haben {attacker1.Name} und {attacker2.Name} der berüchtigten {highInfamyCountry.Name} den Krieg erklärt.</value>
+    <value>{highInfamyCountry.Name} isimli devletin yaptığı bir çok kargaşa ve agresiflik yüzünden, {attacker1.Name} ve {attacker2.Name}, {highInfamyCountry.Name}'a savaş ilan etti.</value>
+    <comment>Haber eventi için</comment>
   </data>
   <data name="policies" xml:space="preserve">
-    <value>Richtlinien</value>
+    <value>Politikalar</value>
   </data>
   <data name="foreignPolicy" xml:space="preserve">
-    <value>Außenpolitik</value>
+    <value>DIş Politika</value>
   </data>
   <data name="interventionist" xml:space="preserve">
-    <value>Interventionistisch</value>
+    <value>Aktif</value>
   </data>
   <data name="isolationist" xml:space="preserve">
-    <value>Isolationistisch</value>
+    <value>Pasif</value>
   </data>
   <data name="losses" xml:space="preserve">
-    <value>Verluste</value>
+    <value>Kayıplar</value>
   </data>
   <data name="military_expenses" xml:space="preserve">
-    <value>Militärausgaben</value>
+    <value>Askeri harcamalar</value>
   </data>
   <data name="other" xml:space="preserve">
-    <value>Andere</value>
+    <value>Diğer</value>
   </data>
   <data name="expenses" xml:space="preserve">
-    <value>Ausgaben</value>
+    <value>Harcamalar</value>
   </data>
   <data name="income" xml:space="preserve">
-    <value>Einkommen</value>
+    <value>Gelir</value>
   </data>
   <data name="investments" xml:space="preserve">
-    <value>Investitionen</value>
+    <value>Yatırımlar</value>
   </data>
   <data name="territory" xml:space="preserve">
-    <value>Territorium</value>
+    <value>Toprak</value>
   </data>
   <data name="military" xml:space="preserve">
-    <value>Militär</value>
+    <value>Askeri</value>
   </data>
   <data name="welfare" xml:space="preserve">
-    <value>Wohlfahrt</value>
+    <value>Refah</value>
   </data>
   <data name="all_news" xml:space="preserve">
-    <value>Alle Nachrichten</value>
+    <value>Bütün haberler</value>
   </data>
   <data name="my_news" xml:space="preserve">
-    <value>Meine Nachrichten</value>
+    <value>Beni ilgilendiren haberler</value>
   </data>
   <data name="all_wars" xml:space="preserve">
-    <value>Alle Kriege</value>
+    <value>Bütün savaşlar</value>
   </data>
   <data name="my_wars" xml:space="preserve">
-    <value>Meine Kriege</value>
+    <value>Beni ilgilendiren savaşlar</value>
   </data>
   <data name="join_attackers" xml:space="preserve">
-    <value>Schließe dich den Angreifern an</value>
+    <value>Saldıranlara katıl</value>
   </data>
   <data name="join_defenders" xml:space="preserve">
-    <value>Schließe dich den Verteidigern an</value>
+    <value>Savunanlara katıl</value>
   </data>
   <data name="foreign_investment" xml:space="preserve">
-    <value>Ausländische Investitionen suchen (Belohnungsanzeige)</value>
+    <value>Dış borç al (Reklam)</value>
   </data>
   <data name="diplomatic_campaign" xml:space="preserve">
-    <value>Diplomatische Kampagne (Belohnungsanzeige)</value>
+    <value>Diplomatik İlişkiler (Reklam)</value>
   </data>
   <data name="propaganda_campaign" xml:space="preserve">
-    <value>Propagandakampagne (Belohnungsanzeige)</value>
+    <value>Propaganda (Reklam)</value>
   </data>
   <data name="total" xml:space="preserve">
-    <value>Gesamt</value>
+    <value>Toplam</value>
   </data>
   <data name="years" xml:space="preserve">
-    <value>{0} Jahre</value>
+    <value>{0} yıl</value>
   </data>
   <data name="months" xml:space="preserve">
-    <value>{0} Monate</value>
+    <value>{0} ay</value>
   </data>
   <data name="weeks" xml:space="preserve">
-    <value>{0} Wochen</value>
+    <value>{0} hafta</value>
   </data>
   <data name="days" xml:space="preserve">
-    <value>{0} Tage</value>
+    <value>{0} gün</value>
   </data>
   <data name="independence" xml:space="preserve">
-    <value>Unabhängigkeit</value>
+    <value>bağımsızlık</value>
   </data>
   <data name="all_countries" xml:space="preserve">
-    <value>Alle Länder</value>
+    <value>Bütün Devletler</value>
   </data>
   <data name="a_new_nation_rises" xml:space="preserve">
-    <value>Eine neue Nation erhebt sich</value>
+    <value>Yeni bir devlet doğdu kaosun küllerinden...</value>
   </data>
   <data name="incompatible_save_deleted" xml:space="preserve">
-    <value>Inkompatibler Speicherstand gelöscht</value>
+    <value>Uyuşmaz kayıt tespit edildi</value>
   </data>
   <data name="gameover_save_deleted" xml:space="preserve">
-    <value>Spiel vorbei, Speicherstand gelöscht</value>
+    <value>Bitmiş oyun kaydı silindi</value>
   </data>
   <data name="rank_by_score" xml:space="preserve">
-    <value>Nach Punktzahl ordnen</value>
+    <value>Skora göre sırala</value>
   </data>
   <data name="send_missionaries" xml:space="preserve">
-    <value>Missionare senden</value>
+    <value>Din değiştirmek için misyoner gönder</value>
+    <comment>Daha açıklayıcı olsun diye</comment>
   </data>
   <data name="send_material_volunteers" xml:space="preserve">
-    <value>Material und Freiwillige senden</value>
+    <value>Eşya ve gönüllü gönder</value>
   </data>
   <data name="none" xml:space="preserve">
-    <value>Keine</value>
+    <value>Hiç</value>
   </data>
   <data name="current" xml:space="preserve">
-    <value>Aktuell</value>
+    <value>Şu an:</value>
   </data>
   <data name="world_tension_description" xml:space="preserve">
-    <value>Stellt das allgemeine Maß an Angst und Unruhe dar, das unter den Nationen der Welt herrscht.
-Der angezeigte Wert kann zwischen 0 % und 100 % liegen und nimmt mit der Zeit sehr langsam ab.
-Er wird durch mehrere Faktoren erhöht, z. B. durch Kriegserklärungen und leicht durch jeden laufenden Krieg.
-Sobald die Weltspannung 100 % erreicht, wird ein Weltkrieg ausgelöst und der Wert wird zurückgesetzt.</value>
-  </data>
-  <data name="settings" xml:space="preserve">
-    <value>Einstellungen</value>
-  </data>
-  <data name="select_language" xml:space="preserve">
-    <value>Sprache auswählen</value>
+    <value>Dünyadaki korku ve gerginliği simgeler. %0 ve %100 arasındadır.  Barış ilan edildiği zaman azalır. Zaman geçtikçe yavaşça azalır.  Her savaş ilan edildiğinde artar. Her var olan savaş başına yavaşça artar. 100%'e ulaşırsa dünya savaşı başlar ve sıfırlanır.</value>
   </data>
   <data name="started_date" xml:space="preserve">
-    <value>Begonnen: {0}</value>
+    <value>Başlangıç: {0}</value>
   </data>
   <data name="state" xml:space="preserve">
-    <value>Staatlich</value>
+    <value>Devlet</value>
   </data>
   <data name="private" xml:space="preserve">
-    <value>Privat</value>
+    <value>Özel</value>
   </data>
   <data name="select_game_mode" xml:space="preserve">
-    <value>Spielmodus auswählen</value>
+    <value>Oyun modunu seç</value>
   </data>
   <data name="historical" xml:space="preserve">
-    <value>Historisch</value>
+    <value>Tarihî</value>
   </data>
   <data name="historical_description" xml:space="preserve">
-    <value>Spiele eine Simulation des 20. Jahrhunderts mit historischen Nationen, Kriegen und Ereignissen</value>
+    <value>20. yüzyılın tarihî devletleri, savaşları ve olaylarıyla bir simülasyonu oyna</value>
   </data>
   <data name="random" xml:space="preserve">
-    <value>Zufällig</value>
+    <value>Rastgele</value>
   </data>
   <data name="random_description" xml:space="preserve">
-    <value>Spiele in einer zufällig generierten Welt mit zufälligen Ländern, Kriegen und Ereignissen</value>
+    <value>Rastgele oluşturulmuş bir dünyada rastgele ülkeler, savaşlar ve olaylarla oyna</value>
   </data>
   <data name="war_goal_none" xml:space="preserve">
-    <value>Keines</value>
+    <value>Yok</value>
   </data>
   <data name="war_goal_economic" xml:space="preserve">
-    <value>Wirtschaftlich</value>
+    <value>Ekonomik</value>
   </data>
   <data name="war_goal_conquer_land" xml:space="preserve">
-    <value>Land erobern</value>
+    <value>Toprak fethetme</value>
   </data>
   <data name="war_goal_annex_country" xml:space="preserve">
-    <value>Land annektieren</value>
+    <value>Ülkeyi ilhak etme</value>
   </data>
   <data name="war_goal_join_country" xml:space="preserve">
-    <value>Einem Land beitreten</value>
+    <value>Ülkeye katılma</value>
   </data>
   <data name="small_independent_mission" xml:space="preserve">
-    <value>Kleine unabhängige Mission senden</value>
+    <value>Küçük bağımsız görev gönder</value>
   </data>
   <data name="large_state_mission" xml:space="preserve">
-    <value>Große staatlich geförderte Mission senden</value>
-  </data>
-  <data name="ok" xml:space="preserve">
-    <value>Ok</value>
+    <value>Büyük devlet destekli görev gönder</value>
   </data>
   <data name="cancel" xml:space="preserve">
-    <value>Abbrechen</value>
+    <value>İptal</value>
+  </data>
+  <data name="ok" xml:space="preserve">
+    <value>Tamam</value>
   </data>
   <data name="difficulty_level" xml:space="preserve">
-    <value>Schwierigkeitsgrad</value>
+    <value>Zorluk seviyesi</value>
   </data>
   <data name="easy" xml:space="preserve">
-    <value>Leicht</value>
+    <value>Kolay</value>
   </data>
   <data name="normal" xml:space="preserve">
     <value>Normal</value>
   </data>
   <data name="hard" xml:space="preserve">
-    <value>Schwer</value>
+    <value>Zor</value>
   </data>
   <data name="birth_rate_modifier" xml:space="preserve">
-    <value>Geburtenraten‑Modifikator</value>
+    <value>Doğum oranı çarpanı</value>
   </data>
   <data name="territory_income_modifier" xml:space="preserve">
-    <value>Territoriumseinkommens‑Modifikator</value>
+    <value>Bölge gelir çarpanı</value>
   </data>
   <data name="leaving_game" xml:space="preserve">
-    <value>Sie sind dabei, das Spiel zu verlassen</value>
+    <value>Oyundan çıkmak üzeresiniz</value>
   </data>
   <data name="end_game" xml:space="preserve">
-    <value>Du hast das Ende des Spiels erreicht</value>
+    <value>Oyunun sonuna ulaştınız</value>
   </data>
   <data name="extend_game_prompt" xml:space="preserve">
-    <value>Möchtest du weiterspielen?</value>
+    <value>Oynamaya devam etmek istiyor musunuz?</value>
   </data>
   <data name="extend_game" xml:space="preserve">
-    <value>Ja, lass mich noch 10 Jahre spielen</value>
+    <value>Evet, 10 yıl daha oynamama izin ver</value>
   </data>
   <data name="dont_extend_game" xml:space="preserve">
-    <value>Nein, bring mich zu den Ergebnissen</value>
-  </data>
-  <data name="unittest_onlyen" xml:space="preserve">
-    <value>Ok_de</value>
+    <value>Hayır, beni sonuçlara götür</value>
   </data>
   <data name="send_volunteers" xml:space="preserve">
-    <value>Senden Sie Freiwillige</value>
+    <value>Gönüllü gönder</value>
   </data>
   <data name="send_expeditionary_land_force" xml:space="preserve">
-    <value>Entsenden Sie eine Expeditions-Landstreitmacht</value>
+    <value>Seferi kara kuvveti gönder</value>
   </data>
   <data name="send_land_equipment" xml:space="preserve">
-    <value>Landausrüstung schicken</value>
+    <value>Kara ekipmanı gönder</value>
   </data>
   <data name="send_expeditionary_air_force" xml:space="preserve">
-    <value>Schicken Sie eine Expeditions-Luftwaffe</value>
+    <value>Seferi hava kuvvetleri gönder</value>
   </data>
   <data name="send_air_equipment" xml:space="preserve">
-    <value>Luftausrüstung schicken</value>
+    <value>Hava ekipmanı gönder</value>
   </data>
   <data name="send_economic_help" xml:space="preserve">
-    <value>Senden Sie wirtschaftliche Hilfe</value>
+    <value>Ekonomik yardım gönderin</value>
   </data>
   <data name="send" xml:space="preserve">
-    <value>Schicken</value>
+    <value>Göndermek</value>
   </data>
   <data name="warning_settings_changes" xml:space="preserve">
-    <value>Warnung! Das Spiel ist so konzipiert, dass es mit den unten aufgeführten Standardeinstellungen funktioniert. Wenn Sie sie ändern, kann es zu unerwarteten Problemen im Spiel kommen</value>
+    <value>Uyarı! Oyun, aşağıdaki ayarlar varsayılan olarak ayarlandığında çalışacak şekilde tasarlanmıştır. Bunları değiştirmek oyunda beklenmeyen sorunlara neden olabilir</value>
   </data>
   <data name="add_war_goal_button" xml:space="preserve">
-    <value>Kriegsziel hinzufügen</value>
+    <value>Savaş hedefi ekle</value>
   </data>
   <data name="cost_foreign_policy_switch" xml:space="preserve">
-    <value>Kosten für den Wechsel: {0} Infamie</value>
+    <value>Geçiş yapmanın maliyeti: {0} rezalet</value>
   </data>
   <data name="switch_to" xml:space="preserve">
-    <value>Wechseln Sie zu {0}</value>
+    <value>{0}'a geç</value>
   </data>
   <data name="can_get_called_into_wars" xml:space="preserve">
-    <value>• Werden Sie in Kriege gerufen, um neue Nationen zu verteidigen</value>
+    <value>• Yeni ulusları savunmak için savaşlara çağrılın</value>
   </data>
   <data name="can_get_called_into_world_wars" xml:space="preserve">
-    <value>• Werde in Weltkriege gerufen</value>
+    <value>• Dünya savaşlarına çağrılın</value>
   </data>
   <data name="can_get_called_into_wars_infamy" xml:space="preserve">
-    <value>• Werden Sie in Kriege gegen Länder mit großer Infamie gerufen</value>
+    <value>• Rezaleti yüksek ülkelere karşı savaşlara çağrılın</value>
   </data>
   <data name="can_declare_war_all" xml:space="preserve">
-    <value>• Kann jeder Nation den Krieg erklären</value>
+    <value>• Herhangi bir ülkeye savaş ilan edebilir</value>
   </data>
   <data name="dont_get_called_into_wars" xml:space="preserve">
-    <value>• Lass dich nicht in Kriege verwickeln</value>
+    <value>• Savaşlara çağrılmayın</value>
   </data>
   <data name="can_declare_war_above" xml:space="preserve">
-    <value>• Kann Nationen mit einer Infamie über {0} den Krieg erklären</value>
+    <value>• Rezaleti {0}'ın üzerinde olan uluslara savaş ilan edebilir</value>
   </data>
   <data name="loading" xml:space="preserve">
-    <value>Laden...</value>
+    <value>Yükleniyor...</value>
   </data>
   <data name="ratio_more_than_one" xml:space="preserve">
-    <value>Wenn Verhältnis &gt; 1:</value>
+    <value>Oran &gt; 1 ise:</value>
   </data>
   <data name="ratio_less_than_one" xml:space="preserve">
-    <value>Wenn Verhältnis &lt; 1:</value>
+    <value>Oran &lt; 1 ise:</value>
   </data>
   <data name="open_seas" xml:space="preserve">
-    <value>Offene Meere</value>
+    <value>Açık denizler</value>
   </data>
   <data name="land_battle" xml:space="preserve">
-    <value>Landschlacht</value>
+    <value>Kara savaşı</value>
   </data>
   <data name="sea_battle" xml:space="preserve">
-    <value>Seeschlacht</value>
+    <value>Deniz savaşı</value>
   </data>
   <data name="air_battle" xml:space="preserve">
-    <value>Luftschlacht</value>
+    <value>Hava savaşı</value>
   </data>
   <data name="open_seas_battle" xml:space="preserve">
-    <value>Schlacht auf offener See</value>
+    <value>Açık deniz savaşı</value>
   </data>
   <data name="coastal_bombardment" xml:space="preserve">
-    <value>Küstenbombardierung</value>
+    <value>Kıyı bombardımanı</value>
   </data>
   <data name="naval_blockade" xml:space="preserve">
-    <value>Seeblockade</value>
+    <value>Deniz ablukası</value>
   </data>
   <data name="population_density" xml:space="preserve">
-    <value>Bevölkerungsdichte</value>
+    <value>Nüfus Yoğunluğu</value>
   </data>
   <data name="warning_difficult_war" xml:space="preserve">
-    <value>Das Zielland ist viel stärker als Sie</value>
+    <value>Hedef ülke sizden çok daha güçlü</value>
   </data>
   <data name="war_goal_release_country" xml:space="preserve">
-    <value>Land freigeben</value>
+    <value>Ülkeyi serbest bırakın</value>
   </data>
   <data name="no_ai_war" xml:space="preserve">
-    <value>Die KI erklärt dem menschlichen Spieler keine zufälligen Kriege (ausgenommen historische Kriege, Weltkriege, Infamie-Kriege und Unabhängigkeitskriege)</value>
+    <value>Yapay zeka insan oyuncuya karşı rastgele savaşlar ilan etmeyecek (tarihi savaşlar, dünya savaşları, rezalet savaşları ve bağımsızlık savaşları hariç)</value>
   </data>
   <data name="daily_infamy_decrease_modifier" xml:space="preserve">
-    <value>Täglicher Infamie-Verringerungsmodifikator</value>
+    <value>Günlük rezalet azaltma çarpanı</value>
   </data>
   <data name="daily_warlevel_decrease_modifier" xml:space="preserve">
-    <value>Täglicher Kriegsstufen-Verringerungsmodifikator</value>
+    <value>Günlük savaş seviyesi azaltma çarpanı</value>
   </data>
   <data name="debt_risk" xml:space="preserve">
-    <value>Ihre Nation hat zu hohe Schulden! Sie laufen Gefahr, dass abtrünnige Regionen ihre Unabhängigkeit erklären!</value>
+    <value>Ulusunuzun borcu çok fazla! Ayrılıkçı bölgelerin bağımsızlık ilan etme riskiyle karşı karşıyasınız!</value>
   </data>
   <data name="army_expenses_too_high" xml:space="preserve">
-    <value>Ihre Nation gibt einen nicht tragbaren Anteil ihres Budgets für das Heer aus</value>
+    <value>Ulusunuz bütçesinin sürdürülemez bir kısmını Kara Kuvvetleri'ne harcıyor</value>
   </data>
   <data name="navy_expenses_too_high" xml:space="preserve">
-    <value>Ihre Nation gibt einen nicht tragbaren Anteil ihres Budgets für die Marine aus</value>
+    <value>Ulusunuz bütçesinin sürdürülemez bir kısmını Deniz Kuvvetleri'ne harcıyor</value>
   </data>
   <data name="airforce_expenses_too_high" xml:space="preserve">
-    <value>Ihre Nation gibt einen nicht tragbaren Anteil ihres Budgets für die Luftwaffe aus</value>
+    <value>Ulusunuz bütçesinin sürdürülemez bir kısmını Hava Kuvvetleri'ne harcıyor</value>
   </data>
   <data name="no_private_population" xml:space="preserve">
-    <value>Ihrer Nation sind die Bürger ausgegangen, die für die Streitkräfte und Rüstungsfabriken rekrutiert werden können</value>
+    <value>Ulusunuzun silahlı kuvvetlere ve askeri fabrikalara asker alacak vatandaşı kalmadı</value>
   </data>
   <data name="war_level_risk" xml:space="preserve">
-    <value>Ihre Nation hat eine zu hohe Kriegsstufe! Sie laufen Gefahr, dass abtrünnige Regionen ihre Unabhängigkeit erklären!</value>
+    <value>Ulusunuzun savaş seviyesi çok yüksek! Ayrılıkçı bölgelerin bağımsızlık ilan etme riskiyle karşı karşıyasınız!</value>
   </data>
   <data name="worldwar_risk" xml:space="preserve">
-    <value>Ihre Nation hat eine zu hohe Infamie! Sie laufen Gefahr, Ziel eines Weltkriegs zu werden!</value>
+    <value>Ulusunuzun rezaleti çok yüksek! Bir Dünya Savaşı'nın hedefi olma riskiyle karşı karşıyasınız!</value>
   </data>
   <data name="high_infamy_war_risk" xml:space="preserve">
-    <value>Ihre Nation hat eine zu hohe Infamie! Sie laufen Gefahr, Ziel eines Infamie-Kriegs zu werden!</value>
+    <value>Ulusunuzun rezaleti çok yüksek! Bir rezalet savaşının hedefi olma riskiyle karşı karşıyasınız!</value>
   </data>
   <data name="culture_diversity_risk" xml:space="preserve">
-    <value>Die Hauptkultur Ihrer Nation ist zu klein! Sie laufen Gefahr, dass Kulturen ihre Unabhängigkeit erklären!</value>
+    <value>Ulusunuzun ana kültürü çok küçük! Kültürlerin bağımsızlık ilan etme riskiyle karşı karşıyasınız!</value>
   </data>
   <data name="religious_diversity_risk" xml:space="preserve">
-    <value>Die Hauptreligion Ihrer Nation ist zu klein! Sie laufen Gefahr, dass Religionen ihre Unabhängigkeit erklären!</value>
+    <value>Ulusunuzun ana dini çok küçük! Dinlerin bağımsızlık ilan etme riskiyle karşı karşıyasınız!</value>
   </data>
   <data name="percent_of_daily_income" xml:space="preserve">
-    <value>{0} des Tageseinkommens</value>
+    <value>Günlük gelirin {0} kadarı</value>
   </data>
   <data name="base_infamy_change" xml:space="preserve">
-    <value>Grundlegende Infamie-Änderung: {0}</value>
+    <value>Temel rezalet değişimi: {0}</value>
   </data>
   <data name="target_infamy" xml:space="preserve">
-    <value>Infamie-Stufe des Ziels: {0}</value>
+    <value>Hedefin rezalet seviyesi: {0}</value>
   </data>
   <data name="relationship_with_target" xml:space="preserve">
-    <value>Beziehung zum Ziel: {0}</value>
+    <value>Hedefle ilişki: {0}</value>
   </data>
   <data name="total_infamy_change" xml:space="preserve">
-    <value>Gesamte Infamie-Änderung: {0}</value>
+    <value>Toplam rezalet değişimi: {0}</value>
   </data>
   <data name="only_sea_war" xml:space="preserve">
-    <value>Nur Seekrieg: {0}</value>
+    <value>Yalnızca deniz savaşı: {0}</value>
     <comment>{0} is the value</comment>
   </data>
   <data name="need_more_army_schools" xml:space="preserve">
-    <value>Erwägen Sie den Bau weiterer Militärschulen</value>
+    <value>Daha fazla piyade okulu inşa etmeyi düşünün</value>
   </data>
   <data name="consider_reducing_army_schools" xml:space="preserve">
-    <value>Erwägen Sie, die Anzahl der Militärschulen zu verringern</value>
+    <value>Piyade okullarının sayısını azaltmayı düşünün</value>
   </data>
   <data name="need_more_navy_schools" xml:space="preserve">
-    <value>Erwägen Sie den Bau weiterer Marineschulen</value>
+    <value>Daha fazla denizcilik okulu inşa etmeyi düşünün</value>
   </data>
   <data name="consider_reducing_navy_schools" xml:space="preserve">
-    <value>Erwägen Sie, die Anzahl der Marineschulen zu verringern</value>
+    <value>Denizcilik okullarının sayısını azaltmayı düşünün</value>
   </data>
   <data name="need_more_airforce_schools" xml:space="preserve">
-    <value>Erwägen Sie den Bau weiterer Pilotenschulen</value>
+    <value>Daha fazla havacılık okulu inşa etmeyi düşünün</value>
   </data>
   <data name="consider_reducing_airforce_schools" xml:space="preserve">
-    <value>Erwägen Sie, die Anzahl der Pilotenschulen zu verringern</value>
+    <value>Havacılık okullarının sayısını azaltmayı düşünün</value>
   </data>
   <data name="need_more_docks" xml:space="preserve">
-    <value>Erwägen Sie den Bau weiterer Häfen</value>
+    <value>Daha fazla liman inşa etmeyi düşünün</value>
   </data>
   <data name="consider_reducing_docks" xml:space="preserve">
-    <value>Erwägen Sie, die Anzahl der Häfen zu verringern</value>
+    <value>Limanların sayısını azaltmayı düşünün</value>
   </data>
   <data name="need_more_army_equipment_factories" xml:space="preserve">
-    <value>Erwägen Sie den Bau weiterer Armeeausrüstungsfabriken</value>
+    <value>Daha fazla ordu ekipmanı fabrikası inşa etmeyi düşünün</value>
   </data>
   <data name="consider_reducing_army_equipment_factories" xml:space="preserve">
-    <value>Erwägen Sie, die Anzahl der Armeeausrüstungsfabriken zu verringern</value>
+    <value>Ordu ekipmanı fabrikalarının sayısını azaltmayı düşünün</value>
   </data>
   <data name="need_more_airforce_equipment_factories" xml:space="preserve">
-    <value>Erwägen Sie den Bau weiterer Luftwaffenausrüstungsfabriken</value>
+    <value>Daha fazla hava kuvvetleri ekipmanı fabrikası inşa etmeyi düşünün</value>
   </data>
   <data name="consider_reducing_airforce_equipment_factories" xml:space="preserve">
-    <value>Erwägen Sie, die Anzahl der Luftwaffenausrüstungsfabriken zu verringern</value>
+    <value>Hava kuvvetleri ekipmanı fabrikalarının sayısını azaltmayı düşünün</value>
   </data>
   <data name="news" xml:space="preserve">
-    <value>Nachrichten</value>
+    <value>Haberler</value>
   </data>
   <data name="world" xml:space="preserve">
-    <value>Welt</value>
+    <value>Dünya</value>
   </data>
   <data name="wars" xml:space="preserve">
-    <value>Kriege</value>
+    <value>Savaşlar</value>
   </data>
   <data name="policy_changes" xml:space="preserve">
-    <value>Verfügbare Richtlinienänderungen: {0}</value>
+    <value>Kullanılabilir politika değişiklikleri: {0}</value>
   </data>
   <data name="daily_increase" xml:space="preserve">
-    <value>Tägliche Zunahme: {0}</value>
+    <value>Günlük artış: {0}</value>
   </data>
   <data name="diplomatic_actions" xml:space="preserve">
-    <value>Verfügbare diplomatische Aktionen: {0}</value>
+    <value>Kullanılabilir diplomatik eylemler: {0}</value>
   </data>
   <data name="province_dialog_owner" xml:space="preserve">
-    <value>Besitzer</value>
+    <value>Sahip</value>
   </data>
   <data name="province_dialog_neighbours" xml:space="preserve">
-    <value>Nachbarn</value>
+    <value>Komşular</value>
   </data>
   <data name="province_dialog_occupier" xml:space="preserve">
-    <value>Besatzer</value>
+    <value>İşgalci</value>
   </data>
   <data name="province_dialog_coastal_length" xml:space="preserve">
-    <value>Küste {0}</value>
+    <value>Kıyı {0}</value>
   </data>
   <data name="province_dialog_landlocked" xml:space="preserve">
-    <value>Ohne Meereszugang</value>
+    <value>Denize kıyısı yok</value>
   </data>
   <data name="province_dialog_occupied_percent" xml:space="preserve">
-    <value>Besetzt {0}%</value>
+    <value>%{0} işgal altında</value>
   </data>
   <data name="province_dialog_local_forces" xml:space="preserve">
-    <value>Lokale Streitkräfte von {0}</value>
+    <value>{0} yerel kuvvetleri</value>
   </data>
   <data name="province_dialog_going_home" xml:space="preserve">
-    <value>(auf dem Heimweg)</value>
+    <value>(eve dönüyor)</value>
   </data>
   <data name="province_dialog_province_number" xml:space="preserve">
-    <value>Provinz {0}</value>
+    <value>Eyalet {0}</value>
   </data>
   <data name="map_layers" xml:space="preserve">
-    <value>Kartenebenen</value>
+    <value>Harita katmanları</value>
   </data>
   <data name="map_layer_political" xml:space="preserve">
-    <value>Politisch</value>
+    <value>Siyasi</value>
   </data>
   <data name="map_layer_relations" xml:space="preserve">
-    <value>Beziehungen</value>
+    <value>İlişkiler</value>
   </data>
   <data name="map_legend_state_religion" xml:space="preserve">
-    <value>Streifen: Religion des Staates</value>
+    <value>Çizgiler: devletin dini</value>
   </data>
   <data name="map_legend_your_country" xml:space="preserve">
-    <value>Dein Land</value>
+    <value>Ülkeniz</value>
   </data>
   <data name="map" xml:space="preserve">
-    <value>Karte</value>
+    <value>Harita</value>
   </data>
   <data name="list" xml:space="preserve">
     <value>Liste</value>

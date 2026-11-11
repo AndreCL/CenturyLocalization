@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms</value></resheader>
+  <data name="settings" xml:space="preserve"><value>Nastavenia</value></data>
+  <data name="select_language" xml:space="preserve"><value>Vybrať jazyk</value></data>
+  <data name="settings_max_events_title" xml:space="preserve"><value>Maximálny počet uložených udalostí</value></data>
+  <data name="settings_keep_events_title" xml:space="preserve"><value>Uchovávať udalosti po dobu</value></data>
+  <data name="settings_max_battles_title" xml:space="preserve"><value>Maximálny počet uložených bitiek na jednu vojnu</value></data>
+  <data name="settings_keep_battles_title" xml:space="preserve"><value>Uchovávať bitky po dobu</value></data>
+  <data name="settings_events_warning" xml:space="preserve"><value>Upozornenie: Väčší počet uložených udalostí predlžuje ukladanie a načítavanie, zväčšuje uložené hry a zvyšuje spotrebu pamäte</value></data>
+  <data name="settings_battles_warning" xml:space="preserve"><value>Upozornenie: Väčší počet uložených bitiek predlžuje ukladanie a načítavanie, zväčšuje uložené hry a zvyšuje spotrebu pamäte</value></data>
+  <data name="settings_default_choice" xml:space="preserve"><value>{choice} (Predvolené)</value></data>
+  <data name="battle_details_not_stored" xml:space="preserve"><value>Podrobnosti o tejto bitke sa už neuchovávajú</value></data>
+  <data name="settings_time_1_week" xml:space="preserve"><value>1 týždeň</value></data>
+  <data name="settings_time_1_month" xml:space="preserve"><value>1 mesiac</value></data>
+  <data name="settings_time_1_year" xml:space="preserve"><value>1 rok</value></data>
+  <data name="settings_time_2_years" xml:space="preserve"><value>2 roky</value></data>
+  <data name="settings_time_4_years" xml:space="preserve"><value>4 roky</value></data>
+  <data name="settings_time_8_years" xml:space="preserve"><value>8 rokov</value></data>
+  <data name="settings_time_16_years" xml:space="preserve"><value>16 rokov</value></data>
+</root>

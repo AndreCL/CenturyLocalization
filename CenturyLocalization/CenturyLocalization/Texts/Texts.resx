@@ -117,33 +117,48 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="error_string_not_found" xml:space="preserve">
+    <value>Text not found</value>
+    <comment>Used when a string is not found</comment>
+  </data>
   <data name="unittest_both" xml:space="preserve">
-    <value>Ok_da</value>
-    
+    <value>Ok</value>
+    <comment>IGNORE Used for unit tests</comment>
+  </data>
+  <data name="unittest_onlyen" xml:space="preserve">
+    <value>Ok</value>
+    <comment>IGNORE Used for unit tests</comment>
   </data>
   <data name="ApplicationName" xml:space="preserve">
     <value>Century</value>
+    <comment>Name of the game</comment>
   </data>
   <data name="yes" xml:space="preserve">
-    <value>Ja</value>
+    <value>Yes</value>
   </data>
   <data name="no" xml:space="preserve">
-    <value>Nej</value>
+    <value>No</value>
+  </data>
+  <data name="close" xml:space="preserve">
+    <value>Close</value>
   </data>
   <data name="Newgame" xml:space="preserve">
-    <value>Nyt spil</value>
+    <value>New game</value>
   </data>
   <data name="Continuegame" xml:space="preserve">
-    <value>Fortsæt spil</value>
+    <value>Continue game</value>
+  </data>
+  <data name="loading" xml:space="preserve">
+    <value>Loading...</value>
   </data>
   <data name="sendemail" xml:space="preserve">
     <value>Send e-mail</value>
   </data>
   <data name="changelog" xml:space="preserve">
-    <value>Ændringer</value>
+    <value>Changelog</value>
   </data>
   <data name="feedback" xml:space="preserve">
-    <value>Send kommentar</value>
+    <value>Submit your feedback</value>
   </data>
   <data name="discord" xml:space="preserve">
     <value>Discord</value>
@@ -152,723 +167,744 @@
     <value>Facebook</value>
   </data>
   <data name="discordjoin" xml:space="preserve">
-    <value>Åbn Discord server</value>
+    <value>Join Discord server</value>
   </data>
   <data name="getversion" xml:space="preserve">
-    <value>Finder version</value>
+    <value>Retrieving version</value>
   </data>
   <data name="delete" xml:space="preserve">
-    <value>Slet</value>
+    <value>Delete</value>
   </data>
   <data name="warning" xml:space="preserve">
-    <value>Advarsel</value>
+    <value>Warning</value>
   </data>
   <data name="message_delete_save" xml:space="preserve">
-    <value>Er du sikker på at du vil slette spil?</value>
+    <value>Are you sure you want to delete this saved game?</value>
   </data>
   <data name="Instructions1" xml:space="preserve">
-    <value>Vælg land</value>
+    <value>Select a country</value>
   </data>
   <data name="startdate" xml:space="preserve">
-    <value>Start dato:</value>
+    <value>Start Date:</value>
   </data>
   <data name="enddate" xml:space="preserve">
-    <value>Slut dato:</value>
+    <value>End Date:</value>
   </data>
   <data name="country" xml:space="preserve">
-    <value>Land</value>
+    <value>Country</value>
   </data>
   <data name="rank" xml:space="preserve">
-    <value>Rang</value>
+    <value>Rank</value>
   </data>
   <data name="illiteracy" xml:space="preserve">
-    <value>Analfabetisme:</value>
+    <value>Illiteracy:</value>
   </data>
   <data name="largestreligion" xml:space="preserve">
-    <value>Største religion:</value>
+    <value>Largest religion:</value>
   </data>
   <data name="largestculture" xml:space="preserve">
-    <value>Største kultur:</value>
+    <value>Largest culture:</value>
   </data>
   <data name="army" xml:space="preserve">
-    <value>Hær</value>
+    <value>Army</value>
   </data>
   <data name="soldiers" xml:space="preserve">
-    <value>Soldater</value>
+    <value>Soldiers</value>
   </data>
   <data name="rifles" xml:space="preserve">
-    <value>Rifler:</value>
+    <value>Rifles:</value>
   </data>
   <data name="tanks" xml:space="preserve">
     <value>Tanks:</value>
   </data>
   <data name="navy" xml:space="preserve">
-    <value>Flåde</value>
+    <value>Navy</value>
   </data>
   <data name="sailors" xml:space="preserve">
-    <value>Sømænd</value>
+    <value>Sailors</value>
   </data>
   <data name="smallships" xml:space="preserve">
-    <value>Små skibe:</value>
+    <value>Small ships:</value>
   </data>
   <data name="mediumships" xml:space="preserve">
-    <value>Mellem skibe:</value>
+    <value>Medium ships:</value>
   </data>
   <data name="largeships" xml:space="preserve">
-    <value>Store skibe:</value>
+    <value>Large ships:</value>
   </data>
   <data name="airforce" xml:space="preserve">
-    <value>Luftvåben</value>
+    <value>Air force</value>
   </data>
   <data name="pilots" xml:space="preserve">
-    <value>Piloter</value>
+    <value>Pilots</value>
   </data>
   <data name="fighters" xml:space="preserve">
-    <value>Jagerfly:</value>
+    <value>Fighters:</value>
   </data>
   <data name="bombers" xml:space="preserve">
-    <value>Bomberfly:</value>
+    <value>Bombers:</value>
   </data>
   <data name="start" xml:space="preserve">
     <value>Start</value>
   </data>
   <data name="declarewar" xml:space="preserve">
-    <value>erklære krig</value>
+    <value>Declare war</value>
   </data>
   <data name="poverty" xml:space="preserve">
-    <value>Fattigdom</value>
+    <value>Poverty</value>
   </data>
   <data name="healthcare" xml:space="preserve">
-    <value>Sundhedsdækning</value>
+    <value>Healthcare coverage</value>
   </data>
   <data name="money" xml:space="preserve">
-    <value>Penge</value>
+    <value>Money</value>
   </data>
   <data name="population" xml:space="preserve">
-    <value>Befolkning</value>
+    <value>Population</value>
   </data>
   <data name="area" xml:space="preserve">
-    <value>Areal</value>
+    <value>Area</value>
   </data>
   <data name="infrastructure" xml:space="preserve">
-    <value>Infrastruktur</value>
+    <value>Infrastructure</value>
   </data>
   <data name="infamy" xml:space="preserve">
-    <value>Berygtethed</value>
+    <value>Infamy</value>
   </data>
   <data name="independentsince" xml:space="preserve">
-    <value>Uafhængighedsdato</value>
+    <value>Independent since</value>
   </data>
   <data name="war_level" xml:space="preserve">
-    <value>Krigsniveau</value>
+    <value>War level</value>
   </data>
   <data name="daily_investment" xml:space="preserve">
-    <value>Daglig investering:</value>
+    <value>Daily investment:</value>
   </data>
   <data name="one_time_investment" xml:space="preserve">
-    <value>Engangs investering:</value>
+    <value>One time investment:</value>
   </data>
   <data name="filter_wars" xml:space="preserve">
-    <value>Filtrer krige</value>
+    <value>Filter wars</value>
   </data>
   <data name="war" xml:space="preserve">
-    <value>Krig</value>
+    <value>War</value>
   </data>
   <data name="score" xml:space="preserve">
-    <value>Skore</value>
+    <value>Score</value>
   </data>
   <data name="men_to_equipment" xml:space="preserve">
-    <value>Mænd til udstyr forhold:</value>
+    <value>Men to Equipment ratio:</value>
   </data>
   <data name="extra_equipment" xml:space="preserve">
-    <value>Du har extra udstyr</value>
+    <value>You have extra equipment</value>
   </data>
   <data name="extra_men" xml:space="preserve">
-    <value>Du har mænd uden udstyr</value>
+    <value>You have unequipped men</value>
   </data>
   <data name="army_school" xml:space="preserve">
-    <value>hær skole</value>
+    <value>army school</value>
   </data>
   <data name="army_schools" xml:space="preserve">
-    <value>hær skoler</value>
+    <value>army schools</value>
   </data>
   <data name="navy_school" xml:space="preserve">
-    <value>flåde skole</value>
+    <value>navy school</value>
   </data>
   <data name="navy_schools" xml:space="preserve">
-    <value>flåde skoler</value>
+    <value>navy schools</value>
   </data>
   <data name="air_school" xml:space="preserve">
-    <value>luftvåben skole</value>
+    <value>air force school</value>
   </data>
   <data name="air_schools" xml:space="preserve">
-    <value>luftvåben skoler</value>
+    <value>air force schools</value>
   </data>
   <data name="factory" xml:space="preserve">
-    <value>fabrik</value>
+    <value>factory</value>
   </data>
   <data name="factories" xml:space="preserve">
-    <value>fabriker</value>
+    <value>factories</value>
   </data>
   <data name="dock" xml:space="preserve">
-    <value>Dok</value>
+    <value>dock</value>
   </data>
   <data name="docks" xml:space="preserve">
-    <value>Doker</value>
-  </data>
-  <data name="close" xml:space="preserve">
-    <value>Luk</value>
+    <value>docks</value>
   </data>
   <data name="attackers" xml:space="preserve">
-    <value>Angribere:</value>
+    <value>Attackers:</value>
+    <comment>Plural</comment>
   </data>
   <data name="defenders" xml:space="preserve">
-    <value>Forsvarere:</value>
+    <value>Defenders:</value>
+    <comment>Plural</comment>
   </data>
   <data name="attacker" xml:space="preserve">
-    <value>Angriber:</value>
+    <value>Attacker:</value>
+    <comment>Singular</comment>
   </data>
   <data name="defender" xml:space="preserve">
-    <value>Forsvarer:</value>
+    <value>Defender:</value>
+    <comment>Singular</comment>
   </data>
   <data name="attacker_victory" xml:space="preserve">
-    <value>Angriber sejr</value>
+    <value>Attacker victory</value>
   </data>
   <data name="tie" xml:space="preserve">
-    <value>Uafgjort</value>
+    <value>Tie</value>
   </data>
   <data name="defender_victory" xml:space="preserve">
-    <value>Forsvarer sejr</value>
-  </data>
-  <data name="military_loses" xml:space="preserve">
-    <value>Militær tab:</value>
-  </data>
-  <data name="civilian_loses" xml:space="preserve">
-    <value>Civile tab:</value>
-  </data>
-  <data name="equipment_loses" xml:space="preserve">
-    <value>Udstyr tab:</value>
-  </data>
-  <data name="invest" xml:space="preserve">
-    <value>Investere</value>
-  </data>
-  <data name="facebookjoin" xml:space="preserve">
-    <value>Åbn facebook gruppe</value>
+    <value>Defender victory</value>
   </data>
   <data name="no_longer_exists" xml:space="preserve">
-    <value>Valgt land findes ikke længere</value>
+    <value>Selected country no longer exists</value>
+  </data>
+  <data name="military_loses" xml:space="preserve">
+    <value>Military loses:</value>
+  </data>
+  <data name="civilian_loses" xml:space="preserve">
+    <value>Civilian loses:</value>
+  </data>
+  <data name="equipment_loses" xml:space="preserve">
+    <value>Equipment loses:</value>
   </data>
   <data name="infrastructure_decrease" xml:space="preserve">
-    <value>Infrastruktur tab:</value>
+    <value>Infrastructure loss:</value>
+  </data>
+  <data name="invest" xml:space="preserve">
+    <value>Invest</value>
+  </data>
+  <data name="facebookjoin" xml:space="preserve">
+    <value>Join Facebook group</value>
   </data>
   <data name="world_tension" xml:space="preserve">
-    <value>Verdensspænding</value>
-  </data>
-  <data name="error_string_not_found" xml:space="preserve">
-    <value>Tekst ikke fundet</value>
+    <value>World Tension</value>
   </data>
   <data name="battles" xml:space="preserve">
-    <value>Kampe</value>
+    <value>Battles</value>
   </data>
   <data name="world_war_title" xml:space="preserve">
-    <value>Verden er i krig!</value>
+    <value>The World is at War!</value>
+    <comment>For the news paper event</comment>
   </data>
   <data name="world_war_message" xml:space="preserve">
-    <value>Efter måneder med høje spændinger er stormagterne gået i krig. {war.Name} er begyndt.</value>
+    <value>After months of high tensions, the great powers have gone to war. {war.Name} has started.</value>
+    <comment>For the news paper event</comment>
   </data>
   <data name="new_century_title" xml:space="preserve">
-    <value>Godt nyt århundrede!</value>
+    <value>Happy New Century!</value>
+    <comment>For the news paper event</comment>
   </data>
   <data name="new_century_message" xml:space="preserve">
-    <value>Kære læsere,
-Et nyt århundrede er over os. Vi ønsker jer et godt nytår. Må denne nye tid være fredelig.</value>
+    <value>Dear readers,
+A new century is upon us. We wish you a happy new year. May this new time be peaceful.</value>
+    <comment>For the news paper event</comment>
   </data>
   <data name="new_year_title" xml:space="preserve">
-    <value>Godt nytår!</value>
+    <value>Happy New Year!</value>
+    <comment>For the news paper event</comment>
   </data>
   <data name="new_year_message" xml:space="preserve">
-    <value>Kære læsere,
-Et nyt år er over os. Vi ønsker jer et godt nytår. Må denne nye tid være fredelig.</value>
+    <value>Dear readers,
+A new year is upon us. We wish you a happy new year. May this new time be peaceful.</value>
+    <comment>For the news paper event</comment>
   </data>
   <data name="inconclusive_title" xml:space="preserve">
-    <value>{warToRemove.Name} ender uden konklusion</value>
+    <value>{warToRemove.Name} ends inconclusively</value>
   </data>
   <data name="inconclusive_message" xml:space="preserve">
-    <value>Da et af de involverede lande ikke længere eksisterer, endte {warToRemove.Name} uden konklusion</value>
+    <value>As one of the countries involved no longer exists, {warToRemove.Name} ended inconclusively</value>
   </data>
   <data name="victoria_title" xml:space="preserve">
-    <value>Dronning Victoria død</value>
+    <value>Queen Victoria dead</value>
   </data>
   <data name="victoria_message" xml:space="preserve">
-    <value>Edward VII bliver konge af England og Indien efter dronning Victorias død</value>
+    <value>Edward VII becomes King of England and India after Queen Victoria's death</value>
   </data>
   <data name="defaultwar_title" xml:space="preserve">
-    <value>Krig!</value>
+    <value>War!</value>
   </data>
   <data name="defaultwar_message" xml:space="preserve">
-    <value>{war.Name} er startet mellem {war.Attackers[0].Name} og {war.Defenders[0].Name}.</value>
+    <value>{war.Name} has started between {war.Attackers[0].Name} and {war.Defenders[0].Name}.</value>
   </data>
   <data name="defaultwar_message_infamy" xml:space="preserve">
-    <value>Efter flere aggressioner fra {highInfamyCountry.Name} har {attacker1.Name} og {attacker2.Name} erklæret krig mod den berygtede {highInfamyCountry.Name}.</value>
+    <value>After multiple aggressions from {highInfamyCountry.Name}, {attacker1.Name} and {attacker2.Name} have declared war upon the infamous {highInfamyCountry.Name}.</value>
   </data>
   <data name="policies" xml:space="preserve">
-    <value>Politikker</value>
+    <value>Policies</value>
   </data>
   <data name="foreignPolicy" xml:space="preserve">
-    <value>Udenrigspolitik</value>
+    <value>Foreign Policy</value>
   </data>
   <data name="interventionist" xml:space="preserve">
-    <value>Interventionistisk</value>
+    <value>Interventionist</value>
   </data>
   <data name="isolationist" xml:space="preserve">
-    <value>Isolationistisk</value>
+    <value>Isolationist</value>
   </data>
   <data name="losses" xml:space="preserve">
-    <value>Tab</value>
+    <value>Losses</value>
   </data>
   <data name="military_expenses" xml:space="preserve">
-    <value>Militærudgifter</value>
+    <value>Military expenses</value>
   </data>
   <data name="other" xml:space="preserve">
-    <value>Andet</value>
+    <value>Other</value>
   </data>
   <data name="expenses" xml:space="preserve">
-    <value>Udgifter</value>
+    <value>Expenses</value>
   </data>
   <data name="income" xml:space="preserve">
-    <value>Indkomst</value>
+    <value>Income</value>
   </data>
   <data name="investments" xml:space="preserve">
-    <value>Investeringer</value>
+    <value>Investments</value>
   </data>
   <data name="territory" xml:space="preserve">
-    <value>Territorium</value>
+    <value>Territory</value>
   </data>
   <data name="military" xml:space="preserve">
-    <value>Militær</value>
+    <value>Military</value>
   </data>
   <data name="welfare" xml:space="preserve">
-    <value>Velfærd</value>
+    <value>Welfare</value>
   </data>
   <data name="all_news" xml:space="preserve">
-    <value>Alle nyheder</value>
+    <value>All news</value>
   </data>
   <data name="my_news" xml:space="preserve">
-    <value>Mine nyheder</value>
+    <value>My news</value>
   </data>
   <data name="all_wars" xml:space="preserve">
-    <value>Alle krige</value>
+    <value>All wars</value>
   </data>
   <data name="my_wars" xml:space="preserve">
-    <value>Mine krige</value>
+    <value>My wars</value>
   </data>
   <data name="join_attackers" xml:space="preserve">
-    <value>Deltag med angriberne</value>
+    <value>Join attackers</value>
   </data>
   <data name="join_defenders" xml:space="preserve">
-    <value>Deltag med forsvarerne</value>
+    <value>Join defenders</value>
   </data>
   <data name="foreign_investment" xml:space="preserve">
-    <value>Søg udenlandske investeringer (Belønningsannonce)</value>
+    <value>Seek foreign investment (Reward ad)</value>
   </data>
   <data name="diplomatic_campaign" xml:space="preserve">
-    <value>Diplomatiske kampagne (Belønningsannonce)</value>
+    <value>Diplomatic campaign (Reward ad)</value>
   </data>
   <data name="propaganda_campaign" xml:space="preserve">
-    <value>Propagandakampagne (Belønningsannonce)</value>
+    <value>Propaganda campaign (Reward ad)</value>
   </data>
   <data name="total" xml:space="preserve">
     <value>Total</value>
   </data>
   <data name="years" xml:space="preserve">
-    <value>{0} år</value>
+    <value>{0} years</value>
   </data>
   <data name="months" xml:space="preserve">
-    <value>{0} måneder</value>
+    <value>{0} months</value>
   </data>
   <data name="weeks" xml:space="preserve">
-    <value>{0} uger</value>
+    <value>{0} weeks</value>
   </data>
   <data name="days" xml:space="preserve">
-    <value>{0} dage</value>
+    <value>{0} days</value>
   </data>
   <data name="independence" xml:space="preserve">
-    <value>Uafhængighed</value>
+    <value>Independence</value>
   </data>
   <data name="all_countries" xml:space="preserve">
-    <value>Alle lande</value>
+    <value>All countries</value>
   </data>
   <data name="a_new_nation_rises" xml:space="preserve">
-    <value>En ny nation rejser sig</value>
+    <value>A new nation rises</value>
   </data>
   <data name="incompatible_save_deleted" xml:space="preserve">
-    <value>Uforenelig gem slettet</value>
+    <value>Incompatible save deleted</value>
   </data>
   <data name="gameover_save_deleted" xml:space="preserve">
-    <value>Spillet er slut, gem slettet</value>
+    <value>Game over save deleted</value>
   </data>
   <data name="rank_by_score" xml:space="preserve">
-    <value>Rangér efter point</value>
+    <value>Rank by score</value>
   </data>
   <data name="send_missionaries" xml:space="preserve">
-    <value>Send missionærer</value>
+    <value>Send missionaries</value>
   </data>
   <data name="send_material_volunteers" xml:space="preserve">
-    <value>Send materiel og frivillige</value>
+    <value>Send materiel and volunteers</value>
   </data>
   <data name="none" xml:space="preserve">
-    <value>Ingen</value>
-  </data>
-  <data name="world_tension_description" xml:space="preserve">
-    <value>Repræsenterer det overordnede niveau af frygt og angst, der eksisterer blandt verdens nationer.
-Tallet, der vises, kan være mellem 0 % og 100 %. Det falder naturligt meget langsomt over tid.
-Det øges af flere faktorer, såsom at krige bliver erklæret, og en smule af hver igangværende krig.
-Når verdensspændingen når 100 %, udløses en verdenskrig, og værdien nulstilles.</value>
+    <value>None</value>
   </data>
   <data name="current" xml:space="preserve">
-    <value>Nuværende</value>
+    <value>Current</value>
   </data>
-  <data name="settings" xml:space="preserve">
-    <value>Indstillinger</value>
-  </data>
-  <data name="select_language" xml:space="preserve">
-    <value>Vælg sprog</value>
+  <data name="world_tension_description" xml:space="preserve">
+    <value>Represents the overall level of fear and anxiety that exists among the nations of the World.  
+
+The number displayed can be between 0% and 100%. It naturally decreases very slowly over time. 
+It is increased by several factors such as wars being declared and slightly by each ongoing war. 
+Once the World Tension reaches 100%, a World War is triggered and it resets.
+
+</value>
   </data>
   <data name="started_date" xml:space="preserve">
-    <value>Startet: {0}</value>
+    <value>Started: {0}</value>
   </data>
   <data name="state" xml:space="preserve">
-    <value>Stat</value>
+    <value>State</value>
+    <comment>State employees</comment>
   </data>
   <data name="private" xml:space="preserve">
-    <value>Privat</value>
+    <value>Private</value>
+    <comment>Private sector employees</comment>
   </data>
   <data name="select_game_mode" xml:space="preserve">
-    <value>Vælg spiltilstand</value>
+    <value>Select game mode</value>
   </data>
   <data name="historical" xml:space="preserve">
-    <value>Historisk</value>
+    <value>Historical</value>
   </data>
   <data name="historical_description" xml:space="preserve">
-    <value>Spil gennem en simulation af det 20. århundrede med historiske nationer, krige og begivenheder</value>
+    <value>Play through a simulation of the 20th century, with historical nations, wars and events</value>
   </data>
   <data name="random" xml:space="preserve">
-    <value>Tilfældig</value>
+    <value>Random</value>
   </data>
   <data name="random_description" xml:space="preserve">
-    <value>Spil i en tilfældigt genereret verden med tilfældige lande, krige og begivenheder</value>
+    <value>Play in a randomly generated world with random countries, wars and events</value>
   </data>
   <data name="war_goal_none" xml:space="preserve">
-    <value>Ingen</value>
+    <value>None</value>
   </data>
   <data name="war_goal_economic" xml:space="preserve">
-    <value>Økonomisk</value>
+    <value>Economic</value>
   </data>
   <data name="war_goal_conquer_land" xml:space="preserve">
-    <value>Erobre land</value>
+    <value>Conquer land</value>
   </data>
   <data name="war_goal_annex_country" xml:space="preserve">
-    <value>Annektere land</value>
+    <value>Annex country</value>
   </data>
   <data name="war_goal_join_country" xml:space="preserve">
-    <value>Slutte sig til land</value>
+    <value>Join country</value>
   </data>
   <data name="small_independent_mission" xml:space="preserve">
-    <value>Send lille uafhængig mission</value>
+    <value>Send small independent mission</value>
   </data>
   <data name="large_state_mission" xml:space="preserve">
-    <value>Send stor statssponsoreret mission</value>
+    <value>Send large state sponsored mission</value>
+  </data>
+  <data name="cancel" xml:space="preserve">
+    <value>Cancel</value>
   </data>
   <data name="ok" xml:space="preserve">
     <value>Ok</value>
   </data>
-  <data name="cancel" xml:space="preserve">
-    <value>Annuller</value>
-  </data>
   <data name="difficulty_level" xml:space="preserve">
-    <value>Sværhedsgrad</value>
+    <value>Difficulty level</value>
   </data>
   <data name="easy" xml:space="preserve">
-    <value>Let</value>
+    <value>Easy</value>
   </data>
   <data name="normal" xml:space="preserve">
     <value>Normal</value>
   </data>
   <data name="hard" xml:space="preserve">
-    <value>Svær</value>
+    <value>Hard</value>
   </data>
   <data name="birth_rate_modifier" xml:space="preserve">
-    <value>Modifier for fødselsrate</value>
+    <value>Birth rate modifier</value>
   </data>
   <data name="territory_income_modifier" xml:space="preserve">
-    <value>Modifier for territorieindkomst</value>
+    <value>Territory income modifier</value>
   </data>
   <data name="leaving_game" xml:space="preserve">
-    <value>Du er ved at forlade spillet</value>
+    <value>You are about to leave the game</value>
   </data>
   <data name="end_game" xml:space="preserve">
-    <value>Du har nået slutningen af spillet</value>
+    <value>You have reached the end of the game</value>
   </data>
   <data name="extend_game_prompt" xml:space="preserve">
-    <value>Ønsker du at fortsætte med at spille?</value>
+    <value>Do you wish to continue playing?</value>
   </data>
   <data name="extend_game" xml:space="preserve">
-    <value>Ja, lad mig spille 10 år mere</value>
+    <value>Yes, let me play 10 more years</value>
   </data>
   <data name="dont_extend_game" xml:space="preserve">
-    <value>Nej, før mig til resultaterne</value>
-  </data>
-  <data name="unittest_onlyen" xml:space="preserve">
-    <value>Ok_da</value>
+    <value>No, take me to the results</value>
   </data>
   <data name="send_volunteers" xml:space="preserve">
-    <value>Send frivillige</value>
+    <value>Send volunteers</value>
   </data>
   <data name="send_expeditionary_land_force" xml:space="preserve">
-    <value>Send ekspeditionslandstyrke</value>
+    <value>Send expeditionary land force</value>
   </data>
   <data name="send_land_equipment" xml:space="preserve">
-    <value>Send landudstyr</value>
+    <value>Send land equipment</value>
   </data>
   <data name="send_expeditionary_air_force" xml:space="preserve">
-    <value>Send ekspeditionsluftvåben</value>
+    <value>Send expeditionary air force</value>
   </data>
   <data name="send_air_equipment" xml:space="preserve">
-    <value>Send luftudstyr</value>
+    <value>Send air equipment</value>
   </data>
   <data name="send_economic_help" xml:space="preserve">
-    <value>Send økonomisk hjælp</value>
+    <value>Send economic help</value>
   </data>
   <data name="send" xml:space="preserve">
     <value>Send</value>
   </data>
   <data name="warning_settings_changes" xml:space="preserve">
-    <value>Advarsel! Spillet er designet til at fungere med indstillingerne nedenfor sat til standard. Ændring af dem kan forårsage uventede problemer i spillet</value>
+    <value>Warning! The game is designed to work with the settings below set to default. Changing them can cause unexpected issues in the game</value>
   </data>
   <data name="add_war_goal_button" xml:space="preserve">
-    <value>Tilføj krigsmål</value>
+    <value>Add war goal</value>
   </data>
   <data name="cost_foreign_policy_switch" xml:space="preserve">
-    <value>Pris for at skifte: {0} berygtethed</value>
+    <value>Cost to switch: {0} infamy</value>
   </data>
   <data name="switch_to" xml:space="preserve">
-    <value>Skift til {0}</value>
+    <value>Switch to {0}</value>
   </data>
   <data name="can_get_called_into_wars" xml:space="preserve">
-    <value>• Bliv kaldt ind i krige for at forsvare nye nationer</value>
+    <value>• Get called into wars to defend new nations</value>
   </data>
   <data name="can_get_called_into_world_wars" xml:space="preserve">
-    <value>• Bliv kaldt ind i verdenskrige</value>
+    <value>• Get called into World wars</value>
   </data>
   <data name="can_get_called_into_wars_infamy" xml:space="preserve">
-    <value>• Bliv kaldt ind i krige mod lande med stor berygtethed</value>
+    <value>• Get called into wars against countries with high infamy</value>
   </data>
   <data name="can_declare_war_all" xml:space="preserve">
-    <value>• Kan erklære krig mod enhver nation</value>
+    <value>• Can declare war on any nation</value>
   </data>
   <data name="dont_get_called_into_wars" xml:space="preserve">
-    <value>• Bliv ikke kaldt ind i krige</value>
+    <value>• Don't get called into wars</value>
   </data>
   <data name="can_declare_war_above" xml:space="preserve">
-    <value>• Kan erklære krig mod nationer med berygtethed over {0}</value>
-  </data>
-  <data name="loading" xml:space="preserve">
-    <value>Indlæser...</value>
+    <value>• Can declare war on nations with infamy above {0}</value>
   </data>
   <data name="ratio_more_than_one" xml:space="preserve">
-    <value>Hvis forhold &gt; 1:</value>
+    <value>If ratio &gt; 1:</value>
   </data>
   <data name="ratio_less_than_one" xml:space="preserve">
-    <value>Hvis forholdet &lt; 1:</value>
+    <value>If ratio &lt; 1:</value>
   </data>
   <data name="open_seas" xml:space="preserve">
-    <value>Åbne hav</value>
+    <value>Open seas</value>
   </data>
   <data name="land_battle" xml:space="preserve">
-    <value>Landslag</value>
+    <value>Land battle</value>
   </data>
   <data name="sea_battle" xml:space="preserve">
-    <value>Søslag</value>
+    <value>Sea battle</value>
   </data>
   <data name="air_battle" xml:space="preserve">
-    <value>Luftkamp</value>
+    <value>Air battle</value>
   </data>
   <data name="open_seas_battle" xml:space="preserve">
-    <value>Kamp på åbent hav</value>
+    <value>Open seas battle</value>
   </data>
   <data name="coastal_bombardment" xml:space="preserve">
-    <value>Kystbombardement</value>
+    <value>Coastal bombardment</value>
   </data>
   <data name="naval_blockade" xml:space="preserve">
-    <value>Søblokade</value>
+    <value>Naval blockade</value>
   </data>
   <data name="population_density" xml:space="preserve">
-    <value>populations tæthed</value>
+    <value>Population density</value>
   </data>
   <data name="warning_difficult_war" xml:space="preserve">
-    <value>Mållandet er meget stærkere end dig</value>
+    <value>The target country is much stronger than you</value>
   </data>
   <data name="war_goal_release_country" xml:space="preserve">
-    <value>Frigiv land</value>
+    <value>Release country</value>
   </data>
   <data name="no_ai_war" xml:space="preserve">
-    <value>AI erklærer ikke tilfældige krige (undtagen historiske krige, verdenskrige, berygtethedskrige og uafhængighedskrige) mod den menneskelige spiller</value>
+    <value>AI won't declare random wars (excludes historical wars, world wars, infamy wars and independence wars) on human player</value>
   </data>
   <data name="daily_infamy_decrease_modifier" xml:space="preserve">
-    <value>Daglig berygtethedsreduktionsmodifikator</value>
+    <value>Daily infamy decrease modifier</value>
   </data>
   <data name="daily_warlevel_decrease_modifier" xml:space="preserve">
-    <value>Daglig krigsniveau-reduktionsmodifikator</value>
+    <value>Daily war level decrease modifier</value>
   </data>
   <data name="debt_risk" xml:space="preserve">
-    <value>Din nation har for meget gæld! Du risikerer, at løsrivelsesregioner erklærer uafhængighed!</value>
+    <value>Your nation has too much debt! You are at risk of breakaway regions declaring independence!</value>
   </data>
   <data name="army_expenses_too_high" xml:space="preserve">
-    <value>Din nation bruger et uholdbart beløb af sit budget på hæren</value>
+    <value>Your nation is spending an unsustainable amount of its budget on Army</value>
   </data>
   <data name="navy_expenses_too_high" xml:space="preserve">
-    <value>Din nation bruger et uholdbart beløb af sit budget på flåden</value>
+    <value>Your nation is spending an unsustainable amount of its budget on Navy</value>
   </data>
   <data name="airforce_expenses_too_high" xml:space="preserve">
-    <value>Din nation bruger et uholdbart beløb af sit budget på luftvåbnet</value>
+    <value>Your nation is spending an unsustainable amount of its budget on Airforce</value>
   </data>
   <data name="no_private_population" xml:space="preserve">
-    <value>Din nation er løbet tør for borgere til at rekruttere til de væbnede styrker og militærfabrikker</value>
+    <value>Your nation has run out of citizens to recruit for armed forces and military factories</value>
   </data>
   <data name="war_level_risk" xml:space="preserve">
-    <value>Din nation har for højt krigsniveau! Du risikerer, at løsrivelsesregioner erklærer uafhængighed!</value>
+    <value>Your nation has too high war level! You are at risk of breakaway regions declaring independence!</value>
   </data>
   <data name="worldwar_risk" xml:space="preserve">
-    <value>Din nation har for høj berygtethed! Du risikerer at blive målet for en verdenskrig!</value>
+    <value>Your nation has too high infamy! You are at risk of being the target of a World War!</value>
   </data>
   <data name="high_infamy_war_risk" xml:space="preserve">
-    <value>Din nation har for høj berygtethed! Du risikerer at blive målet for en berygtethedskrig!</value>
+    <value>Your nation has too high infamy! You are at risk of being the target of an infamy war!</value>
   </data>
   <data name="culture_diversity_risk" xml:space="preserve">
-    <value>Din nations hovedkultur er for lille! Du risikerer, at kulturer erklærer uafhængighed!</value>
+    <value>Your nation has too small main culture! You are at risk of cultures declaring independence!</value>
   </data>
   <data name="religious_diversity_risk" xml:space="preserve">
-    <value>Din nations hovedreligion er for lille! Du risikerer, at religioner erklærer uafhængighed!</value>
+    <value>Your nation has too small main religion! You are at risk of religions declaring independence!</value>
   </data>
   <data name="percent_of_daily_income" xml:space="preserve">
-    <value>{0} af daglig indkomst</value>
+    <value>{0} of daily income</value>
+    <comment>{0} is percentage</comment>
   </data>
   <data name="base_infamy_change" xml:space="preserve">
-    <value>Grundlæggende ændring i berygtethed: {0}</value>
-  </data>
-  <data name="target_infamy" xml:space="preserve">
-    <value>Målets berygtethedsniveau: {0}</value>
-  </data>
-  <data name="relationship_with_target" xml:space="preserve">
-    <value>Forhold til målet: {0}</value>
-  </data>
-  <data name="total_infamy_change" xml:space="preserve">
-    <value>Samlet ændring i berygtethed: {0}</value>
-  </data>
-  <data name="only_sea_war" xml:space="preserve">
-    <value>Kun søkrig: {0}</value>
+    <value>Base infamy change: {0}</value>
     <comment>{0} is the value</comment>
   </data>
-  <data name="need_more_army_schools" xml:space="preserve">
-    <value>Overvej at bygge flere hærskoler</value>
+  <data name="target_infamy" xml:space="preserve">
+    <value>Target infamy level: {0}</value>
+    <comment>{0} is the value</comment>
   </data>
-  <data name="consider_reducing_army_schools" xml:space="preserve">
-    <value>Overvej at reducere antallet af hærskoler</value>
+  <data name="relationship_with_target" xml:space="preserve">
+    <value>Relationship with target: {0}</value>
+    <comment>{0} is the value</comment>
   </data>
-  <data name="need_more_navy_schools" xml:space="preserve">
-    <value>Overvej at bygge flere flådeskoler</value>
+  <data name="total_infamy_change" xml:space="preserve">
+    <value>Total infamy change: {0}</value>
+    <comment>{0} is the value</comment>
   </data>
-  <data name="consider_reducing_navy_schools" xml:space="preserve">
-    <value>Overvej at reducere antallet af flådeskoler</value>
-  </data>
-  <data name="need_more_airforce_schools" xml:space="preserve">
-    <value>Overvej at bygge flere luftvåbenskoler</value>
-  </data>
-  <data name="consider_reducing_airforce_schools" xml:space="preserve">
-    <value>Overvej at reducere antallet af luftvåbenskoler</value>
-  </data>
-  <data name="need_more_docks" xml:space="preserve">
-    <value>Overvej at bygge flere doker</value>
-  </data>
-  <data name="consider_reducing_docks" xml:space="preserve">
-    <value>Overvej at reducere antallet af doker</value>
+  <data name="only_sea_war" xml:space="preserve">
+    <value>Only sea war: {0}</value>
+    <comment>{0} is the value</comment>
   </data>
   <data name="need_more_army_equipment_factories" xml:space="preserve">
-    <value>Overvej at bygge flere fabrikker til hærudstyr</value>
+    <value>Consider building more army equipment factories</value>
+  </data>
+  <data name="need_more_docks" xml:space="preserve">
+    <value>Consider building more docks</value>
+  </data>
+  <data name="consider_reducing_army_schools" xml:space="preserve">
+    <value>Consider reducing the number of army schools</value>
+  </data>
+  <data name="need_more_army_schools" xml:space="preserve">
+    <value>Consider building more army schools</value>
   </data>
   <data name="consider_reducing_army_equipment_factories" xml:space="preserve">
-    <value>Overvej at reducere antallet af fabrikker til hærudstyr</value>
+    <value>Consider reducing the number of army equipment factories</value>
+  </data>
+  <data name="consider_reducing_docks" xml:space="preserve">
+    <value>Consider reducing the number of docks</value>
   </data>
   <data name="need_more_airforce_equipment_factories" xml:space="preserve">
-    <value>Overvej at bygge flere fabrikker til luftvåbenudstyr</value>
+    <value>Consider building more air force equipment factories</value>
+  </data>
+  <data name="consider_reducing_navy_schools" xml:space="preserve">
+    <value>Consider reducing the number of navy schools</value>
+  </data>
+  <data name="consider_reducing_airforce_schools" xml:space="preserve">
+    <value>Consider reducing the number of air force schools</value>
+  </data>
+  <data name="need_more_navy_schools" xml:space="preserve">
+    <value>Consider building more navy schools</value>
+  </data>
+  <data name="need_more_airforce_schools" xml:space="preserve">
+    <value>Consider building more air force schools</value>
   </data>
   <data name="consider_reducing_airforce_equipment_factories" xml:space="preserve">
-    <value>Overvej at reducere antallet af fabrikker til luftvåbenudstyr</value>
+    <value>Consider reducing the number of air force equipment factories</value>
   </data>
   <data name="news" xml:space="preserve">
-    <value>Nyheder</value>
+    <value>News</value>
   </data>
   <data name="world" xml:space="preserve">
-    <value>Verden</value>
+    <value>World</value>
   </data>
   <data name="wars" xml:space="preserve">
-    <value>Krige</value>
+    <value>Wars</value>
   </data>
   <data name="policy_changes" xml:space="preserve">
-    <value>Tilgængelige politikændringer: {0}</value>
+    <value>Policy changes available: {0}</value>
+    <comment>Where {0} is the available policy changes / the maximum available policy changes (example: 1/1)</comment>
   </data>
   <data name="daily_increase" xml:space="preserve">
-    <value>Daglig stigning: {0}</value>
+    <value>Daily increase: {0}</value>
+    <comment>Where {0} is the daily increase in available policy changes</comment>
   </data>
   <data name="diplomatic_actions" xml:space="preserve">
-    <value>Tilgængelige diplomatiske handlinger: {0}</value>
+    <value>Diplomatic actions available: {0}</value>
+    <comment>Where {0} is the available diplomatic actions / the maximum available diplomatic actions (example: 1/1)</comment>
   </data>
   <data name="province_dialog_owner" xml:space="preserve">
-    <value>Ejer</value>
+    <value>Owner</value>
+    <comment>Heading above the flag and name of the country that owns the province</comment>
   </data>
   <data name="province_dialog_neighbours" xml:space="preserve">
-    <value>Naboer</value>
+    <value>Neighbours</value>
+    <comment>Heading of the list of the provinces next to this one (flag of the owner and name of each; a tap opens that province)</comment>
   </data>
   <data name="province_dialog_occupier" xml:space="preserve">
-    <value>Besætter</value>
+    <value>Occupier</value>
+    <comment>Heading above the flag and name of the country that occupies the province (or part of it)</comment>
   </data>
   <data name="province_dialog_coastal_length" xml:space="preserve">
-    <value>Kyst {0}</value>
+    <value>Coastal {0}</value>
+    <comment>The province lies on the sea, with the length of its coast; shown beside the coast icon; {0} is the length with its unit, for example 7,300km</comment>
   </data>
   <data name="province_dialog_landlocked" xml:space="preserve">
-    <value>Uden kyst</value>
+    <value>Landlocked</value>
+    <comment>The province has no coast. Shown beside the no-coast icon</comment>
   </data>
   <data name="province_dialog_occupied_percent" xml:space="preserve">
-    <value>Besat {0}%</value>
+    <value>Occupied {0}%</value>
+    <comment>Not shown: what a screen reader says for the bar that shows how much of the province the occupier holds. {0} is a number such as 45.5</comment>
   </data>
   <data name="province_dialog_local_forces" xml:space="preserve">
-    <value>Lokale styrker fra {0}</value>
+    <value>Local forces of {0}</value>
+    <comment>First row of the list of armies in the province: the forces that belong to the province itself, before the armies that came from other provinces. {0} is the name of the province</comment>
   </data>
   <data name="province_dialog_going_home" xml:space="preserve">
-    <value>(på vej hjem)</value>
+    <value>(going home)</value>
+    <comment>After an army in that list that is on its way back to its home province</comment>
   </data>
   <data name="province_dialog_province_number" xml:space="preserve">
-    <value>Provins {0}</value>
+    <value>Province {0}</value>
+    <comment>Name of a province that has no name in the game; {0} is its number. Should not be seen</comment>
   </data>
   <data name="map_layers" xml:space="preserve">
-    <value>Kortlag</value>
+    <value>Map layers</value>
+    <comment>Title of the list of layers that opens from the floating button of the map tab. Also the content description of that button (for screen readers)</comment>
   </data>
   <data name="map_layer_political" xml:space="preserve">
-    <value>Politisk</value>
+    <value>Political</value>
+    <comment>Name of the default layer: every province in the color of its country</comment>
   </data>
   <data name="map_layer_relations" xml:space="preserve">
-    <value>Forhold</value>
+    <value>Relations</value>
+    <comment>Name of the layer that colors every country by its relation to the player&apos;s country (friendly to hostile, with allies and enemies)</comment>
   </data>
   <data name="map_legend_state_religion" xml:space="preserve">
-    <value>Striber: statens religion</value>
+    <value>Stripes: the religion of the state</value>
+    <comment>Line under the legend of the religion layer: provinces are colored by their largest religion, and stripes show the religion of the state that rules them</comment>
   </data>
   <data name="map_legend_your_country" xml:space="preserve">
-    <value>Dit land</value>
+    <value>Your country</value>
+    <comment>Legend line of the Relations layer for the provinces of the player&apos;s own country</comment>
   </data>
   <data name="map" xml:space="preserve">
-    <value>Kort</value>
+    <value>Map</value>
+    <comment>The map tab of the game and the first tab of the screen where the player chooses a country</comment>
   </data>
   <data name="list" xml:space="preserve">
-    <value>Liste</value>
+    <value>List</value>
+    <comment>The second tab of the screen where the player chooses a country (the list of countries)</comment>
   </data>
 </root>

@@ -123,6 +123,17 @@ namespace LocalizationTests
         }
 
         [Fact]
+        public void GettingGameSettingsInEnglishAndFrench()
+        {
+            var local = new Localization();
+
+            Assert.Equal("Settings", local.GetText("settings", new System.Globalization.CultureInfo("en")));
+            Assert.Equal("Sélectionner la langue", local.GetText("select_language", new System.Globalization.CultureInfo("fr")));
+            Assert.Equal("1 semaine", local.GetText("settings_time_1_week", new System.Globalization.CultureInfo("fr")));
+            Assert.Equal("{choice} (Par défaut)", local.GetText("settings_default_choice", new System.Globalization.CultureInfo("fr")));
+        }
+
+        [Fact]
         public void GettingWarnamesAttributes()
         {
             var local = new Localization

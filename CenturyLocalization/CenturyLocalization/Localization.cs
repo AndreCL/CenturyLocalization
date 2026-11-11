@@ -4,6 +4,8 @@ using System.Globalization;
 using System.Linq;
 using System.Resources;
 using System.Runtime.CompilerServices;
+using CenturyLocalization.GameSettings;
+using TextsResources = CenturyLocalization.Texts.Texts;
 
 [assembly: InternalsVisibleTo("LocalizationTests")]
 namespace CenturyLocalization
@@ -24,10 +26,11 @@ namespace CenturyLocalization
         private readonly ResourceManager _allianceNamesManager;
         private readonly ResourceManager _provinceNamesManager;
         private readonly ResourceManager _cultureNamesManager;
+        private readonly ResourceManager _gameSettingsManager;
 
         public Localization()
         {
-            _resourceManager = Texts.ResourceManager;
+            _resourceManager = TextsResources.ResourceManager;
             _countryNamesResourceManager = CountryNames.CountryNames.ResourceManager;
             _actionsResourceManager = Actions.Actions.ResourceManager;
             _populationAttributesManager = PopulationAttributes.PopulationAttributes.ResourceManager;
@@ -39,6 +42,7 @@ namespace CenturyLocalization
             _allianceNamesManager = AllianceNames.AllianceNames.ResourceManager;
             _provinceNamesManager = ProvinceNames.ProvinceNames.ResourceManager;
             _cultureNamesManager = CultureNames.CultureNames.ResourceManager;
+            _gameSettingsManager = GameSettings.GameSettings.ResourceManager;
             CurrentLanguage = CultureInfo.CurrentUICulture;
         }
 
@@ -61,6 +65,7 @@ namespace CenturyLocalization
                 _allianceNamesManager.GetString(name, cultureInfo) ??
                 _provinceNamesManager.GetString(name, cultureInfo) ??
                 _cultureNamesManager.GetString(name, cultureInfo) ??
+                _gameSettingsManager.GetString(name, cultureInfo) ??
                 _resourceManager.GetString("error_string_not_found", cultureInfo);
         }
 

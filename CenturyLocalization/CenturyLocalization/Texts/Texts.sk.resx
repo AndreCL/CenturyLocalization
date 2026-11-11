@@ -118,41 +118,45 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="error_string_not_found" xml:space="preserve">
-    <value>Texto não encontrado</value>
+    <value>Text sa nenašiel</value>
+    <comment>Used when a string is not found</comment>
   </data>
   <data name="unittest_both" xml:space="preserve">
-    <value>Ok_pt-PT</value>
+    <value>Ok_sk</value>
+    <comment>IGNORE Used for unit tests</comment>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="unittest_onlyen" xml:space="preserve">
-    <value>Ok_pt-PT</value>
+    <value>Ok_sk</value>
+    <comment>IGNORE Used for unit tests</comment>
   </data>
   <data name="ApplicationName" xml:space="preserve">
     <value>Century</value>
+    <comment>Name of the game</comment>
   </data>
   <data name="yes" xml:space="preserve">
-    <value>Sim</value>
+    <value>Áno</value>
   </data>
   <data name="no" xml:space="preserve">
-    <value>Não</value>
+    <value>Nie</value>
   </data>
   <data name="close" xml:space="preserve">
-    <value>Fechar</value>
+    <value>Zavrieť</value>
   </data>
   <data name="Newgame" xml:space="preserve">
-    <value>Novo Jogo</value>
+    <value>Nová hra</value>
   </data>
   <data name="Continuegame" xml:space="preserve">
-    <value>Continuar Jogo</value>
+    <value>Pokračovať v hre</value>
   </data>
   <data name="sendemail" xml:space="preserve">
-    <value>Enviar um E-mail</value>
+    <value>Poslať e-mail</value>
   </data>
   <data name="changelog" xml:space="preserve">
-    <value>Registro</value>
+    <value>Zoznam zmien</value>
   </data>
   <data name="feedback" xml:space="preserve">
-    <value>Enviar um comentário</value>
+    <value>Odoslať spätnú väzbu</value>
   </data>
   <data name="discord" xml:space="preserve">
     <value>Discord</value>
@@ -161,711 +165,721 @@
     <value>Facebook</value>
   </data>
   <data name="discordjoin" xml:space="preserve">
-    <value>Entrar no Servidor Discord</value>
+    <value>Pripojiť sa na Discord server</value>
   </data>
   <data name="getversion" xml:space="preserve">
-    <value>Obtendo Versão</value>
+    <value>Zisťovanie verzie</value>
   </data>
   <data name="delete" xml:space="preserve">
-    <value>Apagar</value>
+    <value>Vymazať</value>
   </data>
   <data name="warning" xml:space="preserve">
-    <value>Atenção</value>
+    <value>Upozornenie</value>
   </data>
   <data name="message_delete_save" xml:space="preserve">
-    <value>Tem certeza de que deseja apagar este save?</value>
+    <value>Naozaj chcete vymazať túto uloženú hru?</value>
   </data>
   <data name="Instructions1" xml:space="preserve">
-    <value>Escolha um país</value>
+    <value>Vyberte krajinu</value>
   </data>
   <data name="startdate" xml:space="preserve">
-    <value>Data de Início:</value>
+    <value>Dátum začiatku:</value>
   </data>
   <data name="enddate" xml:space="preserve">
-    <value>Data de Fim:</value>
+    <value>Dátum konca:</value>
   </data>
   <data name="country" xml:space="preserve">
-    <value>Nação</value>
+    <value>Krajina</value>
   </data>
   <data name="rank" xml:space="preserve">
-    <value>Classificação</value>
+    <value>Poradie</value>
   </data>
   <data name="illiteracy" xml:space="preserve">
-    <value>Analfabetismo:</value>
+    <value>Negramotnosť:</value>
   </data>
   <data name="largestreligion" xml:space="preserve">
-    <value>Maior Religião:</value>
+    <value>Najväčšie náboženstvo:</value>
   </data>
   <data name="largestculture" xml:space="preserve">
-    <value>Maior Cultura:</value>
+    <value>Najväčšia kultúra:</value>
   </data>
   <data name="army" xml:space="preserve">
-    <value>Exército</value>
+    <value>Armáda</value>
   </data>
   <data name="soldiers" xml:space="preserve">
-    <value>Soldados</value>
+    <value>Vojaci</value>
   </data>
   <data name="rifles" xml:space="preserve">
-    <value>Fuzis:</value>
+    <value>Pušky:</value>
   </data>
   <data name="tanks" xml:space="preserve">
-    <value>Tanques:</value>
+    <value>Tanky:</value>
   </data>
   <data name="navy" xml:space="preserve">
-    <value>Marinha</value>
+    <value>Námorníctvo</value>
   </data>
   <data name="sailors" xml:space="preserve">
-    <value>Marinheiros</value>
+    <value>Námorníci</value>
   </data>
   <data name="smallships" xml:space="preserve">
-    <value>Corvetas:</value>
+    <value>Malé lode:</value>
   </data>
   <data name="mediumships" xml:space="preserve">
-    <value>Fragatas:</value>
+    <value>Stredné lode:</value>
   </data>
   <data name="largeships" xml:space="preserve">
-    <value>Encouraçados:</value>
+    <value>Veľké lode:</value>
   </data>
   <data name="airforce" xml:space="preserve">
-    <value>Força Aérea</value>
+    <value>Letectvo</value>
   </data>
   <data name="pilots" xml:space="preserve">
-    <value>Pilotos</value>
+    <value>Piloti</value>
   </data>
   <data name="fighters" xml:space="preserve">
-    <value>Caças:</value>
+    <value>Stíhačky:</value>
   </data>
   <data name="bombers" xml:space="preserve">
-    <value>Bombardeiros:</value>
+    <value>Bombardéry:</value>
   </data>
   <data name="start" xml:space="preserve">
-    <value>Começar</value>
+    <value>Začať</value>
   </data>
   <data name="declarewar" xml:space="preserve">
-    <value>Declarar Guerra</value>
+    <value>Vyhlásiť vojnu</value>
   </data>
   <data name="poverty" xml:space="preserve">
-    <value>Pobreza</value>
+    <value>Chudoba</value>
   </data>
   <data name="healthcare" xml:space="preserve">
-    <value>Cobertura de Saúde</value>
+    <value>Zdravotné pokrytie</value>
   </data>
   <data name="money" xml:space="preserve">
-    <value>Dinheiro</value>
+    <value>Peniaze</value>
   </data>
   <data name="population" xml:space="preserve">
-    <value>População</value>
+    <value>Populácia</value>
   </data>
   <data name="area" xml:space="preserve">
-    <value>Área</value>
+    <value>Rozloha</value>
   </data>
   <data name="infrastructure" xml:space="preserve">
-    <value>Infraestrutura</value>
+    <value>Infraštruktúra</value>
   </data>
   <data name="infamy" xml:space="preserve">
-    <value>Infâmia</value>
+    <value>Hanba</value>
   </data>
   <data name="independentsince" xml:space="preserve">
-    <value>Independente desde</value>
+    <value>Nezávislá od</value>
   </data>
   <data name="war_level" xml:space="preserve">
-    <value>Nível de Guerra</value>
+    <value>Úroveň vojny</value>
   </data>
   <data name="daily_investment" xml:space="preserve">
-    <value>Investimento Diário:</value>
+    <value>Denná investícia:</value>
   </data>
   <data name="one_time_investment" xml:space="preserve">
-    <value>Investimento Único:</value>
+    <value>Jednorazová investícia:</value>
   </data>
   <data name="filter_wars" xml:space="preserve">
-    <value>Filtrar Guerras</value>
+    <value>Filtrovať vojny</value>
   </data>
   <data name="war" xml:space="preserve">
-    <value>Guerra</value>
+    <value>Vojna</value>
   </data>
   <data name="score" xml:space="preserve">
-    <value>Pontuação</value>
+    <value>Skóre</value>
   </data>
   <data name="men_to_equipment" xml:space="preserve">
-    <value>Proporção de Homens por Equipamento</value>
+    <value>Pomer mužov k výstroju:</value>
   </data>
   <data name="extra_equipment" xml:space="preserve">
-    <value>Você tem Equipamentos Extra</value>
+    <value>Máte nadbytočnú výstroj</value>
   </data>
   <data name="extra_men" xml:space="preserve">
-    <value>Você tem Homens despreparados.</value>
+    <value>Máte nevyzbrojených mužov</value>
   </data>
   <data name="army_school" xml:space="preserve">
-    <value>Academia Militar</value>
+    <value>vojenská škola</value>
   </data>
   <data name="army_schools" xml:space="preserve">
-    <value>Academias Militares</value>
+    <value>vojenské školy</value>
   </data>
   <data name="navy_school" xml:space="preserve">
-    <value>Escola Naval</value>
+    <value>námorná škola</value>
   </data>
   <data name="navy_schools" xml:space="preserve">
-    <value>Escolas Navais</value>
+    <value>námorné školy</value>
   </data>
   <data name="air_school" xml:space="preserve">
-    <value>Academia da Força Aérea</value>
+    <value>letecká škola</value>
   </data>
   <data name="air_schools" xml:space="preserve">
-    <value>Academias da Força Aérea</value>
+    <value>letecké školy</value>
   </data>
   <data name="factory" xml:space="preserve">
-    <value>Fábrica</value>
+    <value>továreň</value>
   </data>
   <data name="factories" xml:space="preserve">
-    <value>Fábricas</value>
+    <value>továrne</value>
   </data>
   <data name="dock" xml:space="preserve">
-    <value>Estaleiro Militar</value>
+    <value>dok</value>
   </data>
   <data name="docks" xml:space="preserve">
-    <value>Estaleiros Militares</value>
+    <value>doky</value>
   </data>
   <data name="attackers" xml:space="preserve">
-    <value>Agressores:</value>
+    <value>Útočníci:</value>
+    <comment>Plural</comment>
   </data>
   <data name="defenders" xml:space="preserve">
-    <value>Defensores:</value>
+    <value>Obrancovia:</value>
+    <comment>Plural</comment>
   </data>
   <data name="attacker" xml:space="preserve">
-    <value>Agressor:</value>
+    <value>Útočník:</value>
+    <comment>Singular</comment>
   </data>
   <data name="defender" xml:space="preserve">
-    <value>Defensor:</value>
+    <value>Obranca:</value>
+    <comment>Singular</comment>
   </data>
   <data name="attacker_victory" xml:space="preserve">
-    <value>Vitória dos Agressores</value>
+    <value>Víťazstvo útočníka</value>
   </data>
   <data name="tie" xml:space="preserve">
-    <value>Paz Branca</value>
+    <value>Remíza</value>
   </data>
   <data name="defender_victory" xml:space="preserve">
-    <value>Vitória dos Defensores</value>
+    <value>Víťazstvo obrancu</value>
   </data>
   <data name="no_longer_exists" xml:space="preserve">
-    <value>a Nação selecionada não existe mais</value>
+    <value>Vybraná krajina už neexistuje</value>
   </data>
   <data name="military_loses" xml:space="preserve">
-    <value>Baixas:</value>
+    <value>Vojenské straty:</value>
   </data>
   <data name="civilian_loses" xml:space="preserve">
-    <value>Mortes Civis:</value>
+    <value>Civilné straty:</value>
   </data>
   <data name="equipment_loses" xml:space="preserve">
-    <value>Equipamentos destruídos:</value>
+    <value>Straty výstroje:</value>
   </data>
   <data name="infrastructure_decrease" xml:space="preserve">
-    <value>Perda de Infraestrutura:</value>
+    <value>Strata infraštruktúry:</value>
   </data>
   <data name="invest" xml:space="preserve">
-    <value>Investir</value>
+    <value>Investovať</value>
   </data>
   <data name="facebookjoin" xml:space="preserve">
-    <value>Aderir ao grupo do Facebook</value>
+    <value>Pripojiť sa k Facebook skupine</value>
   </data>
   <data name="world_tension" xml:space="preserve">
-    <value>Tensão Global</value>
+    <value>Svetové napätie</value>
   </data>
   <data name="battles" xml:space="preserve">
-    <value>Batalhas</value>
+    <value>Bitky</value>
   </data>
   <data name="world_war_title" xml:space="preserve">
-    <value>Guerra Mundial!</value>
+    <value>Svet je vo vojne!</value>
+    <comment>For the news paper event</comment>
   </data>
   <data name="world_war_message" xml:space="preserve">
-    <value>Após meses de tensão, as Grandes Potências entraram em guerra. {war.Name} Começou.</value>
+    <value>Po mesiacoch vysokého napätia, veľmoci vstúpili do vojny. {war.Name} sa začala.</value>
+    <comment>For the news paper event</comment>
   </data>
   <data name="new_century_title" xml:space="preserve">
-    <value>Feliz Novo Século!</value>
+    <value>Šťastné nové storočie!</value>
+    <comment>For the news paper event</comment>
   </data>
   <data name="new_century_message" xml:space="preserve">
-    <value>Caros Leitores,
-Um novo século chegou. Desejamos a você um feliz novo século. Que este novo tempo seja de paz.</value>
+    <value>Vážení čitatelia,
+Nastáva nové storočie. Prajeme vám šťastný nový rok. Nech je toto nové obdobie pokojné.</value>
+    <comment>For the news paper event</comment>
   </data>
   <data name="new_year_title" xml:space="preserve">
-    <value>Feliz Ano Novo!</value>
+    <value>Šťastný nový rok!</value>
+    <comment>For the news paper event</comment>
   </data>
   <data name="new_year_message" xml:space="preserve">
-    <value>Caros leitores,
-Um novo ano chegou. Desejamos a vocês um feliz ano novo. Que este novo ano seja repleto de paz.</value>
+    <value>Vážení čitatelia,
+Nastáva nový rok. Prajeme vám šťastný nový rok. Nech je toto nové obdobie pokojné.</value>
+    <comment>For the news paper event</comment>
   </data>
   <data name="inconclusive_title" xml:space="preserve">
-    <value>{warToRemove.Name} Terminou de maneira inconclusiva</value>
+    <value>{warToRemove.Name} končí bez jednoznačného výsledku</value>
   </data>
   <data name="inconclusive_message" xml:space="preserve">
-    <value>Como um dos países envolvidos não existe mais, {warToRemove.Name} terminou sem uma conclusão definitiva</value>
+    <value>Keďže jedna zo zúčastnených krajín už neexistuje, {warToRemove.Name} skončila bez jednoznačného výsledku</value>
   </data>
   <data name="victoria_title" xml:space="preserve">
-    <value>a Rainha Vitória está morta.</value>
+    <value>Kráľovná Viktória zomrela</value>
   </data>
   <data name="victoria_message" xml:space="preserve">
-    <value>Eduardo VII de tornou Rei da Inglaterra e da Índia após a morte da Rainha Vitória</value>
+    <value>Edward VII sa stáva kráľom Anglicka a Indie po smrti kráľovnej Viktórie</value>
   </data>
   <data name="defaultwar_title" xml:space="preserve">
-    <value>Guerra!</value>
+    <value>Vojna!</value>
   </data>
   <data name="defaultwar_message" xml:space="preserve">
-    <value>{war.Name} começou entre {war.Attackers[0].Name} e {war.Defenders[0].Name}.</value>
+    <value>{war.Name} sa začala medzi {war.Attackers[0].Name} a {war.Defenders[0].Name}.</value>
   </data>
   <data name="defaultwar_message_infamy" xml:space="preserve">
-    <value>Após múltiplas agressões de {highInfamyCountry.Name}, {attacker1.Name} e {attacker2.Name} declararam guerra ao infame {highInfamyCountry.Name}.</value>
+    <value>Po viacerých agresiách zo strany {highInfamyCountry.Name}, {attacker1.Name} a {attacker2.Name} vyhlásili vojnu neslávne známej {highInfamyCountry.Name}.</value>
   </data>
   <data name="policies" xml:space="preserve">
-    <value>Políticas</value>
+    <value>Taktika</value>
   </data>
   <data name="foreignPolicy" xml:space="preserve">
-    <value>Política Externa</value>
+    <value>Zahraničná politika</value>
   </data>
   <data name="interventionist" xml:space="preserve">
-    <value>Intervencionismo</value>
+    <value>Intervencionistická</value>
   </data>
   <data name="isolationist" xml:space="preserve">
-    <value>Isolacionista</value>
+    <value>Izolacionistická</value>
   </data>
   <data name="losses" xml:space="preserve">
-    <value>Perdas</value>
+    <value>Straty</value>
   </data>
   <data name="military_expenses" xml:space="preserve">
-    <value>Gastos Militares</value>
+    <value>Vojenské výdavky</value>
   </data>
   <data name="other" xml:space="preserve">
-    <value>Outros</value>
+    <value>Iné</value>
   </data>
   <data name="expenses" xml:space="preserve">
-    <value>Gastos</value>
+    <value>Výdavky</value>
   </data>
   <data name="income" xml:space="preserve">
-    <value>Renda</value>
+    <value>Príjem</value>
   </data>
   <data name="investments" xml:space="preserve">
-    <value>Investimentos</value>
+    <value>Investície</value>
   </data>
   <data name="territory" xml:space="preserve">
-    <value>Território</value>
+    <value>Územie</value>
   </data>
   <data name="military" xml:space="preserve">
-    <value>Militar</value>
+    <value>Armáda</value>
   </data>
   <data name="welfare" xml:space="preserve">
-    <value>Bem-estar</value>
+    <value>Sociálna starostlivosť</value>
   </data>
   <data name="all_news" xml:space="preserve">
-    <value>Todas Notícias</value>
+    <value>Všetky správy</value>
   </data>
   <data name="my_news" xml:space="preserve">
-    <value>Minhas Notícias</value>
+    <value>Moje správy</value>
   </data>
   <data name="all_wars" xml:space="preserve">
-    <value>Todas Guerras</value>
+    <value>Všetky vojny</value>
   </data>
   <data name="my_wars" xml:space="preserve">
-    <value>Minhas Guerras</value>
+    <value>Moje vojny</value>
   </data>
   <data name="join_attackers" xml:space="preserve">
-    <value>Aderir aos Atacantes</value>
+    <value>Pripojiť sa k útočníkom</value>
   </data>
   <data name="join_defenders" xml:space="preserve">
-    <value>Aderir aos Defensores</value>
+    <value>Pripojiť sa k obrancom</value>
   </data>
   <data name="foreign_investment" xml:space="preserve">
-    <value>Buscar investimento Estrangeiro (Anúncio com Recompensa)</value>
+    <value>Hľadať zahraničné investície (Odmenová reklama)</value>
   </data>
   <data name="diplomatic_campaign" xml:space="preserve">
-    <value>Campanha Diplomática (Anúncio com Recompensa)</value>
+    <value>Diplomatická kampaň (Odmenová reklama)</value>
   </data>
   <data name="propaganda_campaign" xml:space="preserve">
-    <value>Propaganda Política (Anúncio com Recompensa)</value>
+    <value>Propagandistická kampaň (Odmenová reklama)</value>
   </data>
   <data name="total" xml:space="preserve">
-    <value>Total</value>
+    <value>Celkom</value>
   </data>
   <data name="years" xml:space="preserve">
-    <value>{0} Anos</value>
+    <value>{0} rokov</value>
   </data>
   <data name="months" xml:space="preserve">
-    <value>{0} Meses</value>
+    <value>{0} mesiacov</value>
   </data>
   <data name="weeks" xml:space="preserve">
-    <value>{0} Semanas</value>
+    <value>{0} týždňov</value>
   </data>
   <data name="days" xml:space="preserve">
-    <value>{0} Dias</value>
+    <value>{0} dní</value>
   </data>
   <data name="independence" xml:space="preserve">
-    <value>Independência!</value>
+    <value>Nezávislosť</value>
   </data>
   <data name="all_countries" xml:space="preserve">
-    <value>Todas Nações</value>
+    <value>Všetky krajiny</value>
   </data>
   <data name="a_new_nation_rises" xml:space="preserve">
-    <value>Nasce uma Nação</value>
+    <value>Nový národ povstáva</value>
   </data>
   <data name="incompatible_save_deleted" xml:space="preserve">
-    <value>Save incompatível excluído</value>
+    <value>Nekompatibilná uložená hra vymazaná</value>
   </data>
   <data name="gameover_save_deleted" xml:space="preserve">
-    <value>Save de Fim de Jogo excluído</value>
+    <value>Uložená hra po skončení vymazaná</value>
   </data>
   <data name="rank_by_score" xml:space="preserve">
-    <value>Classificar por Pontuação</value>
+    <value>Poradie podľa skóre</value>
   </data>
   <data name="send_missionaries" xml:space="preserve">
-    <value>Enviar missionários</value>
+    <value>Poslať misionárov</value>
   </data>
   <data name="send_material_volunteers" xml:space="preserve">
-    <value>Enviar material e voluntários</value>
+    <value>Poslať materiál a dobrovoľníkov</value>
   </data>
   <data name="none" xml:space="preserve">
-    <value>Nenhum</value>
+    <value>Žiadne</value>
   </data>
   <data name="current" xml:space="preserve">
-    <value>Atual</value>
+    <value>Aktuálne</value>
   </data>
   <data name="world_tension_description" xml:space="preserve">
-    <value>Representa o nível geral de medo e ansiedade existente entre as nações do mundo. O número exibido pode variar entre 0% e 100%. Ele diminui naturalmente muito lentamente ao longo do tempo. É aumentado por diversos fatores, como a declaração de guerras e, ligeiramente, por cada guerra em andamento. Quando a Tensão Global atinge 100%, uma Guerra Mundial é desencadeada e o indicador é zerado.</value>
-  </data>
-  <data name="settings" xml:space="preserve">
-    <value>Configurações</value>
-  </data>
-  <data name="select_language" xml:space="preserve">
-    <value>Selecionar idioma</value>
+    <value>Predstavuje celkovú úroveň strachu a úzkosti, ktorá existuje medzi národmi sveta.
+
+Zobrazené číslo môže byť medzi 0% a 100%. Prirodzene veľmi pomaly klesá v priebehu času.
+Zvyšuje sa viacerými faktormi, ako je vyhlasovanie vojen a mierne každou prebiehajúcou vojnou.
+Keď svetové napätie dosiahne 100%, spustí sa svetová vojna a resetuje sa.
+
+</value>
   </data>
   <data name="started_date" xml:space="preserve">
-    <value>Iniciado em: {0}</value>
+    <value>Začalo: {0}</value>
   </data>
   <data name="state" xml:space="preserve">
-    <value>Estatal</value>
+    <value>Štátny</value>
   </data>
   <data name="private" xml:space="preserve">
-    <value>Privado</value>
+    <value>Súkromný</value>
   </data>
   <data name="select_game_mode" xml:space="preserve">
-    <value>Selecionar modo de jogo</value>
+    <value>Vyberte herný režim</value>
   </data>
   <data name="historical" xml:space="preserve">
-    <value>Histórico</value>
+    <value>Historický</value>
   </data>
   <data name="historical_description" xml:space="preserve">
-    <value>Jogue uma simulação do século XX com nações, guerras e eventos históricos</value>
+    <value>Hrajte simuláciu 20. storočia s historickými štátmi, vojnami a udalosťami</value>
   </data>
   <data name="random" xml:space="preserve">
-    <value>Aleatório</value>
+    <value>Náhodný</value>
   </data>
   <data name="random_description" xml:space="preserve">
-    <value>Jogue em um mundo gerado aleatoriamente com países, guerras e eventos aleatórios</value>
+    <value>Hrajte v náhodne vygenerovanom svete s náhodnými krajinami, vojnami a udalosťami</value>
   </data>
   <data name="war_goal_none" xml:space="preserve">
-    <value>Nenhum</value>
+    <value>Žiadny</value>
   </data>
   <data name="war_goal_economic" xml:space="preserve">
-    <value>Económico</value>
+    <value>Ekonomický</value>
   </data>
   <data name="war_goal_conquer_land" xml:space="preserve">
-    <value>Conquistar território</value>
+    <value>Dobytie územia</value>
   </data>
   <data name="war_goal_annex_country" xml:space="preserve">
-    <value>Anexar país</value>
+    <value>Anexia krajiny</value>
   </data>
   <data name="war_goal_join_country" xml:space="preserve">
-    <value>Unir‑se a país</value>
+    <value>Pripojenie ku krajine</value>
   </data>
   <data name="small_independent_mission" xml:space="preserve">
-    <value>Enviar pequena missão independente</value>
+    <value>Poslať malú nezávislú misiu</value>
   </data>
   <data name="large_state_mission" xml:space="preserve">
-    <value>Enviar grande missão patrocinada pelo Estado</value>
+    <value>Poslať veľkú štátom sponzorovanú misiu</value>
   </data>
   <data name="cancel" xml:space="preserve">
-    <value>Cancelar</value>
+    <value>Zrušiť</value>
   </data>
   <data name="ok" xml:space="preserve">
     <value>Ok</value>
   </data>
   <data name="difficulty_level" xml:space="preserve">
-    <value>Nível de dificuldade</value>
+    <value>Úroveň obtiažnosti</value>
   </data>
   <data name="easy" xml:space="preserve">
-    <value>Fácil</value>
+    <value>Ľahká</value>
   </data>
   <data name="normal" xml:space="preserve">
-    <value>Normal</value>
+    <value>Normálna</value>
   </data>
   <data name="hard" xml:space="preserve">
-    <value>Difícil</value>
+    <value>Ťažká</value>
   </data>
   <data name="birth_rate_modifier" xml:space="preserve">
-    <value>Modificador da taxa de natalidade</value>
+    <value>Modifikátor pôrodnosti</value>
   </data>
   <data name="territory_income_modifier" xml:space="preserve">
-    <value>Modificador do rendimento do território</value>
+    <value>Modifikátor príjmu územia</value>
   </data>
   <data name="leaving_game" xml:space="preserve">
-    <value>Está prestes a sair do jogo</value>
+    <value>Chystáte sa opustiť hru</value>
   </data>
   <data name="end_game" xml:space="preserve">
-    <value>Chegou ao fim do jogo</value>
+    <value>Dosiahli ste koniec hry</value>
   </data>
   <data name="extend_game_prompt" xml:space="preserve">
-    <value>Deseja continuar a jogar?</value>
+    <value>Chcete pokračovať v hraní?</value>
   </data>
   <data name="extend_game" xml:space="preserve">
-    <value>Sim, deixe-me jogar mais 10 anos</value>
+    <value>Áno, nechajte ma hrať ešte 10 rokov</value>
   </data>
   <data name="dont_extend_game" xml:space="preserve">
-    <value>Não, leve-me para os resultados</value>
+    <value>Nie, prejdite na výsledky</value>
   </data>
   <data name="send_volunteers" xml:space="preserve">
-    <value>Envie voluntários</value>
+    <value>Pošlite dobrovoľníkov</value>
   </data>
   <data name="send_expeditionary_land_force" xml:space="preserve">
-    <value>Enviar força terrestre expedicionária</value>
+    <value>Pošlite expedičné pozemné sily</value>
   </data>
   <data name="send_land_equipment" xml:space="preserve">
-    <value>Enviar equipamento terrestre</value>
+    <value>Pošlite pozemnú techniku</value>
   </data>
   <data name="send_expeditionary_air_force" xml:space="preserve">
-    <value>Enviar força aérea expedicionária</value>
+    <value>Pošlite expedičné letectvo</value>
   </data>
   <data name="send_air_equipment" xml:space="preserve">
-    <value>Enviar equipamento aéreo</value>
+    <value>Pošlite letecké vybavenie</value>
   </data>
   <data name="send_economic_help" xml:space="preserve">
-    <value>Envie ajuda econômica</value>
+    <value>Pošlite ekonomickú pomoc</value>
   </data>
   <data name="send" xml:space="preserve">
-    <value>Enviar</value>
+    <value>Odoslať</value>
   </data>
   <data name="warning_settings_changes" xml:space="preserve">
-    <value>Aviso! O jogo foi projetado para funcionar com as configurações abaixo definidas como padrão. Alterá-los pode causar problemas inesperados no jogo</value>
+    <value>POZOR! Hra je navrhnutá tak, aby fungovala s predvolenými nastaveniami uvedenými nižšie. Ich zmena môže spôsobiť neočakávané problémy v hre</value>
   </data>
   <data name="add_war_goal_button" xml:space="preserve">
-    <value>Adicionar objetivo de guerra</value>
+    <value>Pridajte vojnový cieľ</value>
   </data>
   <data name="cost_foreign_policy_switch" xml:space="preserve">
-    <value>Custo para mudar: {0} infâmia</value>
+    <value>Cena za prechod: {0} hanby</value>
   </data>
   <data name="switch_to" xml:space="preserve">
-    <value>Mudar para {0}</value>
+    <value>Prepnúť na {0}</value>
   </data>
   <data name="can_get_called_into_wars" xml:space="preserve">
-    <value>• Seja chamado para guerras para defender novas nações</value>
+    <value>• Nechajte sa zavolať do vojen na obranu nových národov</value>
   </data>
   <data name="can_get_called_into_world_wars" xml:space="preserve">
-    <value>• Ser convocado para guerras mundiais</value>
+    <value>• Nechajte sa zavolať do svetových vojen</value>
   </data>
   <data name="can_get_called_into_wars_infamy" xml:space="preserve">
-    <value>• Ser chamado para guerras contra países altamente infames</value>
+    <value>• Nechajte sa zavolať do vojen proti krajinám s vysokou hanbou</value>
   </data>
   <data name="can_declare_war_all" xml:space="preserve">
-    <value>• Pode declarar guerra a qualquer nação</value>
+    <value>• Môže vyhlásiť vojnu ktorémukoľvek národu</value>
   </data>
   <data name="dont_get_called_into_wars" xml:space="preserve">
-    <value>• Não seja chamado para guerras</value>
+    <value>• Nenechajte sa zavolať do vojen</value>
   </data>
   <data name="can_declare_war_above" xml:space="preserve">
-    <value>• Pode declarar guerra a nações com infâmia acima de {0}</value>
+    <value>• Môže vyhlásiť vojnu národom s hanbou nad {0}</value>
   </data>
   <data name="loading" xml:space="preserve">
-    <value>Carregando...</value>
+    <value>Načítava sa...</value>
   </data>
   <data name="ratio_more_than_one" xml:space="preserve">
-    <value>Se proporção &gt; 1:</value>
+    <value>Ak pomer &gt; 1:</value>
   </data>
   <data name="ratio_less_than_one" xml:space="preserve">
-    <value>Se proporção &lt;1:</value>
+    <value>Ak pomer &lt; 1:</value>
   </data>
   <data name="open_seas" xml:space="preserve">
-    <value>Mar aberto</value>
+    <value>Otvorené moria</value>
   </data>
   <data name="land_battle" xml:space="preserve">
-    <value>Batalha terrestre</value>
+    <value>Pozemná bitka</value>
   </data>
   <data name="sea_battle" xml:space="preserve">
-    <value>Batalha naval</value>
+    <value>Námorná bitka</value>
   </data>
   <data name="air_battle" xml:space="preserve">
-    <value>Batalha aérea</value>
+    <value>Vzdušná bitka</value>
   </data>
   <data name="open_seas_battle" xml:space="preserve">
-    <value>Batalha em mar aberto</value>
+    <value>Bitka na otvorenom mori</value>
   </data>
   <data name="coastal_bombardment" xml:space="preserve">
-    <value>Bombardeio costeiro</value>
+    <value>Bombardovanie pobrežia</value>
   </data>
   <data name="naval_blockade" xml:space="preserve">
-    <value>Bloqueio naval</value>
+    <value>Námorná blokáda</value>
   </data>
   <data name="population_density" xml:space="preserve">
-    <value>Densidade populacional</value>
+    <value>Hustota zaľudnenia</value>
   </data>
   <data name="warning_difficult_war" xml:space="preserve">
-    <value>O país de destino é muito mais forte do que tu</value>
+    <value>Cieľová krajina je oveľa silnejšia ako vy</value>
   </data>
   <data name="war_goal_release_country" xml:space="preserve">
-    <value>Lançar país</value>
+    <value>Krajina vydania</value>
   </data>
   <data name="no_ai_war" xml:space="preserve">
-    <value>A IA não declarará guerras aleatórias (excluindo guerras históricas, guerras mundiais, guerras de infâmia e guerras de independência) contra o jogador humano</value>
+    <value>UI nebude vyhlasovať náhodné vojny (okrem historických vojen, svetových vojen, vojen o hanbu a vojen za nezávislosť) proti ľudskému hráčovi</value>
   </data>
   <data name="daily_infamy_decrease_modifier" xml:space="preserve">
-    <value>Modificador de redução diária de infâmia</value>
+    <value>Modifikátor denného zníženia hanby</value>
   </data>
   <data name="daily_warlevel_decrease_modifier" xml:space="preserve">
-    <value>Modificador de redução diária do nível de guerra</value>
+    <value>Modifikátor denného zníženia úrovne vojny</value>
   </data>
   <data name="debt_risk" xml:space="preserve">
-    <value>A sua nação tem demasiada dívida! Corre o risco de regiões separatistas declararem independência!</value>
+    <value>Váš národ má priveľký dlh! Hrozí vám, že odštiepenecké regióny vyhlásia nezávislosť!</value>
   </data>
   <data name="army_expenses_too_high" xml:space="preserve">
-    <value>A sua nação está a gastar uma quantia insustentável do seu orçamento com o Exército</value>
+    <value>Váš národ vynakladá neudržateľnú časť svojho rozpočtu na armádu</value>
   </data>
   <data name="navy_expenses_too_high" xml:space="preserve">
-    <value>A sua nação está a gastar uma quantia insustentável do seu orçamento com a Marinha</value>
+    <value>Váš národ vynakladá neudržateľnú časť svojho rozpočtu na námorníctvo</value>
   </data>
   <data name="airforce_expenses_too_high" xml:space="preserve">
-    <value>A sua nação está a gastar uma quantia insustentável do seu orçamento com a Força Aérea</value>
+    <value>Váš národ vynakladá neudržateľnú časť svojho rozpočtu na letectvo</value>
   </data>
   <data name="no_private_population" xml:space="preserve">
-    <value>A sua nação ficou sem cidadãos para recrutar para as forças armadas e fábricas militares</value>
+    <value>Vášmu národu došli občania na nábor do ozbrojených síl a vojenských tovární</value>
   </data>
   <data name="war_level_risk" xml:space="preserve">
-    <value>A sua nação tem um nível de guerra demasiado elevado! Corre o risco de regiões separatistas declararem independência!</value>
+    <value>Váš národ má priveľakú úroveň vojny! Hrozí vám, že odštiepenecké regióny vyhlásia nezávislosť!</value>
   </data>
   <data name="worldwar_risk" xml:space="preserve">
-    <value>A sua nação tem uma infâmia demasiado elevada! Corre o risco de ser alvo de uma Guerra Mundial!</value>
+    <value>Váš národ má priveľkedy vysokú hanbu! Hrozí vám, že sa stánete cieľom svetovej vojny!</value>
   </data>
   <data name="high_infamy_war_risk" xml:space="preserve">
-    <value>A sua nação tem uma infâmia demasiado elevada! Corre o risco de ser alvo de uma guerra de infâmia!</value>
+    <value>Váš národ má priveľkedy vysokú hanbu! Hrozí vám, že sa stánete cieľom vojny za hanbu!</value>
   </data>
   <data name="culture_diversity_risk" xml:space="preserve">
-    <value>A cultura principal da sua nação é demasiado pequena! Corre o risco de culturas declararem independência!</value>
+    <value>Hlavná kultúra vášho národa je priveľa malá! Hrozí vám, že kultúry vyhlásia nezávislosť!</value>
   </data>
   <data name="religious_diversity_risk" xml:space="preserve">
-    <value>A religião principal da sua nação é demasiado pequena! Corre o risco de religiões declararem independência!</value>
+    <value>Hlavné náboženstvo vášho národa je priveľa malé! Hrozí vám, že náboženstvá vyhlásia nezávislosť!</value>
   </data>
   <data name="percent_of_daily_income" xml:space="preserve">
-    <value>{0} do rendimento diário</value>
+    <value>{0} denného príjmu</value>
   </data>
   <data name="base_infamy_change" xml:space="preserve">
-    <value>Alteração base de infâmia: {0}</value>
+    <value>Základná zmena hanby: {0}</value>
   </data>
   <data name="target_infamy" xml:space="preserve">
-    <value>Nível de infâmia do alvo: {0}</value>
+    <value>Úroveň hanby cieľa: {0}</value>
   </data>
   <data name="relationship_with_target" xml:space="preserve">
-    <value>Relação com o alvo: {0}</value>
+    <value>Vzťah s cieľom: {0}</value>
   </data>
   <data name="total_infamy_change" xml:space="preserve">
-    <value>Alteração total de infâmia: {0}</value>
+    <value>Celková zmena hanby: {0}</value>
   </data>
   <data name="only_sea_war" xml:space="preserve">
-    <value>Apenas guerra naval: {0}</value>
+    <value>Iba námorná vojna: {0}</value>
     <comment>{0} is the value</comment>
   </data>
   <data name="need_more_army_schools" xml:space="preserve">
-    <value>Considere construir mais academias militares</value>
+    <value>Zvážte výstavbu ďalších vojenských škôl</value>
   </data>
   <data name="consider_reducing_army_schools" xml:space="preserve">
-    <value>Considere reduzir o número de academias militares</value>
+    <value>Zvážte zníženie počtu vojenských škôl</value>
   </data>
   <data name="need_more_navy_schools" xml:space="preserve">
-    <value>Considere construir mais escolas navais</value>
+    <value>Zvážte výstavbu ďalších námorných škôl</value>
   </data>
   <data name="consider_reducing_navy_schools" xml:space="preserve">
-    <value>Considere reduzir o número de escolas navais</value>
+    <value>Zvážte zníženie počtu námorných škôl</value>
   </data>
   <data name="need_more_airforce_schools" xml:space="preserve">
-    <value>Considere construir mais academias da força aérea</value>
+    <value>Zvážte výstavbu ďalších leteckých škôl</value>
   </data>
   <data name="consider_reducing_airforce_schools" xml:space="preserve">
-    <value>Considere reduzir o número de academias da força aérea</value>
+    <value>Zvážte zníženie počtu leteckých škôl</value>
   </data>
   <data name="need_more_docks" xml:space="preserve">
-    <value>Considere construir mais estaleiros</value>
+    <value>Zvážte výstavbu ďalších dokov</value>
   </data>
   <data name="consider_reducing_docks" xml:space="preserve">
-    <value>Considere reduzir o número de estaleiros</value>
+    <value>Zvážte zníženie počtu dokov</value>
   </data>
   <data name="need_more_army_equipment_factories" xml:space="preserve">
-    <value>Considere construir mais fábricas de equipamento do exército</value>
+    <value>Zvážte výstavbu ďalších tovární na armádne vybavenie</value>
   </data>
   <data name="consider_reducing_army_equipment_factories" xml:space="preserve">
-    <value>Considere reduzir o número de fábricas de equipamento do exército</value>
+    <value>Zvážte zníženie počtu tovární na armádne vybavenie</value>
   </data>
   <data name="need_more_airforce_equipment_factories" xml:space="preserve">
-    <value>Considere construir mais fábricas de equipamento da força aérea</value>
+    <value>Zvážte výstavbu ďalších tovární na letecké vybavenie</value>
   </data>
   <data name="consider_reducing_airforce_equipment_factories" xml:space="preserve">
-    <value>Considere reduzir o número de fábricas de equipamento da força aérea</value>
+    <value>Zvážte zníženie počtu tovární na letecké vybavenie</value>
   </data>
   <data name="news" xml:space="preserve">
-    <value>Notícias</value>
+    <value>Správy</value>
   </data>
   <data name="world" xml:space="preserve">
-    <value>Mundo</value>
+    <value>Svet</value>
   </data>
   <data name="wars" xml:space="preserve">
-    <value>Guerras</value>
+    <value>Vojny</value>
   </data>
   <data name="policy_changes" xml:space="preserve">
-    <value>Alterações de política disponíveis: {0}</value>
+    <value>Dostupné zmeny politiky: {0}</value>
   </data>
   <data name="daily_increase" xml:space="preserve">
-    <value>Aumento diário: {0}</value>
+    <value>Denný prírastok: {0}</value>
   </data>
   <data name="diplomatic_actions" xml:space="preserve">
-    <value>Ações diplomáticas disponíveis: {0}</value>
+    <value>Dostupné diplomatické akcie: {0}</value>
   </data>
   <data name="province_dialog_owner" xml:space="preserve">
-    <value>Proprietário</value>
+    <value>Vlastník</value>
   </data>
   <data name="province_dialog_neighbours" xml:space="preserve">
-    <value>Vizinhos</value>
+    <value>Susedia</value>
   </data>
   <data name="province_dialog_occupier" xml:space="preserve">
-    <value>Ocupante</value>
+    <value>Okupant</value>
   </data>
   <data name="province_dialog_coastal_length" xml:space="preserve">
-    <value>Costa {0}</value>
+    <value>Pobrežie {0}</value>
   </data>
   <data name="province_dialog_landlocked" xml:space="preserve">
-    <value>Sem litoral</value>
+    <value>Bez prístupu k moru</value>
   </data>
   <data name="province_dialog_occupied_percent" xml:space="preserve">
-    <value>Ocupado {0}%</value>
+    <value>Okupované {0}%</value>
   </data>
   <data name="province_dialog_local_forces" xml:space="preserve">
-    <value>Forças locais de {0}</value>
+    <value>Miestne sily {0}</value>
   </data>
   <data name="province_dialog_going_home" xml:space="preserve">
-    <value>(a regressar a casa)</value>
+    <value>(vracia sa domov)</value>
   </data>
   <data name="province_dialog_province_number" xml:space="preserve">
-    <value>Província {0}</value>
+    <value>Provincia {0}</value>
   </data>
   <data name="map_layers" xml:space="preserve">
-    <value>Camadas do mapa</value>
+    <value>Vrstvy mapy</value>
   </data>
   <data name="map_layer_political" xml:space="preserve">
-    <value>Político</value>
+    <value>Politická</value>
   </data>
   <data name="map_layer_relations" xml:space="preserve">
-    <value>Relações</value>
+    <value>Vzťahy</value>
   </data>
   <data name="map_legend_state_religion" xml:space="preserve">
-    <value>Riscas: a religião do estado</value>
+    <value>Pruhy: náboženstvo štátu</value>
   </data>
   <data name="map_legend_your_country" xml:space="preserve">
-    <value>O seu país</value>
+    <value>Vaša krajina</value>
   </data>
   <data name="map" xml:space="preserve">
     <value>Mapa</value>
   </data>
   <data name="list" xml:space="preserve">
-    <value>Lista</value>
+    <value>Zoznam</value>
   </data>
 </root>

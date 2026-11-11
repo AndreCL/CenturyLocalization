@@ -118,39 +118,41 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="error_string_not_found" xml:space="preserve">
-    <value>Texto no encontrado</value>
-    
+    <value>Texto não encontrado</value>
   </data>
   <data name="unittest_both" xml:space="preserve">
-    <value>Ok_es</value>
-    
+    <value>Ok_pt-PT</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="unittest_onlyen" xml:space="preserve">
+    <value>Ok_pt-PT</value>
   </data>
   <data name="ApplicationName" xml:space="preserve">
     <value>Century</value>
   </data>
   <data name="yes" xml:space="preserve">
-    <value>Si</value>
+    <value>Sim</value>
   </data>
   <data name="no" xml:space="preserve">
-    <value>No</value>
+    <value>Não</value>
   </data>
   <data name="close" xml:space="preserve">
-    <value>Cerrar</value>
+    <value>Fechar</value>
   </data>
   <data name="Newgame" xml:space="preserve">
-    <value>Nuevo juego</value>
+    <value>Novo Jogo</value>
   </data>
   <data name="Continuegame" xml:space="preserve">
-    <value>Continuar juego</value>
+    <value>Continuar Jogo</value>
   </data>
   <data name="sendemail" xml:space="preserve">
-    <value>Mandar correo electrónico</value>
+    <value>Enviar um E-mail</value>
   </data>
   <data name="changelog" xml:space="preserve">
-    <value>Cambios</value>
+    <value>Registro</value>
   </data>
   <data name="feedback" xml:space="preserve">
-    <value>Enviar comentario</value>
+    <value>Enviar um comentário</value>
   </data>
   <data name="discord" xml:space="preserve">
     <value>Discord</value>
@@ -159,384 +161,375 @@
     <value>Facebook</value>
   </data>
   <data name="discordjoin" xml:space="preserve">
-    <value>Ingresar a servidor de Discord</value>
+    <value>Entrar no Servidor Discord</value>
   </data>
   <data name="getversion" xml:space="preserve">
-    <value>Cargando versión</value>
+    <value>Obtendo Versão</value>
   </data>
   <data name="delete" xml:space="preserve">
-    <value>Eliminar</value>
+    <value>Apagar</value>
   </data>
   <data name="warning" xml:space="preserve">
-    <value>Advertencia</value>
+    <value>Atenção</value>
   </data>
   <data name="message_delete_save" xml:space="preserve">
-    <value>¿Seguro que deseas eliminar esta partida?</value>
+    <value>Tem certeza de que deseja apagar este save?</value>
   </data>
   <data name="Instructions1" xml:space="preserve">
-    <value>Seleccionar nación</value>
+    <value>Escolha um país</value>
   </data>
   <data name="startdate" xml:space="preserve">
-    <value>Fecha de inicio:</value>
+    <value>Data de Início:</value>
   </data>
   <data name="enddate" xml:space="preserve">
-    <value>Fecha de fin:</value>
+    <value>Data de Fim:</value>
   </data>
   <data name="country" xml:space="preserve">
-    <value>País</value>
+    <value>Nação</value>
   </data>
   <data name="rank" xml:space="preserve">
-    <value>Rango</value>
+    <value>Classificação</value>
   </data>
   <data name="illiteracy" xml:space="preserve">
     <value>Analfabetismo:</value>
   </data>
   <data name="largestreligion" xml:space="preserve">
-    <value>Religión:</value>
+    <value>Maior Religião:</value>
   </data>
   <data name="largestculture" xml:space="preserve">
-    <value>Cultura:</value>
+    <value>Maior Cultura:</value>
   </data>
   <data name="army" xml:space="preserve">
-    <value>Ejército</value>
+    <value>Exército</value>
   </data>
   <data name="soldiers" xml:space="preserve">
     <value>Soldados</value>
   </data>
   <data name="rifles" xml:space="preserve">
-    <value>Rifles:</value>
+    <value>Fuzis:</value>
   </data>
   <data name="tanks" xml:space="preserve">
     <value>Tanques:</value>
   </data>
   <data name="navy" xml:space="preserve">
-    <value>Marina</value>
+    <value>Marinha</value>
   </data>
   <data name="sailors" xml:space="preserve">
-    <value>Marineros</value>
+    <value>Marinheiros</value>
   </data>
   <data name="smallships" xml:space="preserve">
-    <value>Barcos pequeños:</value>
+    <value>Corvetas:</value>
   </data>
   <data name="mediumships" xml:space="preserve">
-    <value>Barcos medianos:</value>
+    <value>Fragatas:</value>
   </data>
   <data name="largeships" xml:space="preserve">
-    <value>Barcos grandes:</value>
+    <value>Encouraçados:</value>
   </data>
   <data name="airforce" xml:space="preserve">
-    <value>Fuerza aérea</value>
+    <value>Força Aérea</value>
   </data>
   <data name="pilots" xml:space="preserve">
     <value>Pilotos</value>
   </data>
   <data name="fighters" xml:space="preserve">
-    <value>Cazas:</value>
+    <value>Caças:</value>
   </data>
   <data name="bombers" xml:space="preserve">
-    <value>Bombarderos:</value>
+    <value>Bombardeiros:</value>
   </data>
   <data name="start" xml:space="preserve">
-    <value>Iniciar</value>
+    <value>Começar</value>
   </data>
   <data name="declarewar" xml:space="preserve">
-    <value>Declarar guerra</value>
+    <value>Declarar Guerra</value>
   </data>
   <data name="poverty" xml:space="preserve">
     <value>Pobreza</value>
   </data>
   <data name="healthcare" xml:space="preserve">
-    <value>Cobertura sanitaria</value>
+    <value>Cobertura de Saúde</value>
   </data>
   <data name="money" xml:space="preserve">
-    <value>Dinero</value>
+    <value>Dinheiro</value>
   </data>
   <data name="population" xml:space="preserve">
-    <value>Población</value>
+    <value>População</value>
   </data>
   <data name="area" xml:space="preserve">
-    <value>Area</value>
+    <value>Área</value>
   </data>
   <data name="infrastructure" xml:space="preserve">
-    <value>Infraestructura</value>
+    <value>Infraestrutura</value>
   </data>
   <data name="infamy" xml:space="preserve">
-    <value>Infamia</value>
+    <value>Infâmia</value>
   </data>
   <data name="independentsince" xml:space="preserve">
-    <value>Fecha de independencia</value>
+    <value>Independente desde</value>
   </data>
   <data name="war_level" xml:space="preserve">
-    <value>Nivel de guerra</value>
+    <value>Nível de Guerra</value>
   </data>
   <data name="daily_investment" xml:space="preserve">
-    <value>Inversión diaria:</value>
+    <value>Investimento Diário:</value>
   </data>
   <data name="one_time_investment" xml:space="preserve">
-    <value>Inversión única:</value>
+    <value>Investimento Único:</value>
   </data>
   <data name="filter_wars" xml:space="preserve">
-    <value>Filtrar guerras</value>
+    <value>Filtrar Guerras</value>
   </data>
   <data name="war" xml:space="preserve">
     <value>Guerra</value>
   </data>
   <data name="score" xml:space="preserve">
-    <value>Puntuación</value>
+    <value>Pontuação</value>
   </data>
   <data name="men_to_equipment" xml:space="preserve">
-    <value>Relación hombres a equipo:</value>
+    <value>Proporção de Homens por Equipamento</value>
   </data>
   <data name="extra_equipment" xml:space="preserve">
-    <value>Tienes equipo extra</value>
+    <value>Você tem Equipamentos Extra</value>
   </data>
   <data name="extra_men" xml:space="preserve">
-    <value>Tienes hombres sin equipo</value>
+    <value>Você tem Homens despreparados.</value>
   </data>
   <data name="army_school" xml:space="preserve">
-    <value>escuela del ejército</value>
+    <value>Academia Militar</value>
   </data>
   <data name="army_schools" xml:space="preserve">
-    <value>escuelas del ejército</value>
+    <value>Academias Militares</value>
   </data>
   <data name="navy_school" xml:space="preserve">
-    <value>escuela naval</value>
+    <value>Escola Naval</value>
   </data>
   <data name="navy_schools" xml:space="preserve">
-    <value>escuelas navales</value>
+    <value>Escolas Navais</value>
   </data>
   <data name="air_school" xml:space="preserve">
-    <value>escuela de la fuerza aérea</value>
+    <value>Academia da Força Aérea</value>
   </data>
   <data name="air_schools" xml:space="preserve">
-    <value>escuelas de la fuerza aérea</value>
+    <value>Academias da Força Aérea</value>
   </data>
   <data name="factory" xml:space="preserve">
-    <value>fábrica</value>
+    <value>Fábrica</value>
   </data>
   <data name="factories" xml:space="preserve">
-    <value>fábricas</value>
+    <value>Fábricas</value>
   </data>
   <data name="dock" xml:space="preserve">
-    <value>muelle</value>
+    <value>Estaleiro Militar</value>
   </data>
   <data name="docks" xml:space="preserve">
-    <value>muelles</value>
+    <value>Estaleiros Militares</value>
   </data>
   <data name="attackers" xml:space="preserve">
-    <value>Atacantes:</value>
+    <value>Agressores:</value>
   </data>
   <data name="defenders" xml:space="preserve">
     <value>Defensores:</value>
   </data>
   <data name="attacker" xml:space="preserve">
-    <value>Atacante:</value>
+    <value>Agressor:</value>
   </data>
   <data name="defender" xml:space="preserve">
     <value>Defensor:</value>
   </data>
   <data name="attacker_victory" xml:space="preserve">
-    <value>Atacante victorioso</value>
+    <value>Vitória dos Agressores</value>
   </data>
   <data name="tie" xml:space="preserve">
-    <value>Empate</value>
+    <value>Paz Branca</value>
   </data>
   <data name="defender_victory" xml:space="preserve">
-    <value>Defensor victorioso</value>
-  </data>
-  <data name="military_loses" xml:space="preserve">
-    <value>Perdidas militares:</value>
-  </data>
-  <data name="civilian_loses" xml:space="preserve">
-    <value>Perdidas civiles:</value>
-  </data>
-  <data name="equipment_loses" xml:space="preserve">
-    <value>Perdidas de equipos:</value>
-  </data>
-  <data name="invest" xml:space="preserve">
-    <value>Invertir</value>
-  </data>
-  <data name="facebookjoin" xml:space="preserve">
-    <value>Abrir grupo de facebook</value>
+    <value>Vitória dos Defensores</value>
   </data>
   <data name="no_longer_exists" xml:space="preserve">
-    <value>País seleccionado y ano existe</value>
+    <value>a Nação selecionada não existe mais</value>
+  </data>
+  <data name="military_loses" xml:space="preserve">
+    <value>Baixas:</value>
+  </data>
+  <data name="civilian_loses" xml:space="preserve">
+    <value>Mortes Civis:</value>
+  </data>
+  <data name="equipment_loses" xml:space="preserve">
+    <value>Equipamentos destruídos:</value>
   </data>
   <data name="infrastructure_decrease" xml:space="preserve">
-    <value>Perdida de infraestructura:</value>
+    <value>Perda de Infraestrutura:</value>
+  </data>
+  <data name="invest" xml:space="preserve">
+    <value>Investir</value>
+  </data>
+  <data name="facebookjoin" xml:space="preserve">
+    <value>Aderir ao grupo do Facebook</value>
   </data>
   <data name="world_tension" xml:space="preserve">
-    <value>Tensión mundial</value>
+    <value>Tensão Global</value>
   </data>
   <data name="battles" xml:space="preserve">
-    <value>Batallas</value>
+    <value>Batalhas</value>
   </data>
   <data name="world_war_title" xml:space="preserve">
-    <value>¡El mundo está en guerra!</value>
+    <value>Guerra Mundial!</value>
   </data>
   <data name="world_war_message" xml:space="preserve">
-    <value>Después de meses de altas tensiones, las grandes potencias han ido a la guerra. {war.Name} ha comenzado.</value>
+    <value>Após meses de tensão, as Grandes Potências entraram em guerra. {war.Name} Começou.</value>
   </data>
   <data name="new_century_title" xml:space="preserve">
-    <value>¡Feliz nuevo siglo!</value>
+    <value>Feliz Novo Século!</value>
   </data>
   <data name="new_century_message" xml:space="preserve">
-    <value>Queridos lectores,
-Un nuevo siglo está sobre nosotros. Les deseamos un feliz año nuevo. Que este nuevo tiempo sea pacífico.</value>
+    <value>Caros Leitores,
+Um novo século chegou. Desejamos a você um feliz novo século. Que este novo tempo seja de paz.</value>
   </data>
   <data name="new_year_title" xml:space="preserve">
-    <value>¡Feliz Año Nuevo!</value>
+    <value>Feliz Ano Novo!</value>
   </data>
   <data name="new_year_message" xml:space="preserve">
-    <value>Queridos lectores,
-Un nuevo año está sobre nosotros. Les deseamos un feliz año nuevo. Que este nuevo tiempo sea pacífico.</value>
+    <value>Caros leitores,
+Um novo ano chegou. Desejamos a vocês um feliz ano novo. Que este novo ano seja repleto de paz.</value>
   </data>
   <data name="inconclusive_title" xml:space="preserve">
-    <value>{warToRemove.Name} termina inconclusa</value>
+    <value>{warToRemove.Name} Terminou de maneira inconclusiva</value>
   </data>
   <data name="inconclusive_message" xml:space="preserve">
-    <value>Como uno de los países involucrados ya no existe, {warToRemove.Name} terminó inconclusa</value>
+    <value>Como um dos países envolvidos não existe mais, {warToRemove.Name} terminou sem uma conclusão definitiva</value>
   </data>
   <data name="victoria_title" xml:space="preserve">
-    <value>Muere la Reina Victoria</value>
+    <value>a Rainha Vitória está morta.</value>
   </data>
   <data name="victoria_message" xml:space="preserve">
-    <value>Eduardo el VII se convierte en rey de Inglaterra e India tras la muerte de la reina Victoria</value>
+    <value>Eduardo VII de tornou Rei da Inglaterra e da Índia após a morte da Rainha Vitória</value>
   </data>
   <data name="defaultwar_title" xml:space="preserve">
-    <value>¡Guerra!</value>
+    <value>Guerra!</value>
   </data>
   <data name="defaultwar_message" xml:space="preserve">
-    <value>{war.Name} ha comenzado entre {war.Attackers[0].Name} y {war.Defenders[0].Name}.</value>
+    <value>{war.Name} começou entre {war.Attackers[0].Name} e {war.Defenders[0].Name}.</value>
   </data>
   <data name="defaultwar_message_infamy" xml:space="preserve">
-    <value>Después de múltiples agresiones de {highInfamyCountry.Name}, {attacker1.Name} y {attacker2.Name} han declarado la guerra a la infame {highInfamyCountry.Name}.</value>
+    <value>Após múltiplas agressões de {highInfamyCountry.Name}, {attacker1.Name} e {attacker2.Name} declararam guerra ao infame {highInfamyCountry.Name}.</value>
   </data>
   <data name="policies" xml:space="preserve">
     <value>Políticas</value>
   </data>
   <data name="foreignPolicy" xml:space="preserve">
-    <value>Política exterior</value>
+    <value>Política Externa</value>
   </data>
   <data name="interventionist" xml:space="preserve">
-    <value>Intervencionista</value>
+    <value>Intervencionismo</value>
   </data>
   <data name="isolationist" xml:space="preserve">
-    <value>Aislacionista</value>
+    <value>Isolacionista</value>
   </data>
   <data name="losses" xml:space="preserve">
-    <value>Pérdidas</value>
+    <value>Perdas</value>
   </data>
   <data name="military_expenses" xml:space="preserve">
-    <value>Gastos militares</value>
+    <value>Gastos Militares</value>
   </data>
   <data name="other" xml:space="preserve">
-    <value>Otros</value>
+    <value>Outros</value>
   </data>
   <data name="expenses" xml:space="preserve">
     <value>Gastos</value>
   </data>
   <data name="income" xml:space="preserve">
-    <value>Ingresos</value>
+    <value>Renda</value>
   </data>
   <data name="investments" xml:space="preserve">
-    <value>Inversiones</value>
+    <value>Investimentos</value>
   </data>
   <data name="territory" xml:space="preserve">
-    <value>Territorio</value>
+    <value>Território</value>
   </data>
   <data name="military" xml:space="preserve">
     <value>Militar</value>
   </data>
   <data name="welfare" xml:space="preserve">
-    <value>Bienestar</value>
+    <value>Bem-estar</value>
   </data>
   <data name="all_news" xml:space="preserve">
-    <value>Todas las noticias</value>
+    <value>Todas Notícias</value>
   </data>
   <data name="my_news" xml:space="preserve">
-    <value>Mis noticias</value>
+    <value>Minhas Notícias</value>
   </data>
   <data name="all_wars" xml:space="preserve">
-    <value>Todas las guerras</value>
+    <value>Todas Guerras</value>
   </data>
   <data name="my_wars" xml:space="preserve">
-    <value>Mis guerras</value>
+    <value>Minhas Guerras</value>
   </data>
   <data name="join_attackers" xml:space="preserve">
-    <value>Únete a los atacantes</value>
+    <value>Aderir aos Atacantes</value>
   </data>
   <data name="join_defenders" xml:space="preserve">
-    <value>Únete a los defensores</value>
+    <value>Aderir aos Defensores</value>
   </data>
   <data name="foreign_investment" xml:space="preserve">
-    <value>Buscar inversión extranjera (Anuncio de recompensa)</value>
+    <value>Buscar investimento Estrangeiro (Anúncio com Recompensa)</value>
   </data>
   <data name="diplomatic_campaign" xml:space="preserve">
-    <value>Campaña diplomática (Anuncio de recompensa)</value>
+    <value>Campanha Diplomática (Anúncio com Recompensa)</value>
   </data>
   <data name="propaganda_campaign" xml:space="preserve">
-    <value>Campaña de propaganda (Anuncio de recompensa)</value>
+    <value>Propaganda Política (Anúncio com Recompensa)</value>
   </data>
   <data name="total" xml:space="preserve">
     <value>Total</value>
   </data>
   <data name="years" xml:space="preserve">
-    <value>{0} años</value>
+    <value>{0} Anos</value>
   </data>
   <data name="months" xml:space="preserve">
-    <value>{0} meses</value>
+    <value>{0} Meses</value>
   </data>
   <data name="weeks" xml:space="preserve">
-    <value>{0} semanas</value>
+    <value>{0} Semanas</value>
   </data>
   <data name="days" xml:space="preserve">
-    <value>{0} días</value>
+    <value>{0} Dias</value>
   </data>
   <data name="independence" xml:space="preserve">
-    <value>Independencia</value>
+    <value>Independência!</value>
   </data>
   <data name="all_countries" xml:space="preserve">
-    <value>Todos los países</value>
+    <value>Todas Nações</value>
   </data>
   <data name="a_new_nation_rises" xml:space="preserve">
-    <value>Nace una nueva nación</value>
+    <value>Nasce uma Nação</value>
   </data>
   <data name="incompatible_save_deleted" xml:space="preserve">
-    <value>Guardado incompatible eliminado</value>
+    <value>Save incompatível excluído</value>
   </data>
   <data name="gameover_save_deleted" xml:space="preserve">
-    <value>Fin del juego, guardado eliminado</value>
+    <value>Save de Fim de Jogo excluído</value>
   </data>
   <data name="rank_by_score" xml:space="preserve">
-    <value>Clasificar por puntuación</value>
+    <value>Classificar por Pontuação</value>
   </data>
   <data name="send_missionaries" xml:space="preserve">
-    <value>Enviar misioneros</value>
+    <value>Enviar missionários</value>
   </data>
   <data name="send_material_volunteers" xml:space="preserve">
-    <value>Enviar material y voluntarios</value>
+    <value>Enviar material e voluntários</value>
   </data>
   <data name="none" xml:space="preserve">
-    <value>Ninguno</value>
+    <value>Nenhum</value>
   </data>
   <data name="current" xml:space="preserve">
-    <value>Actual</value>
+    <value>Atual</value>
   </data>
   <data name="world_tension_description" xml:space="preserve">
-    <value>Representa el nivel general de miedo y ansiedad que existe entre las naciones del mundo.
-El número mostrado puede estar entre 0 % y 100 %. Disminuye naturalmente muy lentamente con el tiempo.
-Aumenta por varios factores, como la declaración de guerras, y ligeramente por cada guerra en curso.
-Una vez que la tensión mundial alcanza el 100 %, se desencadena una guerra mundial y se reinicia.</value>
-  </data>
-  <data name="settings" xml:space="preserve">
-    <value>Configuración</value>
-  </data>
-  <data name="select_language" xml:space="preserve">
-    <value>Seleccionar idioma</value>
+    <value>Representa o nível geral de medo e ansiedade existente entre as nações do mundo. O número exibido pode variar entre 0% e 100%. Ele diminui naturalmente muito lentamente ao longo do tempo. É aumentado por diversos fatores, como a declaração de guerras e, ligeiramente, por cada guerra em andamento. Quando a Tensão Global atinge 100%, uma Guerra Mundial é desencadeada e o indicador é zerado.</value>
   </data>
   <data name="started_date" xml:space="preserve">
-    <value>Iniciado: {0}</value>
+    <value>Iniciado em: {0}</value>
   </data>
   <data name="state" xml:space="preserve">
     <value>Estatal</value>
@@ -545,49 +538,49 @@ Una vez que la tensión mundial alcanza el 100 %, se desencadena una guerra mund
     <value>Privado</value>
   </data>
   <data name="select_game_mode" xml:space="preserve">
-    <value>Seleccionar modo de juego</value>
+    <value>Selecionar modo de jogo</value>
   </data>
   <data name="historical" xml:space="preserve">
     <value>Histórico</value>
   </data>
   <data name="historical_description" xml:space="preserve">
-    <value>Juega una simulación del siglo XX con naciones, guerras y eventos históricos</value>
+    <value>Jogue uma simulação do século XX com nações, guerras e eventos históricos</value>
   </data>
   <data name="random" xml:space="preserve">
-    <value>Aleatorio</value>
+    <value>Aleatório</value>
   </data>
   <data name="random_description" xml:space="preserve">
-    <value>Juega en un mundo generado aleatoriamente con países, guerras y eventos aleatorios</value>
+    <value>Jogue em um mundo gerado aleatoriamente com países, guerras e eventos aleatórios</value>
   </data>
   <data name="war_goal_none" xml:space="preserve">
-    <value>Ninguno</value>
+    <value>Nenhum</value>
   </data>
   <data name="war_goal_economic" xml:space="preserve">
     <value>Económico</value>
   </data>
   <data name="war_goal_conquer_land" xml:space="preserve">
-    <value>Conquistar territorio</value>
+    <value>Conquistar território</value>
   </data>
   <data name="war_goal_annex_country" xml:space="preserve">
     <value>Anexar país</value>
   </data>
   <data name="war_goal_join_country" xml:space="preserve">
-    <value>Unirse al país</value>
+    <value>Unir‑se a país</value>
   </data>
   <data name="small_independent_mission" xml:space="preserve">
-    <value>Enviar pequeña misión independiente</value>
+    <value>Enviar pequena missão independente</value>
   </data>
   <data name="large_state_mission" xml:space="preserve">
-    <value>Enviar gran misión patrocinada por el Estado</value>
-  </data>
-  <data name="ok" xml:space="preserve">
-    <value>Aceptar</value>
+    <value>Enviar grande missão patrocinada pelo Estado</value>
   </data>
   <data name="cancel" xml:space="preserve">
     <value>Cancelar</value>
   </data>
+  <data name="ok" xml:space="preserve">
+    <value>Ok</value>
+  </data>
   <data name="difficulty_level" xml:space="preserve">
-    <value>Nivel de dificultad</value>
+    <value>Nível de dificuldade</value>
   </data>
   <data name="easy" xml:space="preserve">
     <value>Fácil</value>
@@ -599,215 +592,212 @@ Una vez que la tensión mundial alcanza el 100 %, se desencadena una guerra mund
     <value>Difícil</value>
   </data>
   <data name="birth_rate_modifier" xml:space="preserve">
-    <value>Modificador de la tasa de natalidad</value>
+    <value>Modificador da taxa de natalidade</value>
   </data>
   <data name="territory_income_modifier" xml:space="preserve">
-    <value>Modificador de ingresos del territorio</value>
+    <value>Modificador do rendimento do território</value>
   </data>
   <data name="leaving_game" xml:space="preserve">
-    <value>Estás a punto de salir del juego</value>
+    <value>Está prestes a sair do jogo</value>
   </data>
   <data name="end_game" xml:space="preserve">
-    <value>Has llegado al final del juego</value>
+    <value>Chegou ao fim do jogo</value>
   </data>
   <data name="extend_game_prompt" xml:space="preserve">
-    <value>¿Deseas seguir jugando?</value>
+    <value>Deseja continuar a jogar?</value>
   </data>
   <data name="extend_game" xml:space="preserve">
-    <value>Sí, déjame jugar 10 años más</value>
+    <value>Sim, deixe-me jogar mais 10 anos</value>
   </data>
   <data name="dont_extend_game" xml:space="preserve">
-    <value>No, llévame a los resultados</value>
-  </data>
-  <data name="unittest_onlyen" xml:space="preserve">
-    <value>Ok_es</value>
+    <value>Não, leve-me para os resultados</value>
   </data>
   <data name="send_volunteers" xml:space="preserve">
-    <value>enviar voluntarios</value>
+    <value>Envie voluntários</value>
   </data>
   <data name="send_expeditionary_land_force" xml:space="preserve">
-    <value>Enviar fuerza terrestre expedicionaria</value>
+    <value>Enviar força terrestre expedicionária</value>
   </data>
   <data name="send_land_equipment" xml:space="preserve">
-    <value>Enviar equipo terrestre</value>
+    <value>Enviar equipamento terrestre</value>
   </data>
   <data name="send_expeditionary_air_force" xml:space="preserve">
-    <value>Enviar fuerza aérea expedicionaria</value>
+    <value>Enviar força aérea expedicionária</value>
   </data>
   <data name="send_air_equipment" xml:space="preserve">
-    <value>Enviar equipo aéreo</value>
+    <value>Enviar equipamento aéreo</value>
   </data>
   <data name="send_economic_help" xml:space="preserve">
-    <value>Enviar ayuda económica</value>
+    <value>Envie ajuda econômica</value>
   </data>
   <data name="send" xml:space="preserve">
     <value>Enviar</value>
   </data>
   <data name="warning_settings_changes" xml:space="preserve">
-    <value>¡Advertencia! El juego está diseñado para funcionar con la siguiente configuración predeterminada. Cambiarlos puede causar problemas inesperados en el juego.</value>
+    <value>Aviso! O jogo foi projetado para funcionar com as configurações abaixo definidas como padrão. Alterá-los pode causar problemas inesperados no jogo</value>
   </data>
   <data name="add_war_goal_button" xml:space="preserve">
-    <value>Añadir objetivo de guerra</value>
+    <value>Adicionar objetivo de guerra</value>
   </data>
   <data name="cost_foreign_policy_switch" xml:space="preserve">
-    <value>Costo de cambio: {0} infamia</value>
+    <value>Custo para mudar: {0} infâmia</value>
   </data>
   <data name="switch_to" xml:space="preserve">
-    <value>Cambiar a {0}</value>
+    <value>Mudar para {0}</value>
   </data>
   <data name="can_get_called_into_wars" xml:space="preserve">
-    <value>• Puedes ser llamado a guerras para defender nuevas naciones</value>
+    <value>• Seja chamado para guerras para defender novas nações</value>
   </data>
   <data name="can_get_called_into_world_wars" xml:space="preserve">
-    <value>• Puedes ser llamado a las guerras mundiales</value>
+    <value>• Ser convocado para guerras mundiais</value>
   </data>
   <data name="can_get_called_into_wars_infamy" xml:space="preserve">
-    <value>• Puedes ser llamado a guerras contra países con mucha infamia</value>
+    <value>• Ser chamado para guerras contra países altamente infames</value>
   </data>
   <data name="can_declare_war_all" xml:space="preserve">
-    <value>• Puedes declarar la guerra a cualquier nación</value>
+    <value>• Pode declarar guerra a qualquer nação</value>
   </data>
   <data name="dont_get_called_into_wars" xml:space="preserve">
-    <value>• No serás llamado a las guerras</value>
+    <value>• Não seja chamado para guerras</value>
   </data>
   <data name="can_declare_war_above" xml:space="preserve">
-    <value>• Puedes declarar la guerra a naciones con infamia superior a {0}</value>
+    <value>• Pode declarar guerra a nações com infâmia acima de {0}</value>
   </data>
   <data name="loading" xml:space="preserve">
-    <value>Cargando...</value>
+    <value>Carregando...</value>
   </data>
   <data name="ratio_more_than_one" xml:space="preserve">
-    <value>Si relación &gt; 1:</value>
+    <value>Se proporção &gt; 1:</value>
   </data>
   <data name="ratio_less_than_one" xml:space="preserve">
-    <value>Si relación &lt; 1:</value>
+    <value>Se proporção &lt;1:</value>
   </data>
   <data name="open_seas" xml:space="preserve">
-    <value>Mares abiertos</value>
+    <value>Mar aberto</value>
   </data>
   <data name="land_battle" xml:space="preserve">
-    <value>Batalla terrestre</value>
+    <value>Batalha terrestre</value>
   </data>
   <data name="sea_battle" xml:space="preserve">
-    <value>Batalla naval</value>
+    <value>Batalha naval</value>
   </data>
   <data name="air_battle" xml:space="preserve">
-    <value>Batalla aérea</value>
+    <value>Batalha aérea</value>
   </data>
   <data name="open_seas_battle" xml:space="preserve">
-    <value>Batalla en mares abiertos</value>
+    <value>Batalha em mar aberto</value>
   </data>
   <data name="coastal_bombardment" xml:space="preserve">
-    <value>Bombardeo costero</value>
+    <value>Bombardeio costeiro</value>
   </data>
   <data name="naval_blockade" xml:space="preserve">
-    <value>Bloqueo naval</value>
+    <value>Bloqueio naval</value>
   </data>
   <data name="population_density" xml:space="preserve">
-    <value>Densidad de población</value>
+    <value>Densidade populacional</value>
   </data>
   <data name="warning_difficult_war" xml:space="preserve">
-    <value>El país objetivo es mucho más fuerte que tú</value>
+    <value>O país de destino é muito mais forte do que tu</value>
   </data>
   <data name="war_goal_release_country" xml:space="preserve">
-    <value>País de lanzamiento</value>
+    <value>Lançar país</value>
   </data>
   <data name="no_ai_war" xml:space="preserve">
-    <value>La IA no declarará guerras aleatorias (excluyendo guerras históricas, guerras mundiales, guerras de infamia y guerras de independencia) contra el jugador humano</value>
+    <value>A IA não declarará guerras aleatórias (excluindo guerras históricas, guerras mundiais, guerras de infâmia e guerras de independência) contra o jogador humano</value>
   </data>
   <data name="daily_infamy_decrease_modifier" xml:space="preserve">
-    <value>Modificador de reducción diaria de infamia</value>
+    <value>Modificador de redução diária de infâmia</value>
   </data>
   <data name="daily_warlevel_decrease_modifier" xml:space="preserve">
-    <value>Modificador de reducción diaria del nivel de guerra</value>
+    <value>Modificador de redução diária do nível de guerra</value>
   </data>
   <data name="debt_risk" xml:space="preserve">
-    <value>¡Tu nación tiene demasiada deuda! ¡Corres el riesgo de que regiones separatistas declaren su independencia!</value>
+    <value>A sua nação tem demasiada dívida! Corre o risco de regiões separatistas declararem independência!</value>
   </data>
   <data name="army_expenses_too_high" xml:space="preserve">
-    <value>Tu nación está gastando una cantidad insostenible de su presupuesto en el Ejército</value>
+    <value>A sua nação está a gastar uma quantia insustentável do seu orçamento com o Exército</value>
   </data>
   <data name="navy_expenses_too_high" xml:space="preserve">
-    <value>Tu nación está gastando una cantidad insostenible de su presupuesto en la Armada</value>
+    <value>A sua nação está a gastar uma quantia insustentável do seu orçamento com a Marinha</value>
   </data>
   <data name="airforce_expenses_too_high" xml:space="preserve">
-    <value>Tu nación está gastando una cantidad insostenible de su presupuesto en la Fuerza Aérea</value>
+    <value>A sua nação está a gastar uma quantia insustentável do seu orçamento com a Força Aérea</value>
   </data>
   <data name="no_private_population" xml:space="preserve">
-    <value>Tu nación se ha quedado sin ciudadanos para reclutar en las fuerzas armadas y las fábricas militares</value>
+    <value>A sua nação ficou sem cidadãos para recrutar para as forças armadas e fábricas militares</value>
   </data>
   <data name="war_level_risk" xml:space="preserve">
-    <value>¡Tu nación tiene un nivel de guerra demasiado alto! ¡Corres el riesgo de que regiones separatistas declaren su independencia!</value>
+    <value>A sua nação tem um nível de guerra demasiado elevado! Corre o risco de regiões separatistas declararem independência!</value>
   </data>
   <data name="worldwar_risk" xml:space="preserve">
-    <value>¡Tu nación tiene una infamia demasiado alta! ¡Corres el riesgo de ser el objetivo de una Guerra Mundial!</value>
+    <value>A sua nação tem uma infâmia demasiado elevada! Corre o risco de ser alvo de uma Guerra Mundial!</value>
   </data>
   <data name="high_infamy_war_risk" xml:space="preserve">
-    <value>¡Tu nación tiene una infamia demasiado alta! ¡Corres el riesgo de ser el objetivo de una guerra por infamia!</value>
+    <value>A sua nação tem uma infâmia demasiado elevada! Corre o risco de ser alvo de uma guerra de infâmia!</value>
   </data>
   <data name="culture_diversity_risk" xml:space="preserve">
-    <value>¡La cultura principal de tu nación es demasiado pequeña! ¡Corres el riesgo de que las culturas declaren su independencia!</value>
+    <value>A cultura principal da sua nação é demasiado pequena! Corre o risco de culturas declararem independência!</value>
   </data>
   <data name="religious_diversity_risk" xml:space="preserve">
-    <value>¡La religión principal de tu nación es demasiado pequeña! ¡Corres el riesgo de que las religiones declaren su independencia!</value>
+    <value>A religião principal da sua nação é demasiado pequena! Corre o risco de religiões declararem independência!</value>
   </data>
   <data name="percent_of_daily_income" xml:space="preserve">
-    <value>{0} del ingreso diario</value>
+    <value>{0} do rendimento diário</value>
   </data>
   <data name="base_infamy_change" xml:space="preserve">
-    <value>Cambio base de infamia: {0}</value>
+    <value>Alteração base de infâmia: {0}</value>
   </data>
   <data name="target_infamy" xml:space="preserve">
-    <value>Nivel de infamia del objetivo: {0}</value>
+    <value>Nível de infâmia do alvo: {0}</value>
   </data>
   <data name="relationship_with_target" xml:space="preserve">
-    <value>Relación con el objetivo: {0}</value>
+    <value>Relação com o alvo: {0}</value>
   </data>
   <data name="total_infamy_change" xml:space="preserve">
-    <value>Cambio total de infamia: {0}</value>
+    <value>Alteração total de infâmia: {0}</value>
   </data>
   <data name="only_sea_war" xml:space="preserve">
-    <value>Solo guerra naval: {0}</value>
+    <value>Apenas guerra naval: {0}</value>
     <comment>{0} is the value</comment>
   </data>
   <data name="need_more_army_schools" xml:space="preserve">
-    <value>Considera construir más escuelas del ejército</value>
+    <value>Considere construir mais academias militares</value>
   </data>
   <data name="consider_reducing_army_schools" xml:space="preserve">
-    <value>Considera reducir el número de escuelas del ejército</value>
+    <value>Considere reduzir o número de academias militares</value>
   </data>
   <data name="need_more_navy_schools" xml:space="preserve">
-    <value>Considera construir más escuelas navales</value>
+    <value>Considere construir mais escolas navais</value>
   </data>
   <data name="consider_reducing_navy_schools" xml:space="preserve">
-    <value>Considera reducir el número de escuelas navales</value>
+    <value>Considere reduzir o número de escolas navais</value>
   </data>
   <data name="need_more_airforce_schools" xml:space="preserve">
-    <value>Considera construir más escuelas de la fuerza aérea</value>
+    <value>Considere construir mais academias da força aérea</value>
   </data>
   <data name="consider_reducing_airforce_schools" xml:space="preserve">
-    <value>Considera reducir el número de escuelas de la fuerza aérea</value>
+    <value>Considere reduzir o número de academias da força aérea</value>
   </data>
   <data name="need_more_docks" xml:space="preserve">
-    <value>Considera construir más muelles</value>
+    <value>Considere construir mais estaleiros</value>
   </data>
   <data name="consider_reducing_docks" xml:space="preserve">
-    <value>Considera reducir el número de muelles</value>
+    <value>Considere reduzir o número de estaleiros</value>
   </data>
   <data name="need_more_army_equipment_factories" xml:space="preserve">
-    <value>Considera construir más fábricas de equipo del ejército</value>
+    <value>Considere construir mais fábricas de equipamento do exército</value>
   </data>
   <data name="consider_reducing_army_equipment_factories" xml:space="preserve">
-    <value>Considera reducir el número de fábricas de equipo del ejército</value>
+    <value>Considere reduzir o número de fábricas de equipamento do exército</value>
   </data>
   <data name="need_more_airforce_equipment_factories" xml:space="preserve">
-    <value>Considera construir más fábricas de equipo de la fuerza aérea</value>
+    <value>Considere construir mais fábricas de equipamento da força aérea</value>
   </data>
   <data name="consider_reducing_airforce_equipment_factories" xml:space="preserve">
-    <value>Considera reducir el número de fábricas de equipo de la fuerza aérea</value>
+    <value>Considere reduzir o número de fábricas de equipamento da força aérea</value>
   </data>
   <data name="news" xml:space="preserve">
-    <value>Noticias</value>
+    <value>Notícias</value>
   </data>
   <data name="world" xml:space="preserve">
     <value>Mundo</value>
@@ -816,19 +806,19 @@ Una vez que la tensión mundial alcanza el 100 %, se desencadena una guerra mund
     <value>Guerras</value>
   </data>
   <data name="policy_changes" xml:space="preserve">
-    <value>Cambios de política disponibles: {0}</value>
+    <value>Alterações de política disponíveis: {0}</value>
   </data>
   <data name="daily_increase" xml:space="preserve">
-    <value>Aumento diario: {0}</value>
+    <value>Aumento diário: {0}</value>
   </data>
   <data name="diplomatic_actions" xml:space="preserve">
-    <value>Acciones diplomáticas disponibles: {0}</value>
+    <value>Ações diplomáticas disponíveis: {0}</value>
   </data>
   <data name="province_dialog_owner" xml:space="preserve">
-    <value>Propietario</value>
+    <value>Proprietário</value>
   </data>
   <data name="province_dialog_neighbours" xml:space="preserve">
-    <value>Vecinos</value>
+    <value>Vizinhos</value>
   </data>
   <data name="province_dialog_occupier" xml:space="preserve">
     <value>Ocupante</value>
@@ -837,34 +827,34 @@ Una vez que la tensión mundial alcanza el 100 %, se desencadena una guerra mund
     <value>Costa {0}</value>
   </data>
   <data name="province_dialog_landlocked" xml:space="preserve">
-    <value>Sin litoral</value>
+    <value>Sem litoral</value>
   </data>
   <data name="province_dialog_occupied_percent" xml:space="preserve">
     <value>Ocupado {0}%</value>
   </data>
   <data name="province_dialog_local_forces" xml:space="preserve">
-    <value>Fuerzas locales de {0}</value>
+    <value>Forças locais de {0}</value>
   </data>
   <data name="province_dialog_going_home" xml:space="preserve">
-    <value>(de regreso a casa)</value>
+    <value>(a regressar a casa)</value>
   </data>
   <data name="province_dialog_province_number" xml:space="preserve">
-    <value>Provincia {0}</value>
+    <value>Província {0}</value>
   </data>
   <data name="map_layers" xml:space="preserve">
-    <value>Capas del mapa</value>
+    <value>Camadas do mapa</value>
   </data>
   <data name="map_layer_political" xml:space="preserve">
     <value>Político</value>
   </data>
   <data name="map_layer_relations" xml:space="preserve">
-    <value>Relaciones</value>
+    <value>Relações</value>
   </data>
   <data name="map_legend_state_religion" xml:space="preserve">
-    <value>Rayas: la religión del estado</value>
+    <value>Riscas: a religião do estado</value>
   </data>
   <data name="map_legend_your_country" xml:space="preserve">
-    <value>Tu país</value>
+    <value>O seu país</value>
   </data>
   <data name="map" xml:space="preserve">
     <value>Mapa</value>

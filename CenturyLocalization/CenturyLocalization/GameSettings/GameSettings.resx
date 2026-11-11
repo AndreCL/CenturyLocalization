@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms</value></resheader>
+  <data name="settings" xml:space="preserve"><value>Settings</value></data>
+  <data name="select_language" xml:space="preserve"><value>Select language</value></data>
+  <data name="settings_max_events_title" xml:space="preserve"><value>Maximum amount of events saved</value></data>
+  <data name="settings_keep_events_title" xml:space="preserve"><value>Save events for</value></data>
+  <data name="settings_max_battles_title" xml:space="preserve"><value>Maximum amount of battles saved per war</value></data>
+  <data name="settings_keep_battles_title" xml:space="preserve"><value>Save battles for</value></data>
+  <data name="settings_events_warning" xml:space="preserve"><value>Warning: Higher event amounts saved mean longer save times, save load times, save game sizes and memory usage</value></data>
+  <data name="settings_battles_warning" xml:space="preserve"><value>Warning: Higher battle amounts saved mean longer save times, save load times, save game sizes and memory usage</value></data>
+  <data name="settings_default_choice" xml:space="preserve"><value>{choice} (Default)</value></data>
+  <data name="battle_details_not_stored" xml:space="preserve"><value>The details of this battle are no longer stored</value></data>
+  <data name="settings_time_1_week" xml:space="preserve"><value>1 week</value></data>
+  <data name="settings_time_1_month" xml:space="preserve"><value>1 month</value></data>
+  <data name="settings_time_1_year" xml:space="preserve"><value>1 year</value></data>
+  <data name="settings_time_2_years" xml:space="preserve"><value>2 years</value></data>
+  <data name="settings_time_4_years" xml:space="preserve"><value>4 years</value></data>
+  <data name="settings_time_8_years" xml:space="preserve"><value>8 years</value></data>
+  <data name="settings_time_16_years" xml:space="preserve"><value>16 years</value></data>
+</root>
