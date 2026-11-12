@@ -869,4 +869,19 @@
   <data name="list" xml:space="preserve">
     <value>Список</value>
   </data>
+  <data name="white_peace" xml:space="preserve"><value>Белый мир</value></data>
+  <data name="peace_treaty_signed" xml:space="preserve"><value>Мирный договор подписан</value></data>
+  <data name="war_ends_without_winner" xml:space="preserve"><value>Ни одна из сторон больше не может сражаться с другой, поэтому война заканчивается без победителя.</value></data>
+  <data name="map_layer_wars" xml:space="preserve"><value>Войны</value></data>
+  <data name="map_legend_wars_at_war" xml:space="preserve"><value>Воют с вами</value></data>
+  <data name="map_legend_wars_allied" xml:space="preserve"><value>Союзник в войне</value></data>
+  <data name="map_legend_wars_none" xml:space="preserve"><value>Не воюет</value></data>
+  <data name="diplomacy_missionaries" xml:space="preserve"><value>Миссионеры</value></data>
+  <data name="send_missionaries_to_province" xml:space="preserve"><value>Отправить миссионеров в {0}</value></data>
+  <data name="province_area_authored" xml:space="preserve"><value>Заданная площадь</value></data>
+  <data name="province_area_drawn" xml:space="preserve"><value>Площадь по контуру</value></data>
+  <data name="province_area_unavailable" xml:space="preserve"><value>Недоступно</value></data>
+  <data name="province_debug_id" xml:space="preserve"><value>Идентификатор: {0}</value></data>
+  <data name="battle_occupation_gained_description" xml:space="preserve"><value>{0}: в этой битве захвачено ещё {1}%, всего {2}%</value></data>
+  <data name="battle_occupation_recovered_description" xml:space="preserve"><value>{0}: в этой битве отвоёвано {1}%, всё ещё занято {2}%</value></data>
 </root>

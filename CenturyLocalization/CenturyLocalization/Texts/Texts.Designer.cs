@@ -2290,5 +2290,140 @@ namespace CenturyLocalization.Texts {
                 return ResourceManager.GetString("yes", resourceCulture);
             }
         }
+
+        /// <summary>
+        ///   Looks up a localized string similar to White peace.
+        /// </summary>
+        internal static string white_peace {
+            get {
+                return ResourceManager.GetString("white_peace", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Peace treaty signed.
+        /// </summary>
+        internal static string peace_treaty_signed {
+            get {
+                return ResourceManager.GetString("peace_treaty_signed", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Neither side can fight the other any longer, so the war ends without a winner.
+        /// </summary>
+        internal static string war_ends_without_winner {
+            get {
+                return ResourceManager.GetString("war_ends_without_winner", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Wars.
+        /// </summary>
+        internal static string map_layer_wars {
+            get {
+                return ResourceManager.GetString("map_layer_wars", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to At war with you.
+        /// </summary>
+        internal static string map_legend_wars_at_war {
+            get {
+                return ResourceManager.GetString("map_legend_wars_at_war", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Ally in a war.
+        /// </summary>
+        internal static string map_legend_wars_allied {
+            get {
+                return ResourceManager.GetString("map_legend_wars_allied", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Not at war.
+        /// </summary>
+        internal static string map_legend_wars_none {
+            get {
+                return ResourceManager.GetString("map_legend_wars_none", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Missionaries.
+        /// </summary>
+        internal static string diplomacy_missionaries {
+            get {
+                return ResourceManager.GetString("diplomacy_missionaries", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Send Missionaries to {0}.
+        /// </summary>
+        internal static string send_missionaries_to_province {
+            get {
+                return ResourceManager.GetString("send_missionaries_to_province", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Authored area.
+        /// </summary>
+        internal static string province_area_authored {
+            get {
+                return ResourceManager.GetString("province_area_authored", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Drawn area.
+        /// </summary>
+        internal static string province_area_drawn {
+            get {
+                return ResourceManager.GetString("province_area_drawn", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Not available.
+        /// </summary>
+        internal static string province_area_unavailable {
+            get {
+                return ResourceManager.GetString("province_area_unavailable", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Id: {0}.
+        /// </summary>
+        internal static string province_debug_id {
+            get {
+                return ResourceManager.GetString("province_debug_id", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to {0}: occupied {1}% more in this battle, {2}% in all.
+        /// </summary>
+        internal static string battle_occupation_gained_description {
+            get {
+                return ResourceManager.GetString("battle_occupation_gained_description", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to {0}: {1}% taken back in this battle, {2}% still occupied.
+        /// </summary>
+        internal static string battle_occupation_recovered_description {
+            get {
+                return ResourceManager.GetString("battle_occupation_recovered_description", resourceCulture);
+            }
+        }
     }
 }

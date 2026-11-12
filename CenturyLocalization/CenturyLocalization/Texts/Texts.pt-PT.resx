@@ -862,4 +862,19 @@ Um novo ano chegou. Desejamos a vocês um feliz ano novo. Que este novo ano seja
   <data name="list" xml:space="preserve">
     <value>Lista</value>
   </data>
+  <data name="white_peace" xml:space="preserve"><value>Paz branca</value></data>
+  <data name="peace_treaty_signed" xml:space="preserve"><value>Tratado de paz assinado</value></data>
+  <data name="war_ends_without_winner" xml:space="preserve"><value>Nenhum dos lados consegue já combater o outro, por isso a guerra termina sem vencedor.</value></data>
+  <data name="map_layer_wars" xml:space="preserve"><value>Guerras</value></data>
+  <data name="map_legend_wars_at_war" xml:space="preserve"><value>Em guerra consigo</value></data>
+  <data name="map_legend_wars_allied" xml:space="preserve"><value>Aliado numa guerra</value></data>
+  <data name="map_legend_wars_none" xml:space="preserve"><value>Em paz</value></data>
+  <data name="diplomacy_missionaries" xml:space="preserve"><value>Missionários</value></data>
+  <data name="send_missionaries_to_province" xml:space="preserve"><value>Enviar missionários para {0}</value></data>
+  <data name="province_area_authored" xml:space="preserve"><value>Área definida</value></data>
+  <data name="province_area_drawn" xml:space="preserve"><value>Área desenhada</value></data>
+  <data name="province_area_unavailable" xml:space="preserve"><value>Não disponível</value></data>
+  <data name="province_debug_id" xml:space="preserve"><value>ID: {0}</value></data>
+  <data name="battle_occupation_gained_description" xml:space="preserve"><value>{0}: ocupou mais {1}% nesta batalha, {2}% no total</value></data>
+  <data name="battle_occupation_recovered_description" xml:space="preserve"><value>{0}: recuperou {1}% nesta batalha, {2}% ainda ocupado</value></data>
 </root>

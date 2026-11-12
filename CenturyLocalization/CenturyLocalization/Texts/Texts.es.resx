@@ -866,4 +866,19 @@ Una vez que la tensión mundial alcanza el 100 %, se desencadena una guerra mund
   <data name="list" xml:space="preserve">
     <value>Lista</value>
   </data>
+  <data name="white_peace" xml:space="preserve"><value>Paz blanca</value></data>
+  <data name="peace_treaty_signed" xml:space="preserve"><value>Tratado de paz firmado</value></data>
+  <data name="war_ends_without_winner" xml:space="preserve"><value>Ningún bando puede seguir luchando contra el otro, así que la guerra termina sin vencedor.</value></data>
+  <data name="map_layer_wars" xml:space="preserve"><value>Guerras</value></data>
+  <data name="map_legend_wars_at_war" xml:space="preserve"><value>En guerra contigo</value></data>
+  <data name="map_legend_wars_allied" xml:space="preserve"><value>Aliado en una guerra</value></data>
+  <data name="map_legend_wars_none" xml:space="preserve"><value>En paz</value></data>
+  <data name="diplomacy_missionaries" xml:space="preserve"><value>Misioneros</value></data>
+  <data name="send_missionaries_to_province" xml:space="preserve"><value>Enviar misioneros a {0}</value></data>
+  <data name="province_area_authored" xml:space="preserve"><value>Área asignada</value></data>
+  <data name="province_area_drawn" xml:space="preserve"><value>Área dibujada</value></data>
+  <data name="province_area_unavailable" xml:space="preserve"><value>No disponible</value></data>
+  <data name="province_debug_id" xml:space="preserve"><value>ID: {0}</value></data>
+  <data name="battle_occupation_gained_description" xml:space="preserve"><value>{0}: ocupó un {1}% más en esta batalla, un {2}% en total</value></data>
+  <data name="battle_occupation_recovered_description" xml:space="preserve"><value>{0}: recuperó un {1}% en esta batalla, un {2}% sigue ocupado</value></data>
 </root>

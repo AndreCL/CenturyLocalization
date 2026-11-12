@@ -864,4 +864,19 @@
   <data name="list" xml:space="preserve">
     <value>القائمة</value>
   </data>
+  <data name="white_peace" xml:space="preserve"><value>سلام أبيض</value></data>
+  <data name="peace_treaty_signed" xml:space="preserve"><value>تم توقيع معاهدة السلام</value></data>
+  <data name="war_ends_without_winner" xml:space="preserve"><value>لم يعد أي من الطرفين قادرًا على مواصلة القتال ضد الآخر، لذلك تنتهي الحرب دون فائز.</value></data>
+  <data name="map_layer_wars" xml:space="preserve"><value>الحروب</value></data>
+  <data name="map_legend_wars_at_war" xml:space="preserve"><value>في حالة حرب معك</value></data>
+  <data name="map_legend_wars_allied" xml:space="preserve"><value>حليف في حرب</value></data>
+  <data name="map_legend_wars_none" xml:space="preserve"><value>ليست في حرب</value></data>
+  <data name="diplomacy_missionaries" xml:space="preserve"><value>المبشرون</value></data>
+  <data name="send_missionaries_to_province" xml:space="preserve"><value>أرسل مبشرين إلى {0}</value></data>
+  <data name="province_area_authored" xml:space="preserve"><value>المساحة المحددة</value></data>
+  <data name="province_area_drawn" xml:space="preserve"><value>المساحة المرسومة</value></data>
+  <data name="province_area_unavailable" xml:space="preserve"><value>غير متاح</value></data>
+  <data name="province_debug_id" xml:space="preserve"><value>المعرّف: {0}</value></data>
+  <data name="battle_occupation_gained_description" xml:space="preserve"><value>{0}: احتل {1}% إضافية في هذه المعركة، ليصبح الإجمالي {2}%</value></data>
+  <data name="battle_occupation_recovered_description" xml:space="preserve"><value>{0}: استُعيدت {1}% في هذه المعركة، وما زالت {2}% محتلة</value></data>
 </root>
