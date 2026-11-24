@@ -165,4 +165,61 @@
   <data name="play_country" xml:space="preserve">
     <value>Играть как {0}</value>
   </data>
+  <data name="event_choose_provinces_on_map" xml:space="preserve">
+    <value>Выбрать провинции на карте</value>
+  </data>
+  <data name="event_release_countries" xml:space="preserve">
+    <value>Освободить страны</value>
+  </data>
+  <data name="event_release_country_detail" xml:space="preserve">
+    <value>Освободить {0} ({1})</value>
+  </data>
+  <data name="event_release_holders_suffix" xml:space="preserve">
+    <value> из {0}</value>
+  </data>
+  <data name="event_war_goal_provinces" xml:space="preserve">
+    <value>{0}: {1}</value>
+  </data>
+  <data name="event_mobilize_share" xml:space="preserve">
+    <value>{0} {1}% мужчин призывного возраста</value>
+  </data>
+  <data name="event_country_released" xml:space="preserve">
+    <value>{0} освободила {1} как независимое государство.</value>
+  </data>
+  <data name="event_country_renamed_title" xml:space="preserve">
+    <value>Теперь {0} — {1}</value>
+  </data>
+  <data name="event_country_renamed_lost_lands" xml:space="preserve">
+    <value>После ухода {0} страна {1} получает название {2}</value>
+  </data>
+  <data name="event_country_name_list_joiner" xml:space="preserve">
+    <value>  и  </value>
+  </data>
+  <data name="event_country_renamed_south_slavs" xml:space="preserve">
+    <value>Объединив земли южных славян под своей властью, {0} получает название {1}</value>
+  </data>
+  <data name="event_infamy_war_title" xml:space="preserve">
+    <value>Война из-за бесчестья</value>
+  </data>
+  <data name="event_infamy_war_invitation" xml:space="preserve">
+    <value>{0} стала настолько печально известной, что против неё началась {1}. Присоединимся ли мы к нападающим, будучи врагом {0}?</value>
+  </data>
+  <data name="event_world_war_position_title" xml:space="preserve">
+    <value>Вопрос о позиции нашей страны</value>
+  </data>
+  <data name="event_world_war_position_message" xml:space="preserve">
+    <value>Началась мировая война, правительству необходимо определить свою позицию.</value>
+  </data>
+  <data name="event_declare_neutrality" xml:space="preserve">
+    <value>Объявить нейтралитет</value>
+  </data>
+  <data name="event_ignore" xml:space="preserve">
+    <value>Игнорировать</value>
+  </data>
+  <data name="event_surrender_title" xml:space="preserve">
+    <value>{0} капитулирует</value>
+  </data>
+  <data name="event_annexed_left_war" xml:space="preserve">
+    <value>Страна {0} официально вышла из состава {1} в связи со своей аннексией.</value>
+  </data>
 </root>

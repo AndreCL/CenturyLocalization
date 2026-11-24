@@ -967,4 +967,109 @@ Once the World Tension reaches 100%, a World War is triggered and it resets.
     <value>{0}: {1}% taken back in this battle, {2}% still occupied</value>
     <comment>Occupation bar accessibility description; {0} is the province name, {1} is the percentage taken back in the battle, and {2} is the occupied percentage afterward.</comment>
   </data>
+  <data name="reward_ad_requires_internet" xml:space="preserve">
+    <value>Requires internet</value>
+  </data>
+  <data name="reward_ad_error" xml:space="preserve">
+    <value>Error</value>
+  </data>
+  <data name="reward_ad_no_ad" xml:space="preserve">
+    <value>No ad</value>
+  </data>
+  <data name="province_not_found" xml:space="preserve">
+    <value>Province not found</value>
+  </data>
+  <data name="military_scope_title" xml:space="preserve">
+    <value>Show and build in</value>
+  </data>
+  <data name="military_scope_occupied" xml:space="preserve">
+    <value>occupied</value>
+  </data>
+  <data name="military_province_occupied_notice" xml:space="preserve">
+    <value>{0} is occupied{1}. You cannot build or recruit there until it is freed.</value>
+  </data>
+  <data name="military_all_provinces_occupied_notice" xml:space="preserve">
+    <value>All your provinces are occupied{0}. You cannot build or recruit until one is freed.</value>
+  </data>
+  <data name="military_occupied_by_suffix" xml:space="preserve">
+    <value> by {0}</value>
+  </data>
+  <data name="war_goals_heading" xml:space="preserve">
+    <value>War goals</value>
+  </data>
+  <data name="war_goal_remove" xml:space="preserve">
+    <value>Remove</value>
+  </data>
+  <data name="war_goal_remove_question" xml:space="preserve">
+    <value>Remove this war goal?</value>
+  </data>
+  <data name="war_goal_remove_cost_notice" xml:space="preserve">
+    <value>It is not given back: adding it again costs what it cost the first time.</value>
+  </data>
+  <data name="map_layer_naval_geography" xml:space="preserve">
+    <value>Naval geography</value>
+  </data>
+  <data name="map_legend_ice_pack" xml:space="preserve">
+    <value>Pack ice</value>
+  </data>
+  <data name="map_legend_ice_frozen" xml:space="preserve">
+    <value>Frozen coast</value>
+  </data>
+  <data name="map_legend_ice_small" xml:space="preserve">
+    <value>Lake or closed sea: small ships only</value>
+  </data>
+  <data name="map_legend_ice_ocean" xml:space="preserve">
+    <value>Coast on the ocean</value>
+  </data>
+  <data name="map_legend_ice_none" xml:space="preserve">
+    <value>No coast</value>
+  </data>
+  <data name="province_count" xml:space="preserve">
+    <value>{0} provinces</value>
+  </data>
+  <data name="release_action" xml:space="preserve">
+    <value>Release</value>
+  </data>
+  <data name="release_action_count" xml:space="preserve">
+    <value>Release ({0})</value>
+  </data>
+  <data name="release_nation" xml:space="preserve">
+    <value>Release nation</value>
+  </data>
+  <data name="release_nations" xml:space="preserve">
+    <value>Release nations</value>
+  </data>
+  <data name="release_goals_unavailable" xml:space="preserve">
+    <value>No release goals available</value>
+  </data>
+  <data name="release_goals_changed" xml:space="preserve">
+    <value>Release goals changed; select again</value>
+  </data>
+  <data name="province_picker_instructions" xml:space="preserve">
+    <value>Choose provinces to take from {0}. Tap to add or remove. Green: you can take it (next to your land, next to the ones you have chosen, or on the coast if you have no border with them). Red: too big for what is left of the limit. Yellow: not connected yet. Blue: chosen.</value>
+  </data>
+  <data name="province_picker_chosen" xml:space="preserve">
+    <value>Chosen: {0}</value>
+  </data>
+  <data name="province_picker_limits" xml:space="preserve">
+    <value>Area {0} of at most {1}, people {2} of at most {3} (the limits on area and on population)</value>
+  </data>
+  <data name="province_picker_limit_reached" xml:space="preserve">
+    <value>The limit is reached: no more provinces can be taken. Tap a chosen province to remove it.</value>
+  </data>
+  <data name="province_picker_no_more_connected" xml:space="preserve">
+    <value>No more provinces can be taken: none other is connected to your land or to the provinces you have chosen.</value>
+  </data>
+  <data name="province_picker_over_limit" xml:space="preserve">
+    <value>Too big for what is left of the limit ({0} and {1} people left).</value>
+  </data>
+  <data name="province_picker_not_connected" xml:space="preserve">
+    <value>Not connected to your land or to the provinces you have chosen.</value>
+  </data>
+  <data name="province_picker_choose_one" xml:space="preserve">
+    <value>Choose at least one province.</value>
+  </data>
+  <data name="war_goal_group_count" xml:space="preserve">
+    <value>{0} x {1}</value>
+  </data>
 </root>

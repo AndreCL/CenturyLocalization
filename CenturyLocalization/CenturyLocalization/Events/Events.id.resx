@@ -165,4 +165,61 @@
   <data name="play_country" xml:space="preserve">
     <value>Mainkan sebagai {0}</value>
   </data>
+  <data name="event_choose_provinces_on_map" xml:space="preserve">
+    <value>Pilih provinsi di peta</value>
+  </data>
+  <data name="event_release_countries" xml:space="preserve">
+    <value>Lepaskan negara</value>
+  </data>
+  <data name="event_release_country_detail" xml:space="preserve">
+    <value>Lepaskan {0} ({1})</value>
+  </data>
+  <data name="event_release_holders_suffix" xml:space="preserve">
+    <value> dari {0}</value>
+  </data>
+  <data name="event_war_goal_provinces" xml:space="preserve">
+    <value>{0}: {1}</value>
+  </data>
+  <data name="event_mobilize_share" xml:space="preserve">
+    <value>{0} {1}% pria usia tempur</value>
+  </data>
+  <data name="event_country_released" xml:space="preserve">
+    <value>{0} telah membebaskan {1} sebagai negara merdeka.</value>
+  </data>
+  <data name="event_country_renamed_title" xml:space="preserve">
+    <value>{0} kini bernama {1}</value>
+  </data>
+  <data name="event_country_renamed_lost_lands" xml:space="preserve">
+    <value>Setelah {0} pergi, {1} kini bernama {2}</value>
+  </data>
+  <data name="event_country_name_list_joiner" xml:space="preserve">
+    <value>  dan  </value>
+  </data>
+  <data name="event_country_renamed_south_slavs" xml:space="preserve">
+    <value>Setelah menyatukan tanah bangsa Slavia Selatan di bawah kekuasaannya, {0} kini bernama {1}</value>
+  </data>
+  <data name="event_infamy_war_title" xml:space="preserve">
+    <value>Perang keburukan</value>
+  </data>
+  <data name="event_infamy_war_invitation" xml:space="preserve">
+    <value>{0} menjadi begitu tercela sehingga {1} pecah melawannya. Sebagai musuh {0}, apakah kita bergabung dengan para penyerang?</value>
+  </data>
+  <data name="event_world_war_position_title" xml:space="preserve">
+    <value>Sikap negara kita</value>
+  </data>
+  <data name="event_world_war_position_message" xml:space="preserve">
+    <value>Perang dunia telah dimulai, pemerintah harus menentukan sikap.</value>
+  </data>
+  <data name="event_declare_neutrality" xml:space="preserve">
+    <value>Nyatakan netralitas</value>
+  </data>
+  <data name="event_ignore" xml:space="preserve">
+    <value>Abaikan</value>
+  </data>
+  <data name="event_surrender_title" xml:space="preserve">
+    <value>{0} menyerah</value>
+  </data>
+  <data name="event_annexed_left_war" xml:space="preserve">
+    <value>Negara {0} secara resmi keluar dari {1} karena aneksasinya.</value>
+  </data>
 </root>

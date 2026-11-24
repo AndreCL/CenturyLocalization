@@ -193,4 +193,52 @@
   <data name="sent_aid" xml:space="preserve">
     <value>Aide envoyée</value>
   </data>
+  <data name="diplomacy_call_to_arms_title" xml:space="preserve">
+    <value>Appel aux armes</value>
+  </data>
+  <data name="diplomacy_call_to_arms_attack" xml:space="preserve">
+    <value>Notre allié {0} a déclenché {1} et nous appelle à rejoindre la guerre. Le rejoignons-nous ?</value>
+  </data>
+  <data name="diplomacy_call_to_arms_defend" xml:space="preserve">
+    <value>Notre allié {0} a été attaqué dans {1}. Rejoignons-nous la guerre pour le défendre ?</value>
+  </data>
+  <data name="diplomacy_call_to_arms_both_sides" xml:space="preserve">
+    <value>{0} a attaqué {1} dans {2}, et nous sommes alliés aux deux camps. Rejoindre l&apos;un met fin à notre alliance avec l&apos;autre. Quel camp choisissons-nous ?</value>
+  </data>
+  <data name="diplomacy_alliance_formed" xml:space="preserve">
+    <value>L&apos;alliance {0} a été formée.</value>
+  </data>
+  <data name="diplomacy_alliance_joined" xml:space="preserve">
+    <value>{0} a rejoint l&apos;alliance {1}.</value>
+  </data>
+  <data name="diplomacy_alliance_invitation" xml:space="preserve">
+    <value>Nous avons été invités à rejoindre l&apos;alliance {0}. Acceptons-nous ?</value>
+  </data>
+  <data name="diplomacy_alliance_invitation_rejected" xml:space="preserve">
+    <value>{0} a refusé notre invitation à rejoindre l&apos;alliance {1}.</value>
+  </data>
+  <data name="diplomacy_alliance_dissolved" xml:space="preserve">
+    <value>L&apos;alliance {0} a été dissoute.</value>
+  </data>
+  <data name="diplomacy_alliance_offer" xml:space="preserve">
+    <value>{0} propose une alliance. Acceptons-nous ?</value>
+  </data>
+  <data name="diplomacy_alliance_default_name" xml:space="preserve">
+    <value>L&apos;alliance {0}-{1}</value>
+  </data>
+  <data name="diplomacy_alliance_offer_rejected" xml:space="preserve">
+    <value>{0} a refusé notre proposition d&apos;alliance.</value>
+  </data>
+  <data name="diplomacy_alliance_member_ceased" xml:space="preserve">
+    <value>{0} a cessé d&apos;exister et a quitté l&apos;alliance {1}.</value>
+  </data>
+  <data name="diplomacy_alliance_member_left" xml:space="preserve">
+    <value>{0} a quitté l&apos;alliance {1}.</value>
+  </data>
+  <data name="diplomacy_alliance_dissolved_suffix" xml:space="preserve">
+    <value> L&apos;alliance a été dissoute.</value>
+  </data>
+  <data name="diplomacy_duplicate_alliance_removed" xml:space="preserve">
+    <value>L&apos;alliance {0} a été supprimée car elle avait les mêmes membres que l&apos;alliance {1}.</value>
+  </data>
 </root>

@@ -193,4 +193,52 @@
   <data name="sent_aid" xml:space="preserve">
     <value>Sendte hjælp</value>
   </data>
+  <data name="diplomacy_call_to_arms_title" xml:space="preserve">
+    <value>Kald til våben</value>
+  </data>
+  <data name="diplomacy_call_to_arms_attack" xml:space="preserve">
+    <value>Vores allierede {0} har startet {1} og kalder os med i krigen. Slutter vi os til dem?</value>
+  </data>
+  <data name="diplomacy_call_to_arms_defend" xml:space="preserve">
+    <value>Vores allierede {0} er blevet angrebet i {1}. Går vi med i krigen for at forsvare dem?</value>
+  </data>
+  <data name="diplomacy_call_to_arms_both_sides" xml:space="preserve">
+    <value>{0} har angrebet {1} i {2}, og vi er allierede med begge sider. Hvis vi slutter os til den ene, ophører vores alliance med den anden. Hvilken side vælger vi?</value>
+  </data>
+  <data name="diplomacy_alliance_formed" xml:space="preserve">
+    <value>Alliancen {0} er blevet dannet.</value>
+  </data>
+  <data name="diplomacy_alliance_joined" xml:space="preserve">
+    <value>{0} er tilsluttet alliancen {1}.</value>
+  </data>
+  <data name="diplomacy_alliance_invitation" xml:space="preserve">
+    <value>Vi er blevet inviteret til at slutte os til alliancen {0}. Accepterer vi?</value>
+  </data>
+  <data name="diplomacy_alliance_invitation_rejected" xml:space="preserve">
+    <value>{0} har afslået vores invitation til at slutte sig til alliancen {1}.</value>
+  </data>
+  <data name="diplomacy_alliance_dissolved" xml:space="preserve">
+    <value>Alliancen {0} er blevet opløst.</value>
+  </data>
+  <data name="diplomacy_alliance_offer" xml:space="preserve">
+    <value>{0} foreslår en alliance. Accepterer vi?</value>
+  </data>
+  <data name="diplomacy_alliance_default_name" xml:space="preserve">
+    <value>Alliancen mellem {0} og {1}</value>
+  </data>
+  <data name="diplomacy_alliance_offer_rejected" xml:space="preserve">
+    <value>{0} har afslået vores allianceforslag.</value>
+  </data>
+  <data name="diplomacy_alliance_member_ceased" xml:space="preserve">
+    <value>{0} er ophørt med at eksistere og har forladt alliancen {1}.</value>
+  </data>
+  <data name="diplomacy_alliance_member_left" xml:space="preserve">
+    <value>{0} har forladt alliancen {1}.</value>
+  </data>
+  <data name="diplomacy_alliance_dissolved_suffix" xml:space="preserve">
+    <value> Alliancen er blevet opløst.</value>
+  </data>
+  <data name="diplomacy_duplicate_alliance_removed" xml:space="preserve">
+    <value>Alliancen {0} er blevet fjernet, da den havde de samme medlemmer som alliancen {1}.</value>
+  </data>
 </root>

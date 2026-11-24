@@ -193,4 +193,52 @@
   <data name="sent_aid" xml:space="preserve">
     <value>إرسال مساعدات</value>
   </data>
+  <data name="diplomacy_call_to_arms_title" xml:space="preserve">
+    <value>دعوة إلى الحرب</value>
+  </data>
+  <data name="diplomacy_call_to_arms_attack" xml:space="preserve">
+    <value>بدأ حليفنا {0} حرب {1} ويدعونا للانضمام إليها. هل ننضم إليه؟</value>
+  </data>
+  <data name="diplomacy_call_to_arms_defend" xml:space="preserve">
+    <value>تعرض حليفنا {0} للهجوم في {1}. هل ننضم إلى الحرب للدفاع عنه؟</value>
+  </data>
+  <data name="diplomacy_call_to_arms_both_sides" xml:space="preserve">
+    <value>هاجمت {0} ‏{1} في {2}، ونحن حلفاء للطرفين. الانضمام إلى أحدهما ينهي تحالفنا مع الآخر. إلى أي طرف ننضم؟</value>
+  </data>
+  <data name="diplomacy_alliance_formed" xml:space="preserve">
+    <value>تم تشكيل التحالف {0}.</value>
+  </data>
+  <data name="diplomacy_alliance_joined" xml:space="preserve">
+    <value>انضمت {0} إلى التحالف {1}.</value>
+  </data>
+  <data name="diplomacy_alliance_invitation" xml:space="preserve">
+    <value>دُعينا للانضمام إلى التحالف {0}. هل نقبل؟</value>
+  </data>
+  <data name="diplomacy_alliance_invitation_rejected" xml:space="preserve">
+    <value>رفضت {0} دعوتنا للانضمام إلى التحالف {1}.</value>
+  </data>
+  <data name="diplomacy_alliance_dissolved" xml:space="preserve">
+    <value>تم حل التحالف {0}.</value>
+  </data>
+  <data name="diplomacy_alliance_offer" xml:space="preserve">
+    <value>تقترح {0} تحالفًا. هل نقبل؟</value>
+  </data>
+  <data name="diplomacy_alliance_default_name" xml:space="preserve">
+    <value>تحالف {0}-{1}</value>
+  </data>
+  <data name="diplomacy_alliance_offer_rejected" xml:space="preserve">
+    <value>رفضت {0} عرض التحالف الذي قدمناه.</value>
+  </data>
+  <data name="diplomacy_alliance_member_ceased" xml:space="preserve">
+    <value>لم تعد {0} موجودة وغادرت التحالف {1}.</value>
+  </data>
+  <data name="diplomacy_alliance_member_left" xml:space="preserve">
+    <value>غادرت {0} التحالف {1}.</value>
+  </data>
+  <data name="diplomacy_alliance_dissolved_suffix" xml:space="preserve">
+    <value> تم حل التحالف.</value>
+  </data>
+  <data name="diplomacy_duplicate_alliance_removed" xml:space="preserve">
+    <value>أُزيل التحالف {0} لأن أعضاءه هم أنفسهم أعضاء التحالف {1}.</value>
+  </data>
 </root>

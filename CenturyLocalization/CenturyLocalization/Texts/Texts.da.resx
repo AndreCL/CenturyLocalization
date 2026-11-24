@@ -880,4 +880,109 @@ Når verdensspændingen når 100 %, udløses en verdenskrig, og værdien nulstil
   <data name="province_debug_id" xml:space="preserve"><value>ID: {0}</value></data>
   <data name="battle_occupation_gained_description" xml:space="preserve"><value>{0}: besatte {1}% mere i dette slag, {2}% i alt</value></data>
   <data name="battle_occupation_recovered_description" xml:space="preserve"><value>{0}: generobrede {1}% i dette slag, {2}% stadig besat</value></data>
+  <data name="reward_ad_requires_internet" xml:space="preserve">
+    <value>Kræver internet</value>
+  </data>
+  <data name="reward_ad_error" xml:space="preserve">
+    <value>Fejl</value>
+  </data>
+  <data name="reward_ad_no_ad" xml:space="preserve">
+    <value>Ingen annonce</value>
+  </data>
+  <data name="province_not_found" xml:space="preserve">
+    <value>Provinsen blev ikke fundet</value>
+  </data>
+  <data name="military_scope_title" xml:space="preserve">
+    <value>Vis og byg i</value>
+  </data>
+  <data name="military_scope_occupied" xml:space="preserve">
+    <value>besat</value>
+  </data>
+  <data name="military_province_occupied_notice" xml:space="preserve">
+    <value>{0} er besat{1}. Du kan ikke bygge eller rekruttere der, før den er befriet.</value>
+  </data>
+  <data name="military_all_provinces_occupied_notice" xml:space="preserve">
+    <value>Alle dine provinser er besat{0}. Du kan ikke bygge eller rekruttere, før en er befriet.</value>
+  </data>
+  <data name="military_occupied_by_suffix" xml:space="preserve">
+    <value> af {0}</value>
+  </data>
+  <data name="war_goals_heading" xml:space="preserve">
+    <value>Krigsmål</value>
+  </data>
+  <data name="war_goal_remove" xml:space="preserve">
+    <value>Fjern</value>
+  </data>
+  <data name="war_goal_remove_question" xml:space="preserve">
+    <value>Fjern dette krigsmål?</value>
+  </data>
+  <data name="war_goal_remove_cost_notice" xml:space="preserve">
+    <value>Omkostningen refunderes ikke: Det koster det samme at tilføje det igen.</value>
+  </data>
+  <data name="map_layer_naval_geography" xml:space="preserve">
+    <value>Søfartsgeografi</value>
+  </data>
+  <data name="map_legend_ice_pack" xml:space="preserve">
+    <value>Pakket havis</value>
+  </data>
+  <data name="map_legend_ice_frozen" xml:space="preserve">
+    <value>Frossen kyst</value>
+  </data>
+  <data name="map_legend_ice_small" xml:space="preserve">
+    <value>Sø eller lukket hav: kun små skibe</value>
+  </data>
+  <data name="map_legend_ice_ocean" xml:space="preserve">
+    <value>Kyst ud til oceanet</value>
+  </data>
+  <data name="map_legend_ice_none" xml:space="preserve">
+    <value>Ingen kyst</value>
+  </data>
+  <data name="province_count" xml:space="preserve">
+    <value>{0} provinser</value>
+  </data>
+  <data name="release_action" xml:space="preserve">
+    <value>Frigiv</value>
+  </data>
+  <data name="release_action_count" xml:space="preserve">
+    <value>Frigiv ({0})</value>
+  </data>
+  <data name="release_nation" xml:space="preserve">
+    <value>Frigiv nation</value>
+  </data>
+  <data name="release_nations" xml:space="preserve">
+    <value>Frigiv nationer</value>
+  </data>
+  <data name="release_goals_unavailable" xml:space="preserve">
+    <value>Ingen frigivelsesmål tilgængelige</value>
+  </data>
+  <data name="release_goals_changed" xml:space="preserve">
+    <value>Frigivelsesmålene er ændret; vælg igen</value>
+  </data>
+  <data name="province_picker_instructions" xml:space="preserve">
+    <value>Vælg provinser, der skal tages fra {0}. Tryk for at tilføje eller fjerne. Grøn: Du kan tage den (ved siden af dit land eller dine valgte provinser, eller ved kysten hvis du ikke grænser op til dem). Rød: For stor til den resterende grænse. Gul: endnu ikke forbundet. Blå: valgt.</value>
+  </data>
+  <data name="province_picker_chosen" xml:space="preserve">
+    <value>Valgt: {0}</value>
+  </data>
+  <data name="province_picker_limits" xml:space="preserve">
+    <value>Areal {0} af højst {1}, befolkning {2} af højst {3} (grænser for areal og befolkning)</value>
+  </data>
+  <data name="province_picker_limit_reached" xml:space="preserve">
+    <value>Grænsen er nået: Der kan ikke tages flere provinser. Tryk på en valgt provins for at fjerne den.</value>
+  </data>
+  <data name="province_picker_no_more_connected" xml:space="preserve">
+    <value>Der kan ikke tages flere provinser: Ingen andre grænser op til dit land eller de provinser, du har valgt.</value>
+  </data>
+  <data name="province_picker_over_limit" xml:space="preserve">
+    <value>For stor til det resterende af grænsen ({0} og {1} indbyggere tilbage).</value>
+  </data>
+  <data name="province_picker_not_connected" xml:space="preserve">
+    <value>Ikke forbundet med dit land eller de provinser, du har valgt.</value>
+  </data>
+  <data name="province_picker_choose_one" xml:space="preserve">
+    <value>Vælg mindst én provins.</value>
+  </data>
+  <data name="war_goal_group_count" xml:space="preserve">
+    <value>{0} × {1}</value>
+  </data>
 </root>

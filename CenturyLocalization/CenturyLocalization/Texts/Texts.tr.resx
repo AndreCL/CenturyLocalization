@@ -898,4 +898,109 @@
   <data name="province_debug_id" xml:space="preserve"><value>Kimlik: {0}</value></data>
   <data name="battle_occupation_gained_description" xml:space="preserve"><value>{0}: bu savaşta %{1} daha fazla işgal etti, toplam %{2}</value></data>
   <data name="battle_occupation_recovered_description" xml:space="preserve"><value>{0}: bu savaşta %{1} geri aldı, %{2} hâlâ işgal altında</value></data>
+  <data name="reward_ad_requires_internet" xml:space="preserve">
+    <value>İnternet bağlantısı gerekir</value>
+  </data>
+  <data name="reward_ad_error" xml:space="preserve">
+    <value>Hata</value>
+  </data>
+  <data name="reward_ad_no_ad" xml:space="preserve">
+    <value>Reklam yok</value>
+  </data>
+  <data name="province_not_found" xml:space="preserve">
+    <value>Eyalet bulunamadı</value>
+  </data>
+  <data name="military_scope_title" xml:space="preserve">
+    <value>Göster ve inşa et</value>
+  </data>
+  <data name="military_scope_occupied" xml:space="preserve">
+    <value>işgal altında</value>
+  </data>
+  <data name="military_province_occupied_notice" xml:space="preserve">
+    <value>{0} işgal altında{1}. Kurtarılana kadar burada inşaat yapamaz veya asker alamazsınız.</value>
+  </data>
+  <data name="military_all_provinces_occupied_notice" xml:space="preserve">
+    <value>Tüm eyaletleriniz işgal altında{0}. Biri kurtarılana kadar inşaat yapamaz veya asker alamazsınız.</value>
+  </data>
+  <data name="military_occupied_by_suffix" xml:space="preserve">
+    <value> {0} tarafından</value>
+  </data>
+  <data name="war_goals_heading" xml:space="preserve">
+    <value>Savaş hedefleri</value>
+  </data>
+  <data name="war_goal_remove" xml:space="preserve">
+    <value>Kaldır</value>
+  </data>
+  <data name="war_goal_remove_question" xml:space="preserve">
+    <value>Bu savaş hedefi kaldırılsın mı?</value>
+  </data>
+  <data name="war_goal_remove_cost_notice" xml:space="preserve">
+    <value>Bedeli iade edilmez: tekrar eklemek ilk seferdeki kadar tutar.</value>
+  </data>
+  <data name="map_layer_naval_geography" xml:space="preserve">
+    <value>Deniz coğrafyası</value>
+  </data>
+  <data name="map_legend_ice_pack" xml:space="preserve">
+    <value>Paket buzu</value>
+  </data>
+  <data name="map_legend_ice_frozen" xml:space="preserve">
+    <value>Donmuş kıyı</value>
+  </data>
+  <data name="map_legend_ice_small" xml:space="preserve">
+    <value>Göl veya kapalı deniz: yalnızca küçük gemiler</value>
+  </data>
+  <data name="map_legend_ice_ocean" xml:space="preserve">
+    <value>Okyanus kıyısı</value>
+  </data>
+  <data name="map_legend_ice_none" xml:space="preserve">
+    <value>Kıyı yok</value>
+  </data>
+  <data name="province_count" xml:space="preserve">
+    <value>{0} eyalet</value>
+  </data>
+  <data name="release_action" xml:space="preserve">
+    <value>Serbest bırak</value>
+  </data>
+  <data name="release_action_count" xml:space="preserve">
+    <value>Serbest bırak ({0})</value>
+  </data>
+  <data name="release_nation" xml:space="preserve">
+    <value>Ulusu serbest bırak</value>
+  </data>
+  <data name="release_nations" xml:space="preserve">
+    <value>Ulusları serbest bırak</value>
+  </data>
+  <data name="release_goals_unavailable" xml:space="preserve">
+    <value>Serbest bırakma hedefi yok</value>
+  </data>
+  <data name="release_goals_changed" xml:space="preserve">
+    <value>Serbest bırakma hedefleri değişti; yeniden seçin</value>
+  </data>
+  <data name="province_picker_instructions" xml:space="preserve">
+    <value>{0} ülkesinden alınacak eyaletleri seçin. Eklemek veya çıkarmak için dokunun. Yeşil: alınabilir (toprağınıza veya seçtiklerinize bitişik ya da sınırınız yoksa kıyıda). Kırmızı: kalan sınırdan büyük. Sarı: henüz bağlantılı değil. Mavi: seçildi.</value>
+  </data>
+  <data name="province_picker_chosen" xml:space="preserve">
+    <value>Seçilen: {0}</value>
+  </data>
+  <data name="province_picker_limits" xml:space="preserve">
+    <value>Alan {0} / en fazla {1}, nüfus {2} / en fazla {3} (alan ve nüfus sınırları)</value>
+  </data>
+  <data name="province_picker_limit_reached" xml:space="preserve">
+    <value>Sınıra ulaşıldı: daha fazla eyalet alınamaz. Kaldırmak için seçili bir eyalete dokunun.</value>
+  </data>
+  <data name="province_picker_no_more_connected" xml:space="preserve">
+    <value>Daha fazla eyalet alınamaz: başka hiçbir eyalet toprağınıza veya seçtiklerinize bağlı değil.</value>
+  </data>
+  <data name="province_picker_over_limit" xml:space="preserve">
+    <value>Kalan sınır için çok büyük ({0} alan ve {1} kişi kaldı).</value>
+  </data>
+  <data name="province_picker_not_connected" xml:space="preserve">
+    <value>Toprağınıza veya seçtiğiniz eyaletlere bağlı değil.</value>
+  </data>
+  <data name="province_picker_choose_one" xml:space="preserve">
+    <value>En az bir eyalet seçin.</value>
+  </data>
+  <data name="war_goal_group_count" xml:space="preserve">
+    <value>{0} × {1}</value>
+  </data>
 </root>

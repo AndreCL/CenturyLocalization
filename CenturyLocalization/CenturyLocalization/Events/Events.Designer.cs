@@ -115,6 +115,177 @@ namespace CenturyLocalization.Events {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to The nation of {0} officially left {1} due to its annexation..
+        /// </summary>
+        internal static string event_annexed_left_war {
+            get {
+                return ResourceManager.GetString("event_annexed_left_war", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Choose provinces on map.
+        /// </summary>
+        internal static string event_choose_provinces_on_map {
+            get {
+                return ResourceManager.GetString("event_choose_provinces_on_map", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to   and  .
+        /// </summary>
+        internal static string event_country_name_list_joiner {
+            get {
+                return ResourceManager.GetString("event_country_name_list_joiner", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to {0} has released {1} as an independent nation..
+        /// </summary>
+        internal static string event_country_released {
+            get {
+                return ResourceManager.GetString("event_country_released", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to With {0} gone, {1} goes by the name {2}.
+        /// </summary>
+        internal static string event_country_renamed_lost_lands {
+            get {
+                return ResourceManager.GetString("event_country_renamed_lost_lands", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to With the lands of the South Slavs united under its rule, {0} goes by the name {1}.
+        /// </summary>
+        internal static string event_country_renamed_south_slavs {
+            get {
+                return ResourceManager.GetString("event_country_renamed_south_slavs", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to {0} is now {1}.
+        /// </summary>
+        internal static string event_country_renamed_title {
+            get {
+                return ResourceManager.GetString("event_country_renamed_title", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Declare neutrality.
+        /// </summary>
+        internal static string event_declare_neutrality {
+            get {
+                return ResourceManager.GetString("event_declare_neutrality", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Ignore.
+        /// </summary>
+        internal static string event_ignore {
+            get {
+                return ResourceManager.GetString("event_ignore", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to {0} has become so infamous that {1} has broken out against it. As an enemy of {0}, do we join the attackers?.
+        /// </summary>
+        internal static string event_infamy_war_invitation {
+            get {
+                return ResourceManager.GetString("event_infamy_war_invitation", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Infamy war.
+        /// </summary>
+        internal static string event_infamy_war_title {
+            get {
+                return ResourceManager.GetString("event_infamy_war_title", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to {0} {1}% of men of fighting age.
+        /// </summary>
+        internal static string event_mobilize_share {
+            get {
+                return ResourceManager.GetString("event_mobilize_share", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Release countries.
+        /// </summary>
+        internal static string event_release_countries {
+            get {
+                return ResourceManager.GetString("event_release_countries", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Release {0} ({1}).
+        /// </summary>
+        internal static string event_release_country_detail {
+            get {
+                return ResourceManager.GetString("event_release_country_detail", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to  from {0}.
+        /// </summary>
+        internal static string event_release_holders_suffix {
+            get {
+                return ResourceManager.GetString("event_release_holders_suffix", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to {0} surrenders.
+        /// </summary>
+        internal static string event_surrender_title {
+            get {
+                return ResourceManager.GetString("event_surrender_title", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to {0}: {1}.
+        /// </summary>
+        internal static string event_war_goal_provinces {
+            get {
+                return ResourceManager.GetString("event_war_goal_provinces", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to A world war has started, the goverment needs to state their position..
+        /// </summary>
+        internal static string event_world_war_position_message {
+            get {
+                return ResourceManager.GetString("event_world_war_position_message", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Question of our nations position.
+        /// </summary>
+        internal static string event_world_war_position_title {
+            get {
+                return ResourceManager.GetString("event_world_war_position_title", resourceCulture);
+            }
+        }
+
+        /// <summary>
         ///   Looks up a localized string similar to Famine!.
         /// </summary>
         internal static string famine_title {

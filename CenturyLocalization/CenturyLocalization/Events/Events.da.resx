@@ -165,4 +165,61 @@
   <data name="play_country" xml:space="preserve">
     <value>Spil som {0}</value>
   </data>
+  <data name="event_choose_provinces_on_map" xml:space="preserve">
+    <value>Vælg provinser på kortet</value>
+  </data>
+  <data name="event_release_countries" xml:space="preserve">
+    <value>Frigiv lande</value>
+  </data>
+  <data name="event_release_country_detail" xml:space="preserve">
+    <value>Frigiv {0} ({1})</value>
+  </data>
+  <data name="event_release_holders_suffix" xml:space="preserve">
+    <value> fra {0}</value>
+  </data>
+  <data name="event_war_goal_provinces" xml:space="preserve">
+    <value>{0}: {1}</value>
+  </data>
+  <data name="event_mobilize_share" xml:space="preserve">
+    <value>{0} {1}% af mænd i den værnepligtige alder</value>
+  </data>
+  <data name="event_country_released" xml:space="preserve">
+    <value>{0} har frigivet {1} som en selvstændig nation.</value>
+  </data>
+  <data name="event_country_renamed_title" xml:space="preserve">
+    <value>{0} hedder nu {1}</value>
+  </data>
+  <data name="event_country_renamed_lost_lands" xml:space="preserve">
+    <value>Efter {0} er væk, går {1} under navnet {2}</value>
+  </data>
+  <data name="event_country_name_list_joiner" xml:space="preserve">
+    <value>  og  </value>
+  </data>
+  <data name="event_country_renamed_south_slavs" xml:space="preserve">
+    <value>Da sydslavernes lande er samlet under dets styre, går {0} under navnet {1}</value>
+  </data>
+  <data name="event_infamy_war_title" xml:space="preserve">
+    <value>Skændselskrig</value>
+  </data>
+  <data name="event_infamy_war_invitation" xml:space="preserve">
+    <value>{0} er blevet så berygtet, at {1} er brudt ud mod landet. Skal vi som fjende af {0} slutte os til angriberne?</value>
+  </data>
+  <data name="event_world_war_position_title" xml:space="preserve">
+    <value>Spørgsmålet om vores nations stilling</value>
+  </data>
+  <data name="event_world_war_position_message" xml:space="preserve">
+    <value>En verdenskrig er begyndt, og regeringen skal tage stilling.</value>
+  </data>
+  <data name="event_declare_neutrality" xml:space="preserve">
+    <value>Erklær neutralitet</value>
+  </data>
+  <data name="event_ignore" xml:space="preserve">
+    <value>Ignorer</value>
+  </data>
+  <data name="event_surrender_title" xml:space="preserve">
+    <value>{0} overgiver sig</value>
+  </data>
+  <data name="event_annexed_left_war" xml:space="preserve">
+    <value>Nationen {0} forlod officielt {1} som følge af sin annektering.</value>
+  </data>
 </root>

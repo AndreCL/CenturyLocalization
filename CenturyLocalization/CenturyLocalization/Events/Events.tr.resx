@@ -165,4 +165,61 @@
   <data name="play_country" xml:space="preserve">
     <value>{0} olarak oyna</value>
   </data>
+  <data name="event_choose_provinces_on_map" xml:space="preserve">
+    <value>Haritada eyaletleri seç</value>
+  </data>
+  <data name="event_release_countries" xml:space="preserve">
+    <value>Ülkeleri serbest bırak</value>
+  </data>
+  <data name="event_release_country_detail" xml:space="preserve">
+    <value>{0} ülkesini serbest bırak ({1})</value>
+  </data>
+  <data name="event_release_holders_suffix" xml:space="preserve">
+    <value> {0} tarafından</value>
+  </data>
+  <data name="event_war_goal_provinces" xml:space="preserve">
+    <value>{0}: {1}</value>
+  </data>
+  <data name="event_mobilize_share" xml:space="preserve">
+    <value>{0} savaş çağındaki erkeklerin %{1}&apos;</value>
+  </data>
+  <data name="event_country_released" xml:space="preserve">
+    <value>{0}, {1} ülkesini bağımsız bir devlet olarak serbest bıraktı.</value>
+  </data>
+  <data name="event_country_renamed_title" xml:space="preserve">
+    <value>{0} artık {1} olarak adlandırılıyor</value>
+  </data>
+  <data name="event_country_renamed_lost_lands" xml:space="preserve">
+    <value>{0} ayrılınca {1}, {2} adını aldı</value>
+  </data>
+  <data name="event_country_name_list_joiner" xml:space="preserve">
+    <value>  ve  </value>
+  </data>
+  <data name="event_country_renamed_south_slavs" xml:space="preserve">
+    <value>Güney Slavlarının topraklarını yönetimi altında birleştiren {0}, artık {1} adını taşıyor</value>
+  </data>
+  <data name="event_infamy_war_title" xml:space="preserve">
+    <value>İtibar savaşı</value>
+  </data>
+  <data name="event_infamy_war_invitation" xml:space="preserve">
+    <value>{0} o kadar kötü bir şöhrete kavuştu ki ona karşı {1} başladı. {0} düşmanı olarak saldıranlara katılalım mı?</value>
+  </data>
+  <data name="event_world_war_position_title" xml:space="preserve">
+    <value>Ülkemizin tutumu</value>
+  </data>
+  <data name="event_world_war_position_message" xml:space="preserve">
+    <value>Bir dünya savaşı başladı; hükümetin tutumunu açıklaması gerekiyor.</value>
+  </data>
+  <data name="event_declare_neutrality" xml:space="preserve">
+    <value>Tarafsızlık ilan et</value>
+  </data>
+  <data name="event_ignore" xml:space="preserve">
+    <value>Yoksay</value>
+  </data>
+  <data name="event_surrender_title" xml:space="preserve">
+    <value>{0} teslim oluyor</value>
+  </data>
+  <data name="event_annexed_left_war" xml:space="preserve">
+    <value>{0} ülkesi ilhak edilmesi nedeniyle {1} savaşından resmen ayrıldı.</value>
+  </data>
 </root>

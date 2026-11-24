@@ -169,4 +169,61 @@
     <value>Play as {0}</value>
     <comment>Where 0 is the new country name</comment>
   </data>
+  <data name="event_choose_provinces_on_map" xml:space="preserve">
+    <value>Choose provinces on map</value>
+  </data>
+  <data name="event_release_countries" xml:space="preserve">
+    <value>Release countries</value>
+  </data>
+  <data name="event_release_country_detail" xml:space="preserve">
+    <value>Release {0} ({1})</value>
+  </data>
+  <data name="event_release_holders_suffix" xml:space="preserve">
+    <value> from {0}</value>
+  </data>
+  <data name="event_war_goal_provinces" xml:space="preserve">
+    <value>{0}: {1}</value>
+  </data>
+  <data name="event_mobilize_share" xml:space="preserve">
+    <value>{0} {1}% of men of fighting age</value>
+  </data>
+  <data name="event_country_released" xml:space="preserve">
+    <value>{0} has released {1} as an independent nation.</value>
+  </data>
+  <data name="event_country_renamed_title" xml:space="preserve">
+    <value>{0} is now {1}</value>
+  </data>
+  <data name="event_country_renamed_lost_lands" xml:space="preserve">
+    <value>With {0} gone, {1} goes by the name {2}</value>
+  </data>
+  <data name="event_country_name_list_joiner" xml:space="preserve">
+    <value>  and  </value>
+  </data>
+  <data name="event_country_renamed_south_slavs" xml:space="preserve">
+    <value>With the lands of the South Slavs united under its rule, {0} goes by the name {1}</value>
+  </data>
+  <data name="event_infamy_war_title" xml:space="preserve">
+    <value>Infamy war</value>
+  </data>
+  <data name="event_infamy_war_invitation" xml:space="preserve">
+    <value>{0} has become so infamous that {1} has broken out against it. As an enemy of {0}, do we join the attackers?</value>
+  </data>
+  <data name="event_world_war_position_title" xml:space="preserve">
+    <value>Question of our nations position</value>
+  </data>
+  <data name="event_world_war_position_message" xml:space="preserve">
+    <value>A world war has started, the goverment needs to state their position.</value>
+  </data>
+  <data name="event_declare_neutrality" xml:space="preserve">
+    <value>Declare neutrality</value>
+  </data>
+  <data name="event_ignore" xml:space="preserve">
+    <value>Ignore</value>
+  </data>
+  <data name="event_surrender_title" xml:space="preserve">
+    <value>{0} surrenders</value>
+  </data>
+  <data name="event_annexed_left_war" xml:space="preserve">
+    <value>The nation of {0} officially left {1} due to its annexation.</value>
+  </data>
 </root>

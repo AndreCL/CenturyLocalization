@@ -193,4 +193,52 @@
   <data name="sent_aid" xml:space="preserve">
     <value>Yardım gönderdi</value>
   </data>
+  <data name="diplomacy_call_to_arms_title" xml:space="preserve">
+    <value>Silahlanma çağrısı</value>
+  </data>
+  <data name="diplomacy_call_to_arms_attack" xml:space="preserve">
+    <value>Müttefikimiz {0}, {1} savaşını başlattı ve bizi savaşa katılmaya çağırıyor. Katılalım mı?</value>
+  </data>
+  <data name="diplomacy_call_to_arms_defend" xml:space="preserve">
+    <value>Müttefikimiz {0}, {1} savaşında saldırıya uğradı. Onu savunmak için savaşa katılalım mı?</value>
+  </data>
+  <data name="diplomacy_call_to_arms_both_sides" xml:space="preserve">
+    <value>{0}, {2} savaşında {1} ülkesine saldırdı ve her iki tarafla da müttefikiz. Bir tarafa katılmak diğer tarafla ittifakımızı bozar. Hangi tarafta yer alalım?</value>
+  </data>
+  <data name="diplomacy_alliance_formed" xml:space="preserve">
+    <value>{0} ittifakı kuruldu.</value>
+  </data>
+  <data name="diplomacy_alliance_joined" xml:space="preserve">
+    <value>{0}, {1} ittifakına katıldı.</value>
+  </data>
+  <data name="diplomacy_alliance_invitation" xml:space="preserve">
+    <value>{0} ittifakına katılmaya davet edildik. Kabul edelim mi?</value>
+  </data>
+  <data name="diplomacy_alliance_invitation_rejected" xml:space="preserve">
+    <value>{0}, {1} ittifakına katılma davetimizi reddetti.</value>
+  </data>
+  <data name="diplomacy_alliance_dissolved" xml:space="preserve">
+    <value>{0} ittifakı dağıtıldı.</value>
+  </data>
+  <data name="diplomacy_alliance_offer" xml:space="preserve">
+    <value>{0} ittifak öneriyor. Kabul edelim mi?</value>
+  </data>
+  <data name="diplomacy_alliance_default_name" xml:space="preserve">
+    <value>{0}-{1} ittifakı</value>
+  </data>
+  <data name="diplomacy_alliance_offer_rejected" xml:space="preserve">
+    <value>{0} ittifak teklifimizi reddetti.</value>
+  </data>
+  <data name="diplomacy_alliance_member_ceased" xml:space="preserve">
+    <value>{0} artık var olmadığı için {1} ittifakından ayrıldı.</value>
+  </data>
+  <data name="diplomacy_alliance_member_left" xml:space="preserve">
+    <value>{0}, {1} ittifakından ayrıldı.</value>
+  </data>
+  <data name="diplomacy_alliance_dissolved_suffix" xml:space="preserve">
+    <value> İttifak dağıtıldı.</value>
+  </data>
+  <data name="diplomacy_duplicate_alliance_removed" xml:space="preserve">
+    <value>{0} ittifakı, {1} ittifakıyla aynı üyelere sahip olduğu için kaldırıldı.</value>
+  </data>
 </root>

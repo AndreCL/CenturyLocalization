@@ -879,4 +879,109 @@
   <data name="province_debug_id" xml:space="preserve"><value>المعرّف: {0}</value></data>
   <data name="battle_occupation_gained_description" xml:space="preserve"><value>{0}: احتل {1}% إضافية في هذه المعركة، ليصبح الإجمالي {2}%</value></data>
   <data name="battle_occupation_recovered_description" xml:space="preserve"><value>{0}: استُعيدت {1}% في هذه المعركة، وما زالت {2}% محتلة</value></data>
+  <data name="reward_ad_requires_internet" xml:space="preserve">
+    <value>يتطلب اتصالًا بالإنترنت</value>
+  </data>
+  <data name="reward_ad_error" xml:space="preserve">
+    <value>خطأ</value>
+  </data>
+  <data name="reward_ad_no_ad" xml:space="preserve">
+    <value>لا يوجد إعلان</value>
+  </data>
+  <data name="province_not_found" xml:space="preserve">
+    <value>لم يتم العثور على المقاطعة</value>
+  </data>
+  <data name="military_scope_title" xml:space="preserve">
+    <value>عرض والبناء في</value>
+  </data>
+  <data name="military_scope_occupied" xml:space="preserve">
+    <value>محتلة</value>
+  </data>
+  <data name="military_province_occupied_notice" xml:space="preserve">
+    <value>{0} محتلة{1}. لا يمكنك البناء أو التجنيد فيها حتى تحريرها.</value>
+  </data>
+  <data name="military_all_provinces_occupied_notice" xml:space="preserve">
+    <value>جميع مقاطعاتك محتلة{0}. لا يمكنك البناء أو التجنيد حتى تحرير إحداها.</value>
+  </data>
+  <data name="military_occupied_by_suffix" xml:space="preserve">
+    <value> من قِبل {0}</value>
+  </data>
+  <data name="war_goals_heading" xml:space="preserve">
+    <value>أهداف الحرب</value>
+  </data>
+  <data name="war_goal_remove" xml:space="preserve">
+    <value>إزالة</value>
+  </data>
+  <data name="war_goal_remove_question" xml:space="preserve">
+    <value>هل تريد إزالة هدف الحرب هذا؟</value>
+  </data>
+  <data name="war_goal_remove_cost_notice" xml:space="preserve">
+    <value>لن تُسترد تكلفته: ستكلف إضافته مجددًا ما كلفه في المرة الأولى.</value>
+  </data>
+  <data name="map_layer_naval_geography" xml:space="preserve">
+    <value>الجغرافيا البحرية</value>
+  </data>
+  <data name="map_legend_ice_pack" xml:space="preserve">
+    <value>جليد بحري متراكم</value>
+  </data>
+  <data name="map_legend_ice_frozen" xml:space="preserve">
+    <value>ساحل متجمد</value>
+  </data>
+  <data name="map_legend_ice_small" xml:space="preserve">
+    <value>بحيرة أو بحر مغلق: سفن صغيرة فقط</value>
+  </data>
+  <data name="map_legend_ice_ocean" xml:space="preserve">
+    <value>ساحل على المحيط</value>
+  </data>
+  <data name="map_legend_ice_none" xml:space="preserve">
+    <value>لا ساحل</value>
+  </data>
+  <data name="province_count" xml:space="preserve">
+    <value>{0} مقاطعات</value>
+  </data>
+  <data name="release_action" xml:space="preserve">
+    <value>تحرير</value>
+  </data>
+  <data name="release_action_count" xml:space="preserve">
+    <value>تحرير ({0})</value>
+  </data>
+  <data name="release_nation" xml:space="preserve">
+    <value>تحرير دولة</value>
+  </data>
+  <data name="release_nations" xml:space="preserve">
+    <value>تحرير دول</value>
+  </data>
+  <data name="release_goals_unavailable" xml:space="preserve">
+    <value>لا توجد أهداف تحرير متاحة</value>
+  </data>
+  <data name="release_goals_changed" xml:space="preserve">
+    <value>تغيرت أهداف التحرير؛ اختر مجددًا</value>
+  </data>
+  <data name="province_picker_instructions" xml:space="preserve">
+    <value>اختر المقاطعات التي ستأخذها من {0}. اضغط للإضافة أو الإزالة. الأخضر: يمكنك أخذها (مجاورة لأرضك أو للمقاطعات التي اخترتها، أو على الساحل إذا لم تكن لك حدود معها). الأحمر: أكبر مما تبقى من الحد. الأصفر: غير متصلة بعد. الأزرق: مختارة.</value>
+  </data>
+  <data name="province_picker_chosen" xml:space="preserve">
+    <value>المختار: {0}</value>
+  </data>
+  <data name="province_picker_limits" xml:space="preserve">
+    <value>المساحة {0} من حد أقصى {1}، والسكان {2} من حد أقصى {3} (حدود المساحة والسكان)</value>
+  </data>
+  <data name="province_picker_limit_reached" xml:space="preserve">
+    <value>تم بلوغ الحد: لا يمكن أخذ مزيد من المقاطعات. اضغط على مقاطعة مختارة لإزالتها.</value>
+  </data>
+  <data name="province_picker_no_more_connected" xml:space="preserve">
+    <value>لا يمكن أخذ مزيد من المقاطعات: لا توجد مقاطعة أخرى متصلة بأرضك أو بالمقاطعات التي اخترتها.</value>
+  </data>
+  <data name="province_picker_over_limit" xml:space="preserve">
+    <value>أكبر من الحد المتبقي ({0} و{1} من السكان متبقون).</value>
+  </data>
+  <data name="province_picker_not_connected" xml:space="preserve">
+    <value>غير متصلة بأرضك أو بالمقاطعات التي اخترتها.</value>
+  </data>
+  <data name="province_picker_choose_one" xml:space="preserve">
+    <value>اختر مقاطعة واحدة على الأقل.</value>
+  </data>
+  <data name="war_goal_group_count" xml:space="preserve">
+    <value>{0} × {1}</value>
+  </data>
 </root>

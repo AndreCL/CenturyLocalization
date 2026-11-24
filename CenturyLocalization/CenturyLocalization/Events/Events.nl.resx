@@ -165,4 +165,61 @@
   <data name="play_country" xml:space="preserve">
     <value>Speel als {0}</value>
   </data>
+  <data name="event_choose_provinces_on_map" xml:space="preserve">
+    <value>Provincies op de kaart kiezen</value>
+  </data>
+  <data name="event_release_countries" xml:space="preserve">
+    <value>Landen vrijlaten</value>
+  </data>
+  <data name="event_release_country_detail" xml:space="preserve">
+    <value>{0} vrijlaten ({1})</value>
+  </data>
+  <data name="event_release_holders_suffix" xml:space="preserve">
+    <value> van {0}</value>
+  </data>
+  <data name="event_war_goal_provinces" xml:space="preserve">
+    <value>{0}: {1}</value>
+  </data>
+  <data name="event_mobilize_share" xml:space="preserve">
+    <value>{0} {1}% van de mannen op vechtleeftijd</value>
+  </data>
+  <data name="event_country_released" xml:space="preserve">
+    <value>{0} heeft {1} als onafhankelijke natie vrijgelaten.</value>
+  </data>
+  <data name="event_country_renamed_title" xml:space="preserve">
+    <value>{0} heet nu {1}</value>
+  </data>
+  <data name="event_country_renamed_lost_lands" xml:space="preserve">
+    <value>Nu {0} is vertrokken, heet {1} voortaan {2}</value>
+  </data>
+  <data name="event_country_name_list_joiner" xml:space="preserve">
+    <value>  en  </value>
+  </data>
+  <data name="event_country_renamed_south_slavs" xml:space="preserve">
+    <value>Nu de landen van de Zuid-Slaven onder zijn heerschappij zijn verenigd, heet {0} voortaan {1}</value>
+  </data>
+  <data name="event_infamy_war_title" xml:space="preserve">
+    <value>Schandalenoorlog</value>
+  </data>
+  <data name="event_infamy_war_invitation" xml:space="preserve">
+    <value>{0} is zo berucht geworden dat {1} tegen het land is uitgebroken. Sluiten we ons als vijand van {0} aan bij de aanvallers?</value>
+  </data>
+  <data name="event_world_war_position_title" xml:space="preserve">
+    <value>Het standpunt van ons land</value>
+  </data>
+  <data name="event_world_war_position_message" xml:space="preserve">
+    <value>Er is een wereldoorlog uitgebroken; de regering moet haar standpunt bepalen.</value>
+  </data>
+  <data name="event_declare_neutrality" xml:space="preserve">
+    <value>Neutraliteit verklaren</value>
+  </data>
+  <data name="event_ignore" xml:space="preserve">
+    <value>Negeren</value>
+  </data>
+  <data name="event_surrender_title" xml:space="preserve">
+    <value>{0} geeft zich over</value>
+  </data>
+  <data name="event_annexed_left_war" xml:space="preserve">
+    <value>Het land {0} heeft {1} officieel verlaten vanwege de annexatie.</value>
+  </data>
 </root>

@@ -250,6 +250,24 @@ namespace CenturyLocalization.Texts {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to {0}: occupied {1}% more in this battle, {2}% in all.
+        /// </summary>
+        internal static string battle_occupation_gained_description {
+            get {
+                return ResourceManager.GetString("battle_occupation_gained_description", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to {0}: {1}% taken back in this battle, {2}% still occupied.
+        /// </summary>
+        internal static string battle_occupation_recovered_description {
+            get {
+                return ResourceManager.GetString("battle_occupation_recovered_description", resourceCulture);
+            }
+        }
+
+        /// <summary>
         ///   Looks up a localized string similar to Battles.
         /// </summary>
         internal static string battles {
@@ -600,6 +618,15 @@ namespace CenturyLocalization.Texts {
             }
         }
         
+        /// <summary>
+        ///   Looks up a localized string similar to Missionaries.
+        /// </summary>
+        internal static string diplomacy_missionaries {
+            get {
+                return ResourceManager.GetString("diplomacy_missionaries", resourceCulture);
+            }
+        }
+
         /// <summary>
         ///   Looks up a localized string similar to Diplomatic actions available: {0}.
         /// </summary>
@@ -1150,6 +1177,15 @@ namespace CenturyLocalization.Texts {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Naval geography.
+        /// </summary>
+        internal static string map_layer_naval_geography {
+            get {
+                return ResourceManager.GetString("map_layer_naval_geography", resourceCulture);
+            }
+        }
+
+        /// <summary>
         ///   Looks up a localized string similar to Political.
         /// </summary>
         internal static string map_layer_political {
@@ -1168,6 +1204,15 @@ namespace CenturyLocalization.Texts {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Wars.
+        /// </summary>
+        internal static string map_layer_wars {
+            get {
+                return ResourceManager.GetString("map_layer_wars", resourceCulture);
+            }
+        }
+
+        /// <summary>
         ///   Looks up a localized string similar to Map layers.
         /// </summary>
         internal static string map_layers {
@@ -1177,6 +1222,51 @@ namespace CenturyLocalization.Texts {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Frozen coast.
+        /// </summary>
+        internal static string map_legend_ice_frozen {
+            get {
+                return ResourceManager.GetString("map_legend_ice_frozen", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to No coast.
+        /// </summary>
+        internal static string map_legend_ice_none {
+            get {
+                return ResourceManager.GetString("map_legend_ice_none", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Coast on the ocean.
+        /// </summary>
+        internal static string map_legend_ice_ocean {
+            get {
+                return ResourceManager.GetString("map_legend_ice_ocean", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Pack ice.
+        /// </summary>
+        internal static string map_legend_ice_pack {
+            get {
+                return ResourceManager.GetString("map_legend_ice_pack", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Lake or closed sea: small ships only.
+        /// </summary>
+        internal static string map_legend_ice_small {
+            get {
+                return ResourceManager.GetString("map_legend_ice_small", resourceCulture);
+            }
+        }
+
+        /// <summary>
         ///   Looks up a localized string similar to Stripes: the religion of the state.
         /// </summary>
         internal static string map_legend_state_religion {
@@ -1185,6 +1275,33 @@ namespace CenturyLocalization.Texts {
             }
         }
         
+        /// <summary>
+        ///   Looks up a localized string similar to Ally in a war.
+        /// </summary>
+        internal static string map_legend_wars_allied {
+            get {
+                return ResourceManager.GetString("map_legend_wars_allied", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to At war with you.
+        /// </summary>
+        internal static string map_legend_wars_at_war {
+            get {
+                return ResourceManager.GetString("map_legend_wars_at_war", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Not at war.
+        /// </summary>
+        internal static string map_legend_wars_none {
+            get {
+                return ResourceManager.GetString("map_legend_wars_none", resourceCulture);
+            }
+        }
+
         /// <summary>
         ///   Looks up a localized string similar to Your country.
         /// </summary>
@@ -1231,6 +1348,15 @@ namespace CenturyLocalization.Texts {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to All your provinces are occupied{0}. You cannot build or recruit until one is freed..
+        /// </summary>
+        internal static string military_all_provinces_occupied_notice {
+            get {
+                return ResourceManager.GetString("military_all_provinces_occupied_notice", resourceCulture);
+            }
+        }
+
+        /// <summary>
         ///   Looks up a localized string similar to Military expenses.
         /// </summary>
         internal static string military_expenses {
@@ -1248,6 +1374,42 @@ namespace CenturyLocalization.Texts {
             }
         }
         
+        /// <summary>
+        ///   Looks up a localized string similar to  by {0}.
+        /// </summary>
+        internal static string military_occupied_by_suffix {
+            get {
+                return ResourceManager.GetString("military_occupied_by_suffix", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to {0} is occupied{1}. You cannot build or recruit there until it is freed..
+        /// </summary>
+        internal static string military_province_occupied_notice {
+            get {
+                return ResourceManager.GetString("military_province_occupied_notice", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to occupied.
+        /// </summary>
+        internal static string military_scope_occupied {
+            get {
+                return ResourceManager.GetString("military_scope_occupied", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Show and build in.
+        /// </summary>
+        internal static string military_scope_title {
+            get {
+                return ResourceManager.GetString("military_scope_title", resourceCulture);
+            }
+        }
+
         /// <summary>
         ///   Looks up a localized string similar to Money.
         /// </summary>
@@ -1548,6 +1710,15 @@ namespace CenturyLocalization.Texts {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Peace treaty signed.
+        /// </summary>
+        internal static string peace_treaty_signed {
+            get {
+                return ResourceManager.GetString("peace_treaty_signed", resourceCulture);
+            }
+        }
+
+        /// <summary>
         ///   Looks up a localized string similar to {0} of daily income.
         /// </summary>
         internal static string percent_of_daily_income {
@@ -1619,6 +1790,51 @@ namespace CenturyLocalization.Texts {
             }
         }
         
+        /// <summary>
+        ///   Looks up a localized string similar to Authored area.
+        /// </summary>
+        internal static string province_area_authored {
+            get {
+                return ResourceManager.GetString("province_area_authored", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Drawn area.
+        /// </summary>
+        internal static string province_area_drawn {
+            get {
+                return ResourceManager.GetString("province_area_drawn", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Not available.
+        /// </summary>
+        internal static string province_area_unavailable {
+            get {
+                return ResourceManager.GetString("province_area_unavailable", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to {0} provinces.
+        /// </summary>
+        internal static string province_count {
+            get {
+                return ResourceManager.GetString("province_count", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Id: {0}.
+        /// </summary>
+        internal static string province_debug_id {
+            get {
+                return ResourceManager.GetString("province_debug_id", resourceCulture);
+            }
+        }
+
         /// <summary>
         ///   Looks up a localized string similar to Coastal {0}.
         /// </summary>
@@ -1701,6 +1917,87 @@ namespace CenturyLocalization.Texts {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Province not found.
+        /// </summary>
+        internal static string province_not_found {
+            get {
+                return ResourceManager.GetString("province_not_found", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Choose at least one province..
+        /// </summary>
+        internal static string province_picker_choose_one {
+            get {
+                return ResourceManager.GetString("province_picker_choose_one", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Chosen: {0}.
+        /// </summary>
+        internal static string province_picker_chosen {
+            get {
+                return ResourceManager.GetString("province_picker_chosen", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Choose provinces to take from {0}. Tap to add or remove. Green: you can take it (next to your land, next to the ones you have chosen, or on the coast if you have no border with them). Red: too big for what is left of the limit. Yellow: not connected yet. Blue: chosen..
+        /// </summary>
+        internal static string province_picker_instructions {
+            get {
+                return ResourceManager.GetString("province_picker_instructions", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to The limit is reached: no more provinces can be taken. Tap a chosen province to remove it..
+        /// </summary>
+        internal static string province_picker_limit_reached {
+            get {
+                return ResourceManager.GetString("province_picker_limit_reached", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Area {0} of at most {1}, people {2} of at most {3} (the limits on area and on population).
+        /// </summary>
+        internal static string province_picker_limits {
+            get {
+                return ResourceManager.GetString("province_picker_limits", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to No more provinces can be taken: none other is connected to your land or to the provinces you have chosen..
+        /// </summary>
+        internal static string province_picker_no_more_connected {
+            get {
+                return ResourceManager.GetString("province_picker_no_more_connected", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Not connected to your land or to the provinces you have chosen..
+        /// </summary>
+        internal static string province_picker_not_connected {
+            get {
+                return ResourceManager.GetString("province_picker_not_connected", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Too big for what is left of the limit ({0} and {1} people left)..
+        /// </summary>
+        internal static string province_picker_over_limit {
+            get {
+                return ResourceManager.GetString("province_picker_over_limit", resourceCulture);
+            }
+        }
+
+        /// <summary>
         ///   Looks up a localized string similar to Random.
         /// </summary>
         internal static string random {
@@ -1764,6 +2061,60 @@ namespace CenturyLocalization.Texts {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Release.
+        /// </summary>
+        internal static string release_action {
+            get {
+                return ResourceManager.GetString("release_action", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Release ({0}).
+        /// </summary>
+        internal static string release_action_count {
+            get {
+                return ResourceManager.GetString("release_action_count", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Release goals changed; select again.
+        /// </summary>
+        internal static string release_goals_changed {
+            get {
+                return ResourceManager.GetString("release_goals_changed", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to No release goals available.
+        /// </summary>
+        internal static string release_goals_unavailable {
+            get {
+                return ResourceManager.GetString("release_goals_unavailable", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Release nation.
+        /// </summary>
+        internal static string release_nation {
+            get {
+                return ResourceManager.GetString("release_nation", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Release nations.
+        /// </summary>
+        internal static string release_nations {
+            get {
+                return ResourceManager.GetString("release_nations", resourceCulture);
+            }
+        }
+
+        /// <summary>
         ///   Looks up a localized string similar to Your nation has too small main religion! You are at risk of religions declaring independence!.
         /// </summary>
         internal static string religious_diversity_risk {
@@ -1772,6 +2123,33 @@ namespace CenturyLocalization.Texts {
             }
         }
         
+        /// <summary>
+        ///   Looks up a localized string similar to Error.
+        /// </summary>
+        internal static string reward_ad_error {
+            get {
+                return ResourceManager.GetString("reward_ad_error", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to No ad.
+        /// </summary>
+        internal static string reward_ad_no_ad {
+            get {
+                return ResourceManager.GetString("reward_ad_no_ad", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Requires internet.
+        /// </summary>
+        internal static string reward_ad_requires_internet {
+            get {
+                return ResourceManager.GetString("reward_ad_requires_internet", resourceCulture);
+            }
+        }
+
         /// <summary>
         ///   Looks up a localized string similar to Rifles:.
         /// </summary>
@@ -1889,6 +2267,15 @@ namespace CenturyLocalization.Texts {
             }
         }
         
+        /// <summary>
+        ///   Looks up a localized string similar to Send Missionaries to {0}.
+        /// </summary>
+        internal static string send_missionaries_to_province {
+            get {
+                return ResourceManager.GetString("send_missionaries_to_province", resourceCulture);
+            }
+        }
+
         /// <summary>
         ///   Looks up a localized string similar to Send volunteers.
         /// </summary>
@@ -2088,6 +2475,15 @@ namespace CenturyLocalization.Texts {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Neither side can fight the other any longer, so the war ends without a winner..
+        /// </summary>
+        internal static string war_ends_without_winner {
+            get {
+                return ResourceManager.GetString("war_ends_without_winner", resourceCulture);
+            }
+        }
+
+        /// <summary>
         ///   Looks up a localized string similar to Annex country.
         /// </summary>
         internal static string war_goal_annex_country {
@@ -2115,6 +2511,15 @@ namespace CenturyLocalization.Texts {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to {0} x {1}.
+        /// </summary>
+        internal static string war_goal_group_count {
+            get {
+                return ResourceManager.GetString("war_goal_group_count", resourceCulture);
+            }
+        }
+
+        /// <summary>
         ///   Looks up a localized string similar to Join country.
         /// </summary>
         internal static string war_goal_join_country {
@@ -2141,6 +2546,42 @@ namespace CenturyLocalization.Texts {
             }
         }
         
+        /// <summary>
+        ///   Looks up a localized string similar to Remove.
+        /// </summary>
+        internal static string war_goal_remove {
+            get {
+                return ResourceManager.GetString("war_goal_remove", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to It is not given back: adding it again costs what it cost the first time..
+        /// </summary>
+        internal static string war_goal_remove_cost_notice {
+            get {
+                return ResourceManager.GetString("war_goal_remove_cost_notice", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Remove this war goal?.
+        /// </summary>
+        internal static string war_goal_remove_question {
+            get {
+                return ResourceManager.GetString("war_goal_remove_question", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to War goals.
+        /// </summary>
+        internal static string war_goals_heading {
+            get {
+                return ResourceManager.GetString("war_goals_heading", resourceCulture);
+            }
+        }
+
         /// <summary>
         ///   Looks up a localized string similar to War level.
         /// </summary>
@@ -2213,6 +2654,15 @@ namespace CenturyLocalization.Texts {
             }
         }
         
+        /// <summary>
+        ///   Looks up a localized string similar to White peace.
+        /// </summary>
+        internal static string white_peace {
+            get {
+                return ResourceManager.GetString("white_peace", resourceCulture);
+            }
+        }
+
         /// <summary>
         ///   Looks up a localized string similar to World.
         /// </summary>
@@ -2288,141 +2738,6 @@ namespace CenturyLocalization.Texts {
         internal static string yes {
             get {
                 return ResourceManager.GetString("yes", resourceCulture);
-            }
-        }
-
-        /// <summary>
-        ///   Looks up a localized string similar to White peace.
-        /// </summary>
-        internal static string white_peace {
-            get {
-                return ResourceManager.GetString("white_peace", resourceCulture);
-            }
-        }
-
-        /// <summary>
-        ///   Looks up a localized string similar to Peace treaty signed.
-        /// </summary>
-        internal static string peace_treaty_signed {
-            get {
-                return ResourceManager.GetString("peace_treaty_signed", resourceCulture);
-            }
-        }
-
-        /// <summary>
-        ///   Looks up a localized string similar to Neither side can fight the other any longer, so the war ends without a winner.
-        /// </summary>
-        internal static string war_ends_without_winner {
-            get {
-                return ResourceManager.GetString("war_ends_without_winner", resourceCulture);
-            }
-        }
-
-        /// <summary>
-        ///   Looks up a localized string similar to Wars.
-        /// </summary>
-        internal static string map_layer_wars {
-            get {
-                return ResourceManager.GetString("map_layer_wars", resourceCulture);
-            }
-        }
-
-        /// <summary>
-        ///   Looks up a localized string similar to At war with you.
-        /// </summary>
-        internal static string map_legend_wars_at_war {
-            get {
-                return ResourceManager.GetString("map_legend_wars_at_war", resourceCulture);
-            }
-        }
-
-        /// <summary>
-        ///   Looks up a localized string similar to Ally in a war.
-        /// </summary>
-        internal static string map_legend_wars_allied {
-            get {
-                return ResourceManager.GetString("map_legend_wars_allied", resourceCulture);
-            }
-        }
-
-        /// <summary>
-        ///   Looks up a localized string similar to Not at war.
-        /// </summary>
-        internal static string map_legend_wars_none {
-            get {
-                return ResourceManager.GetString("map_legend_wars_none", resourceCulture);
-            }
-        }
-
-        /// <summary>
-        ///   Looks up a localized string similar to Missionaries.
-        /// </summary>
-        internal static string diplomacy_missionaries {
-            get {
-                return ResourceManager.GetString("diplomacy_missionaries", resourceCulture);
-            }
-        }
-
-        /// <summary>
-        ///   Looks up a localized string similar to Send Missionaries to {0}.
-        /// </summary>
-        internal static string send_missionaries_to_province {
-            get {
-                return ResourceManager.GetString("send_missionaries_to_province", resourceCulture);
-            }
-        }
-
-        /// <summary>
-        ///   Looks up a localized string similar to Authored area.
-        /// </summary>
-        internal static string province_area_authored {
-            get {
-                return ResourceManager.GetString("province_area_authored", resourceCulture);
-            }
-        }
-
-        /// <summary>
-        ///   Looks up a localized string similar to Drawn area.
-        /// </summary>
-        internal static string province_area_drawn {
-            get {
-                return ResourceManager.GetString("province_area_drawn", resourceCulture);
-            }
-        }
-
-        /// <summary>
-        ///   Looks up a localized string similar to Not available.
-        /// </summary>
-        internal static string province_area_unavailable {
-            get {
-                return ResourceManager.GetString("province_area_unavailable", resourceCulture);
-            }
-        }
-
-        /// <summary>
-        ///   Looks up a localized string similar to Id: {0}.
-        /// </summary>
-        internal static string province_debug_id {
-            get {
-                return ResourceManager.GetString("province_debug_id", resourceCulture);
-            }
-        }
-
-        /// <summary>
-        ///   Looks up a localized string similar to {0}: occupied {1}% more in this battle, {2}% in all.
-        /// </summary>
-        internal static string battle_occupation_gained_description {
-            get {
-                return ResourceManager.GetString("battle_occupation_gained_description", resourceCulture);
-            }
-        }
-
-        /// <summary>
-        ///   Looks up a localized string similar to {0}: {1}% taken back in this battle, {2}% still occupied.
-        /// </summary>
-        internal static string battle_occupation_recovered_description {
-            get {
-                return ResourceManager.GetString("battle_occupation_recovered_description", resourceCulture);
             }
         }
     }

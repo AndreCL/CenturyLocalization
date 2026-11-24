@@ -70,6 +70,105 @@ namespace CenturyLocalization.Diplomacy {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to The {0}-{1} alliance.
+        /// </summary>
+        internal static string diplomacy_alliance_default_name {
+            get {
+                return ResourceManager.GetString("diplomacy_alliance_default_name", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to The alliance {0} has been dissolved..
+        /// </summary>
+        internal static string diplomacy_alliance_dissolved {
+            get {
+                return ResourceManager.GetString("diplomacy_alliance_dissolved", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to  The alliance has been dissolved..
+        /// </summary>
+        internal static string diplomacy_alliance_dissolved_suffix {
+            get {
+                return ResourceManager.GetString("diplomacy_alliance_dissolved_suffix", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Alliance {0} has been formed..
+        /// </summary>
+        internal static string diplomacy_alliance_formed {
+            get {
+                return ResourceManager.GetString("diplomacy_alliance_formed", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to We have been invited to join the alliance {0}. Do we accept?.
+        /// </summary>
+        internal static string diplomacy_alliance_invitation {
+            get {
+                return ResourceManager.GetString("diplomacy_alliance_invitation", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to {0} has rejected our invitation to join the alliance {1}..
+        /// </summary>
+        internal static string diplomacy_alliance_invitation_rejected {
+            get {
+                return ResourceManager.GetString("diplomacy_alliance_invitation_rejected", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to {0} has joined the alliance {1}..
+        /// </summary>
+        internal static string diplomacy_alliance_joined {
+            get {
+                return ResourceManager.GetString("diplomacy_alliance_joined", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to {0} has ceased to exist and left the alliance {1}..
+        /// </summary>
+        internal static string diplomacy_alliance_member_ceased {
+            get {
+                return ResourceManager.GetString("diplomacy_alliance_member_ceased", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to {0} has left the alliance {1}..
+        /// </summary>
+        internal static string diplomacy_alliance_member_left {
+            get {
+                return ResourceManager.GetString("diplomacy_alliance_member_left", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to {0} proposes an alliance. Do we accept?.
+        /// </summary>
+        internal static string diplomacy_alliance_offer {
+            get {
+                return ResourceManager.GetString("diplomacy_alliance_offer", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to {0} has rejected our alliance offer..
+        /// </summary>
+        internal static string diplomacy_alliance_offer_rejected {
+            get {
+                return ResourceManager.GetString("diplomacy_alliance_offer_rejected", resourceCulture);
+            }
+        }
+
+        /// <summary>
         ///   Looks up a localized string similar to Allies.
         /// </summary>
         internal static string diplomacy_allies {
@@ -87,6 +186,51 @@ namespace CenturyLocalization.Diplomacy {
             }
         }
         
+        /// <summary>
+        ///   Looks up a localized string similar to Our ally {0} has started {1} and calls us to join the war. Do we join them?.
+        /// </summary>
+        internal static string diplomacy_call_to_arms_attack {
+            get {
+                return ResourceManager.GetString("diplomacy_call_to_arms_attack", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to {0} has attacked {1} in {2}, and we are allied with both sides. Joining one side takes us out of our alliances with the other. Which side do we take?.
+        /// </summary>
+        internal static string diplomacy_call_to_arms_both_sides {
+            get {
+                return ResourceManager.GetString("diplomacy_call_to_arms_both_sides", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Our ally {0} has been attacked in {1}. Do we join the war to defend them?.
+        /// </summary>
+        internal static string diplomacy_call_to_arms_defend {
+            get {
+                return ResourceManager.GetString("diplomacy_call_to_arms_defend", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Call to arms.
+        /// </summary>
+        internal static string diplomacy_call_to_arms_title {
+            get {
+                return ResourceManager.GetString("diplomacy_call_to_arms_title", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to The alliance {0} has been removed as it had the same members as the alliance {1}..
+        /// </summary>
+        internal static string diplomacy_duplicate_alliance_removed {
+            get {
+                return ResourceManager.GetString("diplomacy_duplicate_alliance_removed", resourceCulture);
+            }
+        }
+
         /// <summary>
         ///   Looks up a localized string similar to At peace.
         /// </summary>

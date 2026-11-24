@@ -879,4 +879,109 @@ Wanneer de wereldspanning 100% bereikt, wordt een wereldoorlog ontketend en word
   <data name="province_debug_id" xml:space="preserve"><value>ID: {0}</value></data>
   <data name="battle_occupation_gained_description" xml:space="preserve"><value>{0}: in deze veldslag {1}% meer bezet, in totaal {2}%</value></data>
   <data name="battle_occupation_recovered_description" xml:space="preserve"><value>{0}: in deze veldslag {1}% heroverd, {2}% nog bezet</value></data>
+  <data name="reward_ad_requires_internet" xml:space="preserve">
+    <value>Internet vereist</value>
+  </data>
+  <data name="reward_ad_error" xml:space="preserve">
+    <value>Fout</value>
+  </data>
+  <data name="reward_ad_no_ad" xml:space="preserve">
+    <value>Geen advertentie</value>
+  </data>
+  <data name="province_not_found" xml:space="preserve">
+    <value>Provincie niet gevonden</value>
+  </data>
+  <data name="military_scope_title" xml:space="preserve">
+    <value>Tonen en bouwen in</value>
+  </data>
+  <data name="military_scope_occupied" xml:space="preserve">
+    <value>bezet</value>
+  </data>
+  <data name="military_province_occupied_notice" xml:space="preserve">
+    <value>{0} is bezet{1}. Je kunt er pas bouwen of rekruteren als de provincie is bevrijd.</value>
+  </data>
+  <data name="military_all_provinces_occupied_notice" xml:space="preserve">
+    <value>Al je provincies zijn bezet{0}. Je kunt pas bouwen of rekruteren als er één is bevrijd.</value>
+  </data>
+  <data name="military_occupied_by_suffix" xml:space="preserve">
+    <value> door {0}</value>
+  </data>
+  <data name="war_goals_heading" xml:space="preserve">
+    <value>Oorlogsdoelen</value>
+  </data>
+  <data name="war_goal_remove" xml:space="preserve">
+    <value>Verwijderen</value>
+  </data>
+  <data name="war_goal_remove_question" xml:space="preserve">
+    <value>Dit oorlogsdoel verwijderen?</value>
+  </data>
+  <data name="war_goal_remove_cost_notice" xml:space="preserve">
+    <value>De kosten worden niet teruggegeven: opnieuw toevoegen kost evenveel als de eerste keer.</value>
+  </data>
+  <data name="map_layer_naval_geography" xml:space="preserve">
+    <value>Maritieme geografie</value>
+  </data>
+  <data name="map_legend_ice_pack" xml:space="preserve">
+    <value>Pakijs</value>
+  </data>
+  <data name="map_legend_ice_frozen" xml:space="preserve">
+    <value>Bevroren kust</value>
+  </data>
+  <data name="map_legend_ice_small" xml:space="preserve">
+    <value>Meer of afgesloten zee: alleen kleine schepen</value>
+  </data>
+  <data name="map_legend_ice_ocean" xml:space="preserve">
+    <value>Kust aan de oceaan</value>
+  </data>
+  <data name="map_legend_ice_none" xml:space="preserve">
+    <value>Geen kust</value>
+  </data>
+  <data name="province_count" xml:space="preserve">
+    <value>{0} provincies</value>
+  </data>
+  <data name="release_action" xml:space="preserve">
+    <value>Vrijlaten</value>
+  </data>
+  <data name="release_action_count" xml:space="preserve">
+    <value>Vrijlaten ({0})</value>
+  </data>
+  <data name="release_nation" xml:space="preserve">
+    <value>Natie vrijlaten</value>
+  </data>
+  <data name="release_nations" xml:space="preserve">
+    <value>Naties vrijlaten</value>
+  </data>
+  <data name="release_goals_unavailable" xml:space="preserve">
+    <value>Geen vrijlatingsdoelen beschikbaar</value>
+  </data>
+  <data name="release_goals_changed" xml:space="preserve">
+    <value>Vrijlatingsdoelen gewijzigd; selecteer opnieuw</value>
+  </data>
+  <data name="province_picker_instructions" xml:space="preserve">
+    <value>Kies provincies die je van {0} wilt innemen. Tik om toe te voegen of te verwijderen. Groen: je kunt deze innemen (grenst aan jouw gebied of gekozen provincies, of ligt aan de kust als je geen grens deelt). Rood: te groot voor de resterende limiet. Geel: nog niet verbonden. Blauw: gekozen.</value>
+  </data>
+  <data name="province_picker_chosen" xml:space="preserve">
+    <value>Gekozen: {0}</value>
+  </data>
+  <data name="province_picker_limits" xml:space="preserve">
+    <value>Gebied {0} van maximaal {1}, bevolking {2} van maximaal {3} (limieten voor gebied en bevolking)</value>
+  </data>
+  <data name="province_picker_limit_reached" xml:space="preserve">
+    <value>De limiet is bereikt: er kunnen geen provincies meer worden ingenomen. Tik op een gekozen provincie om deze te verwijderen.</value>
+  </data>
+  <data name="province_picker_no_more_connected" xml:space="preserve">
+    <value>Er kunnen geen provincies meer worden ingenomen: geen andere grenst aan jouw gebied of de gekozen provincies.</value>
+  </data>
+  <data name="province_picker_over_limit" xml:space="preserve">
+    <value>Te groot voor de resterende limiet (nog {0} en {1} inwoners).</value>
+  </data>
+  <data name="province_picker_not_connected" xml:space="preserve">
+    <value>Niet verbonden met jouw gebied of de provincies die je hebt gekozen.</value>
+  </data>
+  <data name="province_picker_choose_one" xml:space="preserve">
+    <value>Kies ten minste één provincie.</value>
+  </data>
+  <data name="war_goal_group_count" xml:space="preserve">
+    <value>{0} × {1}</value>
+  </data>
 </root>

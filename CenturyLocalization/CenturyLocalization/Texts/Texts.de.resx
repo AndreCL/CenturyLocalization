@@ -879,4 +879,109 @@ Sobald die Weltspannung 100 % erreicht, wird ein Weltkrieg ausgelöst und der We
   <data name="province_debug_id" xml:space="preserve"><value>ID: {0}</value></data>
   <data name="battle_occupation_gained_description" xml:space="preserve"><value>{0}: in dieser Schlacht {1}% mehr besetzt, insgesamt {2}%</value></data>
   <data name="battle_occupation_recovered_description" xml:space="preserve"><value>{0}: in dieser Schlacht {1}% zurückerobert, {2}% weiterhin besetzt</value></data>
+  <data name="reward_ad_requires_internet" xml:space="preserve">
+    <value>Internet erforderlich</value>
+  </data>
+  <data name="reward_ad_error" xml:space="preserve">
+    <value>Fehler</value>
+  </data>
+  <data name="reward_ad_no_ad" xml:space="preserve">
+    <value>Keine Anzeige</value>
+  </data>
+  <data name="province_not_found" xml:space="preserve">
+    <value>Provinz nicht gefunden</value>
+  </data>
+  <data name="military_scope_title" xml:space="preserve">
+    <value>Anzeigen und bauen in</value>
+  </data>
+  <data name="military_scope_occupied" xml:space="preserve">
+    <value>besetzt</value>
+  </data>
+  <data name="military_province_occupied_notice" xml:space="preserve">
+    <value>{0} ist besetzt{1}. Du kannst dort erst bauen oder rekrutieren, wenn die Provinz befreit ist.</value>
+  </data>
+  <data name="military_all_provinces_occupied_notice" xml:space="preserve">
+    <value>Alle deine Provinzen sind besetzt{0}. Du kannst erst bauen oder rekrutieren, wenn eine befreit ist.</value>
+  </data>
+  <data name="military_occupied_by_suffix" xml:space="preserve">
+    <value> durch {0}</value>
+  </data>
+  <data name="war_goals_heading" xml:space="preserve">
+    <value>Kriegsziele</value>
+  </data>
+  <data name="war_goal_remove" xml:space="preserve">
+    <value>Entfernen</value>
+  </data>
+  <data name="war_goal_remove_question" xml:space="preserve">
+    <value>Dieses Kriegsziel entfernen?</value>
+  </data>
+  <data name="war_goal_remove_cost_notice" xml:space="preserve">
+    <value>Die Kosten werden nicht erstattet: Das erneute Hinzufügen kostet genauso viel wie beim ersten Mal.</value>
+  </data>
+  <data name="map_layer_naval_geography" xml:space="preserve">
+    <value>Seekriegskarte</value>
+  </data>
+  <data name="map_legend_ice_pack" xml:space="preserve">
+    <value>Packeis</value>
+  </data>
+  <data name="map_legend_ice_frozen" xml:space="preserve">
+    <value>Gefrorene Küste</value>
+  </data>
+  <data name="map_legend_ice_small" xml:space="preserve">
+    <value>See oder abgeschlossenes Meer: nur kleine Schiffe</value>
+  </data>
+  <data name="map_legend_ice_ocean" xml:space="preserve">
+    <value>Küste am offenen Meer</value>
+  </data>
+  <data name="map_legend_ice_none" xml:space="preserve">
+    <value>Keine Küste</value>
+  </data>
+  <data name="province_count" xml:space="preserve">
+    <value>{0} Provinzen</value>
+  </data>
+  <data name="release_action" xml:space="preserve">
+    <value>Freigeben</value>
+  </data>
+  <data name="release_action_count" xml:space="preserve">
+    <value>Freigeben ({0})</value>
+  </data>
+  <data name="release_nation" xml:space="preserve">
+    <value>Nation freigeben</value>
+  </data>
+  <data name="release_nations" xml:space="preserve">
+    <value>Nationen freigeben</value>
+  </data>
+  <data name="release_goals_unavailable" xml:space="preserve">
+    <value>Keine Freigabeziele verfügbar</value>
+  </data>
+  <data name="release_goals_changed" xml:space="preserve">
+    <value>Freigabeziele geändert; erneut auswählen</value>
+  </data>
+  <data name="province_picker_instructions" xml:space="preserve">
+    <value>Wähle Provinzen, die du {0} abnimmst. Tippe zum Hinzufügen oder Entfernen. Grün: kann genommen werden (grenzt an dein Land oder gewählte Provinzen oder liegt an der Küste, wenn keine gemeinsame Grenze besteht). Rot: zu groß für das verbleibende Limit. Gelb: noch nicht verbunden. Blau: ausgewählt.</value>
+  </data>
+  <data name="province_picker_chosen" xml:space="preserve">
+    <value>Ausgewählt: {0}</value>
+  </data>
+  <data name="province_picker_limits" xml:space="preserve">
+    <value>Fläche {0} von höchstens {1}, Bevölkerung {2} von höchstens {3} (Grenzen für Fläche und Bevölkerung)</value>
+  </data>
+  <data name="province_picker_limit_reached" xml:space="preserve">
+    <value>Das Limit ist erreicht: Es können keine weiteren Provinzen genommen werden. Tippe auf eine ausgewählte Provinz, um sie zu entfernen.</value>
+  </data>
+  <data name="province_picker_no_more_connected" xml:space="preserve">
+    <value>Es können keine weiteren Provinzen genommen werden: Keine weitere grenzt an dein Land oder die ausgewählten Provinzen.</value>
+  </data>
+  <data name="province_picker_over_limit" xml:space="preserve">
+    <value>Zu groß für das verbleibende Limit ({0} und {1} Einwohner übrig).</value>
+  </data>
+  <data name="province_picker_not_connected" xml:space="preserve">
+    <value>Nicht mit deinem Land oder den ausgewählten Provinzen verbunden.</value>
+  </data>
+  <data name="province_picker_choose_one" xml:space="preserve">
+    <value>Wähle mindestens eine Provinz aus.</value>
+  </data>
+  <data name="war_goal_group_count" xml:space="preserve">
+    <value>{0} × {1}</value>
+  </data>
 </root>

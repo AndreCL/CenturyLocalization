@@ -881,4 +881,109 @@ Una vez que la tensión mundial alcanza el 100 %, se desencadena una guerra mund
   <data name="province_debug_id" xml:space="preserve"><value>ID: {0}</value></data>
   <data name="battle_occupation_gained_description" xml:space="preserve"><value>{0}: ocupó un {1}% más en esta batalla, un {2}% en total</value></data>
   <data name="battle_occupation_recovered_description" xml:space="preserve"><value>{0}: recuperó un {1}% en esta batalla, un {2}% sigue ocupado</value></data>
+  <data name="reward_ad_requires_internet" xml:space="preserve">
+    <value>Requiere internet</value>
+  </data>
+  <data name="reward_ad_error" xml:space="preserve">
+    <value>Error</value>
+  </data>
+  <data name="reward_ad_no_ad" xml:space="preserve">
+    <value>No hay anuncios</value>
+  </data>
+  <data name="province_not_found" xml:space="preserve">
+    <value>No se encontró la provincia</value>
+  </data>
+  <data name="military_scope_title" xml:space="preserve">
+    <value>Mostrar y construir en</value>
+  </data>
+  <data name="military_scope_occupied" xml:space="preserve">
+    <value>ocupada</value>
+  </data>
+  <data name="military_province_occupied_notice" xml:space="preserve">
+    <value>{0} está ocupada{1}. No puedes construir ni reclutar allí hasta que sea liberada.</value>
+  </data>
+  <data name="military_all_provinces_occupied_notice" xml:space="preserve">
+    <value>Todas tus provincias están ocupadas{0}. No puedes construir ni reclutar hasta que se libere una.</value>
+  </data>
+  <data name="military_occupied_by_suffix" xml:space="preserve">
+    <value> por {0}</value>
+  </data>
+  <data name="war_goals_heading" xml:space="preserve">
+    <value>Objetivos de guerra</value>
+  </data>
+  <data name="war_goal_remove" xml:space="preserve">
+    <value>Quitar</value>
+  </data>
+  <data name="war_goal_remove_question" xml:space="preserve">
+    <value>¿Quitar este objetivo de guerra?</value>
+  </data>
+  <data name="war_goal_remove_cost_notice" xml:space="preserve">
+    <value>No se devuelve: volver a añadirlo cuesta lo mismo que la primera vez.</value>
+  </data>
+  <data name="map_layer_naval_geography" xml:space="preserve">
+    <value>Geografía naval</value>
+  </data>
+  <data name="map_legend_ice_pack" xml:space="preserve">
+    <value>Banquisa</value>
+  </data>
+  <data name="map_legend_ice_frozen" xml:space="preserve">
+    <value>Costa congelada</value>
+  </data>
+  <data name="map_legend_ice_small" xml:space="preserve">
+    <value>Lago o mar cerrado: solo barcos pequeños</value>
+  </data>
+  <data name="map_legend_ice_ocean" xml:space="preserve">
+    <value>Costa oceánica</value>
+  </data>
+  <data name="map_legend_ice_none" xml:space="preserve">
+    <value>Sin costa</value>
+  </data>
+  <data name="province_count" xml:space="preserve">
+    <value>{0} provincias</value>
+  </data>
+  <data name="release_action" xml:space="preserve">
+    <value>Liberar</value>
+  </data>
+  <data name="release_action_count" xml:space="preserve">
+    <value>Liberar ({0})</value>
+  </data>
+  <data name="release_nation" xml:space="preserve">
+    <value>Liberar nación</value>
+  </data>
+  <data name="release_nations" xml:space="preserve">
+    <value>Liberar naciones</value>
+  </data>
+  <data name="release_goals_unavailable" xml:space="preserve">
+    <value>No hay objetivos de liberación disponibles</value>
+  </data>
+  <data name="release_goals_changed" xml:space="preserve">
+    <value>Los objetivos de liberación han cambiado; vuelve a elegir</value>
+  </data>
+  <data name="province_picker_instructions" xml:space="preserve">
+    <value>Elige las provincias que tomarás de {0}. Toca para añadir o quitar. Verde: puedes tomarla (junto a tu territorio, a las provincias elegidas o en la costa si no tienes frontera con ellas). Rojo: supera el límite restante. Amarillo: aún no está conectada. Azul: elegida.</value>
+  </data>
+  <data name="province_picker_chosen" xml:space="preserve">
+    <value>Elegidas: {0}</value>
+  </data>
+  <data name="province_picker_limits" xml:space="preserve">
+    <value>Área {0} de un máximo de {1}, población {2} de un máximo de {3} (límites de área y población)</value>
+  </data>
+  <data name="province_picker_limit_reached" xml:space="preserve">
+    <value>Se alcanzó el límite: no se pueden tomar más provincias. Toca una provincia elegida para quitarla.</value>
+  </data>
+  <data name="province_picker_no_more_connected" xml:space="preserve">
+    <value>No se pueden tomar más provincias: ninguna otra está conectada con tu territorio o las provincias elegidas.</value>
+  </data>
+  <data name="province_picker_over_limit" xml:space="preserve">
+    <value>Demasiado grande para el límite restante (quedan {0} y {1} personas).</value>
+  </data>
+  <data name="province_picker_not_connected" xml:space="preserve">
+    <value>No está conectada con tu territorio ni con las provincias elegidas.</value>
+  </data>
+  <data name="province_picker_choose_one" xml:space="preserve">
+    <value>Elige al menos una provincia.</value>
+  </data>
+  <data name="war_goal_group_count" xml:space="preserve">
+    <value>{0} × {1}</value>
+  </data>
 </root>

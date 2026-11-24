@@ -165,4 +165,61 @@
   <data name="play_country" xml:space="preserve">
     <value>العب بدور {0}</value>
   </data>
+  <data name="event_choose_provinces_on_map" xml:space="preserve">
+    <value>اختر المقاطعات على الخريطة</value>
+  </data>
+  <data name="event_release_countries" xml:space="preserve">
+    <value>تحرير الدول</value>
+  </data>
+  <data name="event_release_country_detail" xml:space="preserve">
+    <value>تحرير {0} ({1})</value>
+  </data>
+  <data name="event_release_holders_suffix" xml:space="preserve">
+    <value> من {0}</value>
+  </data>
+  <data name="event_war_goal_provinces" xml:space="preserve">
+    <value>{0}: {1}</value>
+  </data>
+  <data name="event_mobilize_share" xml:space="preserve">
+    <value>{0} {1}% من الرجال في سن القتال</value>
+  </data>
+  <data name="event_country_released" xml:space="preserve">
+    <value>{0} حررت {1} لتصبح دولة مستقلة.</value>
+  </data>
+  <data name="event_country_renamed_title" xml:space="preserve">
+    <value>أصبح اسم {0} الآن {1}</value>
+  </data>
+  <data name="event_country_renamed_lost_lands" xml:space="preserve">
+    <value>بعد رحيل {0}، أصبح اسم {1} هو {2}</value>
+  </data>
+  <data name="event_country_name_list_joiner" xml:space="preserve">
+    <value>  و  </value>
+  </data>
+  <data name="event_country_renamed_south_slavs" xml:space="preserve">
+    <value>بعد توحيد أراضي السلاف الجنوبيين تحت حكمها، أصبح اسم {0} هو {1}</value>
+  </data>
+  <data name="event_infamy_war_title" xml:space="preserve">
+    <value>حرب السمعة السيئة</value>
+  </data>
+  <data name="event_infamy_war_invitation" xml:space="preserve">
+    <value>أصبحت {0} سيئة السمعة إلى حد أن {1} اندلعت ضدها. وبصفتنا عدوًا لـ{0}، هل ننضم إلى المهاجمين؟</value>
+  </data>
+  <data name="event_world_war_position_title" xml:space="preserve">
+    <value>موقف دولتنا</value>
+  </data>
+  <data name="event_world_war_position_message" xml:space="preserve">
+    <value>بدأت حرب عالمية، وعلى الحكومة تحديد موقفها.</value>
+  </data>
+  <data name="event_declare_neutrality" xml:space="preserve">
+    <value>أعلن الحياد</value>
+  </data>
+  <data name="event_ignore" xml:space="preserve">
+    <value>تجاهل</value>
+  </data>
+  <data name="event_surrender_title" xml:space="preserve">
+    <value>استسلمت {0}</value>
+  </data>
+  <data name="event_annexed_left_war" xml:space="preserve">
+    <value>غادرت دولة {0} رسميًا {1} بسبب ضمها.</value>
+  </data>
 </root>

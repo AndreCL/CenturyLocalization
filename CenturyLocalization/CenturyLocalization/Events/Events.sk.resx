@@ -165,4 +165,61 @@
   <data name="play_country" xml:space="preserve">
     <value>Hrať ako {0}</value>
   </data>
+  <data name="event_choose_provinces_on_map" xml:space="preserve">
+    <value>Vybrať provincie na mape</value>
+  </data>
+  <data name="event_release_countries" xml:space="preserve">
+    <value>Oslobodiť krajiny</value>
+  </data>
+  <data name="event_release_country_detail" xml:space="preserve">
+    <value>Oslobodiť {0} ({1})</value>
+  </data>
+  <data name="event_release_holders_suffix" xml:space="preserve">
+    <value> od {0}</value>
+  </data>
+  <data name="event_war_goal_provinces" xml:space="preserve">
+    <value>{0}: {1}</value>
+  </data>
+  <data name="event_mobilize_share" xml:space="preserve">
+    <value>{0} {1}% mužov vo veku spôsobilom na boj</value>
+  </data>
+  <data name="event_country_released" xml:space="preserve">
+    <value>{0} oslobodila {1} ako nezávislý štát.</value>
+  </data>
+  <data name="event_country_renamed_title" xml:space="preserve">
+    <value>{0} sa teraz volá {1}</value>
+  </data>
+  <data name="event_country_renamed_lost_lands" xml:space="preserve">
+    <value>Po odchode {0} sa {1} nazýva {2}</value>
+  </data>
+  <data name="event_country_name_list_joiner" xml:space="preserve">
+    <value>  a  </value>
+  </data>
+  <data name="event_country_renamed_south_slavs" xml:space="preserve">
+    <value>Po zjednotení krajín južných Slovanov pod svojou vládou sa {0} nazýva {1}</value>
+  </data>
+  <data name="event_infamy_war_title" xml:space="preserve">
+    <value>Vojna za neslávu</value>
+  </data>
+  <data name="event_infamy_war_invitation" xml:space="preserve">
+    <value>{0} sa stala takou neslávnou, že proti nej vypukla {1}. Pridáme sa ako nepriateľ {0} k útočníkom?</value>
+  </data>
+  <data name="event_world_war_position_title" xml:space="preserve">
+    <value>Otázka postoja našej krajiny</value>
+  </data>
+  <data name="event_world_war_position_message" xml:space="preserve">
+    <value>Začala sa svetová vojna, vláda musí zaujať stanovisko.</value>
+  </data>
+  <data name="event_declare_neutrality" xml:space="preserve">
+    <value>Vyhlásiť neutralitu</value>
+  </data>
+  <data name="event_ignore" xml:space="preserve">
+    <value>Ignorovať</value>
+  </data>
+  <data name="event_surrender_title" xml:space="preserve">
+    <value>{0} sa vzdáva</value>
+  </data>
+  <data name="event_annexed_left_war" xml:space="preserve">
+    <value>Krajina {0} oficiálne opustila {1} v dôsledku svojej anexie.</value>
+  </data>
 </root>

@@ -193,4 +193,52 @@
   <data name="sent_aid" xml:space="preserve">
     <value>Hilfe entsandt</value>
   </data>
+  <data name="diplomacy_call_to_arms_title" xml:space="preserve">
+    <value>Kriegsaufruf</value>
+  </data>
+  <data name="diplomacy_call_to_arms_attack" xml:space="preserve">
+    <value>Unser Verbündeter {0} hat {1} begonnen und ruft uns zum Kriegseintritt auf. Schließen wir uns an?</value>
+  </data>
+  <data name="diplomacy_call_to_arms_defend" xml:space="preserve">
+    <value>Unser Verbündeter {0} wurde in {1} angegriffen. Treten wir in den Krieg ein, um ihn zu verteidigen?</value>
+  </data>
+  <data name="diplomacy_call_to_arms_both_sides" xml:space="preserve">
+    <value>{0} hat {1} in {2} angegriffen, und wir sind mit beiden Seiten verbündet. Wenn wir einer Seite beitreten, endet unser Bündnis mit der anderen. Für welche Seite entscheiden wir uns?</value>
+  </data>
+  <data name="diplomacy_alliance_formed" xml:space="preserve">
+    <value>Das Bündnis {0} wurde gegründet.</value>
+  </data>
+  <data name="diplomacy_alliance_joined" xml:space="preserve">
+    <value>{0} ist dem Bündnis {1} beigetreten.</value>
+  </data>
+  <data name="diplomacy_alliance_invitation" xml:space="preserve">
+    <value>Wir wurden eingeladen, dem Bündnis {0} beizutreten. Nehmen wir an?</value>
+  </data>
+  <data name="diplomacy_alliance_invitation_rejected" xml:space="preserve">
+    <value>{0} hat unsere Einladung zum Beitritt in das Bündnis {1} abgelehnt.</value>
+  </data>
+  <data name="diplomacy_alliance_dissolved" xml:space="preserve">
+    <value>Das Bündnis {0} wurde aufgelöst.</value>
+  </data>
+  <data name="diplomacy_alliance_offer" xml:space="preserve">
+    <value>{0} schlägt ein Bündnis vor. Nehmen wir an?</value>
+  </data>
+  <data name="diplomacy_alliance_default_name" xml:space="preserve">
+    <value>Das Bündnis {0}-{1}</value>
+  </data>
+  <data name="diplomacy_alliance_offer_rejected" xml:space="preserve">
+    <value>{0} hat unser Bündnisangebot abgelehnt.</value>
+  </data>
+  <data name="diplomacy_alliance_member_ceased" xml:space="preserve">
+    <value>{0} existiert nicht mehr und hat das Bündnis {1} verlassen.</value>
+  </data>
+  <data name="diplomacy_alliance_member_left" xml:space="preserve">
+    <value>{0} hat das Bündnis {1} verlassen.</value>
+  </data>
+  <data name="diplomacy_alliance_dissolved_suffix" xml:space="preserve">
+    <value> Das Bündnis wurde aufgelöst.</value>
+  </data>
+  <data name="diplomacy_duplicate_alliance_removed" xml:space="preserve">
+    <value>Das Bündnis {0} wurde entfernt, da es dieselben Mitglieder wie das Bündnis {1} hatte.</value>
+  </data>
 </root>

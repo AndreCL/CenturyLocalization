@@ -884,4 +884,109 @@
   <data name="province_debug_id" xml:space="preserve"><value>Идентификатор: {0}</value></data>
   <data name="battle_occupation_gained_description" xml:space="preserve"><value>{0}: в этой битве захвачено ещё {1}%, всего {2}%</value></data>
   <data name="battle_occupation_recovered_description" xml:space="preserve"><value>{0}: в этой битве отвоёвано {1}%, всё ещё занято {2}%</value></data>
+  <data name="reward_ad_requires_internet" xml:space="preserve">
+    <value>Требуется интернет</value>
+  </data>
+  <data name="reward_ad_error" xml:space="preserve">
+    <value>Ошибка</value>
+  </data>
+  <data name="reward_ad_no_ad" xml:space="preserve">
+    <value>Нет рекламы</value>
+  </data>
+  <data name="province_not_found" xml:space="preserve">
+    <value>Провинция не найдена</value>
+  </data>
+  <data name="military_scope_title" xml:space="preserve">
+    <value>Показать и строить в</value>
+  </data>
+  <data name="military_scope_occupied" xml:space="preserve">
+    <value>оккупирована</value>
+  </data>
+  <data name="military_province_occupied_notice" xml:space="preserve">
+    <value>{0} оккупирована{1}. Нельзя строить и вербовать войска, пока она не освобождена.</value>
+  </data>
+  <data name="military_all_provinces_occupied_notice" xml:space="preserve">
+    <value>Все ваши провинции оккупированы{0}. Нельзя строить и вербовать войска, пока хотя бы одна не будет освобождена.</value>
+  </data>
+  <data name="military_occupied_by_suffix" xml:space="preserve">
+    <value> державой {0}</value>
+  </data>
+  <data name="war_goals_heading" xml:space="preserve">
+    <value>Цели войны</value>
+  </data>
+  <data name="war_goal_remove" xml:space="preserve">
+    <value>Удалить</value>
+  </data>
+  <data name="war_goal_remove_question" xml:space="preserve">
+    <value>Удалить эту цель войны?</value>
+  </data>
+  <data name="war_goal_remove_cost_notice" xml:space="preserve">
+    <value>Стоимость не возвращается: повторное добавление обойдётся в ту же сумму, что и в первый раз.</value>
+  </data>
+  <data name="map_layer_naval_geography" xml:space="preserve">
+    <value>Морская география</value>
+  </data>
+  <data name="map_legend_ice_pack" xml:space="preserve">
+    <value>Паковый лёд</value>
+  </data>
+  <data name="map_legend_ice_frozen" xml:space="preserve">
+    <value>Замёрзшее побережье</value>
+  </data>
+  <data name="map_legend_ice_small" xml:space="preserve">
+    <value>Озеро или закрытое море: только малые корабли</value>
+  </data>
+  <data name="map_legend_ice_ocean" xml:space="preserve">
+    <value>Побережье океана</value>
+  </data>
+  <data name="map_legend_ice_none" xml:space="preserve">
+    <value>Нет побережья</value>
+  </data>
+  <data name="province_count" xml:space="preserve">
+    <value>{0} провинций</value>
+  </data>
+  <data name="release_action" xml:space="preserve">
+    <value>Освободить</value>
+  </data>
+  <data name="release_action_count" xml:space="preserve">
+    <value>Освободить ({0})</value>
+  </data>
+  <data name="release_nation" xml:space="preserve">
+    <value>Освободить страну</value>
+  </data>
+  <data name="release_nations" xml:space="preserve">
+    <value>Освободить страны</value>
+  </data>
+  <data name="release_goals_unavailable" xml:space="preserve">
+    <value>Нет доступных целей освобождения</value>
+  </data>
+  <data name="release_goals_changed" xml:space="preserve">
+    <value>Цели освобождения изменились; выберите снова</value>
+  </data>
+  <data name="province_picker_instructions" xml:space="preserve">
+    <value>Выберите провинции, которые нужно отнять у {0}. Нажмите, чтобы добавить или убрать. Зелёный: можно взять (граничит с вашей землёй или выбранными провинциями либо находится на побережье, если общей границы нет). Красный: превышает оставшийся лимит. Жёлтый: пока не соединена. Синий: выбрана.</value>
+  </data>
+  <data name="province_picker_chosen" xml:space="preserve">
+    <value>Выбрано: {0}</value>
+  </data>
+  <data name="province_picker_limits" xml:space="preserve">
+    <value>Площадь {0} из не более {1}, население {2} из не более {3} (ограничения площади и населения)</value>
+  </data>
+  <data name="province_picker_limit_reached" xml:space="preserve">
+    <value>Достигнут предел: больше нельзя захватить провинции. Нажмите на выбранную провинцию, чтобы убрать её.</value>
+  </data>
+  <data name="province_picker_no_more_connected" xml:space="preserve">
+    <value>Больше нельзя захватить провинции: ни одна другая не связана с вашей землёй или выбранными провинциями.</value>
+  </data>
+  <data name="province_picker_over_limit" xml:space="preserve">
+    <value>Слишком велико для оставшегося лимита (осталось {0} и {1} жителей).</value>
+  </data>
+  <data name="province_picker_not_connected" xml:space="preserve">
+    <value>Не связана с вашей землёй или выбранными провинциями.</value>
+  </data>
+  <data name="province_picker_choose_one" xml:space="preserve">
+    <value>Выберите хотя бы одну провинцию.</value>
+  </data>
+  <data name="war_goal_group_count" xml:space="preserve">
+    <value>{0} × {1}</value>
+  </data>
 </root>

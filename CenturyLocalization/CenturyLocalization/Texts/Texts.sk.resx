@@ -897,4 +897,109 @@ Keď svetové napätie dosiahne 100%, spustí sa svetová vojna a resetuje sa.
   <data name="province_debug_id" xml:space="preserve"><value>ID: {0}</value></data>
   <data name="battle_occupation_gained_description" xml:space="preserve"><value>{0}: v tejto bitke obsadených o {1}% viac, celkovo {2}%</value></data>
   <data name="battle_occupation_recovered_description" xml:space="preserve"><value>{0}: v tejto bitke získaných späť {1}%, stále obsadených {2}%</value></data>
+  <data name="reward_ad_requires_internet" xml:space="preserve">
+    <value>Vyžaduje internet</value>
+  </data>
+  <data name="reward_ad_error" xml:space="preserve">
+    <value>Chyba</value>
+  </data>
+  <data name="reward_ad_no_ad" xml:space="preserve">
+    <value>Žiadna reklama</value>
+  </data>
+  <data name="province_not_found" xml:space="preserve">
+    <value>Provincia sa nenašla</value>
+  </data>
+  <data name="military_scope_title" xml:space="preserve">
+    <value>Zobraziť a stavať v</value>
+  </data>
+  <data name="military_scope_occupied" xml:space="preserve">
+    <value>obsadená</value>
+  </data>
+  <data name="military_province_occupied_notice" xml:space="preserve">
+    <value>{0} je obsadená{1}. Kým nebude oslobodená, nemôžete tam stavať ani verbovať.</value>
+  </data>
+  <data name="military_all_provinces_occupied_notice" xml:space="preserve">
+    <value>Všetky vaše provincie sú obsadené{0}. Nemôžete stavať ani verbovať, kým nebude niektorá oslobodená.</value>
+  </data>
+  <data name="military_occupied_by_suffix" xml:space="preserve">
+    <value> krajinou {0}</value>
+  </data>
+  <data name="war_goals_heading" xml:space="preserve">
+    <value>Vojnové ciele</value>
+  </data>
+  <data name="war_goal_remove" xml:space="preserve">
+    <value>Odstrániť</value>
+  </data>
+  <data name="war_goal_remove_question" xml:space="preserve">
+    <value>Odstrániť tento vojnový cieľ?</value>
+  </data>
+  <data name="war_goal_remove_cost_notice" xml:space="preserve">
+    <value>Náklady sa nevrátia: opätovné pridanie bude stáť rovnako ako prvýkrát.</value>
+  </data>
+  <data name="map_layer_naval_geography" xml:space="preserve">
+    <value>Námorná geografia</value>
+  </data>
+  <data name="map_legend_ice_pack" xml:space="preserve">
+    <value>Ledové pole</value>
+  </data>
+  <data name="map_legend_ice_frozen" xml:space="preserve">
+    <value>Zamrznuté pobrežie</value>
+  </data>
+  <data name="map_legend_ice_small" xml:space="preserve">
+    <value>Jazero alebo uzavreté more: iba malé lode</value>
+  </data>
+  <data name="map_legend_ice_ocean" xml:space="preserve">
+    <value>Pobrežie oceánu</value>
+  </data>
+  <data name="map_legend_ice_none" xml:space="preserve">
+    <value>Bez pobrežia</value>
+  </data>
+  <data name="province_count" xml:space="preserve">
+    <value>{0} provincií</value>
+  </data>
+  <data name="release_action" xml:space="preserve">
+    <value>Oslobodiť</value>
+  </data>
+  <data name="release_action_count" xml:space="preserve">
+    <value>Oslobodiť ({0})</value>
+  </data>
+  <data name="release_nation" xml:space="preserve">
+    <value>Oslobodiť štát</value>
+  </data>
+  <data name="release_nations" xml:space="preserve">
+    <value>Oslobodiť štáty</value>
+  </data>
+  <data name="release_goals_unavailable" xml:space="preserve">
+    <value>Nie sú dostupné žiadne ciele oslobodenia</value>
+  </data>
+  <data name="release_goals_changed" xml:space="preserve">
+    <value>Ciele oslobodenia sa zmenili; vyberte znova</value>
+  </data>
+  <data name="province_picker_instructions" xml:space="preserve">
+    <value>Vyberte provincie, ktoré chcete získať od štátu {0}. Ťuknutím ich pridáte alebo odstránite. Zelená: možno získať (susedí s vaším územím alebo vybranými provinciami, prípadne leží na pobreží, ak nemáte spoločnú hranicu). Červená: presahuje zostávajúci limit. Žltá: zatiaľ nie je prepojená. Modrá: vybraná.</value>
+  </data>
+  <data name="province_picker_chosen" xml:space="preserve">
+    <value>Vybrané: {0}</value>
+  </data>
+  <data name="province_picker_limits" xml:space="preserve">
+    <value>Rozloha {0} z maxima {1}, obyvateľstvo {2} z maxima {3} (limity rozlohy a obyvateľstva)</value>
+  </data>
+  <data name="province_picker_limit_reached" xml:space="preserve">
+    <value>Dosiahli ste limit: ďalšie provincie už nemožno získať. Ťuknutím na vybranú provinciu ju odstránite.</value>
+  </data>
+  <data name="province_picker_no_more_connected" xml:space="preserve">
+    <value>Ďalšie provincie nemožno získať: žiadna iná nesusedí s vaším územím ani s vybranými provinciami.</value>
+  </data>
+  <data name="province_picker_over_limit" xml:space="preserve">
+    <value>Príliš veľké pre zvyšný limit (zostáva {0} a {1} obyvateľov).</value>
+  </data>
+  <data name="province_picker_not_connected" xml:space="preserve">
+    <value>Nie je spojená s vaším územím ani s vybranými provinciami.</value>
+  </data>
+  <data name="province_picker_choose_one" xml:space="preserve">
+    <value>Vyberte aspoň jednu provinciu.</value>
+  </data>
+  <data name="war_goal_group_count" xml:space="preserve">
+    <value>{0} × {1}</value>
+  </data>
 </root>

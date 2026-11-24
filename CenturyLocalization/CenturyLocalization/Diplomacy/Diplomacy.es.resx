@@ -193,4 +193,52 @@
   <data name="sent_aid" xml:space="preserve">
     <value>Envió ayuda</value>
   </data>
+  <data name="diplomacy_call_to_arms_title" xml:space="preserve">
+    <value>Llamamiento a las armas</value>
+  </data>
+  <data name="diplomacy_call_to_arms_attack" xml:space="preserve">
+    <value>Nuestro aliado {0} ha iniciado {1} y nos llama a unirnos a la guerra. ¿Nos unimos?</value>
+  </data>
+  <data name="diplomacy_call_to_arms_defend" xml:space="preserve">
+    <value>Nuestro aliado {0} ha sido atacado en {1}. ¿Nos unimos a la guerra para defenderlo?</value>
+  </data>
+  <data name="diplomacy_call_to_arms_both_sides" xml:space="preserve">
+    <value>{0} ha atacado a {1} en {2} y somos aliados de ambos bandos. Unirnos a uno rompe nuestra alianza con el otro. ¿A qué bando apoyamos?</value>
+  </data>
+  <data name="diplomacy_alliance_formed" xml:space="preserve">
+    <value>Se ha formado la alianza {0}.</value>
+  </data>
+  <data name="diplomacy_alliance_joined" xml:space="preserve">
+    <value>{0} se ha unido a la alianza {1}.</value>
+  </data>
+  <data name="diplomacy_alliance_invitation" xml:space="preserve">
+    <value>Nos han invitado a unirnos a la alianza {0}. ¿Aceptamos?</value>
+  </data>
+  <data name="diplomacy_alliance_invitation_rejected" xml:space="preserve">
+    <value>{0} ha rechazado nuestra invitación para unirse a la alianza {1}.</value>
+  </data>
+  <data name="diplomacy_alliance_dissolved" xml:space="preserve">
+    <value>La alianza {0} se ha disuelto.</value>
+  </data>
+  <data name="diplomacy_alliance_offer" xml:space="preserve">
+    <value>{0} propone una alianza. ¿Aceptamos?</value>
+  </data>
+  <data name="diplomacy_alliance_default_name" xml:space="preserve">
+    <value>La alianza {0}-{1}</value>
+  </data>
+  <data name="diplomacy_alliance_offer_rejected" xml:space="preserve">
+    <value>{0} ha rechazado nuestra oferta de alianza.</value>
+  </data>
+  <data name="diplomacy_alliance_member_ceased" xml:space="preserve">
+    <value>{0} ha dejado de existir y ha abandonado la alianza {1}.</value>
+  </data>
+  <data name="diplomacy_alliance_member_left" xml:space="preserve">
+    <value>{0} ha abandonado la alianza {1}.</value>
+  </data>
+  <data name="diplomacy_alliance_dissolved_suffix" xml:space="preserve">
+    <value> La alianza se ha disuelto.</value>
+  </data>
+  <data name="diplomacy_duplicate_alliance_removed" xml:space="preserve">
+    <value>Se ha eliminado la alianza {0} porque tenía los mismos miembros que la alianza {1}.</value>
+  </data>
 </root>

@@ -193,4 +193,52 @@
   <data name="sent_aid" xml:space="preserve">
     <value>Poslal pomoc</value>
   </data>
+  <data name="diplomacy_call_to_arms_title" xml:space="preserve">
+    <value>Výzva do zbrane</value>
+  </data>
+  <data name="diplomacy_call_to_arms_attack" xml:space="preserve">
+    <value>Náš spojenec {0} začal {1} a vyzýva nás, aby sme sa zapojili do vojny. Pridáme sa?</value>
+  </data>
+  <data name="diplomacy_call_to_arms_defend" xml:space="preserve">
+    <value>Náš spojenec {0} bol napadnutý vo vojne {1}. Zapojíme sa do vojny, aby sme ho bránili?</value>
+  </data>
+  <data name="diplomacy_call_to_arms_both_sides" xml:space="preserve">
+    <value>{0} napadol {1} vo vojne {2} a my sme spojencami oboch strán. Pridaním sa na jednu stranu ukončíme spojenectvo s druhou. Ktorú stranu si vyberieme?</value>
+  </data>
+  <data name="diplomacy_alliance_formed" xml:space="preserve">
+    <value>Bola vytvorená aliancia {0}.</value>
+  </data>
+  <data name="diplomacy_alliance_joined" xml:space="preserve">
+    <value>{0} sa pripojila k aliancii {1}.</value>
+  </data>
+  <data name="diplomacy_alliance_invitation" xml:space="preserve">
+    <value>Dostali sme pozvanie vstúpiť do aliancie {0}. Prijmeme ho?</value>
+  </data>
+  <data name="diplomacy_alliance_invitation_rejected" xml:space="preserve">
+    <value>{0} odmietla naše pozvanie vstúpiť do aliancie {1}.</value>
+  </data>
+  <data name="diplomacy_alliance_dissolved" xml:space="preserve">
+    <value>Aliancia {0} bola rozpustená.</value>
+  </data>
+  <data name="diplomacy_alliance_offer" xml:space="preserve">
+    <value>{0} navrhuje alianciu. Prijmeme ju?</value>
+  </data>
+  <data name="diplomacy_alliance_default_name" xml:space="preserve">
+    <value>Aliancia {0}-{1}</value>
+  </data>
+  <data name="diplomacy_alliance_offer_rejected" xml:space="preserve">
+    <value>{0} odmietla našu ponuku na uzavretie aliancie.</value>
+  </data>
+  <data name="diplomacy_alliance_member_ceased" xml:space="preserve">
+    <value>{0} prestala existovať a opustila alianciu {1}.</value>
+  </data>
+  <data name="diplomacy_alliance_member_left" xml:space="preserve">
+    <value>{0} opustila alianciu {1}.</value>
+  </data>
+  <data name="diplomacy_alliance_dissolved_suffix" xml:space="preserve">
+    <value> Aliancia bola rozpustená.</value>
+  </data>
+  <data name="diplomacy_duplicate_alliance_removed" xml:space="preserve">
+    <value>Aliancia {0} bola odstránená, pretože mala rovnakých členov ako aliancia {1}.</value>
+  </data>
 </root>

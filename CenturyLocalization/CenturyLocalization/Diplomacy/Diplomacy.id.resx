@@ -193,4 +193,52 @@
   <data name="sent_aid" xml:space="preserve">
     <value>Mengirim bantuan</value>
   </data>
+  <data name="diplomacy_call_to_arms_title" xml:space="preserve">
+    <value>Seruan untuk berperang</value>
+  </data>
+  <data name="diplomacy_call_to_arms_attack" xml:space="preserve">
+    <value>Sekutu kita {0} memulai {1} dan meminta kita bergabung dalam perang. Apakah kita bergabung?</value>
+  </data>
+  <data name="diplomacy_call_to_arms_defend" xml:space="preserve">
+    <value>Sekutu kita {0} diserang dalam {1}. Apakah kita ikut berperang untuk membelanya?</value>
+  </data>
+  <data name="diplomacy_call_to_arms_both_sides" xml:space="preserve">
+    <value>{0} menyerang {1} dalam {2}, dan kita bersekutu dengan kedua pihak. Bergabung dengan salah satu pihak akan mengakhiri persekutuan dengan pihak lainnya. Kita memilih pihak yang mana?</value>
+  </data>
+  <data name="diplomacy_alliance_formed" xml:space="preserve">
+    <value>Aliansi {0} telah dibentuk.</value>
+  </data>
+  <data name="diplomacy_alliance_joined" xml:space="preserve">
+    <value>{0} telah bergabung dengan aliansi {1}.</value>
+  </data>
+  <data name="diplomacy_alliance_invitation" xml:space="preserve">
+    <value>Kita diundang untuk bergabung dengan aliansi {0}. Apakah kita menerima?</value>
+  </data>
+  <data name="diplomacy_alliance_invitation_rejected" xml:space="preserve">
+    <value>{0} menolak undangan kita untuk bergabung dengan aliansi {1}.</value>
+  </data>
+  <data name="diplomacy_alliance_dissolved" xml:space="preserve">
+    <value>Aliansi {0} telah dibubarkan.</value>
+  </data>
+  <data name="diplomacy_alliance_offer" xml:space="preserve">
+    <value>{0} mengusulkan aliansi. Apakah kita menerima?</value>
+  </data>
+  <data name="diplomacy_alliance_default_name" xml:space="preserve">
+    <value>Aliansi {0}-{1}</value>
+  </data>
+  <data name="diplomacy_alliance_offer_rejected" xml:space="preserve">
+    <value>{0} menolak tawaran aliansi kita.</value>
+  </data>
+  <data name="diplomacy_alliance_member_ceased" xml:space="preserve">
+    <value>{0} sudah tidak ada dan keluar dari aliansi {1}.</value>
+  </data>
+  <data name="diplomacy_alliance_member_left" xml:space="preserve">
+    <value>{0} telah meninggalkan aliansi {1}.</value>
+  </data>
+  <data name="diplomacy_alliance_dissolved_suffix" xml:space="preserve">
+    <value> Aliansi telah dibubarkan.</value>
+  </data>
+  <data name="diplomacy_duplicate_alliance_removed" xml:space="preserve">
+    <value>Aliansi {0} dihapus karena memiliki anggota yang sama dengan aliansi {1}.</value>
+  </data>
 </root>

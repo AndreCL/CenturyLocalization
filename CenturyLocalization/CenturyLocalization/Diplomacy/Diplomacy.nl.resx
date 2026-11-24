@@ -193,4 +193,52 @@
   <data name="sent_aid" xml:space="preserve">
     <value>Hulp gestuurd</value>
   </data>
+  <data name="diplomacy_call_to_arms_title" xml:space="preserve">
+    <value>Oproep tot de wapens</value>
+  </data>
+  <data name="diplomacy_call_to_arms_attack" xml:space="preserve">
+    <value>Onze bondgenoot {0} is {1} begonnen en roept ons op deel te nemen aan de oorlog. Doen we mee?</value>
+  </data>
+  <data name="diplomacy_call_to_arms_defend" xml:space="preserve">
+    <value>Onze bondgenoot {0} is aangevallen in {1}. Gaan we de oorlog in om hem te verdedigen?</value>
+  </data>
+  <data name="diplomacy_call_to_arms_both_sides" xml:space="preserve">
+    <value>{0} heeft {1} aangevallen in {2}, en we zijn met beide partijen verbonden. Als we één kant kiezen, verliezen we onze alliantie met de andere. Welke kant kiezen we?</value>
+  </data>
+  <data name="diplomacy_alliance_formed" xml:space="preserve">
+    <value>De alliantie {0} is gevormd.</value>
+  </data>
+  <data name="diplomacy_alliance_joined" xml:space="preserve">
+    <value>{0} heeft zich aangesloten bij de alliantie {1}.</value>
+  </data>
+  <data name="diplomacy_alliance_invitation" xml:space="preserve">
+    <value>We zijn uitgenodigd om toe te treden tot de alliantie {0}. Accepteren we?</value>
+  </data>
+  <data name="diplomacy_alliance_invitation_rejected" xml:space="preserve">
+    <value>{0} heeft onze uitnodiging om toe te treden tot de alliantie {1} afgewezen.</value>
+  </data>
+  <data name="diplomacy_alliance_dissolved" xml:space="preserve">
+    <value>De alliantie {0} is ontbonden.</value>
+  </data>
+  <data name="diplomacy_alliance_offer" xml:space="preserve">
+    <value>{0} stelt een alliantie voor. Accepteren we?</value>
+  </data>
+  <data name="diplomacy_alliance_default_name" xml:space="preserve">
+    <value>De alliantie {0}-{1}</value>
+  </data>
+  <data name="diplomacy_alliance_offer_rejected" xml:space="preserve">
+    <value>{0} heeft ons alliantievoorstel afgewezen.</value>
+  </data>
+  <data name="diplomacy_alliance_member_ceased" xml:space="preserve">
+    <value>{0} bestaat niet meer en heeft de alliantie {1} verlaten.</value>
+  </data>
+  <data name="diplomacy_alliance_member_left" xml:space="preserve">
+    <value>{0} heeft de alliantie {1} verlaten.</value>
+  </data>
+  <data name="diplomacy_alliance_dissolved_suffix" xml:space="preserve">
+    <value> De alliantie is ontbonden.</value>
+  </data>
+  <data name="diplomacy_duplicate_alliance_removed" xml:space="preserve">
+    <value>De alliantie {0} is verwijderd omdat deze dezelfde leden had als de alliantie {1}.</value>
+  </data>
 </root>

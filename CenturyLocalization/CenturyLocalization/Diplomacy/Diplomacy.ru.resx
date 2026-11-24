@@ -193,4 +193,52 @@
   <data name="sent_aid" xml:space="preserve">
     <value>Отправил помощь</value>
   </data>
+  <data name="diplomacy_call_to_arms_title" xml:space="preserve">
+    <value>Призыв к оружию</value>
+  </data>
+  <data name="diplomacy_call_to_arms_attack" xml:space="preserve">
+    <value>Наш союзник {0} начал {1} и призывает нас вступить в войну. Присоединимся ли мы?</value>
+  </data>
+  <data name="diplomacy_call_to_arms_defend" xml:space="preserve">
+    <value>На нашего союзника {0} напали в ходе {1}. Вступим ли мы в войну, чтобы защитить его?</value>
+  </data>
+  <data name="diplomacy_call_to_arms_both_sides" xml:space="preserve">
+    <value>{0} напала на {1} в войне {2}, и мы состоим в союзе с обеими сторонами. Вступив на одну сторону, мы разорвём союз с другой. Чью сторону выбрать?</value>
+  </data>
+  <data name="diplomacy_alliance_formed" xml:space="preserve">
+    <value>Создан союз {0}.</value>
+  </data>
+  <data name="diplomacy_alliance_joined" xml:space="preserve">
+    <value>{0} вступила в союз {1}.</value>
+  </data>
+  <data name="diplomacy_alliance_invitation" xml:space="preserve">
+    <value>Нас пригласили вступить в союз {0}. Примем приглашение?</value>
+  </data>
+  <data name="diplomacy_alliance_invitation_rejected" xml:space="preserve">
+    <value>{0} отклонила наше приглашение вступить в союз {1}.</value>
+  </data>
+  <data name="diplomacy_alliance_dissolved" xml:space="preserve">
+    <value>Союз {0} распущен.</value>
+  </data>
+  <data name="diplomacy_alliance_offer" xml:space="preserve">
+    <value>{0} предлагает заключить союз. Примем предложение?</value>
+  </data>
+  <data name="diplomacy_alliance_default_name" xml:space="preserve">
+    <value>Союз {0}-{1}</value>
+  </data>
+  <data name="diplomacy_alliance_offer_rejected" xml:space="preserve">
+    <value>{0} отклонила наше предложение о союзе.</value>
+  </data>
+  <data name="diplomacy_alliance_member_ceased" xml:space="preserve">
+    <value>{0} прекратила существование и вышла из союза {1}.</value>
+  </data>
+  <data name="diplomacy_alliance_member_left" xml:space="preserve">
+    <value>{0} вышла из союза {1}.</value>
+  </data>
+  <data name="diplomacy_alliance_dissolved_suffix" xml:space="preserve">
+    <value> Союз был распущен.</value>
+  </data>
+  <data name="diplomacy_duplicate_alliance_removed" xml:space="preserve">
+    <value>Союз {0} удалён, так как в него входили те же участники, что и в союз {1}.</value>
+  </data>
 </root>

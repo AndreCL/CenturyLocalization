@@ -165,4 +165,61 @@
   <data name="play_country" xml:space="preserve">
     <value>Juega como {0}</value>
   </data>
+  <data name="event_choose_provinces_on_map" xml:space="preserve">
+    <value>Elegir provincias en el mapa</value>
+  </data>
+  <data name="event_release_countries" xml:space="preserve">
+    <value>Liberar países</value>
+  </data>
+  <data name="event_release_country_detail" xml:space="preserve">
+    <value>Liberar {0} ({1})</value>
+  </data>
+  <data name="event_release_holders_suffix" xml:space="preserve">
+    <value> de {0}</value>
+  </data>
+  <data name="event_war_goal_provinces" xml:space="preserve">
+    <value>{0}: {1}</value>
+  </data>
+  <data name="event_mobilize_share" xml:space="preserve">
+    <value>{0} {1}% de los hombres en edad de combatir</value>
+  </data>
+  <data name="event_country_released" xml:space="preserve">
+    <value>{0} ha liberado a {1} como nación independiente.</value>
+  </data>
+  <data name="event_country_renamed_title" xml:space="preserve">
+    <value>{0} ahora se llama {1}</value>
+  </data>
+  <data name="event_country_renamed_lost_lands" xml:space="preserve">
+    <value>Con la marcha de {0}, {1} pasa a llamarse {2}</value>
+  </data>
+  <data name="event_country_name_list_joiner" xml:space="preserve">
+    <value>  y  </value>
+  </data>
+  <data name="event_country_renamed_south_slavs" xml:space="preserve">
+    <value>Tras unir bajo su dominio las tierras de los eslavos del sur, {0} pasa a llamarse {1}</value>
+  </data>
+  <data name="event_infamy_war_title" xml:space="preserve">
+    <value>Guerra de infamia</value>
+  </data>
+  <data name="event_infamy_war_invitation" xml:space="preserve">
+    <value>{0} se ha vuelto tan infame que ha estallado {1} en su contra. Como enemigo de {0}, ¿nos unimos a los atacantes?</value>
+  </data>
+  <data name="event_world_war_position_title" xml:space="preserve">
+    <value>La postura de nuestra nación</value>
+  </data>
+  <data name="event_world_war_position_message" xml:space="preserve">
+    <value>Ha comenzado una guerra mundial; el gobierno debe fijar su postura.</value>
+  </data>
+  <data name="event_declare_neutrality" xml:space="preserve">
+    <value>Declarar neutralidad</value>
+  </data>
+  <data name="event_ignore" xml:space="preserve">
+    <value>Ignorar</value>
+  </data>
+  <data name="event_surrender_title" xml:space="preserve">
+    <value>{0} se rinde</value>
+  </data>
+  <data name="event_annexed_left_war" xml:space="preserve">
+    <value>La nación de {0} abandonó oficialmente {1} debido a su anexión.</value>
+  </data>
 </root>

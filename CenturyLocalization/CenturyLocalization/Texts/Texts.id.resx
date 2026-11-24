@@ -879,4 +879,109 @@ Ketika Ketegangan Dunia mencapai 100%, Perang Dunia akan dipicu dan nilainya dia
   <data name="province_debug_id" xml:space="preserve"><value>ID: {0}</value></data>
   <data name="battle_occupation_gained_description" xml:space="preserve"><value>{0}: menduduki {1}% lebih banyak dalam pertempuran ini, total {2}%</value></data>
   <data name="battle_occupation_recovered_description" xml:space="preserve"><value>{0}: merebut kembali {1}% dalam pertempuran ini, {2}% masih diduduki</value></data>
+  <data name="reward_ad_requires_internet" xml:space="preserve">
+    <value>Memerlukan internet</value>
+  </data>
+  <data name="reward_ad_error" xml:space="preserve">
+    <value>Kesalahan</value>
+  </data>
+  <data name="reward_ad_no_ad" xml:space="preserve">
+    <value>Tidak ada iklan</value>
+  </data>
+  <data name="province_not_found" xml:space="preserve">
+    <value>Provinsi tidak ditemukan</value>
+  </data>
+  <data name="military_scope_title" xml:space="preserve">
+    <value>Tampilkan dan bangun di</value>
+  </data>
+  <data name="military_scope_occupied" xml:space="preserve">
+    <value>diduduki</value>
+  </data>
+  <data name="military_province_occupied_notice" xml:space="preserve">
+    <value>{0} diduduki{1}. Anda tidak dapat membangun atau merekrut di sana hingga dibebaskan.</value>
+  </data>
+  <data name="military_all_provinces_occupied_notice" xml:space="preserve">
+    <value>Semua provinsi Anda diduduki{0}. Anda tidak dapat membangun atau merekrut hingga salah satunya dibebaskan.</value>
+  </data>
+  <data name="military_occupied_by_suffix" xml:space="preserve">
+    <value> oleh {0}</value>
+  </data>
+  <data name="war_goals_heading" xml:space="preserve">
+    <value>Tujuan perang</value>
+  </data>
+  <data name="war_goal_remove" xml:space="preserve">
+    <value>Hapus</value>
+  </data>
+  <data name="war_goal_remove_question" xml:space="preserve">
+    <value>Hapus tujuan perang ini?</value>
+  </data>
+  <data name="war_goal_remove_cost_notice" xml:space="preserve">
+    <value>Biayanya tidak dikembalikan: menambahkannya lagi akan membutuhkan biaya yang sama seperti semula.</value>
+  </data>
+  <data name="map_layer_naval_geography" xml:space="preserve">
+    <value>Geografi laut</value>
+  </data>
+  <data name="map_legend_ice_pack" xml:space="preserve">
+    <value>Es laut</value>
+  </data>
+  <data name="map_legend_ice_frozen" xml:space="preserve">
+    <value>Pantai beku</value>
+  </data>
+  <data name="map_legend_ice_small" xml:space="preserve">
+    <value>Danau atau laut tertutup: hanya kapal kecil</value>
+  </data>
+  <data name="map_legend_ice_ocean" xml:space="preserve">
+    <value>Pantai di samudra</value>
+  </data>
+  <data name="map_legend_ice_none" xml:space="preserve">
+    <value>Tidak ada pantai</value>
+  </data>
+  <data name="province_count" xml:space="preserve">
+    <value>{0} provinsi</value>
+  </data>
+  <data name="release_action" xml:space="preserve">
+    <value>Lepaskan</value>
+  </data>
+  <data name="release_action_count" xml:space="preserve">
+    <value>Lepaskan ({0})</value>
+  </data>
+  <data name="release_nation" xml:space="preserve">
+    <value>Lepaskan negara</value>
+  </data>
+  <data name="release_nations" xml:space="preserve">
+    <value>Lepaskan negara-negara</value>
+  </data>
+  <data name="release_goals_unavailable" xml:space="preserve">
+    <value>Tidak ada tujuan pembebasan</value>
+  </data>
+  <data name="release_goals_changed" xml:space="preserve">
+    <value>Tujuan pembebasan berubah; pilih kembali</value>
+  </data>
+  <data name="province_picker_instructions" xml:space="preserve">
+    <value>Pilih provinsi yang akan diambil dari {0}. Ketuk untuk menambah atau menghapus. Hijau: dapat diambil (bersebelahan dengan wilayah Anda atau provinsi pilihan, atau di pesisir jika tidak berbatasan). Merah: terlalu besar untuk sisa batas. Kuning: belum terhubung. Biru: dipilih.</value>
+  </data>
+  <data name="province_picker_chosen" xml:space="preserve">
+    <value>Dipilih: {0}</value>
+  </data>
+  <data name="province_picker_limits" xml:space="preserve">
+    <value>Luas {0} dari maksimum {1}, penduduk {2} dari maksimum {3} (batas luas dan populasi)</value>
+  </data>
+  <data name="province_picker_limit_reached" xml:space="preserve">
+    <value>Batas tercapai: tidak ada provinsi lagi yang dapat diambil. Ketuk provinsi pilihan untuk menghapusnya.</value>
+  </data>
+  <data name="province_picker_no_more_connected" xml:space="preserve">
+    <value>Tidak ada provinsi lain yang dapat diambil: tidak ada yang terhubung dengan wilayah atau provinsi pilihan Anda.</value>
+  </data>
+  <data name="province_picker_over_limit" xml:space="preserve">
+    <value>Terlalu besar untuk sisa batas (tersisa {0} dan {1} penduduk).</value>
+  </data>
+  <data name="province_picker_not_connected" xml:space="preserve">
+    <value>Tidak terhubung dengan wilayah atau provinsi yang Anda pilih.</value>
+  </data>
+  <data name="province_picker_choose_one" xml:space="preserve">
+    <value>Pilih setidaknya satu provinsi.</value>
+  </data>
+  <data name="war_goal_group_count" xml:space="preserve">
+    <value>{0} × {1}</value>
+  </data>
 </root>
